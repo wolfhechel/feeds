@@ -1,13 +1,31 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[svt]
+title = "SVT Nyheter"
+url = "https://www.svt.se"
+entrySelector = "article.nyh_teaser"
+linkSelector = "a.nyh_teaser__link"
+titleSelector = ".nyh_teaser__heading-title"
+contentSelector = [".pic__img", ".nyh_teaser__vignette"]
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
+[expressen]
+title = "Expressen"
+url = "https://www.expressen.se"
+entrySelector = "main#content a[href*='/nyheter/']"
+linkSelector = "*"
 titleSelector = "h2"
-linkSelector = "h2 a"
+contentSelector = ["picture", "p"]
+
+[svd]
+title = "Svenska Dagbladet"
+url = "https://www.svd.se"
+entrySelector = ".Teaser-link"
+linkSelector = "*"
+titleSelector = ".Teaser-heading"
+contentSelector = ["picture", "p"]
+
+[dn]
+title = "Dagens Nyheter"
+url = "https://www.dn.se"
+entrySelector = ".ds-teaser"
+linkSelector = "*"
+titleSelector = ".ds-teaser__title"
+contentSelector = [".ds-teaser-image img", ".ds-teaser__text"]
