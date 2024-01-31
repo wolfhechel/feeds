@@ -4,7 +4,8 @@ url = "https://www.svt.se"
 entrySelector = "article.nyh_teaser"
 linkSelector = "a.nyh_teaser__link"
 titleSelector = ".nyh_teaser__heading-title"
-contentSelector = [".pic__img", ".nyh_teaser__vignette"]
+contentSelector = ".nyh_teaser__vignette"
+imageSelector = ".pic__img"
 
 [expressen]
 title = "Expressen"
@@ -12,7 +13,8 @@ url = "https://www.expressen.se"
 entrySelector = "main#content a[href*='/nyheter/']"
 linkSelector = "*"
 titleSelector = "h2"
-contentSelector = ["picture", "p"]
+contentSelector = "p"
+imageSelector = "img"
 
 [svd]
 title = "Svenska Dagbladet"
@@ -20,7 +22,8 @@ url = "https://www.svd.se"
 entrySelector = ".Teaser-link"
 linkSelector = "*"
 titleSelector = ".Teaser-heading"
-contentSelector = ["picture", "p"]
+contentSelector = "p"
+imageSelector = "img"
 
 [dn]
 title = "Dagens Nyheter"
@@ -28,4 +31,5 @@ url = "https://www.dn.se"
 entrySelector = ".ds-teaser"
 linkSelector = "*"
 titleSelector = ".ds-teaser__title"
-contentSelector = [".ds-teaser-image img", ".ds-teaser__text"]
+contentSelector = ".ds-teaser__text"
+imageSelector = ".ds-teaser-image img"
