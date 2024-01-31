@@ -2,22 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.svd.se</id>
     <title>Svenska Dagbladet</title>
-    <updated>2024-01-30T20:11:21.674Z</updated>
+    <updated>2024-01-31T06:10:17.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.svd.se/assets/assets/images/favicon/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Häcken slår Real Madrid – vidare till kvartsfinal i CL]]></title>
-        <id>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=28162</id>
-        <link href="https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=28162"/>
-        <updated>2024-01-30T20:11:16.805Z</updated>
-        <content type="html"><![CDATA[ ]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Alltid senaste nytt – följ SvD direkt]]></title>
         <id>https://www.svd.se/a/wA9Gmd/senaste-nytt</id>
         <link href="https://www.svd.se/a/wA9Gmd/senaste-nytt"/>
         <updated>2024-01-30T20:11:16.805Z</updated>
-        <content type="html"><![CDATA[ ]]></content>
+        <content type="html"><![CDATA[ DirektLiverapport med de senaste nyheterna.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apotek kan fuska till sig miljoner utan att stoppas]]></title>
+        <id>https://www.svd.se/a/APAJrE/apotek-fuskar-region-stockholm-frustrerade</id>
+        <link href="https://www.svd.se/a/APAJrE/apotek-fuskar-region-stockholm-frustrerade"/>
+        <updated>2024-01-31T06:10:12.561Z</updated>
+        <content type="html"><![CDATA[ Regionen frustrerad: ”Helt absurt” • Tog 10 miljoner från skattebetalarna på en månad.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swishlistan försvaras av Åklagar­myndigheten]]></title>
+        <id>https://www.svd.se/a/kElabL/swishlistan-forsvaras-av-aklagarmyndigheten</id>
+        <link href="https://www.svd.se/a/kElabL/swishlistan-forsvaras-av-aklagarmyndigheten"/>
+        <updated>2024-01-31T06:10:12.565Z</updated>
+        <content type="html"><![CDATA[ Hundratals Sundsvallsbor som fört över pengar till 28-åring blev kända.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[”Kan släppa loss på annat sätt på fest utan alkohol”]]></title>
+        <id>https://www.svd.se/a/jl4zdq/pa-fester-utan-alkohol-kan-astrid-18-slappa-loss-pa-annat-satt</id>
+        <link href="https://www.svd.se/a/jl4zdq/pa-fester-utan-alkohol-kan-astrid-18-slappa-loss-pa-annat-satt"/>
+        <updated>2024-01-31T06:10:12.565Z</updated>
+        <content type="html"><![CDATA[ Unga svenskar som Astrid, 18, ”historiska”, enligt forskare: Drickandet så förändrat.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Åreprofil: ”Hade haft fler vänner om jag druckit”]]></title>
+        <id>https://www.svd.se/a/on56Lm/alkoholnormen-forandras-forskare-ser-tydligt-skifte-i-sverige</id>
+        <link href="https://www.svd.se/a/on56Lm/alkoholnormen-forandras-forskare-ser-tydligt-skifte-i-sverige"/>
+        <updated>2024-01-30T20:11:16.836Z</updated>
+        <content type="html"><![CDATA[ Jonas, 48, valde att bryta mot alkoholnormen – forskare ser tydligt skifte i Sverige.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bara tre bolag som kan bygga kärnkraft i Sverige]]></title>
@@ -25,6 +46,97 @@
         <link href="https://www.svd.se/a/nQdAxn/manga-hinder-for-utbyggnad-av-svensk-karnkraft"/>
         <updated>2024-01-30T20:11:16.805Z</updated>
         <content type="html"><![CDATA[ Macron är i Sverige och talar kärnkraft – men i praktiken finns många hinder för utbyggnad.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risk för fler potthål i de svenska vägarna]]></title>
+        <id>https://www.svd.se/a/Knove4/potthal-plagar-bilister-kan-bli-varre</id>
+        <link href="https://www.svd.se/a/Knove4/potthal-plagar-bilister-kan-bli-varre"/>
+        <updated>2024-01-31T06:10:12.568Z</updated>
+        <content type="html"><![CDATA[ Förändringar i klimatet kan stå bilägare dyrt.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FN-chefer varnar: Unrwa kan inte ersättas]]></title>
+        <id>https://www.svd.se/a/JQj17J/fn-chefer-unrwa-kan-inte-ersattas</id>
+        <link href="https://www.svd.se/a/JQj17J/fn-chefer-unrwa-kan-inte-ersattas"/>
+        <updated>2024-01-31T06:10:12.569Z</updated>
+        <content type="html"><![CDATA[ En kollaps av det humanitära systemhet hotar uppger FN efter att flera länder dragit in stödet.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israels höger siktar på nya bosättningar i Gaza]]></title>
+        <id>https://www.svd.se/a/kE7qQB/gaza-israels-hoger-vill-ha-nya-bosattningar</id>
+        <link href="https://www.svd.se/a/kE7qQB/gaza-israels-hoger-vill-ha-nya-bosattningar"/>
+        <updated>2024-01-30T20:11:16.824Z</updated>
+        <content type="html"><![CDATA[ Kritik från Israels allierade efter konferens om Gaza – retoriken kallas ”oansvarig”.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sverige stoppar stöd till Unrwa]]></title>
+        <id>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</id>
+        <link href="https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten"/>
+        <updated>2024-01-30T20:11:16.824Z</updated>
+        <content type="html"><![CDATA[ Just nuEfter misstankar om Hamas-kopplade anställda]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varningen: Kan bli som på skadliga 70-talet]]></title>
+        <id>https://www.svd.se/a/MoOgWR/varningen-hogre-priser-kan-stoppa-rantesankningar</id>
+        <link href="https://www.svd.se/a/MoOgWR/varningen-hogre-priser-kan-stoppa-rantesankningar"/>
+        <updated>2024-01-31T06:10:12.574Z</updated>
+        <content type="html"><![CDATA[ KI:s Albin Kainelainen orolig att företagens agerande kan hindra räntesänkningar.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Räntan för hög – JM rear ut borätter]]></title>
+        <id>https://www.svd.se/a/4o9n0o/rantan-for-hog-jm-s-vd-johan-skoglund-om-kvartalsrapporten</id>
+        <link href="https://www.svd.se/a/4o9n0o/rantan-for-hog-jm-s-vd-johan-skoglund-om-kvartalsrapporten"/>
+        <updated>2024-01-30T20:11:16.817Z</updated>
+        <content type="html"><![CDATA[ ”Sällsynt svag marknad” • vd:n om rapporten – och  pensionen]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Världsordningen går mot en kollaps]]></title>
+        <id>https://www.svd.se/a/eJ3g94/ny-varldsordning-fem-stormakter-dominerar-framtiden</id>
+        <link href="https://www.svd.se/a/eJ3g94/ny-varldsordning-fem-stormakter-dominerar-framtiden"/>
+        <updated>2024-01-30T20:11:16.826Z</updated>
+        <content type="html"><![CDATA[ Rolf Gustavsson: Tysk studie ger tydlig bild – fem stormakter dominerar framtiden.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matbutikerna drog in 330 miljarder i fjol]]></title>
+        <id>https://www.svd.se/a/Knov7X/matbutikerna-drog-in-330-miljarder-i-fjol</id>
+        <link href="https://www.svd.se/a/Knov7X/matbutikerna-drog-in-330-miljarder-i-fjol"/>
+        <updated>2024-01-31T06:10:12.465Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Handel och säkerhet går hand i hand"]]></title>
+        <id>https://www.svd.se/a/l361W7/handel-och-sakerhet-gar-hand-i-hand</id>
+        <link href="https://www.svd.se/a/l361W7/handel-och-sakerhet-gar-hand-i-hand"/>
+        <updated>2024-01-31T06:10:12.468Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal i strid med Tiktok]]></title>
+        <id>https://www.svd.se/a/bgEKwB/universal-i-strid-med-tiktok</id>
+        <link href="https://www.svd.se/a/bgEKwB/universal-i-strid-med-tiktok"/>
+        <updated>2024-01-31T06:10:12.468Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Så blev EU-politikern Rysslands spion]]></title>
+        <id>https://www.svd.se/a/rlwv20/dagens-story-sa-kunde-eu-politikern-tatjana-zdanoka-spionera-at-ryssland</id>
+        <link href="https://www.svd.se/a/rlwv20/dagens-story-sa-kunde-eu-politikern-tatjana-zdanoka-spionera-at-ryssland"/>
+        <updated>2024-01-31T06:10:12.468Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rattar Melodifestivalen – med tajtare budget]]></title>
+        <id>https://www.svd.se/a/rloLO3/rattar-melodifestivalen-med-tajtare-budget</id>
+        <link href="https://www.svd.se/a/rloLO3/rattar-melodifestivalen-med-tajtare-budget"/>
+        <updated>2024-01-31T06:10:12.468Z</updated>
+        <content type="html"><![CDATA[ ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haveri för vänstern i finska valet]]></title>
+        <id>https://www.svd.se/a/5BxmJz/haveri-for-vanstern-i-finlands-presidentval</id>
+        <link href="https://www.svd.se/a/5BxmJz/haveri-for-vanstern-i-finlands-presidentval"/>
+        <updated>2024-01-30T20:11:16.829Z</updated>
+        <content type="html"><![CDATA[ Att vänsterväljare söker sig till högern är ett fundamentalt skifte i hela Europa.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fatima flaggades av UD – evakueras inte från Gaza]]></title>
@@ -48,102 +160,25 @@
         <content type="html"><![CDATA[ Medan familjen väntade dödades ett av deras barn • Systern: ”Finns det något som vi inte vet?”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Räntan för hög – JM rear ut borätter]]></title>
-        <id>https://www.svd.se/a/4o9n0o/rantan-for-hog-jm-s-vd-johan-skoglund-om-kvartalsrapporten</id>
-        <link href="https://www.svd.se/a/4o9n0o/rantan-for-hog-jm-s-vd-johan-skoglund-om-kvartalsrapporten"/>
-        <updated>2024-01-30T20:11:16.817Z</updated>
-        <content type="html"><![CDATA[ ”Sällsynt svag marknad” • vd:n om rapporten – och  pensionen]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macron: Sverige är ett inspirerande land]]></title>
-        <id>https://www.svd.se/a/8Jg3jx/macrons-sverigebesok-fordjupat-samarbete-mellan-landerna</id>
-        <link href="https://www.svd.se/a/8Jg3jx/macrons-sverigebesok-fordjupat-samarbete-mellan-landerna"/>
-        <updated>2024-01-30T20:11:16.819Z</updated>
-        <content type="html"><![CDATA[ Hyllade Kristersson och Sverige • Här är avtalet som besöket egentligen handlar om]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Så fort blir det tomt på butikshyllorna vid kris]]></title>
-        <id>https://www.svd.se/a/76e1xV/sa-fort-blir-det-slut-pa-mat-pa-butikshyllorna-vid-kris</id>
-        <link href="https://www.svd.se/a/76e1xV/sa-fort-blir-det-slut-pa-mat-pa-butikshyllorna-vid-kris"/>
-        <updated>2024-01-30T20:11:16.823Z</updated>
-        <content type="html"><![CDATA[ Nu höjs röster för att inte invänta utredningar längre utan att börja agera direkt.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kan lösa flyggåtan: ”Som tioåring på skattjakt”]]></title>
-        <id>https://www.svd.se/a/Kn0Q9E/amelia-earhart-kraschade-flyg-kan-ha-hittats</id>
-        <link href="https://www.svd.se/a/Kn0Q9E/amelia-earhart-kraschade-flyg-kan-ha-hittats"/>
-        <updated>2024-01-30T20:11:16.823Z</updated>
-        <content type="html"><![CDATA[ Hon skulle flyga jorden runt men försvann spårlöst: ”Som om Taylor Swift skulle försvinna.”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israels höger siktar på nya bosättningar i Gaza]]></title>
-        <id>https://www.svd.se/a/kE7qQB/gaza-israels-hoger-vill-ha-nya-bosattningar</id>
-        <link href="https://www.svd.se/a/kE7qQB/gaza-israels-hoger-vill-ha-nya-bosattningar"/>
-        <updated>2024-01-30T20:11:16.824Z</updated>
-        <content type="html"><![CDATA[ Kritik från Israels allierade efter konferens om Gaza – retoriken kallas ”oansvarig”.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sverige stoppar stöd till Unrwa]]></title>
-        <id>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</id>
-        <link href="https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten"/>
-        <updated>2024-01-30T20:11:16.824Z</updated>
-        <content type="html"><![CDATA[ Just nuEfter misstankar om Hamas-kopplade anställda]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Världsordningen går mot en kollaps]]></title>
-        <id>https://www.svd.se/a/eJ3g94/ny-varldsordning-fem-stormakter-dominerar-framtiden</id>
-        <link href="https://www.svd.se/a/eJ3g94/ny-varldsordning-fem-stormakter-dominerar-framtiden"/>
-        <updated>2024-01-30T20:11:16.826Z</updated>
-        <content type="html"><![CDATA[ Rolf Gustavsson: Tysk studie ger tydlig bild – fem stormakter dominerar framtiden.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Häcken slår Real Madrid – vidare till kvartsfinal i CL]]></title>
-        <id>https://www.svd.se/a/EQ64ra/hacken-vinner-over-real-madrid-gar-vidare-till-kvartsfinal-i-champions-league</id>
-        <link href="https://www.svd.se/a/EQ64ra/hacken-vinner-over-real-madrid-gar-vidare-till-kvartsfinal-i-champions-league"/>
-        <updated>2024-01-30T20:11:16.733Z</updated>
-        <content type="html"><![CDATA[ ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En fröjd att läsa den oläsbare Derrida]]></title>
-        <id>https://www.svd.se/a/O8VeVO/en-frojd-att-lasa-den-olasbare-derrida</id>
-        <link href="https://www.svd.se/a/O8VeVO/en-frojd-att-lasa-den-olasbare-derrida"/>
-        <updated>2024-01-30T20:11:16.733Z</updated>
-        <content type="html"><![CDATA[ ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Häckens succé – klart för kvartsfinal i mars]]></title>
-        <id>https://www.svd.se/a/jlR92b/hackens-succe-klart-for-kvartsfinal-i-mars</id>
-        <link href="https://www.svd.se/a/jlR92b/hackens-succe-klart-for-kvartsfinal-i-mars"/>
-        <updated>2024-01-30T20:11:16.733Z</updated>
-        <content type="html"><![CDATA[ ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Då tävlar Sverige i Eurovision]]></title>
-        <id>https://www.svd.se/a/mQAg21/sverige-deltar-i-forsta-eurovision-semifinalen</id>
-        <link href="https://www.svd.se/a/mQAg21/sverige-deltar-i-forsta-eurovision-semifinalen"/>
-        <updated>2024-01-30T20:11:16.733Z</updated>
-        <content type="html"><![CDATA[ ]]></content>
+        <title type="html"><![CDATA[Rattar Melodifestivalen – med tajtare budget]]></title>
+        <id>https://www.svd.se/a/rloLO3/rattar-melodifestivalen-med-tajtare-budget</id>
+        <link href="https://www.svd.se/a/rloLO3/rattar-melodifestivalen-med-tajtare-budget"/>
+        <updated>2024-01-31T06:10:12.584Z</updated>
+        <content type="html"><![CDATA[ Stor förändring i årets upplaga – andra chansen slopas helt.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to kultur-Sverige, Macron]]></title>
         <id>https://www.svd.se/a/ab6mzE/welcome-to-kultur-stockholm-macron</id>
         <link href="https://www.svd.se/a/ab6mzE/welcome-to-kultur-stockholm-macron"/>
         <updated>2024-01-30T20:11:16.734Z</updated>
-        <content type="html"><![CDATA[ ]]></content>
+        <content type="html"><![CDATA[ Ylva Lagercrantz Spindler: Sverige lovar kulturutbyte – men bjuder på fika och bearnaisesås till pyttipannan.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Därför går Tysklands högerpopulister framåt]]></title>
-        <id>https://www.svd.se/a/mQAg0v/darfor-gar-tysklands-hogerpopulister-framat</id>
-        <link href="https://www.svd.se/a/mQAg0v/darfor-gar-tysklands-hogerpopulister-framat"/>
-        <updated>2024-01-30T20:11:16.827Z</updated>
-        <content type="html"><![CDATA[ Vad är förklaringen till landets politiska slitningar och våldsamma protester?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haveri för vänstern i finska valet]]></title>
-        <id>https://www.svd.se/a/5BxmJz/haveri-for-vanstern-i-finlands-presidentval</id>
-        <link href="https://www.svd.se/a/5BxmJz/haveri-for-vanstern-i-finlands-presidentval"/>
-        <updated>2024-01-30T20:11:16.829Z</updated>
-        <content type="html"><![CDATA[ Att vänsterväljare söker sig till högern är ett fundamentalt skifte i hela Europa.]]></content>
+        <title type="html"><![CDATA[Microsoft bättre än väntat – drivs av AI]]></title>
+        <id>https://www.svd.se/a/kElWAk/microsoft-slar-forvantningarna</id>
+        <link href="https://www.svd.se/a/kElWAk/microsoft-slar-forvantningarna"/>
+        <updated>2024-01-31T06:10:12.587Z</updated>
+        <content type="html"><![CDATA[ Redovisade omsättning på 640 miljarder kronor i rapporten.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Putin planerar resa till Natoland]]></title>
@@ -153,32 +188,32 @@
         <content type="html"><![CDATA[ Är föremål för internationell arresteringsorder – men kommer inte kunna gripas på resan.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uppgifter om attacker på båda sidor]]></title>
+        <title type="html"><![CDATA[Ukraina tar på sig cyberattack]]></title>
         <id>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</id>
         <link href="https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt"/>
         <updated>2024-01-30T20:11:16.831Z</updated>
-        <content type="html"><![CDATA[ DirektDrönarattacker ska ha avvärjts natten mot tisdagen  • Senaste nytt.]]></content>
+        <content type="html"><![CDATA[ Just nuSäger att de slagit ut server hos ryska försvarsdepartementet]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Welcome to kultur-Sverige, Macron]]></title>
-        <id>https://www.svd.se/a/ab6mzE/welcome-to-kultur-stockholm-macron</id>
-        <link href="https://www.svd.se/a/ab6mzE/welcome-to-kultur-stockholm-macron"/>
-        <updated>2024-01-30T20:11:16.832Z</updated>
-        <content type="html"><![CDATA[ Ylva Lagercrantz Spindler: Sverige lovar kulturutbyte – men bjuder på fika och bearnaisesås till pyttipannan.]]></content>
+        <title type="html"><![CDATA[Snart kan flintskallen vara ett minne blott]]></title>
+        <id>https://www.svd.se/a/kE5bzA/snart-kan-flintskallen-vara-ett-minne-blott</id>
+        <link href="https://www.svd.se/a/kE5bzA/snart-kan-flintskallen-vara-ett-minne-blott"/>
+        <updated>2024-01-31T06:10:12.591Z</updated>
+        <content type="html"><![CDATA[ Marianne Rasmuson: Vi är på väg att knäcka den manliga skallighetens gåta.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[”Ifrågasätt den gränslösa sjukvården”]]></title>
-        <id>https://www.svd.se/a/3EyrEM/en-granslos-sjukvard-maste-ifragasattas-skriver-lakare</id>
-        <link href="https://www.svd.se/a/3EyrEM/en-granslos-sjukvard-maste-ifragasattas-skriver-lakare"/>
-        <updated>2024-01-30T20:11:16.834Z</updated>
-        <content type="html"><![CDATA[ Läkare: Överkonsumtion och medikalisering äter upp resurserna.]]></content>
+        <title type="html"><![CDATA[”Viskade att vinet var defekt – blev nedgjord”]]></title>
+        <id>https://www.svd.se/a/Q7LPpx/korkskadat-vin-utloste-ilska-etikettexpert-bannar-tre-personer</id>
+        <link href="https://www.svd.se/a/Q7LPpx/korkskadat-vin-utloste-ilska-etikettexpert-bannar-tre-personer"/>
+        <updated>2024-01-31T06:10:12.593Z</updated>
+        <content type="html"><![CDATA[ SvD:s etikettexpert ger bannor till tre personer på middagsbjudningen.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Åreprofil: ”Hade haft fler vänner om jag druckit”]]></title>
-        <id>https://www.svd.se/a/on56Lm/alkoholnormen-forandras-forskare-ser-tydligt-skifte-i-sverige</id>
-        <link href="https://www.svd.se/a/on56Lm/alkoholnormen-forandras-forskare-ser-tydligt-skifte-i-sverige"/>
-        <updated>2024-01-30T20:11:16.836Z</updated>
-        <content type="html"><![CDATA[ Jonas, 48, valde att bryta mot alkoholnormen – forskare ser tydligt skifte i Sverige.]]></content>
+        <title type="html"><![CDATA[Psykologen: Gå i terapi – eller gå skilda vägar]]></title>
+        <id>https://www.svd.se/a/veMaW4/barnfragan-delar-makar-ga-iterapi-eller-isar-rader-psykologen</id>
+        <link href="https://www.svd.se/a/veMaW4/barnfragan-delar-makar-ga-iterapi-eller-isar-rader-psykologen"/>
+        <updated>2024-01-31T06:10:12.596Z</updated>
+        <content type="html"><![CDATA[ ”Hur går vi vidare?” – Molly vill inte bo på landet och skaffa barn som sin man.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Knepet som slår kaffe för att höja prestation]]></title>
@@ -188,53 +223,32 @@
         <content type="html"><![CDATA[ Forskare: Fungerar faktiskt, till skillnad från mycket skräp.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vinnardieten – ”att äta sundare går knappast”]]></title>
-        <id>https://www.svd.se/a/y6OlWR/periodisk-fasta-lchf-paleo-medelhavskost-har-ar-basta-dieten</id>
-        <link href="https://www.svd.se/a/y6OlWR/periodisk-fasta-lchf-paleo-medelhavskost-har-ar-basta-dieten"/>
-        <updated>2024-01-30T20:11:16.839Z</updated>
-        <content type="html"><![CDATA[ SvD:s kostexpert guidar till sex omskrivna matmetoder för viktnedgång.]]></content>
+        <title type="html"><![CDATA[Så blev EU-politikern Rysslands spion]]></title>
+        <id>https://www.svd.se/a/rlwv20/dagens-story-sa-kunde-eu-politikern-tatjana-zdanoka-spionera-at-ryssland</id>
+        <link href="https://www.svd.se/a/rlwv20/dagens-story-sa-kunde-eu-politikern-tatjana-zdanoka-spionera-at-ryssland"/>
+        <updated>2024-01-31T06:10:12.598Z</updated>
+        <content type="html"><![CDATA[ PODD Varför är Bryssel spionernas huvudstad?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ingår de nya svenska orden i ditt ordförråd?]]></title>
-        <id>https://www.svd.se/a/gEoooB/kan-du-orden-pa-sprakradets-nyordslista</id>
-        <link href="https://www.svd.se/a/gEoooB/kan-du-orden-pa-sprakradets-nyordslista"/>
-        <updated>2024-01-30T20:11:16.840Z</updated>
-        <content type="html"><![CDATA[ Ordtest: förstår du svenska språkets senaste tillskott?]]></content>
+        <title type="html"><![CDATA[Kan lösa flyggåtan: ”Som tioåring på skattjakt”]]></title>
+        <id>https://www.svd.se/a/Kn0Q9E/amelia-earhart-kraschade-flyg-kan-ha-hittats</id>
+        <link href="https://www.svd.se/a/Kn0Q9E/amelia-earhart-kraschade-flyg-kan-ha-hittats"/>
+        <updated>2024-01-30T20:11:16.823Z</updated>
+        <content type="html"><![CDATA[ Hon skulle flyga jorden runt men försvann spårlöst: ”Som om Taylor Swift skulle försvinna.”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[”Redan här – årets bästa roman”]]></title>
-        <id>https://www.svd.se/a/K3Ky3M/ny-etta-direkt-plagsam-bok-en-av-arets-finaste</id>
-        <link href="https://www.svd.se/a/K3Ky3M/ny-etta-direkt-plagsam-bok-en-av-arets-finaste"/>
-        <updated>2024-01-30T20:11:16.842Z</updated>
-        <content type="html"><![CDATA[ Läser den närmast i ett rus, skriver recensent om hennes nya bok.]]></content>
+        <title type="html"><![CDATA[Så fort blir det tomt på butikshyllorna vid kris]]></title>
+        <id>https://www.svd.se/a/76e1xV/sa-fort-blir-det-slut-pa-mat-pa-butikshyllorna-vid-kris</id>
+        <link href="https://www.svd.se/a/76e1xV/sa-fort-blir-det-slut-pa-mat-pa-butikshyllorna-vid-kris"/>
+        <updated>2024-01-30T20:11:16.823Z</updated>
+        <content type="html"><![CDATA[ Nu höjs röster för att inte invänta utredningar längre utan att börja agera direkt.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vi föds, vi klyddar och sedan dör vi]]></title>
-        <id>https://www.svd.se/a/pQz3jj/svd-s-sprakspalt-maria-maunsbach-om-det-skanska-ordet-klydd</id>
-        <link href="https://www.svd.se/a/pQz3jj/svd-s-sprakspalt-maria-maunsbach-om-det-skanska-ordet-klydd"/>
-        <updated>2024-01-30T20:11:16.844Z</updated>
-        <content type="html"><![CDATA[ Maria Maunsbach: Ordet har ett känslo­mässigt djup som krångel saknar.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Politikers gissningar fyller inga biografer]]></title>
-        <id>https://www.svd.se/a/xgLxvX/politikerna-maste-sluta-gissa-vilken-film-folk-vill-ha</id>
-        <link href="https://www.svd.se/a/xgLxvX/politikerna-maste-sluta-gissa-vilken-film-folk-vill-ha"/>
-        <updated>2024-01-30T20:11:16.845Z</updated>
-        <content type="html"><![CDATA[ Karoline Eriksson: Sverige är sämst i klassen när det kommer till att locka folk till biosalongen.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nyckelorden visar vart din boränta är på väg]]></title>
-        <id>https://www.svd.se/a/gEobj9/riksbankens-rantebesked-fem-nyckelord-att-halla-koll-pa</id>
-        <link href="https://www.svd.se/a/gEobj9/riksbankens-rantebesked-fem-nyckelord-att-halla-koll-pa"/>
-        <updated>2024-01-30T20:11:16.846Z</updated>
-        <content type="html"><![CDATA[ Johan Carlström: Fem ledtrådar när Riksbanken ger besked.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fick chip från Musk inopererat i hjärnan]]></title>
-        <id>https://www.svd.se/a/bgEMBv/forsta-manniskan-har-fatt-musks-hjarnimplantat</id>
-        <link href="https://www.svd.se/a/bgEMBv/forsta-manniskan-har-fatt-musks-hjarnimplantat"/>
-        <updated>2024-01-30T20:11:16.847Z</updated>
-        <content type="html"><![CDATA[ Ska kunna styra ett tangentbord bara genom att tänka.]]></content>
+        <title type="html"><![CDATA[”Ifrågasätt den gränslösa sjukvården”]]></title>
+        <id>https://www.svd.se/a/3EyrEM/en-granslos-sjukvard-maste-ifragasattas-skriver-lakare</id>
+        <link href="https://www.svd.se/a/3EyrEM/en-granslos-sjukvard-maste-ifragasattas-skriver-lakare"/>
+        <updated>2024-01-30T20:11:16.834Z</updated>
+        <content type="html"><![CDATA[ Läkare: Överkonsumtion och medikalisering äter upp resurserna.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jimmie Åkesson mötte Netanyahus ministrar]]></title>
@@ -244,25 +258,11 @@
         <content type="html"><![CDATA[ SD strävar efter att stärka relationen – men enligt israeliska UD är linjen mot partiet oförändrad.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Då tävlar Sverige i Eurovision]]></title>
-        <id>https://www.svd.se/a/mQAg21/sverige-deltar-i-forsta-eurovision-semifinalen</id>
-        <link href="https://www.svd.se/a/mQAg21/sverige-deltar-i-forsta-eurovision-semifinalen"/>
-        <updated>2024-01-30T20:11:16.850Z</updated>
-        <content type="html"><![CDATA[ Ställs mot bland annat Ukraina i semin – men redan klart för final.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hur går man från MoMa till moisturizer?]]></title>
-        <id>https://www.svd.se/a/8Jge5G/marina-abramovic-lansering-av-hudvardsmarke-vacker-fragor</id>
-        <link href="https://www.svd.se/a/8Jge5G/marina-abramovic-lansering-av-hudvardsmarke-vacker-fragor"/>
-        <updated>2024-01-30T20:11:16.852Z</updated>
-        <content type="html"><![CDATA[ Elin af Klintberg: Framgångsrika konstnären byter riktning och lanserar hudvårdsmärke.]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[36]]></title>
         <id>https://kund.svd.se/kundinfo/dagens-tidning.html?utm_source=svdse&amp;utm_medium=b2c&amp;utm_content=dt&amp;utm_campaign=dt&amp;intcmp=svdse:b2c:dt:dt</id>
         <link href="https://kund.svd.se/kundinfo/dagens-tidning.html?utm_source=svdse&amp;utm_medium=b2c&amp;utm_content=dt&amp;utm_campaign=dt&amp;intcmp=svdse:b2c:dt:dt"/>
         <updated>2024-01-30T20:11:16.739Z</updated>
-        <content type="html"><![CDATA[ tisdag 30 januari]]></content>
+        <content type="html"><![CDATA[ onsdag 31 januari]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[37]]></title>
