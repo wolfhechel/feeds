@@ -4,7 +4,7 @@
         <title>Svenska Dagbladet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 06:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 09:08:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,14 +13,6 @@
             <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt</guid>
             <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Liverapport med de senaste nyheterna.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Två döda efter skjutning i villaområde i Göteborg]]></title>
-            <link>https://www.svd.se/a/MoOdoR/tva-man-skadade-i-skottlossning</link>
-            <guid>https://www.svd.se/a/MoOdoR/tva-man-skadade-i-skottlossning</guid>
-            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[Ingen gripen.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/40814671-53da-436c-b9cb-a3cbfd392018?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=793400e0e40c0f9614df922453f291c0bd25795c" length="0" type="image//v2/images/40814671-53da-436c-b9cb-a3cbfd392018"/>
         </item>
         <item>
             <title><![CDATA[Oro i Finland: den hyllade skolan följer Sveriges väg]]></title>
@@ -36,20 +28,35 @@
             <guid>https://www.svd.se/a/GMpPW4/finlands-skolor-rasar-i-pisas-matningar-i-alla-skolamnen</guid>
             <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
             <content:encoded><![CDATA[PODD  Vad händer med skolan i Finland? SvD:s reporter reste dit i jakt på svar.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/2e895e38-8f7a-4fb4-9b5d-69227595aad9?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=c6da128d3131525a99172ccae1c94c30ba132c91" length="0" type="image//v2/images/2e895e38-8f7a-4fb4-9b5d-69227595aad9"/>
         </item>
         <item>
-            <title><![CDATA[Det borde lugna Biden – tillfälligt]]></title>
-            <link>https://www.svd.se/a/l369B9/joe-bidens-hamnd-pa-iran-roar-inte-valjarna</link>
-            <guid>https://www.svd.se/a/l369B9/joe-bidens-hamnd-pa-iran-roar-inte-valjarna</guid>
+            <title><![CDATA[Två döda efter skjutning i villaområde i Göteborg]]></title>
+            <link>https://www.svd.se/a/MoOdoR/tva-man-skadade-i-skottlossning</link>
+            <guid>https://www.svd.se/a/MoOdoR/tva-man-skadade-i-skottlossning</guid>
             <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Malin Ekman: </strong>Men ingen vet var gränsen mellan avskräckning och upptrappning går.]]></content:encoded>
+            <content:encoded><![CDATA[Polisen: Ingen är misstänkt och ingen är gripen.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Flera attacker mot Huthimål i Jemen]]></title>
-            <link>https://www.svd.se/a/kElmkX/usa-attackerar-huthimal-i-jemen</link>
-            <guid>https://www.svd.se/a/kElmkX/usa-attackerar-huthimal-i-jemen</guid>
-            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[USA och Storbritannien har attackerat minst 30 mål.]]></content:encoded>
+            <title><![CDATA[Dödliga bombningar av hårt pressad Gazastad]]></title>
+            <link>https://www.svd.se/a/kEldKv/dodliga-bombningar-av-hart-pressad-gazastad</link>
+            <guid>https://www.svd.se/a/kEldKv/dodliga-bombningar-av-hart-pressad-gazastad</guid>
+            <pubDate>Sun, 04 Feb 2024 09:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[92 personer döda i Rafah i&nbsp;natt, enligt Hamaskontrollerade hälsomyhndigheten.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tusentals israeler kräver Netanyahus avgång]]></title>
+            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
+            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
+            <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>”Måste avsluta kriget nu och utfärda en vapenvila för att få hem gisslan” • Senaste nytt.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Israels nya taktik: ”Kan döda fler i Hamas nu”]]></title>
+            <link>https://www.svd.se/a/8JnQ2r/israel-har-en-ny-strategi-i-kriget-i-gaza</link>
+            <guid>https://www.svd.se/a/8JnQ2r/israel-har-en-ny-strategi-i-kriget-i-gaza</guid>
+            <pubDate>Sat, 03 Feb 2024 06:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[Svensk överstelöjtnant fick se film av massakern i Kfar Aza: Det absolut otäckaste jag upplevt.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Muskelbyggares mantra om protein stämmer inte]]></title>
@@ -57,6 +64,20 @@
             <guid>https://www.svd.se/a/VPmx24/ska-man-ata-protein-efter-traning-ny-forskning-slar-hal-pa-myt</guid>
             <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
             <content:encoded><![CDATA[Professor motbevisade sin egen slutsats om när ätande ger bäst effekt vid träning.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Det borde lugna Joe Biden – tillfälligt]]></title>
+            <link>https://www.svd.se/a/l369B9/joe-bidens-hamnd-pa-iran-roar-inte-valjarna</link>
+            <guid>https://www.svd.se/a/l369B9/joe-bidens-hamnd-pa-iran-roar-inte-valjarna</guid>
+            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Malin Ekman: </strong>Men ingen vet var gränsen mellan avskräckning och upptrappning går.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Huthirörelsen varnar: Vi kommer att svara]]></title>
+            <link>https://www.svd.se/a/JQj77P/huthirorelsen-varnar-vi-kommer-att-svara</link>
+            <guid>https://www.svd.se/a/JQj77P/huthirorelsen-varnar-vi-kommer-att-svara</guid>
+            <pubDate>Sun, 04 Feb 2024 09:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[USA: ”Kommer inte tveka att försvara liv.”]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Stuck culture” är början på slutet]]></title>
@@ -73,13 +94,6 @@
             <content:encoded><![CDATA[Blev början på månader av fångenskap och tortyr • Mamman: ”Vill inte stiga upp ur sängen”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Kärnkraftens andel rasar – vindkraft räddaren]]></title>
-            <link>https://www.svd.se/a/wA1gKA/vindkraft-enda-losningen-nar-industrin-skriker-efter-el</link>
-            <guid>https://www.svd.se/a/wA1gKA/vindkraft-enda-losningen-nar-industrin-skriker-efter-el</guid>
-            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[Sveriges system måste byggas om när vi går från 20 till 50 procent väderberoende el.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Peab-chefen: ”Sverige har en bostadskollaps”]]></title>
             <link>https://www.svd.se/a/eJ9Meg/peab-rapporterar-minskad-bostadsbyggnad-i-2023</link>
             <guid>https://www.svd.se/a/eJ9Meg/peab-rapporterar-minskad-bostadsbyggnad-i-2023</guid>
@@ -88,39 +102,39 @@
             <enclosure url="https://svd.vgc.no/v2/images/cc287516-ce72-46b7-bcce-babadc3c5133?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=59dff875714b3ff193d82619c497daefab22aa7d" length="0" type="image//v2/images/cc287516-ce72-46b7-bcce-babadc3c5133"/>
         </item>
         <item>
-            <title><![CDATA[”Stuck culture” är början på slutet]]></title>
-            <link>https://www.svd.se/a/GMpMGV/stuck-culture-fixeringen-vid-det-forflutna-ar-forodande</link>
-            <guid>https://www.svd.se/a/GMpMGV/stuck-culture-fixeringen-vid-det-forflutna-ar-forodande</guid>
-            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">”Stuck culture” är början på slutet</h2></div>]]></content:encoded>
+            <title><![CDATA[Halvdant första åk av Kristoffer Jakobsen]]></title>
+            <link>https://www.svd.se/a/l36Jak/halvdant-forsta-ak-av-kristoffer-jakobsen</link>
+            <guid>https://www.svd.se/a/l36Jak/halvdant-forsta-ak-av-kristoffer-jakobsen</guid>
+            <pubDate>Sun, 04 Feb 2024 09:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Halvdant första åk av Kristoffer Jakobsen</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Det borde lugna Biden – tillfälligt]]></title>
-            <link>https://www.svd.se/a/l369B9/joe-bidens-hamnd-pa-iran-roar-inte-valjarna</link>
-            <guid>https://www.svd.se/a/l369B9/joe-bidens-hamnd-pa-iran-roar-inte-valjarna</guid>
-            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Det borde lugna Biden – tillfälligt</h2></div>]]></content:encoded>
+            <title><![CDATA[Staden är ett ständigt äventyr]]></title>
+            <link>https://www.svd.se/a/8JnPzG/staden-ar-ett-standigt-pagaende-samhallsexperiment</link>
+            <guid>https://www.svd.se/a/8JnPzG/staden-ar-ett-standigt-pagaende-samhallsexperiment</guid>
+            <pubDate>Sun, 04 Feb 2024 09:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Staden är ett ständigt äventyr</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Oro i Finland: den hyllade skolan följer Sveriges väg]]></title>
-            <link>https://www.svd.se/a/MoKA4m/hyllade-skolan-i-finland-allt-samre-foljer-sveriges-vag</link>
-            <guid>https://www.svd.se/a/MoKA4m/hyllade-skolan-i-finland-allt-samre-foljer-sveriges-vag</guid>
-            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Oro i Finland: den hyllade skolan följer Sveriges väg</h2></div>]]></content:encoded>
+            <title><![CDATA[Våldet ökar i svenska fängelser]]></title>
+            <link>https://www.svd.se/a/gEb4jL/valdet-okar-i-svenska-fangelser</link>
+            <guid>https://www.svd.se/a/gEb4jL/valdet-okar-i-svenska-fangelser</guid>
+            <pubDate>Sun, 04 Feb 2024 09:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Våldet ökar i svenska fängelser</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Muskelbyggares mantra om protein stämmer inte]]></title>
-            <link>https://www.svd.se/a/VPmx24/ska-man-ata-protein-efter-traning-ny-forskning-slar-hal-pa-myt</link>
-            <guid>https://www.svd.se/a/VPmx24/ska-man-ata-protein-efter-traning-ny-forskning-slar-hal-pa-myt</guid>
-            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Muskelbyggares mantra om protein stämmer inte</h2></div>]]></content:encoded>
+            <title><![CDATA[Fröken Snusk tillbaka på Spotify]]></title>
+            <link>https://www.svd.se/a/APe0q3/froken-snusk-tillbaka-pa-spotify</link>
+            <guid>https://www.svd.se/a/APe0q3/froken-snusk-tillbaka-pa-spotify</guid>
+            <pubDate>Sun, 04 Feb 2024 09:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Fröken Snusk tillbaka på Spotify</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Det har börjat spridas en antipluggkultur”]]></title>
-            <link>https://www.svd.se/a/GMpPW4/finlands-skolor-rasar-i-pisas-matningar-i-alla-skolamnen</link>
-            <guid>https://www.svd.se/a/GMpPW4/finlands-skolor-rasar-i-pisas-matningar-i-alla-skolamnen</guid>
-            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">”Det har börjat spridas en antipluggkultur”</h2></div>]]></content:encoded>
+            <title><![CDATA[Efter krigsvarningen: Sämre rustade nu]]></title>
+            <link>https://www.svd.se/a/P470eb/efter-krigsvarningen-samre-rustade-nu</link>
+            <guid>https://www.svd.se/a/P470eb/efter-krigsvarningen-samre-rustade-nu</guid>
+            <pubDate>Sun, 04 Feb 2024 09:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Efter krigsvarningen: Sämre rustade nu</h2></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Inga genvägar till järnvägen]]></title>
@@ -137,6 +151,20 @@
             <content:encoded><![CDATA[Öppnade upp om sjukdomen – och insåg hur man får anställda att blomstra.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Kärnkraftens andel rasar – vindkraft räddaren]]></title>
+            <link>https://www.svd.se/a/wA1gKA/vindkraft-enda-losningen-nar-industrin-skriker-efter-el</link>
+            <guid>https://www.svd.se/a/wA1gKA/vindkraft-enda-losningen-nar-industrin-skriker-efter-el</guid>
+            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[Sveriges system måste byggas om när vi går från 20 till 50 procent väderberoende el.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Coop efter miljonsmällen: Tappat bort det]]></title>
+            <link>https://www.svd.se/a/8JnOR2/coop-efter-miljonsmallen-tappat-bort-det</link>
+            <guid>https://www.svd.se/a/8JnOR2/coop-efter-miljonsmallen-tappat-bort-det</guid>
+            <pubDate>Sun, 04 Feb 2024 09:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[Massivt sparpaket.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Mardrömsköpet avgjort efter nio år: ”Huset vårt”]]></title>
             <link>https://www.svd.se/a/abABaa/villa-i-nacka-huskop-blev-mardrom-drabbades-av-bedragare</link>
             <guid>https://www.svd.se/a/abABaa/villa-i-nacka-huskop-blev-mardrom-drabbades-av-bedragare</guid>
@@ -144,39 +172,11 @@
             <content:encoded><![CDATA[Erik och Annelie i Nacka nära att blåsas på miljoner av seriebedragare – kan äntligen andas ut.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Kommun kritiseras – ratade Förintelsens minnesdag]]></title>
-            <link>https://www.svd.se/a/zEaxlO/kommun-kritiseras-ratade-forintelsens-minnesdag</link>
-            <guid>https://www.svd.se/a/zEaxlO/kommun-kritiseras-ratade-forintelsens-minnesdag</guid>
-            <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[”Kan uppfattas som att vi som kommun tar ställning.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[De går vidare till Melodifestivalfinal]]></title>
+            <title><![CDATA[Lisa Ajax: ”Blir gravid-edition – men ska fira”]]></title>
             <link>https://www.svd.se/a/APeGa5/de-gar-vidare-till-melodifestivalfinal</link>
             <guid>https://www.svd.se/a/APeGa5/de-gar-vidare-till-melodifestivalfinal</guid>
             <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[Förhandsfavoriterna höll för trycket.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Publikfavoriten tillbaka – men aningen tristare”]]></title>
-            <link>https://www.svd.se/a/EQ70Lj/deltavling-1-i-melodifestivalen-festligt-folkligt-smafalskt</link>
-            <guid>https://www.svd.se/a/EQ70Lj/deltavling-1-i-melodifestivalen-festligt-folkligt-smafalskt</guid>
-            <pubDate>Sat, 03 Feb 2024 16:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[SvD betygsätter – så bra är bidragen i Melodifestivalens första deltävling.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[De pekas ut ta över om ”järngeneralen” sparkas]]></title>
-            <link>https://www.svd.se/a/MoOjKJ/zelenskyj-uppges-peta-ukrainas-ob-zaluzjnyj-de-kan-ta-over</link>
-            <guid>https://www.svd.se/a/MoOjKJ/zelenskyj-uppges-peta-ukrainas-ob-zaluzjnyj-de-kan-ta-over</guid>
-            <pubDate>Sat, 03 Feb 2024 16:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[Försvarsexperten om Ukrainas ÖB: ”Man kan undra om Zelenskyj verkligen tänkt igenom det”.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Drönaranfall mot ryskt raffinaderi]]></title>
-            <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
-            <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
-            <pubDate>Fri, 02 Feb 2024 09:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>"En brand startade efter att en av de nedskjutna drönarna störtade" • Senaste nytt.]]></content:encoded>
+            <content:encoded><![CDATA[Går direkt till final i Melodifestivalen.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Trotsade DDR-Sverige – ”städa bort all skit”]]></title>
@@ -194,6 +194,20 @@
             <content:encoded><![CDATA[Konstnären Assa Kauppi inspireras av naturen och sin egna ateljé.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[De pekas ut ta över om ”järngeneralen” sparkas]]></title>
+            <link>https://www.svd.se/a/MoOjKJ/zelenskyj-uppges-peta-ukrainas-ob-zaluzjnyj-de-kan-ta-over</link>
+            <guid>https://www.svd.se/a/MoOjKJ/zelenskyj-uppges-peta-ukrainas-ob-zaluzjnyj-de-kan-ta-over</guid>
+            <pubDate>Sat, 03 Feb 2024 16:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[Försvarsexperten om Ukrainas ÖB: ”Man kan undra om Zelenskyj verkligen tänkt igenom det”.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ryssland: Flera döda efter anfall i Lysytjansk]]></title>
+            <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
+            <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
+            <pubDate>Fri, 02 Feb 2024 09:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>28 personer ska ha dött efter attack mot ryskockuperad stad Senaste nytt.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Pinsam groda kan nu få stora konsekvenser]]></title>
             <link>https://www.svd.se/a/on0GXa/finns-freudiansk-felsagning-emma-frans-vetenskapskollar</link>
             <guid>https://www.svd.se/a/on0GXa/finns-freudiansk-felsagning-emma-frans-vetenskapskollar</guid>
@@ -206,20 +220,6 @@
             <guid>https://www.svd.se/a/GMpPRm/sd-regeringen-maste-agera-gallande-sametinget</guid>
             <pubDate>Sun, 04 Feb 2024 06:09:13 GMT</pubDate>
             <content:encoded><![CDATA[SD: Kan inte tillåtas vara så här dysfunktionellt.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Israels nya taktik: ”Kan döda fler i Hamas nu”]]></title>
-            <link>https://www.svd.se/a/8JnQ2r/israel-har-en-ny-strategi-i-kriget-i-gaza</link>
-            <guid>https://www.svd.se/a/8JnQ2r/israel-har-en-ny-strategi-i-kriget-i-gaza</guid>
-            <pubDate>Sat, 03 Feb 2024 06:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[Svensk överstelöjtnant fick se film av massakern i Kfar Aza: Det absolut otäckaste jag upplevt.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Flera uppges dödade i räder mot Rafah]]></title>
-            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
-            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
-            <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Flera explosioner ska ha hörts • Senaste nytt.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Tonåringarna skrev en ”mördarlista” inför dådet]]></title>
