@@ -4,7 +4,7 @@
         <title>Svenska Dagbladet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 11:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 16:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,12 +15,33 @@
             <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Liverapport med de senaste nyheterna.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Malmer frustrerad: SD snor äran för M-förslag]]></title>
+            <title><![CDATA[SJ: ”Hela svenska folket förtjänar något bättre”]]></title>
+            <link>https://www.svd.se/a/abmBPL/sj-s-vd-ber-om-ursakt-for-samsta-vintern-pa-tio-ar</link>
+            <guid>https://www.svd.se/a/abmBPL/sj-s-vd-ber-om-ursakt-for-samsta-vintern-pa-tio-ar</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[Vd:n ber om ursäkt för sämsta vintern på tio år i mejl till resenärerna.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/448f1886-baac-4e98-86fb-d100f75bf2d8?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=6771c3c4edaf6a81735ee80a4c811df3d912d241" length="0" type="image//v2/images/448f1886-baac-4e98-86fb-d100f75bf2d8"/>
+        </item>
+        <item>
+            <title><![CDATA[Ministern frustrerad: SD snor äran för M-förslag]]></title>
             <link>https://www.svd.se/a/rloXKm/maria-malmer-stenegard-sd-snor-aran-for-vara-migrationsforslag</link>
             <guid>https://www.svd.se/a/rloXKm/maria-malmer-stenegard-sd-snor-aran-for-vara-migrationsforslag</guid>
             <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[Ministerns känga till media: ”Då finns det väldigt litet intresse.”]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/52e31b9d-d0e4-4b09-93db-6db89c562b9a?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=df21b80dc6d1ee91a972f106c3150968dd378553" length="0" type="image//v2/images/52e31b9d-d0e4-4b09-93db-6db89c562b9a"/>
+            <content:encoded><![CDATA[Malmer Stenergards känga till media – "invandrarvänliga nyheter väljs bort”.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Slår fast: Salwan Momika ska utvisas]]></title>
+            <link>https://www.svd.se/a/JQj2kj/salwan-momika-ska-utvisas</link>
+            <guid>https://www.svd.se/a/JQj2kj/salwan-momika-ska-utvisas</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[Beslut från Migrationsdomstolen – men kan inte verkställas.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Därför intervjuas Putin av radikala profilen]]></title>
+            <link>https://www.svd.se/a/WRwypj/darfor-intervjuas-putin-av-amerikanska-tv-stjarnan-tucker-carlson</link>
+            <guid>https://www.svd.se/a/WRwypj/darfor-intervjuas-putin-av-amerikanska-tv-stjarnan-tucker-carlson</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[Kontroversielle amerikanen har försvarat ryska presidenten – och kallat Zelenskyj för diktator.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Helt orimligt att jag inte betalar mer skatt”]]></title>
@@ -28,14 +49,6 @@
             <guid>https://www.svd.se/a/VP0Qel/klarnas-niklas-adalberth-helt-orimligt-att-jag-inte-betalar-mer-skatt</guid>
             <pubDate>Wed, 07 Feb 2024 06:09:54 GMT</pubDate>
             <content:encoded><![CDATA[Svenska Klarnamiljardären storsatsar i Afrika – går i Elon Musks och Bill Gates fotspår.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/e4167c8b-5df2-41e3-a7f5-bbf7acb28caa?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=dc187c8bcaac1528498c3e6d94a82aa70ea0dc01" length="0" type="image//v2/images/e4167c8b-5df2-41e3-a7f5-bbf7acb28caa"/>
-        </item>
-        <item>
-            <title><![CDATA[”Bisarrt att gängen kan äga domstolsbyggnad”]]></title>
-            <link>https://www.svd.se/a/eJ9y5M/lisa-dos-santos-gangen-ager-domstolar-utan-reaktion</link>
-            <guid>https://www.svd.se/a/eJ9y5M/lisa-dos-santos-gangen-ager-domstolar-utan-reaktion</guid>
-            <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[Åklagaren Lisa dos Santos oroas över att ingen reagerar när kriminella nätverken normaliseras.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Åklagaren har fått svar om förgiftade familjen]]></title>
@@ -43,6 +56,77 @@
             <guid>https://www.svd.se/a/Q7GWVP/aklagaren-har-fatt-svar-om-forgiftade-familjen</guid>
             <pubDate>Wed, 07 Feb 2024 09:08:38 GMT</pubDate>
             <content:encoded><![CDATA[Ett av banen dog – brottsrubricering om mord kvarstår.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Svårt gå framåt när du befinner dig i spagat]]></title>
+            <link>https://www.svd.se/a/3EvxA0/rolf-gustafsson-georgia-meloni-overraskar-i-utrikespolitiken</link>
+            <guid>https://www.svd.se/a/3EvxA0/rolf-gustafsson-georgia-meloni-overraskar-i-utrikespolitiken</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Rolf Gustavsson: </strong>Georgia Meloni överraskar i utrikespolitiken – men i Italien står det still.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tipset: Så brygger du en perfekt kopp te]]></title>
+            <link>https://www.svd.se/a/mQAWzv/experttipset-sa-brygger-du-en-perfekt-kopp-te</link>
+            <guid>https://www.svd.se/a/mQAWzv/experttipset-sa-brygger-du-en-perfekt-kopp-te</guid>
+            <pubDate>Wed, 07 Feb 2024 06:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[Henrik Berg: ”Hett vatten är ett av de vanligaste misstagen”]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/87e30409-8bbe-460b-972d-520cc30f3b95?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=e044e3cb45bf17b09f8670eaf85789887949c80d" length="0" type="image//v2/images/87e30409-8bbe-460b-972d-520cc30f3b95"/>
+        </item>
+        <item>
+            <title><![CDATA[”Vår Kinabevakning är fortsatt stark”]]></title>
+            <link>https://www.svd.se/a/EQ6k1l/sveriges-radio-var-kinabevakning-ar-fortsatt-stark</link>
+            <guid>https://www.svd.se/a/EQ6k1l/sveriges-radio-var-kinabevakning-ar-fortsatt-stark</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">”Vår Kinabevakning är fortsatt stark”</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Embracer vill avveckla verksamhet i Ryssland]]></title>
+            <link>https://www.svd.se/a/jlR7O0/embracer-vill-avveckla-verksamhet-i-ryssland</link>
+            <guid>https://www.svd.se/a/jlR7O0/embracer-vill-avveckla-verksamhet-i-ryssland</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Embracer vill avveckla verksamhet i Ryssland</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SJ: ”Hela svenska folket förtjänar något bättre”]]></title>
+            <link>https://www.svd.se/a/abmBPL/sj-s-vd-ber-om-ursakt-for-samsta-vintern-pa-tio-ar</link>
+            <guid>https://www.svd.se/a/abmBPL/sj-s-vd-ber-om-ursakt-for-samsta-vintern-pa-tio-ar</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">SJ: ”Hela svenska folket förtjänar något bättre”</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Silberstein duckar inte för de svårare frågorna]]></title>
+            <link>https://www.svd.se/a/Kn0qxG/recension-hand-i-hand-med-barnen-till-treblinka-av-margit-silberstein</link>
+            <guid>https://www.svd.se/a/Kn0qxG/recension-hand-i-hand-med-barnen-till-treblinka-av-margit-silberstein</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Silberstein duckar inte för de svårare frågorna</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tesla-anställda befarar stort sparpaket]]></title>
+            <link>https://www.svd.se/a/Ll2gnJ/tesla-anstallda-befarar-stort-sparpaket</link>
+            <guid>https://www.svd.se/a/Ll2gnJ/tesla-anstallda-befarar-stort-sparpaket</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Tesla-anställda befarar stort sparpaket</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Storbritannien går inte att känna igen]]></title>
+            <link>https://www.svd.se/a/l36Lae/neuding-storbritannien-gar-inte-att-kanna-igen</link>
+            <guid>https://www.svd.se/a/l36Lae/neuding-storbritannien-gar-inte-att-kanna-igen</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Paulina Neuding: </strong>Douglas Murrays bok ”Kriget mot väst” kunde inte ligga mer rätt i tiden.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Salminghyllning ställs in – pengarna bortspelade]]></title>
+            <link>https://www.svd.se/a/Q7G2xA/salmings-hyllning-installd-pengar-bortspelade</link>
+            <guid>https://www.svd.se/a/Q7G2xA/salmings-hyllning-installd-pengar-bortspelade</guid>
+            <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[Konsertarrangören polisanmäld: ”Jag har fallit tillbaka i spelmissburk.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Bisarrt att gängen kan äga domstolsbyggnad”]]></title>
+            <link>https://www.svd.se/a/eJ9y5M/lisa-dos-santos-gangen-ager-domstolar-utan-reaktion</link>
+            <guid>https://www.svd.se/a/eJ9y5M/lisa-dos-santos-gangen-ager-domstolar-utan-reaktion</guid>
+            <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[Åklagaren Lisa dos Santos oroas över att ingen reagerar när kriminella nätverken normaliseras.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Ukrainska framgången: ”Ryssar skjuter förgäves”]]></title>
@@ -66,63 +150,6 @@
             <content:encoded><![CDATA[<strong>Mårten Schultz: </strong>JLC i strid med hantverkare – om guldtackor värda 11 miljoner.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Salminghyllning ställs in – pengarna bortspelade]]></title>
-            <link>https://www.svd.se/a/Q7G2xA/salmings-hyllning-installd-pengar-bortspelade</link>
-            <guid>https://www.svd.se/a/Q7G2xA/salmings-hyllning-installd-pengar-bortspelade</guid>
-            <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[Konsertarrangören polisanmäld: ”Jag har fallit tillbaka i spelmissburk.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Arbetslösheten närmar sig ”Greklands nivå”]]></title>
-            <link>https://www.svd.se/a/veaXll/ministern-om-jobblaget-som-sydeuropa</link>
-            <guid>https://www.svd.se/a/veaXll/ministern-om-jobblaget-som-sydeuropa</guid>
-            <pubDate>Tue, 06 Feb 2024 11:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[Tredje högsta i Europa • Pehrson: ”Nivåer som vi annars bara ser vid finanskriser.”]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/c6382d72-7c9b-40ee-889d-18b5628fd388?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=9dce48aef778520c67b139d46e8ee435b7dc9a53" length="0" type="image//v2/images/c6382d72-7c9b-40ee-889d-18b5628fd388"/>
-        </item>
-        <item>
-            <title><![CDATA[OECD: Inflationen vänder uppåt i västvärlden]]></title>
-            <link>https://www.svd.se/a/wAapnG/oecd-inflationen-vander-uppat-i-vastvarlden</link>
-            <guid>https://www.svd.se/a/wAapnG/oecd-inflationen-vander-uppat-i-vastvarlden</guid>
-            <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">OECD: Inflationen vänder uppåt i västvärlden</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ny skogspolitik ska utredas]]></title>
-            <link>https://www.svd.se/a/2BQ0qq/ny-skogspolitik-ska-utredas</link>
-            <guid>https://www.svd.se/a/2BQ0qq/ny-skogspolitik-ska-utredas</guid>
-            <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Ny skogspolitik ska utredas</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Malmer frustrerad: SD snor äran för M-förslag]]></title>
-            <link>https://www.svd.se/a/rloXKm/maria-malmer-stenegard-sd-snor-aran-for-vara-migrationsforslag</link>
-            <guid>https://www.svd.se/a/rloXKm/maria-malmer-stenegard-sd-snor-aran-for-vara-migrationsforslag</guid>
-            <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Malmer frustrerad: SD snor äran för M-förslag</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Man åtalas för campingmord – mejlade tingsrätten]]></title>
-            <link>https://www.svd.se/a/mQAn8O/man-atalas-for-campingmord-mejlade-tingsratten</link>
-            <guid>https://www.svd.se/a/mQAn8O/man-atalas-for-campingmord-mejlade-tingsratten</guid>
-            <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Man åtalas för campingmord – mejlade tingsrätten</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Fyra åtalas för "avrättningsmord"]]></title>
-            <link>https://www.svd.se/a/8Jn19G/fyra-atalas-for-avrattningsmord</link>
-            <guid>https://www.svd.se/a/8Jn19G/fyra-atalas-for-avrattningsmord</guid>
-            <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Fyra åtalas för "avrättningsmord"</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nu måste ni tala ur skägget om LKAB]]></title>
-            <link>https://www.svd.se/a/EQ6EAo/regeringen-maste-tala-ur-skagget-om-lkab-hybrit-och-det-grona-stalet</link>
-            <guid>https://www.svd.se/a/EQ6EAo/regeringen-maste-tala-ur-skagget-om-lkab-hybrit-och-det-grona-stalet</guid>
-            <pubDate>Wed, 07 Feb 2024 06:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Peter Wennblad: </strong>Allt fler tvivlar på gruvjättens planer – men från regeringen är det ännu tyst.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[”Kan vara förödande när föräldrar blir treåringar”]]></title>
             <link>https://www.svd.se/a/EQV6vo/lindsay-c-gibson-om-barnen-till-narcissistiska-foraldrar</link>
             <guid>https://www.svd.se/a/EQV6vo/lindsay-c-gibson-om-barnen-till-narcissistiska-foraldrar</guid>
@@ -130,40 +157,12 @@
             <content:encoded><![CDATA[Bästsäljarpsykolog: Tre sätt att hantera känslo­mässigt omogna ”narcissist”-föräldrar.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Svensk Nord Stream-utredning läggs ner]]></title>
-            <link>https://www.svd.se/a/jlRnRz/brottsutredningen-om-nord-stream-laggs-ner</link>
-            <guid>https://www.svd.se/a/jlRnRz/brottsutredningen-om-nord-stream-laggs-ner</guid>
-            <pubDate>Wed, 07 Feb 2024 09:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[Sabotaget var inte riktat mot Sverige, enligt Säpo.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Tipset: Så brygger du en perfekt kopp te]]></title>
-            <link>https://www.svd.se/a/mQAWzv/experttipset-sa-brygger-du-en-perfekt-kopp-te</link>
-            <guid>https://www.svd.se/a/mQAWzv/experttipset-sa-brygger-du-en-perfekt-kopp-te</guid>
-            <pubDate>Wed, 07 Feb 2024 06:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[Henrik Berg: ”Hett vatten är ett av de vanligaste misstagen”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Här är populäraste bebisnamnen]]></title>
-            <link>https://www.svd.se/a/APe5Q5/elsa-och-noah-toppar-namnlistan</link>
-            <guid>https://www.svd.se/a/APe5Q5/elsa-och-noah-toppar-namnlistan</guid>
-            <pubDate>Wed, 07 Feb 2024 09:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[Förra årets ettor sjunker på listan.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hamas nya förslag: Vapenvila i 135 dagar]]></title>
-            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
-            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
-            <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Vill göra det i tre steg • Senaste nytt om kriget.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bildningstest: Förstår du de tio dialektorden?]]></title>
-            <link>https://www.svd.se/a/abmlP7/bildningstest-forstar-du-de-tio-dialektorden</link>
-            <guid>https://www.svd.se/a/abmlP7/bildningstest-forstar-du-de-tio-dialektorden</guid>
-            <pubDate>Wed, 07 Feb 2024 09:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[Klarar du resan genom Sverige, med språkinstitutet som medarrangör?]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/e4a55ff3-5854-4cbe-95c2-51372f4855a9?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=0a72e7e683b090af20b6c5266e17fbe74a327783" length="0" type="image//v2/images/e4a55ff3-5854-4cbe-95c2-51372f4855a9"/>
+            <title><![CDATA[”Är israeliska författare bannlysta nu, Athena?”]]></title>
+            <link>https://www.svd.se/a/RGLvzO/oppet-brev-ar-israeliska-forfattare-bannlysta-pa-kulturhuset</link>
+            <guid>https://www.svd.se/a/RGLvzO/oppet-brev-ar-israeliska-forfattare-bannlysta-pa-kulturhuset</guid>
+            <pubDate>Wed, 07 Feb 2024 16:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[Journalisten David Stavrou i öppet brev till Kulturhusets Athena Farrokhzad.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/c48869d7-b778-4af6-a233-a2b1a51b6bc0?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=63a67553fdfa24a9e839427cc75425fbd89c726f" length="0" type="image//v2/images/c48869d7-b778-4af6-a233-a2b1a51b6bc0"/>
         </item>
         <item>
             <title><![CDATA[”Han förlorar erektion, är nästan som oskuld”]]></title>
@@ -180,6 +179,13 @@
             <content:encoded><![CDATA[Farbror som saknade bröst­arvingar gick bort – advokaten reder ut gången.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Hamas nya förslag: Vapenvila i 135 dagar]]></title>
+            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
+            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
+            <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Vill göra det i tre steg • Senaste nytt om kriget.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SD-bögarna får ett nytt affischnamn]]></title>
             <link>https://www.svd.se/a/mQAWvv/henrik-torehammar-sd-bogarna-far-ett-nytt-affischnamn</link>
             <guid>https://www.svd.se/a/mQAWvv/henrik-torehammar-sd-bogarna-far-ett-nytt-affischnamn</guid>
@@ -187,11 +193,11 @@
             <content:encoded><![CDATA[<strong>Henrik Torehammar: </strong>Partiet lyckas skapa intresse för den institution de ogillar.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Tucker Carlson har intervjuat Putin]]></title>
-            <link>https://www.svd.se/a/abmdOA/kreml-bekraftar-carlson-har-intervjuat-putin</link>
-            <guid>https://www.svd.se/a/abmdOA/kreml-bekraftar-carlson-har-intervjuat-putin</guid>
-            <pubDate>Wed, 07 Feb 2024 11:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[Kreml bekräftar – oklart när den sänds.]]></content:encoded>
+            <title><![CDATA[Här är populäraste bebisnamnen]]></title>
+            <link>https://www.svd.se/a/APe5Q5/elsa-och-noah-toppar-namnlistan</link>
+            <guid>https://www.svd.se/a/APe5Q5/elsa-och-noah-toppar-namnlistan</guid>
+            <pubDate>Wed, 07 Feb 2024 09:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[Förra årets ettor sjunker på listan.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Är det demokratiskt att förbjuda Trump?”]]></title>
@@ -201,13 +207,6 @@
             <content:encoded><![CDATA[I veckan kan USA:s högsta domstol ta beslut som kan hindra politikern från att ställa upp i valet.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Haley förlorade mot "ingen kandidat"]]></title>
-            <link>https://www.svd.se/a/wAaJrM/nikki-haley-forlorade-mot-ingen-kandidat</link>
-            <guid>https://www.svd.se/a/wAaJrM/nikki-haley-forlorade-mot-ingen-kandidat</guid>
-            <pubDate>Wed, 07 Feb 2024 06:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[Efter att Trump nobbat primärvalet i Nevada.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Skolskytts mamma döms för dråp]]></title>
             <link>https://www.svd.se/a/nQplnm/skolskytts-mamma-domd-for-drap</link>
             <guid>https://www.svd.se/a/nQplnm/skolskytts-mamma-domd-for-drap</guid>
@@ -215,12 +214,11 @@
             <content:encoded><![CDATA[Riskerar 60 år långt fängelsestraff.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Insikten: jag är alltid någons dåliga val]]></title>
-            <link>https://www.svd.se/a/jlRg2w/victor-johansson-jag-ar-alltid-nagons-daliga-val</link>
-            <guid>https://www.svd.se/a/jlRg2w/victor-johansson-jag-ar-alltid-nagons-daliga-val</guid>
-            <pubDate>Tue, 06 Feb 2024 11:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Victor Johansson: </strong>Kvinnor dejtar mig för att leva ut sina destruktiva impulser.]]></content:encoded>
-            <enclosure url="https://static.svd.se/assets/assets/images/perfect-guide-logo.svg" length="0" type="image/svg"/>
+            <title><![CDATA[Haley förlorade mot "ingen kandidat"]]></title>
+            <link>https://www.svd.se/a/wAaJrM/nikki-haley-forlorade-mot-ingen-kandidat</link>
+            <guid>https://www.svd.se/a/wAaJrM/nikki-haley-forlorade-mot-ingen-kandidat</guid>
+            <pubDate>Wed, 07 Feb 2024 06:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[Efter att Trump nobbat primärvalet i Nevada.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[30]]></title>
