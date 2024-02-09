@@ -4,20 +4,15 @@
         <title>Svenska Dagbladet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 06:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 09:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Skott mot lägenhetsdörr i Göteborg]]></title>
-            <link>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=28875</link>
-            <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=28875</guid>
-            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Alltid senaste nytt – följ SvD direkt]]></title>
             <link>https://www.svd.se/a/wA9Gmd/senaste-nytt</link>
             <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt</guid>
             <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Liverapport med de senaste nyheterna.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Väckarklockan borde skrälla i Stockholm]]></title>
@@ -25,7 +20,7 @@
             <guid>https://www.svd.se/a/kElV6B/goran-ericson-carlsons-intervju-av-putin-en-vackarklocka</guid>
             <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>Göran Eriksson: </strong>Innehållet i Putin-intervjun är inte det viktigaste – har Sverige en plan B?]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/520fc0cc-539f-4319-9019-d83f17528898?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=cef2695ab45505569acef240b8249c8ac7e1cde0" length="0" type="image//v2/images/520fc0cc-539f-4319-9019-d83f17528898"/>
+            <enclosure url="https://svd.vgc.no/v2/images/c9655e16-c336-48c5-beb6-996858a55b50?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=4dc37d5c3ee859b0fc9fe5e56d8b774fd68d0a2f" length="0" type="image//v2/images/c9655e16-c336-48c5-beb6-996858a55b50"/>
         </item>
         <item>
             <title><![CDATA[Putin: Ska inte attackera Polen eller Lettland]]></title>
@@ -36,12 +31,12 @@
             <enclosure url="https://svd.vgc.no/v2/images/898c0e1b-5334-4a48-ac47-1bcb6d01e5d2?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=0eb59cb7a7214a884a54dc1d0b642ecd8f7636a4" length="0" type="image//v2/images/898c0e1b-5334-4a48-ac47-1bcb6d01e5d2"/>
         </item>
         <item>
-            <title><![CDATA[Stort fångutbyte mellan Ukraina och Ryssland]]></title>
+            <title><![CDATA[Clinton: Tucker Carlson en nyttig idiot]]></title>
             <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
             <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
             <pubDate>Fri, 02 Feb 2024 09:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Har bytt 100 krigsfångar med varandra • Senaste nytt.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/193b7900-fa6e-49f5-89a6-561abf393ed0?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=a702b3eded32281cc5eacd860eaa6952e529ca6d" length="0" type="image//v2/images/193b7900-fa6e-49f5-89a6-561abf393ed0"/>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>”Upprepar Putins lögner som en papegoja” • Senaste nytt.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/cb79d6d5-5fb0-4bb3-a0ce-d0c32b16f12e?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=f82bb783e0b97a3639e4129431599e9fc97f4b92" length="0" type="image//v2/images/cb79d6d5-5fb0-4bb3-a0ce-d0c32b16f12e"/>
         </item>
         <item>
             <title><![CDATA[”Huthierna önskar att USA fortsätter attacken”]]></title>
@@ -49,6 +44,13 @@
             <guid>https://www.svd.se/a/jlRMJz/huthirebellernas-makt-i-jemens-starks-efter-usa-s-bombningar</guid>
             <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
             <content:encoded><![CDATA[Var på väg att förlora makten i Jemen – nu stärks rebellerna efter bombningarna.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[El-Haj försökte påverka asylärende]]></title>
+            <link>https://www.svd.se/a/nQp265/jamal-el-haj-forsokte-paverka-asylarende</link>
+            <guid>https://www.svd.se/a/nQp265/jamal-el-haj-forsokte-paverka-asylarende</guid>
+            <pubDate>Fri, 09 Feb 2024 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[Ringde Migrationsverket för att hjälpa egyptisk imam.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Biden slår ifrån sig: Inget fel på mitt minne]]></title>
@@ -79,6 +81,70 @@
             <content:encoded><![CDATA[Myrägg och insektslarver – här är maten som toppade listorna.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[”Har brottats med ångest – musiken hjälper mig”]]></title>
+            <link>https://www.svd.se/a/rlo2K8/maria-sur-har-brottats-med-angest</link>
+            <guid>https://www.svd.se/a/rlo2K8/maria-sur-har-brottats-med-angest</guid>
+            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[Maria Sur, 19, vill få revansch i Melodifestivalen: tufft år i Sverige efter flykten från Ukraina.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fröken Snusk bryter tal­förbud: ”Inte en docka”]]></title>
+            <link>https://www.svd.se/a/nQp7ra/froken-snusk-bryter-talforbudet-infor-mello-jag-ar-inte-en-docka</link>
+            <guid>https://www.svd.se/a/nQp7ra/froken-snusk-bryter-talforbudet-infor-mello-jag-ar-inte-en-docka</guid>
+            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[SvD möter den hemliga stjärnan: ”Det är som att vissa inte insett att vi är i 2024.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Han förlorar erektion, är nästan som oskuld”]]></title>
+            <link>https://www.svd.se/a/76Wybv/hans-erektionsproblem-gor-mig-frustrerad-psykologen-ger-rad</link>
+            <guid>https://www.svd.se/a/76Wybv/hans-erektionsproblem-gor-mig-frustrerad-psykologen-ger-rad</guid>
+            <pubDate>Wed, 07 Feb 2024 06:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[Sexet gör kvinnan frustrerad – kan vara ”death grip syndrome”, svarar psykologen.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/b85bc0d6-15c2-4429-93b3-f24fd27a0e1e?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=1f662e5aa85e7831e35ffc349691f602d4f73829" length="0" type="image//v2/images/b85bc0d6-15c2-4429-93b3-f24fd27a0e1e"/>
+        </item>
+        <item>
+            <title><![CDATA[Muthärva växer – flera i stat och kommun åtalas]]></title>
+            <link>https://www.svd.se/a/9zPwBW/mutharva-vaxer-flera-i-stat-och-kommun-atalas</link>
+            <guid>https://www.svd.se/a/9zPwBW/mutharva-vaxer-flera-i-stat-och-kommun-atalas</guid>
+            <pubDate>Fri, 09 Feb 2024 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Muthärva växer – flera i stat och kommun åtalas</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vuxenvärldens fel att barnen blir själviska]]></title>
+            <link>https://www.svd.se/a/5B1gj1/paulina-neuding-vuxenvarldens-fel-att-barnen-blir-sjalviska</link>
+            <guid>https://www.svd.se/a/5B1gj1/paulina-neuding-vuxenvarldens-fel-att-barnen-blir-sjalviska</guid>
+            <pubDate>Fri, 09 Feb 2024 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Vuxenvärldens fel att barnen blir själviska</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Svenskarna drar inte in på välgörenhet]]></title>
+            <link>https://www.svd.se/a/EQ6rWA/svenskarna-drar-inte-in-pa-valgorenhet</link>
+            <guid>https://www.svd.se/a/EQ6rWA/svenskarna-drar-inte-in-pa-valgorenhet</guid>
+            <pubDate>Fri, 09 Feb 2024 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Svenskarna drar inte in på välgörenhet</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["En framgång för det ryska synsättet"]]></title>
+            <link>https://www.svd.se/a/APenzM/en-framgang-for-det-ryska-synsattet</link>
+            <guid>https://www.svd.se/a/APenzM/en-framgang-for-det-ryska-synsattet</guid>
+            <pubDate>Fri, 09 Feb 2024 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">"En framgång för det ryska synsättet"</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Storleken (på ditt chip) spelar roll]]></title>
+            <link>https://www.svd.se/a/5B1v5m/storleken-pa-ditt-chip-spelar-roll</link>
+            <guid>https://www.svd.se/a/5B1v5m/storleken-pa-ditt-chip-spelar-roll</guid>
+            <pubDate>Fri, 09 Feb 2024 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Storleken (på ditt chip) spelar roll</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ja, låt oss pröva visitationszoner]]></title>
+            <link>https://www.svd.se/a/Ll2O99/ja-lat-oss-prova-visitationszoner</link>
+            <guid>https://www.svd.se/a/Ll2O99/ja-lat-oss-prova-visitationszoner</guid>
+            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Mattias Svensson: </strong>I hårt brottsdrabbade områden är stödet starkt för mer resoluta polisåtgärder.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Kanske är det mest av allt Orbáns hämnd]]></title>
             <link>https://www.svd.se/a/veapPV/torbjorn-nilsson-i-vantan-pa-victor-orban</link>
             <guid>https://www.svd.se/a/veapPV/torbjorn-nilsson-i-vantan-pa-victor-orban</guid>
@@ -100,54 +166,11 @@
             <content:encoded><![CDATA[Skulle omedelbart skapa en kris: ”Ingenting liknande har någonsin hänt i USA:s historia.”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Han förlorar erektion, är nästan som oskuld”]]></title>
-            <link>https://www.svd.se/a/76Wybv/hans-erektionsproblem-gor-mig-frustrerad-psykologen-ger-rad</link>
-            <guid>https://www.svd.se/a/76Wybv/hans-erektionsproblem-gor-mig-frustrerad-psykologen-ger-rad</guid>
-            <pubDate>Wed, 07 Feb 2024 06:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[Sexet gör kvinnan frustrerad – kan vara ”death grip syndrome”, svarar psykologen.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/b85bc0d6-15c2-4429-93b3-f24fd27a0e1e?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=1f662e5aa85e7831e35ffc349691f602d4f73829" length="0" type="image//v2/images/b85bc0d6-15c2-4429-93b3-f24fd27a0e1e"/>
-        </item>
-        <item>
-            <title><![CDATA[Håller Vårsalongen på att bli cool?]]></title>
-            <link>https://www.svd.se/a/8JnmJE/recension-liljevalchs-varsalong-2024-hojer-ambitionsnivan</link>
-            <guid>https://www.svd.se/a/8JnmJE/recension-liljevalchs-varsalong-2024-hojer-ambitionsnivan</guid>
-            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Håller Vårsalongen på att bli cool?</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Putin öppnar för att byta mördare mot journalist]]></title>
-            <link>https://www.svd.se/a/wAa2Qd/putin-oppnar-for-att-byta-mordare-mot-journalist</link>
-            <guid>https://www.svd.se/a/wAa2Qd/putin-oppnar-for-att-byta-mordare-mot-journalist</guid>
-            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Putin öppnar för att byta mördare mot journalist</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Maria Sur: Har brottats med ångest]]></title>
-            <link>https://www.svd.se/a/rlo2K8/maria-sur-har-brottats-med-angest</link>
-            <guid>https://www.svd.se/a/rlo2K8/maria-sur-har-brottats-med-angest</guid>
-            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Maria Sur: Har brottats med ångest</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[I dag landar astronauten Marcus Wandt på jorden]]></title>
-            <link>https://www.svd.se/a/XbK12o/i-dag-landar-astronauten-marcus-wandt-pa-jorden</link>
-            <guid>https://www.svd.se/a/XbK12o/i-dag-landar-astronauten-marcus-wandt-pa-jorden</guid>
-            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">I dag landar astronauten Marcus Wandt på jorden</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ny svensk lastbilsfront kan rädda liv]]></title>
-            <link>https://www.svd.se/a/76Wv1o/ny-svensk-lastbilsfront-kan-radda-liv</link>
-            <guid>https://www.svd.se/a/76Wv1o/ny-svensk-lastbilsfront-kan-radda-liv</guid>
-            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Ny svensk lastbilsfront kan rädda liv</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ja, låt oss pröva visitationszoner]]></title>
-            <link>https://www.svd.se/a/Ll2O99/ja-lat-oss-prova-visitationszoner</link>
-            <guid>https://www.svd.se/a/Ll2O99/ja-lat-oss-prova-visitationszoner</guid>
-            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Mattias Svensson: </strong>I hårt brottsdrabbade områden är stödet starkt för mer resoluta polisåtgärder.]]></content:encoded>
+            <title><![CDATA[Intensiva flyganfall mot flyktingtäta Rafah]]></title>
+            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
+            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
+            <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Minst ett tiotal människor har dödats • Senaste nytt om kriget.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Buskis-gate” säger något om samtiden]]></title>
@@ -157,40 +180,19 @@
             <content:encoded><![CDATA[<strong>Henrik Torehammar: </strong>Vad skulle du göra om din mobils alla chattar blev offentliga?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Fröken Snusk bryter tal­förbud: ”Inte en docka”]]></title>
-            <link>https://www.svd.se/a/nQp7ra/froken-snusk-bryter-talforbudet-infor-mello-jag-ar-inte-en-docka</link>
-            <guid>https://www.svd.se/a/nQp7ra/froken-snusk-bryter-talforbudet-infor-mello-jag-ar-inte-en-docka</guid>
-            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[SvD möter den hemliga stjärnan: ”Det är som att vissa inte insett att vi är i 2024.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[USA: Flera vapen förstörda i Jemen]]></title>
-            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
-            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
-            <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Utgjorde överhängande hot, enligt USA • Senaste nytt om kriget.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Macron vill samla EU – för att sänka nya superligan]]></title>
+            <title><![CDATA[Macron vill samla EU för att sänka nya superligan]]></title>
             <link>https://www.svd.se/a/y6aMWA/darfor-vill-macron-stoppa-super-league-i-europa-fotbollen</link>
             <guid>https://www.svd.se/a/y6aMWA/darfor-vill-macron-stoppa-super-league-i-europa-fotbollen</guid>
             <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
             <content:encoded><![CDATA[Fotbollens Super League har fått nytt liv efter domslut – och Sverige tar tydlig ställning.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Netflix nya specialer är ovanligt briljanta]]></title>
-            <link>https://www.svd.se/a/zEaPQ1/one-day-och-grymma-netflix-specialer-svd-om-tv-veckan</link>
-            <guid>https://www.svd.se/a/zEaPQ1/one-day-och-grymma-netflix-specialer-svd-om-tv-veckan</guid>
-            <pubDate>Thu, 08 Feb 2024 06:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Anna Hellsten: </strong>Comeback för romcom – även din tonårsunge kommer vilja titta.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bildningstest: Förstår du de tio dialektorden?]]></title>
-            <link>https://www.svd.se/a/abmlP7/bildningstest-forstar-du-de-tio-dialektorden</link>
-            <guid>https://www.svd.se/a/abmlP7/bildningstest-forstar-du-de-tio-dialektorden</guid>
-            <pubDate>Thu, 08 Feb 2024 11:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[Klarar du resan genom Sverige, med språkinstitutet som medarrangör?]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/e4a55ff3-5854-4cbe-95c2-51372f4855a9?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=0a72e7e683b090af20b6c5266e17fbe74a327783" length="0" type="image//v2/images/e4a55ff3-5854-4cbe-95c2-51372f4855a9"/>
+            <title><![CDATA[”Kan vara förödande när föräldrar blir treåringar”]]></title>
+            <link>https://www.svd.se/a/EQV6vo/lindsay-c-gibson-om-barnen-till-narcissistiska-foraldrar</link>
+            <guid>https://www.svd.se/a/EQV6vo/lindsay-c-gibson-om-barnen-till-narcissistiska-foraldrar</guid>
+            <pubDate>Fri, 09 Feb 2024 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[Bästsäljarpsykolog: Tre sätt att hantera känslo­mässigt omogna ”narcissist”-föräldrar.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/2b6c9873-e337-4ee7-827f-4bbde4c2c1fd?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=c933a7e84e330088987752ba4228ab70e83f0207" length="0" type="image//v2/images/2b6c9873-e337-4ee7-827f-4bbde4c2c1fd"/>
         </item>
         <item>
             <title><![CDATA[Dold italienare ett fynd på alla hjärtans dag]]></title>
@@ -212,6 +214,13 @@
             <guid>https://www.svd.se/a/jlR7g9/krogaren-emma-kolback-jag-alskar-en-halv-special</guid>
             <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
             <content:encoded><![CDATA[Emma Kolback om Fävikens snusdessert och att ha fredagsmys mitt på dagen.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Netflix nya specialer är ovanligt briljanta]]></title>
+            <link>https://www.svd.se/a/zEaPQ1/one-day-och-grymma-netflix-specialer-svd-om-tv-veckan</link>
+            <guid>https://www.svd.se/a/zEaPQ1/one-day-och-grymma-netflix-specialer-svd-om-tv-veckan</guid>
+            <pubDate>Thu, 08 Feb 2024 06:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Anna Hellsten: </strong>Comeback för romcom – även din tonårsunge kommer vilja titta.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SvD:s semmeltest: ettan överraskar juryn – "wow"]]></title>
@@ -240,13 +249,6 @@
             <guid>https://www.svd.se/a/BWgG2Q/glostraning-anses-gammelmodigt-i-skolan-svenska-larare-lar-ut-fel</guid>
             <pubDate>Thu, 08 Feb 2024 16:12:02 GMT</pubDate>
             <content:encoded><![CDATA[Lärare dömer ut glosträning som ”gammelmodigt” – på tvärs mot enig forskarkår.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Fastighetstoppar satsar på bankaktier]]></title>
-            <link>https://www.svd.se/a/mQAjgE/darfor-koper-miljardarerna-aktier-i-banker</link>
-            <guid>https://www.svd.se/a/mQAjgE/darfor-koper-miljardarerna-aktier-i-banker</guid>
-            <pubDate>Fri, 09 Feb 2024 06:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[Därför passar de på just nu – finansministern kritisk till rekordutdelningarna.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Stiligt, Ingrosso – men 260 för den minirätten?]]></title>
