@@ -4,7 +4,7 @@
         <title>Svenska Dagbladet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 06:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 09:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,32 +23,27 @@
             <enclosure url="https://svd.vgc.no/v2/images/124ea50d-eda0-4b16-a4ab-15c34bda2d5a?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=947d104d2e432b85f1c858f3ad17668ef94c495f" length="0" type="image//v2/images/124ea50d-eda0-4b16-a4ab-15c34bda2d5a"/>
         </item>
         <item>
-            <title><![CDATA[Körde mot trafiken på motorväg – en död]]></title>
-            <link>https://www.svd.se/a/dwyVGo/korde-mot-trafiken-pa-motorvagen-en-dod</link>
-            <guid>https://www.svd.se/a/dwyVGo/korde-mot-trafiken-pa-motorvagen-en-dod</guid>
-            <pubDate>Sun, 11 Feb 2024 06:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[Ytterligare två allvarligt skadade • Oklart varför man körde i fel körfält.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Dansk varning: Nato kan angripas inom några år]]></title>
             <link>https://www.svd.se/a/P47b46/dansk-varning-ryssland-kan-angripa-nato-fortare-an-vantat</link>
             <guid>https://www.svd.se/a/P47b46/dansk-varning-ryssland-kan-angripa-nato-fortare-an-vantat</guid>
             <pubDate>Sun, 11 Feb 2024 06:10:45 GMT</pubDate>
             <content:encoded><![CDATA[Försvarsminister: Kan inte uteslutas att Ryssland kommer att utmana inom tre till fem år.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/66fecf74-7f01-4939-b57c-ac92ba58d997?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=cc4fde5d86b08b29bfbc25b305f1dfc6514d867c" length="0" type="image//v2/images/66fecf74-7f01-4939-b57c-ac92ba58d997"/>
         </item>
         <item>
-            <title><![CDATA[Nya ÖB: ”En robot – han kan inte leva utan krig”]]></title>
-            <link>https://www.svd.se/a/Ll2bX4/ukrainas-nya-ob-en-robot</link>
-            <guid>https://www.svd.se/a/Ll2bX4/ukrainas-nya-ob-en-robot</guid>
-            <pubDate>Sat, 10 Feb 2024 06:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[Före detta kollegans ord om ”Snöleoparden” – och hans unika fördel i kriget.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Guvernör: Flera döda i drönarattack mot Charkiv]]></title>
+            <title><![CDATA[Ryssland kommenterar bytet av Ukrainas ÖB]]></title>
             <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
             <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
             <pubDate>Fri, 02 Feb 2024 09:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Attackerna orsakade bränder i privata byggnader – barn och bebis bland offren • Senaste nytt.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Kreml: ”Tror inte att det kan förändra kursen för den särskilda militäroperationen” • Senaste nytt.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/6466e1d4-2b59-4ca5-b6fe-2fccbd4c0b60?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=a844867d34417281842b2d78d9d4012bec21b6f1" length="0" type="image//v2/images/6466e1d4-2b59-4ca5-b6fe-2fccbd4c0b60"/>
+        </item>
+        <item>
+            <title><![CDATA[Körde mot trafiken på motorväg – en död]]></title>
+            <link>https://www.svd.se/a/dwyVGo/korde-mot-trafiken-pa-motorvagen-en-dod</link>
+            <guid>https://www.svd.se/a/dwyVGo/korde-mot-trafiken-pa-motorvagen-en-dod</guid>
+            <pubDate>Sun, 11 Feb 2024 06:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[Ytterligare två allvarligt skadade • Oklart varför man körde i fel körfält.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Enkelt knep tog Sara över två år lång träningsplatå]]></title>
@@ -72,6 +67,13 @@
             <content:encoded><![CDATA[Frälsningsarméns glädje provocerade – Kristina Lindh minns sin egen uppväxt i rörelsen.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Hotade Natoländer med Ryssland]]></title>
+            <link>https://www.svd.se/a/VP0V5J/trump-hotade-natolander-med-ryssland</link>
+            <guid>https://www.svd.se/a/VP0V5J/trump-hotade-natolander-med-ryssland</guid>
+            <pubDate>Sun, 11 Feb 2024 09:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[Trumps varning: Låta Ryssland göra vad de vill med länder som inte betalar.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[De är världselit – slår svenska elever på allt]]></title>
             <link>https://www.svd.se/a/MoKWVo/skolan-ar-varldselit-slar-svenska-elever-pa-allt</link>
             <guid>https://www.svd.se/a/MoKWVo/skolan-ar-varldselit-slar-svenska-elever-pa-allt</guid>
@@ -87,39 +89,39 @@
             <enclosure url="https://svd.vgc.no/v2/images/8b8041f7-ef76-410f-8026-ce748209f16b?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=eb74737138fbefab51234d2f079f27ace8344d95" length="0" type="image//v2/images/8b8041f7-ef76-410f-8026-ce748209f16b"/>
         </item>
         <item>
-            <title><![CDATA[”De ser fånigt frälsta ut – men verkar inte bry sig”]]></title>
-            <link>https://www.svd.se/a/BWO4bQ/fralsningsarmen-i-sverige-gladjen-har-retat-omvarlden</link>
-            <guid>https://www.svd.se/a/BWO4bQ/fralsningsarmen-i-sverige-gladjen-har-retat-omvarlden</guid>
-            <pubDate>Sun, 11 Feb 2024 06:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">”De ser fånigt frälsta ut – men verkar inte bry sig”</h2></div>]]></content:encoded>
+            <title><![CDATA[Fröken Snusk: "Vill göra det en gång till"]]></title>
+            <link>https://www.svd.se/a/wAaqzM/froken-snusk-vill-gora-det-en-gang-till</link>
+            <guid>https://www.svd.se/a/wAaqzM/froken-snusk-vill-gora-det-en-gang-till</guid>
+            <pubDate>Sun, 11 Feb 2024 09:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Fröken Snusk: "Vill göra det en gång till"</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Enkelt knep tog Sara över två år lång träningsplatå]]></title>
-            <link>https://www.svd.se/a/on5yVR/effektiv-styrketraning-forskarna-om-hur-du-lamnar-traningsplata</link>
-            <guid>https://www.svd.se/a/on5yVR/effektiv-styrketraning-forskarna-om-hur-du-lamnar-traningsplata</guid>
-            <pubDate>Sun, 11 Feb 2024 06:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Enkelt knep tog Sara över två år lång träningsplatå</h2></div>]]></content:encoded>
+            <title><![CDATA[Louise Hansson vidare till semi]]></title>
+            <link>https://www.svd.se/a/onXqQR/louise-hansson-vidare-till-semi</link>
+            <guid>https://www.svd.se/a/onXqQR/louise-hansson-vidare-till-semi</guid>
+            <pubDate>Sun, 11 Feb 2024 09:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Louise Hansson vidare till semi</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Arktis nästa oroshärd när Ryssland rustar]]></title>
-            <link>https://www.svd.se/a/8JgjpW/arktis-putin-rustar-upp-kan-utmana-nato</link>
-            <guid>https://www.svd.se/a/8JgjpW/arktis-putin-rustar-upp-kan-utmana-nato</guid>
-            <pubDate>Sun, 11 Feb 2024 06:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Arktis nästa oroshärd när Ryssland rustar</h2></div>]]></content:encoded>
+            <title><![CDATA[Skönhetssalonger förlorare i kristider]]></title>
+            <link>https://www.svd.se/a/nQpqJJ/skonhetssalonger-forlorare-i-kristider</link>
+            <guid>https://www.svd.se/a/nQpqJJ/skonhetssalonger-forlorare-i-kristider</guid>
+            <pubDate>Sun, 11 Feb 2024 09:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Skönhetssalonger förlorare i kristider</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Föräldramöte i våldsskadat land]]></title>
-            <link>https://www.svd.se/a/q1j9pg/tove-lifvendahl-foraldramote-i-valdsskadat-land</link>
-            <guid>https://www.svd.se/a/q1j9pg/tove-lifvendahl-foraldramote-i-valdsskadat-land</guid>
-            <pubDate>Sun, 11 Feb 2024 06:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Föräldramöte i våldsskadat land</h2></div>]]></content:encoded>
+            <title><![CDATA[Johansson till final – slog klassiska rekordet]]></title>
+            <link>https://www.svd.se/a/wAaqLA/johansson-slog-holmertz-rekord</link>
+            <guid>https://www.svd.se/a/wAaqLA/johansson-slog-holmertz-rekord</guid>
+            <pubDate>Sun, 11 Feb 2024 09:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Johansson till final – slog klassiska rekordet</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Finland väljer ny president]]></title>
-            <link>https://www.svd.se/a/MoOVpr/stubb-eller-haavisto-finland-valjer-president</link>
-            <guid>https://www.svd.se/a/MoOVpr/stubb-eller-haavisto-finland-valjer-president</guid>
-            <pubDate>Sun, 11 Feb 2024 06:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Finland väljer ny&nbsp;president</h2></div>]]></content:encoded>
+            <title><![CDATA[Presidentvalet i Finland i gång – igen]]></title>
+            <link>https://www.svd.se/a/O84V2w/presidentvalet-i-finland-i-gang-igen</link>
+            <guid>https://www.svd.se/a/O84V2w/presidentvalet-i-finland-i-gang-igen</guid>
+            <pubDate>Sun, 11 Feb 2024 09:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Presidentvalet i Finland i gång – igen</h2></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Föräldramöte i våldsskadat land]]></title>
@@ -143,11 +145,11 @@
             <content:encoded><![CDATA[Hind Rajab lämnades ensam, rädd och skadad efter israelisk beskjutning mot familjens bil.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Över 28 000 döda i Gaza]]></title>
+            <title><![CDATA[Netanyahu lovar civila säker passage ur Rafah]]></title>
             <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
             <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
             <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Även tiotusentals har skadats uppger hälsodepartementet i Gaza • Senaste nytt om kriget.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Tonar ner farhågor om katastrof vid väntat storskaligt israeliskt anfall • Senaste nytt om kriget.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Finland väljer ny president]]></title>
@@ -207,11 +209,11 @@
             <content:encoded><![CDATA[Romansen med Travis Kelce har skapat värde för  331,5 miljoner dollar.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Stark Sur möter subtilt snusk i kvällens Mello]]></title>
-            <link>https://www.svd.se/a/GMp2BJ/deltavling-2-i-mello-ukrainsk-favorit-mot-no-no-lat-och-snusk</link>
-            <guid>https://www.svd.se/a/GMp2BJ/deltavling-2-i-mello-ukrainsk-favorit-mot-no-no-lat-och-snusk</guid>
-            <pubDate>Sat, 10 Feb 2024 11:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[SvD betygsätter – så bra är bidragen i Melodifestivalens andra deltävling.]]></content:encoded>
+            <title><![CDATA[Ungerns president avgår efter skandal]]></title>
+            <link>https://www.svd.se/a/eJ9QL9/ungerns-president-avgar</link>
+            <guid>https://www.svd.se/a/eJ9QL9/ungerns-president-avgar</guid>
+            <pubDate>Sun, 11 Feb 2024 09:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[Benådade en man kopplad till sexbrott mot barn.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Vd:n om USA-beroendet: Europa på väg tänka om]]></title>
@@ -235,11 +237,11 @@
             <content:encoded><![CDATA[Lilla bageriets semla enda fullpoängaren – slog "jättar" i Stockholm.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Kan lindra att säga: Fy fan för februari]]></title>
+            <title><![CDATA[Kan hjälpa att säga: Fy fan för februari]]></title>
             <link>https://www.svd.se/a/WRwaaj/fyra-anledningar-till-varfor-februari-ar-den-samsta-manaden</link>
             <guid>https://www.svd.se/a/WRwaaj/fyra-anledningar-till-varfor-februari-ar-den-samsta-manaden</guid>
             <pubDate>Sat, 10 Feb 2024 06:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Micael Dahlen: </strong>Orsakerna till att svenska folket rankar månaden lägst – år efter år.]]></content:encoded>
+            <content:encoded><![CDATA[<strong>Micael Dahlen: </strong>Fyra orsaker till att svenskar anser att månaden är sämst år efter år.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[33]]></title>
@@ -253,42 +255,42 @@
             <link>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=norrsken#!/Norrsken/p/624018517/category=0</link>
             <guid>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=norrsken#!/Norrsken/p/624018517/category=0</guid>
             <pubDate>Mon, 05 Feb 2024 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Bok</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">199 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Norrsken</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/8493c7fde16c90c8defd44b13ef6893d7b9c714cac4a786f75bc15b5cd90a876.jpeg" alt="Norrsken"/></picture></noscript></div></figure>]]></content:encoded>
+            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Bok</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">199 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Norrsken</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/8493c7fde16c90c8defd44b13ef6893d7b9c714cac4a786f75bc15b5cd90a876.jpeg" alt="Norrsken"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[35]]></title>
             <link>https://accent.svd.se/med-segelfartyg-i-konstnarernas-skargard.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=konstnarssegling</link>
             <guid>https://accent.svd.se/med-segelfartyg-i-konstnarernas-skargard.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=konstnarssegling</guid>
             <pubDate>Mon, 05 Feb 2024 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">8 500 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Med segelfartyg i konstnärernas skärgård</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/b131a02d43bafcecc2e7e821598098eb46559e29fa1998046b50aa38228e0ff1.jpeg" alt="Med segelfartyg i konstnärernas skärgård"/></picture></noscript></div></figure>]]></content:encoded>
+            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">8 500 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Med segelfartyg i konstnärernas skärgård</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/b131a02d43bafcecc2e7e821598098eb46559e29fa1998046b50aa38228e0ff1.jpeg" alt="Med segelfartyg i konstnärernas skärgård"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[36]]></title>
             <link>https://accent.svd.se/i-mannerheims-fotspar.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=mannerheim</link>
             <guid>https://accent.svd.se/i-mannerheims-fotspar.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=mannerheim</guid>
             <pubDate>Mon, 05 Feb 2024 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">25 950 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">I Mannerheims fotspår – en historisk resa genom Finland</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/050ef2a2a2295167ab69a6c52d4f4759a6421f58540e2ee5c094c8da42def810.jpeg" alt="I Mannerheims fotspår – en historisk resa genom Finland"/></picture></noscript></div></figure>]]></content:encoded>
+            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">25 950 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">I Mannerheims fotspår – en historisk resa genom Finland</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/050ef2a2a2295167ab69a6c52d4f4759a6421f58540e2ee5c094c8da42def810.jpeg" alt="I Mannerheims fotspår – en historisk resa genom Finland"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[37]]></title>
             <link>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=paslakan#!/Carl-paslakanset/p/615132277/category=161917572</link>
             <guid>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=paslakan#!/Carl-paslakanset/p/615132277/category=161917572</guid>
             <pubDate>Mon, 05 Feb 2024 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Sagaform</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">490 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Påslakanset</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/bcedc224ef6a6625f3474de5dc547795a3d212dc6d2601c1a38ab7c8c1806d83.jpeg" alt="Påslakanset"/></picture></noscript></div></figure>]]></content:encoded>
+            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Sagaform</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">490 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Påslakanset</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/bcedc224ef6a6625f3474de5dc547795a3d212dc6d2601c1a38ab7c8c1806d83.jpeg" alt="Påslakanset"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[38]]></title>
             <link>https://prenumerera.svd.se/svdvinklubb?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vinklubb</link>
             <guid>https://prenumerera.svd.se/svdvinklubb?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vinklubb</guid>
             <pubDate>Mon, 05 Feb 2024 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">SvD Vinklubb</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">1 mån gratis</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Nyhetsbrevet som ger dig vintipsen före alla andra</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/b190edd9d441a354dd74d7418ee822405c7ec6907cb68af2270384cab32b4a01.jpeg" alt="Nyhetsbrevet som ger dig vintipsen före alla andra"/></picture></noscript></div></figure>]]></content:encoded>
+            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">SvD Vinklubb</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">1 mån gratis</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Nyhetsbrevet som ger dig vintipsen före alla andra</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/b190edd9d441a354dd74d7418ee822405c7ec6907cb68af2270384cab32b4a01.jpeg" alt="Nyhetsbrevet som ger dig vintipsen före alla andra"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[39]]></title>
             <link>https://accent.svd.se/sprakkurs-i-italienska.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=italienska%20</link>
             <guid>https://accent.svd.se/sprakkurs-i-italienska.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=italienska%20</guid>
             <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Onlinekurs</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">220 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Språkkurs i italienska</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se/accent/0a6a995c41c48eefc9a902e56ef7efbc29f851699a0e1c6a5d73e89eccb4ff6c.jpeg" alt="Språkkurs i italienska"/></picture></noscript></div></figure>]]></content:encoded>
+            <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 kA-dIhI"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Onlinekurs</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">220 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Språkkurs i italienska</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se/accent/0a6a995c41c48eefc9a902e56ef7efbc29f851699a0e1c6a5d73e89eccb4ff6c.jpeg" alt="Språkkurs i italienska"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
     </channel>
 </rss>
