@@ -4,53 +4,141 @@
         <title>Dagens Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 09:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 11:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Så stora utsläpp orsakar invånarna där du bor]]></title>
-            <link>https://www.dn.se/sverige/klimatkrisen-dar-du-bor/</link>
-            <guid>https://www.dn.se/sverige/klimatkrisen-dar-du-bor/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-              <span class="ds-teaser__sticker">
-                GRAFIK
-              </span>
-            Mer eller mindre än medel-Svensson? Så har klimatet ändrats i ditt närområde.]]></content:encoded>
-            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/6fd95973-0149-4cd4-8547-2dcb76c6bac0.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hälften av svenska utsläpp osynliga i vanliga statistiken]]></title>
-            <link>https://www.dn.se/sverige/forskaren-halften-av-svenskarnas-utslapp-osynliga-i-vanliga-statistiken/</link>
-            <guid>https://www.dn.se/sverige/forskaren-halften-av-svenskarnas-utslapp-osynliga-i-vanliga-statistiken/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-          
-          Forskaren: Vår konsumtion belastar andra länder • ”Måste öppna ögonen.”]]></content:encoded>
-            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/471e849e-93bb-4e9b-a932-e28cbf2fcd4a.jpeg?interpolation=lanczos-none&fit=around%7C196:111&crop=196:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[• Klimatet just nu – klockan tickar]]></title>
-            <link>https://www.dn.se/klimatet-just-nu/</link>
-            <guid>https://www.dn.se/klimatet-just-nu/</guid>
-            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
+            <title><![CDATA[Just nu:
+        Flyg mot Stockholm har skadats på Gardemoen]]></title>
+            <link>https://www.dn.se/direkt/2024-02-14/flyg-mot-stockholm-har-skadats-pa-gardermoen/</link>
+            <guid>https://www.dn.se/direkt/2024-02-14/flyg-mot-stockholm-har-skadats-pa-gardermoen/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="ds-teaser__content">
       <h2 class="ds-teaser__title">
-        • Klimatet just nu – klockan tickar
+        <span class="ds-teaser__highlight">Just nu:</span>
+        Flyg mot Stockholm har skadats på Gardemoen
+      </h2>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Just nu:
+        Skellefteå lasarett i stabsläge efter masskrock]]></title>
+            <link>https://www.dn.se/direkt/2024-02-14/sjukhus-i-stabslage-efter-masskrock/</link>
+            <guid>https://www.dn.se/direkt/2024-02-14/sjukhus-i-stabslage-efter-masskrock/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        <span class="ds-teaser__highlight">Just nu:</span>
+        Skellefteå lasarett i stabsläge efter masskrock
+      </h2>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Här är Zelenskyjs nya lag som ska stoppa ryssarna]]></title>
+            <link>https://www.dn.se/varlden/zelenskyjs-nya-lag-ska-stoppa-ryssarna/</link>
+            <guid>https://www.dn.se/varlden/zelenskyjs-nya-lag-ska-stoppa-ryssarna/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Sedan försvarschefen petades har det möblerats om rejält • Expert: ”Stor rockad.”]]></content:encoded>
+            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/67d82cf6-fdde-4b2f-aa9e-4d5addb71812.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Direkt.
+        Uppgifter: Ryskt landstigningsfartyg förstört]]></title>
+            <link>https://www.dn.se/varlden/folj-det-sakerhetspolitiska-laget-i-europa/</link>
+            <guid>https://www.dn.se/varlden/folj-det-sakerhetspolitiska-laget-i-europa/</guid>
+            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+
+
+      <h2 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">Direkt.</span>
+        Uppgifter: Ryskt landstigningsfartyg förstört
       </h2>
 
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Sverige lovar Ukraina stöd så länge det krävs]]></title>
+            <title><![CDATA[• Grafik: Rysslands invasion av Ukraina]]></title>
+            <link>https://www.dn.se/varlden/grafik-rysslands-invasion-av-ukraina-2022/</link>
+            <guid>https://www.dn.se/varlden/grafik-rysslands-invasion-av-ukraina-2022/</guid>
+            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • Grafik: Rysslands invasion av Ukraina
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Flyg mot Stockholm har skadats på Gardermoen]]></title>
             <link>https://www.dn.se</link>
             <guid>https://www.dn.se</guid>
-            <pubDate>Wed, 14 Feb 2024 09:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">09:10</span>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">11:28</span>
       <h3 class="ds-teaser__title">
-        Sverige lovar Ukraina stöd så länge det krävs
+        Flyg mot Stockholm har skadats på Gardermoen
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Flyg mot Stockholm har skadats på Gardermoen]]></title>
+            <link>https://www.dn.se/direkt/2024-02-14/flyg-mot-stockholm-har-skadats-pa-gardermoen/</link>
+            <guid>https://www.dn.se/direkt/2024-02-14/flyg-mot-stockholm-har-skadats-pa-gardermoen/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">11:28</span>
+      <h3 class="ds-teaser__title">
+        Flyg mot Stockholm har skadats på Gardermoen
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Per Holknekt förlorade mot spelbolag]]></title>
+            <link>https://www.dn.se/direkt/2024-02-14/per-holknekt-forlorade-mot-spelbolag/</link>
+            <guid>https://www.dn.se/direkt/2024-02-14/per-holknekt-forlorade-mot-spelbolag/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">11:07</span>
+      <h3 class="ds-teaser__title">
+        Per Holknekt förlorade mot spelbolag
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Stoltenberg: 18 av Natoländerna kommer klara budgetmålet]]></title>
+            <link>https://www.dn.se/direkt/2024-02-14/stoltenberg-18-av-natolanderna-kommer-klara-budgetmalet/</link>
+            <guid>https://www.dn.se/direkt/2024-02-14/stoltenberg-18-av-natolanderna-kommer-klara-budgetmalet/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">10:55</span>
+      <h3 class="ds-teaser__title">
+        Stoltenberg: 18 av Natoländerna kommer klara budgetmålet
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sjukhus i stabsläge efter masskrock]]></title>
+            <link>https://www.dn.se/direkt/2024-02-14/sjukhus-i-stabslage-efter-masskrock/</link>
+            <guid>https://www.dn.se/direkt/2024-02-14/sjukhus-i-stabslage-efter-masskrock/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">10:50</span>
+      <h3 class="ds-teaser__title">
+        Sjukhus i stabsläge efter masskrock
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tullen gjorde rekordbeslag av narkotika]]></title>
+            <link>https://www.dn.se/direkt/2024-02-14/tullen-gjorde-rekordbeslag-av-narkotika/</link>
+            <guid>https://www.dn.se/direkt/2024-02-14/tullen-gjorde-rekordbeslag-av-narkotika/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">10:21</span>
+      <h3 class="ds-teaser__title">
+        Tullen gjorde rekordbeslag av narkotika
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Protester i riksdagen – politiker avbrutna]]></title>
+            <link>https://www.dn.se/direkt/2024-02-14/protester-i-riksdagen-politiker-avbrutna/</link>
+            <guid>https://www.dn.se/direkt/2024-02-14/protester-i-riksdagen-politiker-avbrutna/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">10:20</span>
+      <h3 class="ds-teaser__title">
+        Protester i riksdagen – politiker avbrutna
       </h3>]]></content:encoded>
         </item>
         <item>
@@ -94,64 +182,93 @@
       </h3>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[15 döda i bilolycka i Egypten]]></title>
-            <link>https://www.dn.se/direkt/2024-02-13/15-doda-i-bilolycka-i-egypten/</link>
-            <guid>https://www.dn.se/direkt/2024-02-13/15-doda-i-bilolycka-i-egypten/</guid>
+            <title><![CDATA[Per Holknekt förlorade i rätten mot spelbolag]]></title>
+            <link>https://www.dn.se/ekonomi/per-holknekt-stamde-spelbolagen-pa-mangmiljoner-forlorar-i-ratten/</link>
+            <guid>https://www.dn.se/ekonomi/per-holknekt-stamde-spelbolagen-pa-mangmiljoner-forlorar-i-ratten/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Tingsrätten ogillar kraven på ersättning i samband med spelmissbruk.]]></content:encoded>
+            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/d9d833b3-4368-4c79-87af-fe85f827f517.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ledare:
+          Ska livsviktig infrastruktur kunna ägas av enskilda galningar?]]></title>
+            <link>https://www.dn.se/ledare/ska-livsviktig-infrastruktur-kunna-agas-av-enskilda-galningar/</link>
+            <guid>https://www.dn.se/ledare/ska-livsviktig-infrastruktur-kunna-agas-av-enskilda-galningar/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder" style="padding-bottom:56.25%">
+            <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/71a79eac-f584-4592-876e-29894e4ba50c.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/71a79eac-f584-4592-876e-29894e4ba50c.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/71a79eac-f584-4592-876e-29894e4ba50c.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: Jeanne Accorsini/Shutterstock</figcaption>
+  </figure>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">DN LEDARE 14 FEBRUARI</div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Ledare:</span>
+          Ska livsviktig infrastruktur kunna ägas av enskilda galningar?
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/71a79eac-f584-4592-876e-29894e4ba50c.jpeg?interpolation=lanczos-none&fit=around%7C300:169&crop=300:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peter Alestig:
+          Här är den svenska klimatdebattens blinda fläck]]></title>
+            <link>https://www.dn.se/sverige/peter-alestig-har-ar-den-svenska-klimatdebattens-blinda-flack/</link>
+            <guid>https://www.dn.se/sverige/peter-alestig-har-ar-den-svenska-klimatdebattens-blinda-flack/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Handlar om att skydda oss själva – inte bara andra.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Grafik:
+        Så stora utsläpp orsakas där du bor]]></title>
+            <link>https://www.dn.se/sverige/klimatkrisen-dar-du-bor/</link>
+            <guid>https://www.dn.se/sverige/klimatkrisen-dar-du-bor/</guid>
             <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">I går 21:25</span>
-      <h3 class="ds-teaser__title">
-        15 döda i bilolycka i Egypten
-      </h3>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          Flyg, shopping, livsmedel •&nbsp;Sök på ditt närområde.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Flygplan kolliderade på Osloflygplatsen Gardermoen]]></title>
-            <link>https://www.dn.se/direkt/2024-02-13/flygplan-kolliderade-pa-osloflygplatsen-gardermoen/</link>
-            <guid>https://www.dn.se/direkt/2024-02-13/flygplan-kolliderade-pa-osloflygplatsen-gardermoen/</guid>
+            <title><![CDATA[Svenska utsläpp osynliga i vanlig statistik]]></title>
+            <link>https://www.dn.se/sverige/forskaren-halften-av-svenskarnas-utslapp-osynliga-i-vanliga-statistiken/</link>
+            <guid>https://www.dn.se/sverige/forskaren-halften-av-svenskarnas-utslapp-osynliga-i-vanliga-statistiken/</guid>
             <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">I går 17:26</span>
-      <h3 class="ds-teaser__title">
-        Flygplan kolliderade på Osloflygplatsen Gardermoen
-      </h3>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          Forskaren: Vår konsumtion belastar andra.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Turkiska gruvarbetare instängda efter jordskred]]></title>
-            <link>https://www.dn.se/direkt/2024-02-13/turkiska-gruvarbetare-instangda-efter-jordskred/</link>
-            <guid>https://www.dn.se/direkt/2024-02-13/turkiska-gruvarbetare-instangda-efter-jordskred/</guid>
-            <pubDate>Tue, 13 Feb 2024 16:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">I går 17:04</span>
-      <h3 class="ds-teaser__title">
-        Turkiska gruvarbetare instängda efter jordskred
-      </h3>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Annie Lööf blir pr-konsult]]></title>
-            <link>https://www.dn.se/direkt/2024-02-13/annie-loof-blir-pr-konsult/</link>
-            <guid>https://www.dn.se/direkt/2024-02-13/annie-loof-blir-pr-konsult/</guid>
-            <pubDate>Tue, 13 Feb 2024 16:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">I går 17:01</span>
-      <h3 class="ds-teaser__title">
-        Annie Lööf blir pr-konsult
-      </h3>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Svensk skjuten i Marbella i helgen]]></title>
-            <link>https://www.dn.se/direkt/2024-02-13/svensk-skjuten-i-marbella-i-helgen/</link>
-            <guid>https://www.dn.se/direkt/2024-02-13/svensk-skjuten-i-marbella-i-helgen/</guid>
-            <pubDate>Tue, 13 Feb 2024 16:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">I går 16:13</span>
-      <h3 class="ds-teaser__title">
-        Svensk skjuten i Marbella i helgen
-      </h3>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Man och kvinna döda efter villabrand i Mälarhöjden]]></title>
-            <link>https://www.dn.se/direkt/2024-02-13/man-och-kvinna-doda-efter-villabrand-i-malarhojden/</link>
-            <guid>https://www.dn.se/direkt/2024-02-13/man-och-kvinna-doda-efter-villabrand-i-malarhojden/</guid>
-            <pubDate>Tue, 13 Feb 2024 16:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">I går 15:56</span>
-      <h3 class="ds-teaser__title">
-        Man och kvinna döda efter villabrand i Mälarhöjden
-      </h3>]]></content:encoded>
+            <title><![CDATA[• Klimatet just nu – klockan tickar]]></title>
+            <link>https://www.dn.se/klimatet-just-nu/</link>
+            <guid>https://www.dn.se/klimatet-just-nu/</guid>
+            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • Klimatet just nu – klockan tickar
+      </h2>
+
+    </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Patrik Lundberg:
@@ -162,70 +279,6 @@
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             Bortglömda bilden som togs efter ”tanten med handväskan” säger mycket om mänskligheten.]]></content:encoded>
-            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/efaf94e2-bba0-4d31-bf3a-673647ca6176.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Är du en fena på kärlek?]]></title>
-            <link>https://www.dn.se/quiz/kultur/karlek-i-kulturens-varld/</link>
-            <guid>https://www.dn.se/quiz/kultur/karlek-i-kulturens-varld/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__media">
-        
-  <figure class="ds-teaser-image">
-    
-      
-
-      
-
-      <div class="picture picture--placeholder" style="padding-bottom:56.25%">
-            <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/68e117bd-a269-4476-893b-f3ee149609b4.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/68e117bd-a269-4476-893b-f3ee149609b4.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/68e117bd-a269-4476-893b-f3ee149609b4.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
-
-      </div>
-
-
-      <figcaption class="ds-teaser-image__byline">Foto: Gruffydd Thomas/Alamy</figcaption>
-  </figure>
-
-            <div class="ds-vip-badge ds-vip-badge--text" aria-hidden="true">
-      <i class="ds-icon ds-icon--sprite ds-icon--vip">
-    <svg><use xlink:href="#ds-vip"></use></svg>
-  </i>
-
-    För dig som prenumererar
-  </div>
-
-      </div>
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-          <div class="ds-teaser__vignette">QUIZ</div>
-        <h2 class="ds-teaser__title">
-          Är du en fena på kärlek?
-        </h2>
-
-      </div>
-
-    </div>]]></content:encoded>
-            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/68e117bd-a269-4476-893b-f3ee149609b4.jpeg?interpolation=lanczos-none&fit=around%7C300:169&crop=300:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Regeringen föreslår höjt tak för a-kassan]]></title>
-            <link>https://www.dn.se/sverige/regeringen-foreslar-hojt-tak-i-a-kassan/</link>
-            <guid>https://www.dn.se/sverige/regeringen-foreslar-hojt-tak-i-a-kassan/</guid>
-            <pubDate>Wed, 14 Feb 2024 09:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-          
-          Vill att ersättningen ska minska med tiden • Pehrson: Största reformen på 40 år.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Har filmens superhjältar utkämpat sin sista strid?]]></title>
-            <link>https://www.dn.se/kultur/har-superhjaltarna-utkampat-sin-sista-strid/</link>
-            <guid>https://www.dn.se/kultur/har-superhjaltarna-utkampat-sin-sista-strid/</guid>
-            <pubDate>Wed, 14 Feb 2024 09:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Efter flera decennier som publikmagneter verkar de ha mist sina superkrafter.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Spelen som ska finansiera edtech-satsningen]]></title>
@@ -236,6 +289,36 @@
 ”Målet är att kunna investera överskottet i våra edtech-projekt”.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Tomas Ramberg:
+          SD får svälja borgerlig a-kassa]]></title>
+            <link>https://www.dn.se/sverige/tomas-ramberg-sd-far-svalja-borgerlig-a-kassa/</link>
+            <guid>https://www.dn.se/sverige/tomas-ramberg-sd-far-svalja-borgerlig-a-kassa/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Arbetslöshetsförsäkringens värde sänks både av regeringen och inflationen.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Regeringen föreslår höjt tak för a-kassan]]></title>
+            <link>https://www.dn.se/sverige/regeringen-foreslar-hojt-tak-i-a-kassan/</link>
+            <guid>https://www.dn.se/sverige/regeringen-foreslar-hojt-tak-i-a-kassan/</guid>
+            <pubDate>Wed, 14 Feb 2024 09:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          
+          Ersättningen ska minska med tiden • Ministern: ”Största reformen på 40 år.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kristofer Ahlström:
+          Varför skulle man någonsin vilja bli hundra år gammal?]]></title>
+            <link>https://www.dn.se/kultur/kristofer-ahlstrom-varfor-skulle-man-nagonsin-vilja-bli-hundra-ar-gammal/</link>
+            <guid>https://www.dn.se/kultur/kristofer-ahlstrom-varfor-skulle-man-nagonsin-vilja-bli-hundra-ar-gammal/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Redan som tonåring drömde jag om att vara pensionär.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Så hanterar du kärleken du inte kan glömma]]></title>
             <link>https://www.dn.se/insidan/sa-hanterar-du-karleken-du-inte-kan-glomma/</link>
             <guid>https://www.dn.se/insidan/sa-hanterar-du-karleken-du-inte-kan-glomma/</guid>
@@ -243,22 +326,6 @@
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             Är det något som är värt att väcka till liv? • ”Kärleksdoktorn” försökte – och blev besviken.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[I pensionärsparadiset är Bidens ålder inget problem]]></title>
-            <link>https://www.dn.se/varlden/aldre-i-sun-city-valkomnar-biden-till-pensionarsparadiset/</link>
-            <guid>https://www.dn.se/varlden/aldre-i-sun-city-valkomnar-biden-till-pensionarsparadiset/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            De äldre ser fördelar • ”Han är 81 men har åtminstone inte 91 åtalspunkter emot sig.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PÅ PLATS | Phoenix]]></title>
-            <link>https://www.dn.se/varlden/aldre-i-sun-city-valkomnar-biden-till-pensionarsparadiset/</link>
-            <guid>https://www.dn.se/varlden/aldre-i-sun-city-valkomnar-biden-till-pensionarsparadiset/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[Björn af Kleen och Pontus Höök]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Komplicerade insatsen inne på tredje dygnet]]></title>
@@ -300,37 +367,6 @@
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Ska jag acceptera att min man inte vill ha sex?”]]></title>
-            <link>https://www.dn.se/insidan/ska-jag-acceptera-att-min-man-inte-vill-ha-sex/</link>
-            <guid>https://www.dn.se/insidan/ska-jag-acceptera-att-min-man-inte-vill-ha-sex/</guid>
-            <pubDate>Tue, 13 Feb 2024 06:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Sexlivet har gått från ljummet till obefintligt • Psykoterapeuten Daniel Rosenlind ger råd.&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DN:s expertpanel svarar på dina frågor]]></title>
-            <link>https://www.dn.se/insidan/insidans-expertpanel-svarar-pa-fragor/</link>
-            <guid>https://www.dn.se/insidan/insidans-expertpanel-svarar-pa-fragor/</guid>
-            <pubDate>Tue, 13 Feb 2024 06:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-          
-          Fråga om bland annat barn, sömn, stress, träning, relationer.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[• Ställ din fråga till fragainsidan@dn.se]]></title>
-            <link>mailto:fragainsidan@dn.se</link>
-            <guid>mailto:fragainsidan@dn.se</guid>
-            <pubDate>Tue, 13 Feb 2024 06:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <h2 class="ds-teaser__title">
-        • Ställ din fråga till fragainsidan@dn.se
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[De satte solceller på hustaken – slapp elprischocken]]></title>
             <link>https://www.dn.se/brandstudio/riksbyggen/de-satte-solceller-pa-hustaken-slapp-elprischocken/</link>
             <guid>https://www.dn.se/brandstudio/riksbyggen/de-satte-solceller-pa-hustaken-slapp-elprischocken/</guid>
@@ -344,7 +380,7 @@
         Svar: ”För över monarkens uppgifter till riksdagens talman”]]></title>
             <link>https://www.dn.se</link>
             <guid>https://www.dn.se</guid>
-            <pubDate>Wed, 14 Feb 2024 09:08:14 GMT</pubDate>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<h3 class="ds-teaser__title">
           <span class="ds-teaser__highlight">
             Insändare.
@@ -515,6 +551,62 @@
         <span class="ds-teaser-swipe-card__time">2024-02-12</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[”Skulle rösta på Biden även om han låg i respirator”]]></title>
+            <link>https://www.dn.se/varlden/aldre-i-sun-city-valkomnar-biden-till-pensionarsparadiset/</link>
+            <guid>https://www.dn.se/varlden/aldre-i-sun-city-valkomnar-biden-till-pensionarsparadiset/</guid>
+            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            I pensionärsparadiset är presidentens ålder inget problem • ”Roosevelt satt i rullstol.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PÅ PLATS | Phoenix]]></title>
+            <link>https://www.dn.se/varlden/aldre-i-sun-city-valkomnar-biden-till-pensionarsparadiset/</link>
+            <guid>https://www.dn.se/varlden/aldre-i-sun-city-valkomnar-biden-till-pensionarsparadiset/</guid>
+            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[Björn af Kleen och Pontus Höök]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Har filmens superhjältar utkämpat sin sista strid?]]></title>
+            <link>https://www.dn.se/kultur/har-superhjaltarna-utkampat-sin-sista-strid/</link>
+            <guid>https://www.dn.se/kultur/har-superhjaltarna-utkampat-sin-sista-strid/</guid>
+            <pubDate>Wed, 14 Feb 2024 09:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Efter flera decennier som publikmagneter verkar de ha mist sina superkrafter.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Ska jag acceptera att min man inte vill ha sex?”]]></title>
+            <link>https://www.dn.se/insidan/ska-jag-acceptera-att-min-man-inte-vill-ha-sex/</link>
+            <guid>https://www.dn.se/insidan/ska-jag-acceptera-att-min-man-inte-vill-ha-sex/</guid>
+            <pubDate>Tue, 13 Feb 2024 06:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Sexlivet har gått från ljummet till obefintligt • Psykoterapeuten Daniel Rosenlind ger råd.&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DN:s expertpanel svarar på dina frågor]]></title>
+            <link>https://www.dn.se/insidan/insidans-expertpanel-svarar-pa-fragor/</link>
+            <guid>https://www.dn.se/insidan/insidans-expertpanel-svarar-pa-fragor/</guid>
+            <pubDate>Tue, 13 Feb 2024 06:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          
+          Fråga om bland annat barn, sömn, stress, träning, relationer.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• Ställ din fråga till fragainsidan@dn.se]]></title>
+            <link>mailto:fragainsidan@dn.se</link>
+            <guid>mailto:fragainsidan@dn.se</guid>
+            <pubDate>Tue, 13 Feb 2024 06:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • Ställ din fråga till fragainsidan@dn.se
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Colemans udda semester – tävla om VM-medaljer]]></title>
             <link>https://www.dn.se/sport/colemans-udda-semester-tavla-om-vm-medaljer/</link>
             <guid>https://www.dn.se/sport/colemans-udda-semester-tavla-om-vm-medaljer/</guid>
@@ -610,7 +702,7 @@
         </item>
         <item>
             <title><![CDATA[Direkt.
-        Billström: Humanitärt eldupphör nödvändigt i Gaza]]></title>
+        Läkare utan gränser: Oroande situation]]></title>
             <link>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</link>
             <guid>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</guid>
             <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
@@ -619,7 +711,7 @@
 
       <h2 class="ds-teaser__title">
           <span class="ds-teaser__highlight">Direkt.</span>
-        Billström: Humanitärt eldupphör nödvändigt i Gaza
+        Läkare utan gränser: Oroande situation
       </h2>
 
     </div>]]></content:encoded>
@@ -635,6 +727,24 @@
       </h2>
 
     </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Elen är en nyckelfråga för Stockholms­regionens framtid”]]></title>
+            <link>https://kampanj.dn.se/scienceweek/elen-ar-en-nyckelfraga-for-stockholmsregionens-framtid/</link>
+            <guid>https://kampanj.dn.se/scienceweek/elen-ar-en-nyckelfraga-for-stockholmsregionens-framtid/</guid>
+            <pubDate>Thu, 08 Feb 2024 16:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+Därför investerar hennes bolag bland annat i ledningsnät och energismarta fläktar]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rapport: Höga chefer inte tränade för kriser]]></title>
+            <link>https://www.dn.se/ekonomi/rapport-de-flesta-svenska-chefer-inte-tranade-for-kriser/</link>
+            <guid>https://www.dn.se/ekonomi/rapport-de-flesta-svenska-chefer-inte-tranade-for-kriser/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          
+          Ledare rankar cyberangrepp som allvarligaste hotet.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Vi är på ett VM – inte på en lekplats”]]></title>
@@ -653,16 +763,16 @@
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
           
-          Pushar inte längre för singelmixedstaftett • Distansen kvar, trots ”tråkig tv”.]]></content:encoded>
+          Pushar inte längre för singelmixedstafett • Distansen kvar, trots ”tråkig tv”.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[• Ras för Hanna Öberg i paradgrenen: ”Blev förbannad”]]></title>
-            <link>https://www.dn.se/sport/systrarna-oberg-skot-bort-sig-missar-medalj/</link>
-            <guid>https://www.dn.se/sport/systrarna-oberg-skot-bort-sig-missar-medalj/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
+            <title><![CDATA[• Norska bomfesten: ”En spindelväv av negativa tankar”]]></title>
+            <link>https://www.dn.se/sport/norska-varldscupledaren-bommade-bort-sig-igen-en-spindelvav-av-negativa-tankar/</link>
+            <guid>https://www.dn.se/sport/norska-varldscupledaren-bommade-bort-sig-igen-en-spindelvav-av-negativa-tankar/</guid>
+            <pubDate>Wed, 14 Feb 2024 11:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="ds-teaser__content">
       <h2 class="ds-teaser__title">
-        • Ras för Hanna Öberg i paradgrenen: ”Blev förbannad”
+        • Norska bomfesten: ”En spindelväv av negativa tankar”
       </h2>
 
     </div>]]></content:encoded>
@@ -710,7 +820,7 @@
         </item>
         <item>
             <title><![CDATA[Direkt.
-        Brittisk inflation på väg ned]]></title>
+        Academedia faller tungt]]></title>
             <link>https://www.dn.se/ekonomi/dns-direktrapportering-om-laget-i-ekonomin/</link>
             <guid>https://www.dn.se/ekonomi/dns-direktrapportering-om-laget-i-ekonomin/</guid>
             <pubDate>Wed, 14 Feb 2024 09:08:14 GMT</pubDate>
@@ -719,7 +829,7 @@
 
       <h2 class="ds-teaser__title">
           <span class="ds-teaser__highlight">Direkt.</span>
-        Brittisk inflation på väg ned
+        Academedia faller tungt
       </h2>
 
     </div>]]></content:encoded>
@@ -733,14 +843,6 @@
 
           
           I konstnären Niki Lindroth von Bahrs värld samsas poesi, samhällskritik och humor.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Elen är en nyckelfråga för Stockholms­regionens framtid”]]></title>
-            <link>https://kampanj.dn.se/scienceweek/elen-ar-en-nyckelfraga-for-stockholmsregionens-framtid/</link>
-            <guid>https://kampanj.dn.se/scienceweek/elen-ar-en-nyckelfraga-for-stockholmsregionens-framtid/</guid>
-            <pubDate>Thu, 08 Feb 2024 16:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-Därför investerar hennes bolag bland annat i ledningsnät och energismarta fläktar]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Riksrätt för Mayorkas efter ny omröstning]]></title>
@@ -815,89 +917,6 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
             Norskan Kristine Stavås Skistad chanslös i duellen med världens just nu främsta sprintåkare.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Akuten på Sös utrymdes efter bombhot]]></title>
-            <link>https://www.dn.se/sverige/sodersjukhuset-i-stockholm-utrymt-efter-bombhot/</link>
-            <guid>https://www.dn.se/sverige/sodersjukhuset-i-stockholm-utrymt-efter-bombhot/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Polisen är på plats – men bedömer att hotet är ”oseriöst” • Öppet för patienter igen.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Försvarsministern vill inte kritisera Trumps utspel]]></title>
-            <link>https://www.dn.se/sverige/forsvarsminister-jonson-vill-inte-kritisera-trump/</link>
-            <guid>https://www.dn.se/sverige/forsvarsminister-jonson-vill-inte-kritisera-trump/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Anser att Europa måste öka investeringar • Hultqvist (S): Spelar Putin i händerna.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Slopa skyddsgarantier för länder som inte betalar”]]></title>
-            <link>https://www.dn.se/varlden/trumps-radgivare-slopa-skyddsgarantier-for-lander-som-inte-betalar/</link>
-            <guid>https://www.dn.se/varlden/trumps-radgivare-slopa-skyddsgarantier-for-lander-som-inte-betalar/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-          
-          Trumps rådgivare Keith Kellogg vill slopa Natos artikel 5 för länder som inte betalar 2 procent av bnp.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Michael Winiarski:
-          Trumps underminering av Nato en present till Putin]]></title>
-            <link>https://www.dn.se/varlden/michael-winiarski-trumps-underminering-av-nato-en-present-till-putin/</link>
-            <guid>https://www.dn.se/varlden/michael-winiarski-trumps-underminering-av-nato-en-present-till-putin/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-vip-badge" aria-hidden="true">
-      <i class="ds-icon ds-icon--sprite ds-icon--vip">
-    <svg><use xlink:href="#ds-vip"></use></svg>
-  </i>
-
-    
-  </div>
-
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-          <div class="ds-teaser__vignette">VÄRLDEN |&nbsp;KOMMENTAR</div>
-        <h2 class="ds-teaser__title">
-            <span class="ds-teaser__highlight">Michael Winiarski:</span>
-          Trumps underminering av Nato en present till Putin
-        </h2>
-
-      </div>
-
-        <div class="ds-teaser__byline">
-          
-      
-
-      
-
-      <div class="picture   lazy-image" style="padding-bottom:230.474%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-author/gvcy4bfhjwbofh7nq7mo2hnip3tislzmpaupjzmo2uchwjx3xaiq-443x1021.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-author/gvcy4bfhjwbofh7nq7mo2hnip3tislzmpaupjzmo2uchwjx3xaiq-443x1021.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://cached-images.bonnier.news/gcs/bilder/dn-author/gvcy4bfhjwbofh7nq7mo2hnip3tislzmpaupjzmo2uchwjx3xaiq-443x1021.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-        </div>
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[• Endast 11 av 31 länder når budgetmål]]></title>
-            <link>https://www.dn.se/varlden/fa-natolander-nar-budgetmal-hard-kritik-mot-trumps-utspel/</link>
-            <guid>https://www.dn.se/varlden/fa-natolander-nar-budgetmal-hard-kritik-mot-trumps-utspel/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-
-
-      <h2 class="ds-teaser__title">
-        • Endast 11 av 31 länder når budgetmål
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Ministerns kritik efter avslöjande om övergrepp]]></title>
             <link>https://www.dn.se/varlden/minister-kritiserar-skola-efter-avslojande-om-overgrepp/</link>
             <guid>https://www.dn.se/varlden/minister-kritiserar-skola-efter-avslojande-om-overgrepp/</guid>
@@ -917,15 +936,6 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
           Nioåring våldtogs av jämnårig • Elever i Danmark utsatta för sexuella övergrepp.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Att felköna är illa – men värre är rädslan som DO skapar”]]></title>
-            <link>https://www.dn.se/debatt/att-felkona-ar-illa-men-varre-ar-radslan-som-do-skapar/</link>
-            <guid>https://www.dn.se/debatt/att-felkona-ar-illa-men-varre-ar-radslan-som-do-skapar/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Mats Alvesson, organisationsforskare, och Stella Cizinsky, sjukhuschef: Att sträva efter att undvika diskriminering är viktigt, men destruktiva överreaktioner hjälper ingen.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Jakob Forssmed:
           Fastan kan befria oss från överflödet och ekorrhjulet]]></title>
             <link>https://www.dn.se/kultur/socialministern-jakob-forssmed-fastan-kan-befria-oss-fran-overflodet-och-ekorrhjulet/</link>
@@ -934,91 +944,6 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             Vår tids frosseri rör inte bara mat utan även skärmen, skriver socialministern.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ingen sanering i förgiftade familjens lägenhet]]></title>
-            <link>https://www.dn.se/sverige/hyresvarden-ingen-sanering-i-den-forgiftade-familjens-lagenhet/</link>
-            <guid>https://www.dn.se/sverige/hyresvarden-ingen-sanering-i-den-forgiftade-familjens-lagenhet/</guid>
-            <pubDate>Tue, 13 Feb 2024 16:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Fosfin används för skadedjursbekämpning • Hyresvärden: Inte brukats på 20 år.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Åklagaren: Familjen förgiftades av fosfin]]></title>
-            <link>https://www.dn.se/sverige/aklagaren-bekraftar-familjen-i-soderhamn-forgiftades-av-fosfin/</link>
-            <guid>https://www.dn.se/sverige/aklagaren-bekraftar-familjen-i-soderhamn-forgiftades-av-fosfin/</guid>
-            <pubDate>Tue, 13 Feb 2024 09:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-          
-          Spår av giftiga ämnet i proverna • Fyraåring avled i Söderhamn.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Johan Nilsson:
-          En extremt giftig gas som hämmar cellandningen]]></title>
-            <link>https://www.dn.se/sverige/johan-nilsson-en-extremt-giftig-gas-som-hammar-cellandningen/</link>
-            <guid>https://www.dn.se/sverige/johan-nilsson-en-extremt-giftig-gas-som-hammar-cellandningen/</guid>
-            <pubDate>Tue, 13 Feb 2024 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            DN:s vetenskapsreporter om det giftiga ämnet fosfin.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[S-ledaren: Jamal El-Haj bör lämna sin riksdagsplats]]></title>
-            <link>https://www.dn.se/sverige/s-ledaren-jamal-el-haj-bor-lamna-sin-riksdagsplats/</link>
-            <guid>https://www.dn.se/sverige/s-ledaren-jamal-el-haj-bor-lamna-sin-riksdagsplats/</guid>
-            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            ”Han har vid upprepade tillfällen satt sitt eget intresse före partiets”, säger hon.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sarah Delshad:
-          Som muslimsk kvinna får jag bara ångest av att bejaka min sexualitet]]></title>
-            <link>https://www.dn.se/kultur/sarah-delshad-som-muslimsk-kvinna-far-jag-bara-angest-av-att-bejaka-min-sexualitet/</link>
-            <guid>https://www.dn.se/kultur/sarah-delshad-som-muslimsk-kvinna-far-jag-bara-angest-av-att-bejaka-min-sexualitet/</guid>
-            <pubDate>Tue, 13 Feb 2024 16:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Jag har känt mycket skam och efter ligg lidit av panikattacker i min ensamhet.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Källa: Ny rysk försvarslinje – av 2 100 tågvagnar]]></title>
-            <link>https://www.dn.se/varlden/isw-ny-rysk-forsvarslinje-i-donetsk-av-2-100-tagvagnar/</link>
-            <guid>https://www.dn.se/varlden/isw-ny-rysk-forsvarslinje-i-donetsk-av-2-100-tagvagnar/</guid>
-            <pubDate>Tue, 13 Feb 2024 06:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Vuxit fram under nio månaders tid, enligt ISW • Expert: Kan försöka stoppa offensiv.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Direkt.
-        Uppgifter: Ryskt landstigningsfartyg förstört]]></title>
-            <link>https://www.dn.se/varlden/folj-det-sakerhetspolitiska-laget-i-europa/</link>
-            <guid>https://www.dn.se/varlden/folj-det-sakerhetspolitiska-laget-i-europa/</guid>
-            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-
-
-      <h2 class="ds-teaser__title">
-          <span class="ds-teaser__highlight">Direkt.</span>
-        Uppgifter: Ryskt landstigningsfartyg förstört
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[• Grafik: Rysslands invasion av Ukraina]]></title>
-            <link>https://www.dn.se/varlden/grafik-rysslands-invasion-av-ukraina-2022/</link>
-            <guid>https://www.dn.se/varlden/grafik-rysslands-invasion-av-ukraina-2022/</guid>
-            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <h2 class="ds-teaser__title">
-        • Grafik: Rysslands invasion av Ukraina
-      </h2>
-
-    </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Sudoku]]></title>
@@ -1091,10 +1016,10 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Annika Norlin släpper ny musik]]></title>
-            <link>https://www.dn.se/kultur/annika-norlin-slapper-ny-musik/</link>
-            <guid>https://www.dn.se/kultur/annika-norlin-slapper-ny-musik/</guid>
-            <pubDate>Wed, 14 Feb 2024 09:08:14 GMT</pubDate>
+            <title><![CDATA[Är du en fena på kärlek?]]></title>
+            <link>https://www.dn.se/quiz/kultur/karlek-i-kulturens-varld/</link>
+            <guid>https://www.dn.se/quiz/kultur/karlek-i-kulturens-varld/</guid>
+            <pubDate>Wed, 14 Feb 2024 06:10:55 GMT</pubDate>
             <content:encoded><![CDATA[<div class="ds-teaser__media">
         
   <figure class="ds-teaser-image">
@@ -1105,21 +1030,30 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
 
       <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
           <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/f3c471f8-0a35-44e8-9134-462f3e090a15.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/f3c471f8-0a35-44e8-9134-462f3e090a15.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/f3c471f8-0a35-44e8-9134-462f3e090a15.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/68e117bd-a269-4476-893b-f3ee149609b4.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/68e117bd-a269-4476-893b-f3ee149609b4.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/68e117bd-a269-4476-893b-f3ee149609b4.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
 
           </noscript>
       </div>
 
 
-      <figcaption class="ds-teaser-image__byline">Foto: Erik Abel</figcaption>
+      <figcaption class="ds-teaser-image__byline">Foto: Gruffydd Thomas/Alamy</figcaption>
   </figure>
+
+            <div class="ds-vip-badge ds-vip-badge--text" aria-hidden="true">
+      <i class="ds-icon ds-icon--sprite ds-icon--vip">
+    <svg><use xlink:href="#ds-vip"></use></svg>
+  </i>
+
+    För dig som prenumererar
+  </div>
 
       </div>
 
     <div class="ds-teaser__content">
       <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">QUIZ</div>
         <h2 class="ds-teaser__title">
-          Annika Norlin släpper ny musik
+          Är du en fena på kärlek?
         </h2>
 
       </div>
@@ -1187,6 +1121,117 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
       <div class="ds-teaser__content-inner">
         <h2 class="ds-teaser__title">
           Tipsa DN:s granskande reportrar
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Annika Norlin släpper ny musik]]></title>
+            <link>https://www.dn.se/kultur/annika-norlin-slapper-ny-musik/</link>
+            <guid>https://www.dn.se/kultur/annika-norlin-slapper-ny-musik/</guid>
+            <pubDate>Wed, 14 Feb 2024 09:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/f3c471f8-0a35-44e8-9134-462f3e090a15.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/f3c471f8-0a35-44e8-9134-462f3e090a15.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/f3c471f8-0a35-44e8-9134-462f3e090a15.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: Erik Abel</figcaption>
+  </figure>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+        <h2 class="ds-teaser__title">
+          Annika Norlin släpper ny musik
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Delshad:
+          Som muslimsk kvinna får jag bara ångest av att bejaka min sexualitet]]></title>
+            <link>https://www.dn.se/kultur/sarah-delshad-som-muslimsk-kvinna-far-jag-bara-angest-av-att-bejaka-min-sexualitet/</link>
+            <guid>https://www.dn.se/kultur/sarah-delshad-som-muslimsk-kvinna-far-jag-bara-angest-av-att-bejaka-min-sexualitet/</guid>
+            <pubDate>Tue, 13 Feb 2024 16:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/38c37d6c-a68b-49b9-83f2-0b213ee4c0e9.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/38c37d6c-a68b-49b9-83f2-0b213ee4c0e9.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/38c37d6c-a68b-49b9-83f2-0b213ee4c0e9.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: Emma Kjellquist</figcaption>
+  </figure>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">KULTURDEBATT</div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Sarah Delshad:</span>
+          Som muslimsk kvinna får jag bara ångest av att bejaka min sexualitet
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vill du arbeta på DN? Sök sommarjobb nu]]></title>
+            <link>https://www.dn.se/sverige/jobba-pa-dagens-nyheter-i-sommar/</link>
+            <guid>https://www.dn.se/sverige/jobba-pa-dagens-nyheter-i-sommar/</guid>
+            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/9d6c0dc1-a6fd-4b3a-8566-b80d7af7dce1.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/9d6c0dc1-a6fd-4b3a-8566-b80d7af7dce1.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/9d6c0dc1-a6fd-4b3a-8566-b80d7af7dce1.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: Kevin Chang</figcaption>
+  </figure>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+        <h2 class="ds-teaser__title">
+          Vill du arbeta på DN? Sök sommarjobb nu
         </h2>
 
       </div>
@@ -1264,42 +1309,6 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Vill du arbeta på DN? Sök sommarjobb nu]]></title>
-            <link>https://www.dn.se/sverige/jobba-pa-dagens-nyheter-i-sommar/</link>
-            <guid>https://www.dn.se/sverige/jobba-pa-dagens-nyheter-i-sommar/</guid>
-            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__media">
-        
-  <figure class="ds-teaser-image">
-    
-      
-
-      
-
-      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/9d6c0dc1-a6fd-4b3a-8566-b80d7af7dce1.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/9d6c0dc1-a6fd-4b3a-8566-b80d7af7dce1.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/9d6c0dc1-a6fd-4b3a-8566-b80d7af7dce1.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-
-      <figcaption class="ds-teaser-image__byline">Foto: Kevin Chang</figcaption>
-  </figure>
-
-      </div>
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-        <h2 class="ds-teaser__title">
-          Vill du arbeta på DN? Sök sommarjobb nu
-        </h2>
-
-      </div>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Jonas Fröberg:
           Volvo EX30 är som Tesla fast sämre – 15 år senare]]></title>
             <link>https://www.dn.se/motor/jonas-froberg-volvo-ex30-ar-som-tesla-fast-samre-15-ar-senare/</link>
@@ -1368,6 +1377,43 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
     </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Fakta: Hur går kampen mot klimathotet?]]></title>
+            <link>https://www.dn.se/klimatet-just-nu/</link>
+            <guid>https://www.dn.se/klimatet-just-nu/</guid>
+            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/b873f0d4-506f-4dda-9b20-23c602df96ee.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/b873f0d4-506f-4dda-9b20-23c602df96ee.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/b873f0d4-506f-4dda-9b20-23c602df96ee.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: TT. Grafik: DN</figcaption>
+  </figure>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">KLIMATET JUST NU</div>
+        <h2 class="ds-teaser__title">
+          Fakta: Hur går kampen mot klimathotet?
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Väg stängs av – ska släppa fram grodor]]></title>
             <link>https://www.dn.se/varlden/brittisk-vag-stangs-i-sex-veckor-ska-slappa-fram-grodor/</link>
             <guid>https://www.dn.se/varlden/brittisk-vag-stangs-i-sex-veckor-ska-slappa-fram-grodor/</guid>
@@ -1404,6 +1450,35 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
     </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Susa fram på DN-elcykeln]]></title>
+            <link>https://www.elcykelvaruhuset.se/sv/dn-elcykel-2023.html</link>
+            <guid>https://www.elcykelvaruhuset.se/sv/dn-elcykel-2023.html</guid>
+            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/25481ce6-1a02-48c5-a52d-9a9bbf5dc031.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/25481ce6-1a02-48c5-a52d-9a9bbf5dc031.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/25481ce6-1a02-48c5-a52d-9a9bbf5dc031.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+  </figure>
+
+
+    <div class="ds-teaser__content">
+        <div class="ds-teaser__vignette">BESTÄLL DN-CYKELN</div>
+      <h2 class="ds-teaser__title">
+        Susa fram på DN-elcykeln
+      </h2>
+    </div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Charlotta Friborg lämnar SVT]]></title>
             <link>https://www.dn.se/kultur/charlotta-friborg-gar-till-sveriges-radio/</link>
             <guid>https://www.dn.se/kultur/charlotta-friborg-gar-till-sveriges-radio/</guid>
@@ -1433,43 +1508,6 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
       <div class="ds-teaser__content-inner">
         <h2 class="ds-teaser__title">
           Charlotta Friborg lämnar SVT
-        </h2>
-
-      </div>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Fakta: Hur går kampen mot klimathotet?]]></title>
-            <link>https://www.dn.se/klimatet-just-nu/</link>
-            <guid>https://www.dn.se/klimatet-just-nu/</guid>
-            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__media">
-        
-  <figure class="ds-teaser-image">
-    
-      
-
-      
-
-      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/b873f0d4-506f-4dda-9b20-23c602df96ee.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/b873f0d4-506f-4dda-9b20-23c602df96ee.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/b873f0d4-506f-4dda-9b20-23c602df96ee.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-
-      <figcaption class="ds-teaser-image__byline">Foto: TT. Grafik: DN</figcaption>
-  </figure>
-
-      </div>
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-          <div class="ds-teaser__vignette">KLIMATET JUST NU</div>
-        <h2 class="ds-teaser__title">
-          Fakta: Hur går kampen mot klimathotet?
         </h2>
 
       </div>
@@ -1513,11 +1551,13 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Susa fram på DN-elcykeln]]></title>
-            <link>https://www.elcykelvaruhuset.se/sv/dn-elcykel-2023.html</link>
-            <guid>https://www.elcykelvaruhuset.se/sv/dn-elcykel-2023.html</guid>
+            <title><![CDATA[Läs DN:s serier – nya varje dag]]></title>
+            <link>https://www.dn.se/serier/</link>
+            <guid>https://www.dn.se/serier/</guid>
             <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<figure class="ds-teaser-image">
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
     
       
 
@@ -1525,7 +1565,7 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
 
       <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
           <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/25481ce6-1a02-48c5-a52d-9a9bbf5dc031.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/25481ce6-1a02-48c5-a52d-9a9bbf5dc031.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/25481ce6-1a02-48c5-a52d-9a9bbf5dc031.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/147270b9-ab5c-4fbc-8ef7-db5b8fdacd61.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/147270b9-ab5c-4fbc-8ef7-db5b8fdacd61.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/147270b9-ab5c-4fbc-8ef7-db5b8fdacd61.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
 
           </noscript>
       </div>
@@ -1533,13 +1573,56 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
 
   </figure>
 
+      </div>
 
     <div class="ds-teaser__content">
-        <div class="ds-teaser__vignette">BESTÄLL DN-CYKELN</div>
-      <h2 class="ds-teaser__title">
-        Susa fram på DN-elcykeln
-      </h2>
+      <div class="ds-teaser__content-inner">
+        <h2 class="ds-teaser__title">
+          Läs DN:s serier – nya varje dag
+        </h2>
+
+      </div>
+
     </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[101]]></title>
+            <link>https://etidning.dn.se/</link>
+            <guid>https://etidning.dn.se/</guid>
+            <pubDate>Wed, 31 Jan 2024 06:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-group-header ds-group-header--icon">
+          <h2 class="ds-group-header__title">Dagens tidning 14 februari</h2>
+
+
+  </div>
+
+
+  <div class="edn-teaser__content">
+      <figure class="edn-teaser__image">
+        
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:144.7179%">
+          <noscript>
+              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-pages/2024/02/14/DN_20240214_0001-cupxwul.jpeg?interpolation=lanczos-none&amp;downsize=204:*&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-pages/2024/02/14/DN_20240214_0001-cupxwul.jpeg?interpolation=lanczos-none&amp;downsize=204:*&amp;output-quality=80 204w, https://cached-images.bonnier.news/gcs/bilder/dn-pages/2024/02/14/DN_20240214_0001-cupxwul.jpeg?interpolation=lanczos-none&amp;downsize=408:*&amp;output-quality=60 408w" sizes="204px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+      </figure>
+
+        <button type="button" aria-label="Läs e-DN" class="ds-btn ds-btn--primary   ds-btn--full-width">
+      <span aria-hidden="true">Läs e-DN</span>    
+  <span class="ds-spinner  ds-spinner--small ds-spinner--secondary" aria-hidden="true">
+    <span class="ds-spinner__inner"></span>
+  </span>
+
+
+    </button>
+
+  </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[DN fortsätter att göra ett starkt resultat]]></title>
@@ -1620,80 +1703,6 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
       </div>
 
     </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Läs DN:s serier – nya varje dag]]></title>
-            <link>https://www.dn.se/serier/</link>
-            <guid>https://www.dn.se/serier/</guid>
-            <pubDate>Tue, 30 Jan 2024 20:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__media">
-        
-  <figure class="ds-teaser-image">
-    
-      
-
-      
-
-      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/147270b9-ab5c-4fbc-8ef7-db5b8fdacd61.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/147270b9-ab5c-4fbc-8ef7-db5b8fdacd61.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/147270b9-ab5c-4fbc-8ef7-db5b8fdacd61.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-
-  </figure>
-
-      </div>
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-        <h2 class="ds-teaser__title">
-          Läs DN:s serier – nya varje dag
-        </h2>
-
-      </div>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[105]]></title>
-            <link>https://etidning.dn.se/</link>
-            <guid>https://etidning.dn.se/</guid>
-            <pubDate>Wed, 31 Jan 2024 06:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-group-header ds-group-header--icon">
-          <h2 class="ds-group-header__title">Dagens tidning 14 februari</h2>
-
-
-  </div>
-
-
-  <div class="edn-teaser__content">
-      <figure class="edn-teaser__image">
-        
-      
-
-      
-
-      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:144.7179%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-pages/2024/02/14/DN_20240214_0001-cupxwul.jpeg?interpolation=lanczos-none&amp;downsize=204:*&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-pages/2024/02/14/DN_20240214_0001-cupxwul.jpeg?interpolation=lanczos-none&amp;downsize=204:*&amp;output-quality=80 204w, https://cached-images.bonnier.news/gcs/bilder/dn-pages/2024/02/14/DN_20240214_0001-cupxwul.jpeg?interpolation=lanczos-none&amp;downsize=408:*&amp;output-quality=60 408w" sizes="204px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-      </figure>
-
-        <button type="button" aria-label="Läs e-DN" class="ds-btn ds-btn--primary   ds-btn--full-width">
-      <span aria-hidden="true">Läs e-DN</span>    
-  <span class="ds-spinner  ds-spinner--small ds-spinner--secondary" aria-hidden="true">
-    <span class="ds-spinner__inner"></span>
-  </span>
-
-
-    </button>
-
-  </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Johan Croneman:
@@ -1846,42 +1855,6 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NCT: ”Terrorhotet är fortsatt högt”]]></title>
-            <link>https://www.dn.se/sverige/nct-om-terrorhot-sverige-kan-bli-legitimt-mal-igen/</link>
-            <guid>https://www.dn.se/sverige/nct-om-terrorhot-sverige-kan-bli-legitimt-mal-igen/</guid>
-            <pubDate>Tue, 13 Feb 2024 06:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__media">
-        
-  <figure class="ds-teaser-image">
-    
-      
-
-      
-
-      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/386ee0e7-22c7-4fd7-8a40-99d403f249e0.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/386ee0e7-22c7-4fd7-8a40-99d403f249e0.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/386ee0e7-22c7-4fd7-8a40-99d403f249e0.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-
-      <figcaption class="ds-teaser-image__byline">Foto: Magnus Hallgren</figcaption>
-  </figure>
-
-      </div>
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-        <h2 class="ds-teaser__title">
-          NCT: ”Terrorhotet är fortsatt högt”
-        </h2>
-
-      </div>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Kroos om buropen i Saudiarabien: ”Sade allt rätt”]]></title>
             <link>https://www.dn.se/sport/kroos-om-buropen-i-saudiarabien-det-handlar-bara-om-pengarna/</link>
             <guid>https://www.dn.se/sport/kroos-om-buropen-i-saudiarabien-det-handlar-bara-om-pengarna/</guid>
@@ -1915,275 +1888,6 @@ Därför investerar hennes bolag bland annat i ledningsnät och energismarta fl�
 
       </div>
 
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Swift-yra gav Super Bowl tittarrekord]]></title>
-            <link>https://www.dn.se/kultur/swift-yra-gav-nytt-tittarrekord-for-super-bowl/</link>
-            <guid>https://www.dn.se/kultur/swift-yra-gav-nytt-tittarrekord-for-super-bowl/</guid>
-            <pubDate>Tue, 13 Feb 2024 09:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__media">
-        
-  <figure class="ds-teaser-image">
-    
-      
-
-      
-
-      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/9cfcacd4-3309-4abf-b8ba-2eba5a2dd96a.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/9cfcacd4-3309-4abf-b8ba-2eba5a2dd96a.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/9cfcacd4-3309-4abf-b8ba-2eba5a2dd96a.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-
-      <figcaption class="ds-teaser-image__byline">Foto: John Locher</figcaption>
-  </figure>
-
-      </div>
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-        <h2 class="ds-teaser__title">
-          Swift-yra gav Super Bowl tittarrekord
-        </h2>
-
-      </div>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nisse:
-          Visst och ovisst om en viss sviss]]></title>
-            <link>https://www.dn.se/kultur/nisse-visst-och-ovisst-om-en-viss-sviss/</link>
-            <guid>https://www.dn.se/kultur/nisse-visst-och-ovisst-om-en-viss-sviss/</guid>
-            <pubDate>Tue, 13 Feb 2024 09:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__media">
-        
-  <figure class="ds-teaser-image">
-    
-      
-
-      
-
-      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/ed9195e2-3bb1-45b1-904e-6cc140bb3c87.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/ed9195e2-3bb1-45b1-904e-6cc140bb3c87.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/ed9195e2-3bb1-45b1-904e-6cc140bb3c87.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-
-      <figcaption class="ds-teaser-image__byline">Foto: Joe McTyre</figcaption>
-  </figure>
-
-      </div>
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-          <div class="ds-teaser__vignette">KÅSERI</div>
-        <h2 class="ds-teaser__title">
-            <span class="ds-teaser__highlight">Nisse:</span>
-          Visst och ovisst om en viss sviss
-        </h2>
-
-      </div>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Christer ska hålla tal på sin egen begravning]]></title>
-            <link>https://www.dn.se/insidan/christer-kommer-att-tala-pa-sin-egen-begravning/</link>
-            <guid>https://www.dn.se/insidan/christer-kommer-att-tala-pa-sin-egen-begravning/</guid>
-            <pubDate>Mon, 12 Feb 2024 06:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__media">
-        
-  <figure class="ds-teaser-image">
-    
-      
-
-      
-
-      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/00919cd0-541f-4985-967c-b1448a8d826a.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/00919cd0-541f-4985-967c-b1448a8d826a.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/00919cd0-541f-4985-967c-b1448a8d826a.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-
-      <figcaption class="ds-teaser-image__byline">Foto: Alexander Mahmoud</figcaption>
-  </figure>
-
-            <div class="ds-vip-badge ds-vip-badge--text" aria-hidden="true">
-      <i class="ds-icon ds-icon--sprite ds-icon--vip">
-    <svg><use xlink:href="#ds-vip"></use></svg>
-  </i>
-
-    För dig som prenumererar
-  </div>
-
-      </div>
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-        <h2 class="ds-teaser__title">
-          Christer ska hålla tal på sin egen begravning
-        </h2>
-
-      </div>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Beyoncé är tillbaka med ny musik]]></title>
-            <link>https://www.dn.se/kultur/beyonce-tillbaka-med-ny-musik/</link>
-            <guid>https://www.dn.se/kultur/beyonce-tillbaka-med-ny-musik/</guid>
-            <pubDate>Mon, 12 Feb 2024 16:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__media">
-        
-  <figure class="ds-teaser-image">
-    
-      
-
-      
-
-      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-mly/0cb6bc76-a571-4fc9-b275-e12e9472f166.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-mly/0cb6bc76-a571-4fc9-b275-e12e9472f166.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://cached-images.bonnier.news/gcs/bilder/dn-mly/0cb6bc76-a571-4fc9-b275-e12e9472f166.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-
-      <figcaption class="ds-teaser-image__byline">Foto: USA TODAY Network</figcaption>
-  </figure>
-
-      </div>
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-        <h2 class="ds-teaser__title">
-          Beyoncé är tillbaka med ny musik
-        </h2>
-
-      </div>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Alex Schulman:
-          Jag känner en kall sorg när barndomens tunnelbana lämnar Stockholm]]></title>
-            <link>https://www.dn.se/sverige/alex-schulman-jag-kanner-en-kall-sorg-nar-barndomens-tunnelbana-lamnar-stockholm/</link>
-            <guid>https://www.dn.se/sverige/alex-schulman-jag-kanner-en-kall-sorg-nar-barndomens-tunnelbana-lamnar-stockholm/</guid>
-            <pubDate>Mon, 12 Feb 2024 06:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-vip-badge" aria-hidden="true">
-      <i class="ds-icon ds-icon--sprite ds-icon--vip">
-    <svg><use xlink:href="#ds-vip"></use></svg>
-  </i>
-
-    
-  </div>
-
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-          <div class="ds-teaser__vignette">KRÖNIKA</div>
-        <h2 class="ds-teaser__title">
-            <span class="ds-teaser__highlight">Alex Schulman:</span>
-          Jag känner en kall sorg när barndomens tunnelbana lämnar Stockholm
-        </h2>
-
-      </div>
-
-        <div class="ds-teaser__byline">
-          
-      
-
-      
-
-      <div class="picture   lazy-image" style="padding-bottom:306%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-author/ttaf3io465mdzss743ztu6op3myymd3q3m6q33yyfrvbvfbi7jla-1000x3060.png?interpolation=lanczos-none&amp;downsize=96:*&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-author/ttaf3io465mdzss743ztu6op3myymd3q3m6q33yyfrvbvfbi7jla-1000x3060.png?interpolation=lanczos-none&amp;downsize=96:*&amp;output-quality=80 96w, https://cached-images.bonnier.news/gcs/bilder/dn-author/ttaf3io465mdzss743ztu6op3myymd3q3m6q33yyfrvbvfbi7jla-1000x3060.png?interpolation=lanczos-none&amp;downsize=192:*&amp;output-quality=60 192w" sizes="96px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-        </div>
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Lisa Magnusson:
-          Ett år efter jordbävningarna kämpar överlevarna fortfarande]]></title>
-            <link>https://www.dn.se/ledare/lisa-magnusson-ett-ar-efter-jordbavningarna-kampar-overlevarna-fortfarande/</link>
-            <guid>https://www.dn.se/ledare/lisa-magnusson-ett-ar-efter-jordbavningarna-kampar-overlevarna-fortfarande/</guid>
-            <pubDate>Mon, 12 Feb 2024 09:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-          <div class="ds-teaser__vignette">LEDARE | SIGNERAT</div>
-        <h2 class="ds-teaser__title">
-            <span class="ds-teaser__highlight">Lisa Magnusson:</span>
-          Ett år efter jordbävningarna kämpar överlevarna fortfarande
-        </h2>
-
-      </div>
-
-        <div class="ds-teaser__byline">
-          
-      
-
-      
-
-      <div class="picture   lazy-image" style="padding-bottom:214.0127%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-author/b5s7jpxavknp7pfvcttvjfy524pc5lho7d6ipptbjl3nfoardiba-471x1008.png?interpolation=lanczos-none&amp;downsize=96:*&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-author/b5s7jpxavknp7pfvcttvjfy524pc5lho7d6ipptbjl3nfoardiba-471x1008.png?interpolation=lanczos-none&amp;downsize=96:*&amp;output-quality=80 96w, https://cached-images.bonnier.news/gcs/bilder/dn-author/b5s7jpxavknp7pfvcttvjfy524pc5lho7d6ipptbjl3nfoardiba-471x1008.png?interpolation=lanczos-none&amp;downsize=192:*&amp;output-quality=60 192w" sizes="96px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-        </div>
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Roland Paulsen:
-          När min psykoanalytiker somnade visste jag inte vad jag skulle göra]]></title>
-            <link>https://www.dn.se/kultur/roland-paulsen-nar-min-psykoanalytiker-somnade-visste-jag-inte-vad-jag-skulle-gora/</link>
-            <guid>https://www.dn.se/kultur/roland-paulsen-nar-min-psykoanalytiker-somnade-visste-jag-inte-vad-jag-skulle-gora/</guid>
-            <pubDate>Sun, 11 Feb 2024 06:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-vip-badge" aria-hidden="true">
-      <i class="ds-icon ds-icon--sprite ds-icon--vip">
-    <svg><use xlink:href="#ds-vip"></use></svg>
-  </i>
-
-    
-  </div>
-
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-          <div class="ds-teaser__vignette">KULTUR</div>
-        <h2 class="ds-teaser__title">
-            <span class="ds-teaser__highlight">Roland Paulsen:</span>
-          När min psykoanalytiker somnade visste jag inte vad jag skulle göra
-        </h2>
-
-      </div>
-
-        <div class="ds-teaser__byline">
-          
-      
-
-      
-
-      <div class="picture   lazy-image" style="padding-bottom:197.8723%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-author/f7zws7fwlj76mqq4xiwx4vgcwcs3kzofoehjgj2hflzqzxs6i6jq-517x1023.png?interpolation=lanczos-none&amp;downsize=96:*&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-author/f7zws7fwlj76mqq4xiwx4vgcwcs3kzofoehjgj2hflzqzxs6i6jq-517x1023.png?interpolation=lanczos-none&amp;downsize=96:*&amp;output-quality=80 96w, https://cached-images.bonnier.news/gcs/bilder/dn-author/f7zws7fwlj76mqq4xiwx4vgcwcs3kzofoehjgj2hflzqzxs6i6jq-517x1023.png?interpolation=lanczos-none&amp;downsize=192:*&amp;output-quality=60 192w" sizes="96px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-        </div>
     </div>]]></content:encoded>
         </item>
     </channel>
