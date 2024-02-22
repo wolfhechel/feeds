@@ -4,15 +4,26 @@
         <title>Svenska Dagbladet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 09:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 11:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Flera skadade i attack på tysk skola]]></title>
+            <link>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=29800</link>
+            <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=29800</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mälartågen bryter avtal med MTR]]></title>
+            <link>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=29797</link>
+            <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=29797</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alltid senaste nytt – följ SvD direkt]]></title>
             <link>https://www.svd.se/a/wA9Gmd/senaste-nytt</link>
             <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt</guid>
             <pubDate>Sat, 17 Feb 2024 16:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Liverapport med de senaste nyheterna.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Sydkorea: Vi kan bygga kärnkraft till bäst pris]]></title>
@@ -45,13 +56,6 @@
             <content:encoded><![CDATA[”Det här kan kanske med rätta väcka funderingar hos en del.”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Sverige klarar krisen bäst – trots minskningen]]></title>
-            <link>https://www.svd.se/a/KndXW4/svenska-startups-star-starka-i-techbranschen-trots-global-nedgang</link>
-            <guid>https://www.svd.se/a/KndXW4/svenska-startups-star-starka-i-techbranschen-trots-global-nedgang</guid>
-            <pubDate>Thu, 22 Feb 2024 09:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[Investeringarna i techbolag sinar, men gröna megaprojekt gör att Sverige sticker ut.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Resor utanför skollov stoppas på flygplatsen]]></title>
             <link>https://www.svd.se/a/Q7QMXP/familjeresor-utanfor-skolloven-kan-leda-till-boter</link>
             <guid>https://www.svd.se/a/Q7QMXP/familjeresor-utanfor-skolloven-kan-leda-till-boter</guid>
@@ -59,18 +63,25 @@
             <content:encoded><![CDATA[Vapnet mot ledighetsfuskande barnfamiljer i Tyskland: Poliskontroller.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Ska drogerna fälla Elon Musk?]]></title>
+            <link>https://www.svd.se/a/GM4Jm6/svd-tech-brief-podd-ska-drogerna-falla-elon-musk</link>
+            <guid>https://www.svd.se/a/GM4Jm6/svd-tech-brief-podd-ska-drogerna-falla-elon-musk</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[PODD | Björn Jeffery spår att världens rikaste man har nått sin peak.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sverige klarar krisen bäst – trots minskningen]]></title>
+            <link>https://www.svd.se/a/KndXW4/svenska-startups-star-starka-i-techbranschen-trots-global-nedgang</link>
+            <guid>https://www.svd.se/a/KndXW4/svenska-startups-star-starka-i-techbranschen-trots-global-nedgang</guid>
+            <pubDate>Thu, 22 Feb 2024 09:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[Investeringarna i techbolag sinar, men gröna megaprojekt gör att Sverige sticker ut.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Hatet mot ministern avslöjar svenskarna]]></title>
             <link>https://www.svd.se/a/y6ae1J/darfor-ar-romina-pourmokhtari-sa-hatad</link>
             <guid>https://www.svd.se/a/y6ae1J/darfor-ar-romina-pourmokhtari-sa-hatad</guid>
             <pubDate>Thu, 22 Feb 2024 06:09:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>Björn Werner: </strong>Romina Pourmokhtaris stora problem är inte den omtalade intervjun.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Besöket förvånar oppositionen i Ungern]]></title>
-            <link>https://www.svd.se/a/RGvQBx/kristerssons-besok-i-budapest-forvanar-oppositionen-i-ungern</link>
-            <guid>https://www.svd.se/a/RGvQBx/kristerssons-besok-i-budapest-forvanar-oppositionen-i-ungern</guid>
-            <pubDate>Thu, 22 Feb 2024 06:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[Ungersk politiker kritisk: ”Aldrig meningsfullt att bygga en relation på utpressning.”]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Ser med sorg på mina barns föräldraskap”]]></title>
@@ -81,53 +92,60 @@
             <enclosure url="https://svd.vgc.no/v2/images/1252a4d2-29d2-431a-ba35-1b139d5529ee?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=64a1c7970efcd541561a2321cda4828943a8601f" length="0" type="image//v2/images/1252a4d2-29d2-431a-ba35-1b139d5529ee"/>
         </item>
         <item>
+            <title><![CDATA[Ska drogerna fälla Elon Musk?]]></title>
+            <link>https://www.svd.se/a/GM4Jm6/svd-tech-brief-podd-ska-drogerna-falla-elon-musk</link>
+            <guid>https://www.svd.se/a/GM4Jm6/svd-tech-brief-podd-ska-drogerna-falla-elon-musk</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Ska drogerna fälla Elon Musk? </h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SBU: Ryssland attackerar med nordkoreanska vapen]]></title>
+            <link>https://www.svd.se/a/dw6Bbo/sbu-ryssland-attackerar-med-nordkoreanska-vapen</link>
+            <guid>https://www.svd.se/a/dw6Bbo/sbu-ryssland-attackerar-med-nordkoreanska-vapen</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">SBU: Ryssland attackerar med nordkoreanska vapen</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Samuel Fröler charmar i livslögnernas landskap]]></title>
+            <link>https://www.svd.se/a/RGvjpa/recension-samuel-froler-i-valspelad-moralitet-pa-playhouse-teater</link>
+            <guid>https://www.svd.se/a/RGvjpa/recension-samuel-froler-i-valspelad-moralitet-pa-playhouse-teater</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Samuel Fröler charmar i livslögnernas landskap</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Avgörandets stund för Nikki Haley]]></title>
+            <link>https://www.svd.se/a/EQOgvP/avgorandets-stund-for-nikki-haley</link>
+            <guid>https://www.svd.se/a/EQOgvP/avgorandets-stund-for-nikki-haley</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Avgörandets stund för Nikki Haley</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Andersson: Kristersson backar från vårdlöftet]]></title>
+            <link>https://www.svd.se/a/76bgBB/andersson-kristersson-backar-fran-vardloftet</link>
+            <guid>https://www.svd.se/a/76bgBB/andersson-kristersson-backar-fran-vardloftet</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Andersson: Kristersson backar från vårdlöftet</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Blandning är fel medicin för skolan]]></title>
+            <link>https://www.svd.se/a/mQOxL4/eleverna-spreds-men-betygen-sjonk</link>
+            <guid>https://www.svd.se/a/mQOxL4/eleverna-spreds-men-betygen-sjonk</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Inger Enkvist: </strong>Experimentet i Vivalla slutade med ännu sämre skolresultat.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Besöket förvånar oppositionen i Ungern]]></title>
+            <link>https://www.svd.se/a/RGvQBx/kristerssons-besok-i-budapest-forvanar-oppositionen-i-ungern</link>
+            <guid>https://www.svd.se/a/RGvQBx/kristerssons-besok-i-budapest-forvanar-oppositionen-i-ungern</guid>
+            <pubDate>Thu, 22 Feb 2024 06:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[Ungersk politiker kritisk: ”Aldrig meningsfullt att bygga en relation på utpressning.”]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[”Miljardnota för nya restriktiva politiken”]]></title>
             <link>https://www.svd.se/a/RGvX0x/timbro-miljardnota-for-restriktiva-politiken-kring-arbetskraftsinvandring</link>
             <guid>https://www.svd.se/a/RGvX0x/timbro-miljardnota-for-restriktiva-politiken-kring-arbetskraftsinvandring</guid>
             <pubDate>Thu, 22 Feb 2024 09:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">”Miljardnota för nya restriktiva politiken”</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dödligt våld mot unga allt vanligare]]></title>
-            <link>https://www.svd.se/a/0QPJMo/dodligt-vald-mot-unga-allt-vanligare</link>
-            <guid>https://www.svd.se/a/0QPJMo/dodligt-vald-mot-unga-allt-vanligare</guid>
-            <pubDate>Thu, 22 Feb 2024 09:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Dödligt våld mot unga allt vanligare</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[300 tillstånd avslås – företag anses oseriöst]]></title>
-            <link>https://www.svd.se/a/RGv2ea/300-tillstand-avslas-foretag-anses-oseriost</link>
-            <guid>https://www.svd.se/a/RGv2ea/300-tillstand-avslas-foretag-anses-oseriost</guid>
-            <pubDate>Thu, 22 Feb 2024 09:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">300 tillstånd avslås – företag anses oseriöst</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Succé för Nvidia – brakförlust för Viaplay]]></title>
-            <link>https://www.svd.se/a/76bMB3/viaplay-gor-brakforlust-efter-sportfiasko</link>
-            <guid>https://www.svd.se/a/76bMB3/viaplay-gor-brakforlust-efter-sportfiasko</guid>
-            <pubDate>Thu, 22 Feb 2024 09:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Succé för Nvidia – brakförlust för Viaplay</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sverige klarar krisen bäst – trots minskningen]]></title>
-            <link>https://www.svd.se/a/KndXW4/svenska-startups-star-starka-i-techbranschen-trots-global-nedgang</link>
-            <guid>https://www.svd.se/a/KndXW4/svenska-startups-star-starka-i-techbranschen-trots-global-nedgang</guid>
-            <pubDate>Thu, 22 Feb 2024 09:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Sverige klarar krisen bäst – trots minskningen</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Förskolans personal är inga soldater]]></title>
-            <link>https://www.svd.se/a/O8wX6w/forskolelararna-i-malmo-kan-inte-besegra-hedersfortryck</link>
-            <guid>https://www.svd.se/a/O8wX6w/forskolelararna-i-malmo-kan-inte-besegra-hedersfortryck</guid>
-            <pubDate>Wed, 21 Feb 2024 16:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Paulina Neuding: </strong>Det är självklart att pedagoger inte kan – eller vågar – bekämpa hedersförtryck.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Låt männen sura – Taylor är för oss tjejer]]></title>
-            <link>https://www.svd.se/a/gE5PBB/taylor-swift-skildrar-den-kvinnliga-upplevelsen-och-vreden</link>
-            <guid>https://www.svd.se/a/gE5PBB/taylor-swift-skildrar-den-kvinnliga-upplevelsen-och-vreden</guid>
-            <pubDate>Thu, 22 Feb 2024 06:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Josefin de Gregorio: </strong>Lyssnar på låten tio gånger – hittar nyckeln till artistens storhet.]]></content:encoded>
+            <content:encoded><![CDATA[Slutreplik om arbetskraftsinvandring.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Bästa falukorven levererar på alla plan]]></title>
@@ -137,33 +155,26 @@
             <content:encoded><![CDATA[Detaljerna som avgör – testvinnaren får full pott av både barn och vuxna.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SBAB: Räkna med fem räntesänkningar]]></title>
-            <link>https://www.svd.se/a/rlkyra/sbab-rakna-med-fem-rantesankningar</link>
-            <guid>https://www.svd.se/a/rlkyra/sbab-rakna-med-fem-rantesankningar</guid>
-            <pubDate>Thu, 22 Feb 2024 06:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[Förväntar sig ökning av bostadspriserna med två procent.]]></content:encoded>
+            <title><![CDATA[Utsatta hotas via barnens onlinespel]]></title>
+            <link>https://www.svd.se/a/kE2LPQ/utsatta-hotas-via-swish-och-barnens-onlinespel</link>
+            <guid>https://www.svd.se/a/kE2LPQ/utsatta-hotas-via-swish-och-barnens-onlinespel</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[Kvinnojouren om problemen med kontaktförbud]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hålet i berget fortsätter sluka miljarder]]></title>
-            <link>https://www.svd.se/a/zEvgW9/bussterminalen-vid-slussen-fortsatter-sluka-miljarder</link>
-            <guid>https://www.svd.se/a/zEvgW9/bussterminalen-vid-slussen-fortsatter-sluka-miljarder</guid>
+            <title><![CDATA[Låt männen sura – Taylor är för oss tjejer]]></title>
+            <link>https://www.svd.se/a/gE5PBB/taylor-swift-skildrar-den-kvinnliga-upplevelsen-och-vreden</link>
+            <guid>https://www.svd.se/a/gE5PBB/taylor-swift-skildrar-den-kvinnliga-upplevelsen-och-vreden</guid>
             <pubDate>Thu, 22 Feb 2024 06:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[Trafikregionrådet: ”Smärtgränsen är nådd” • Oklart vem som tar notan för bussterminalen vid Slussen.]]></content:encoded>
+            <content:encoded><![CDATA[<strong>Josefin de Gregorio: </strong>Lyssnar på låten tio gånger – hittar nyckeln till artistens storhet.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Swedbank riskerar böta 10 miljarder i USA]]></title>
-            <link>https://www.svd.se/a/RGvjLA/efter-penningtvattsharvan-swedbank-riskerar-boter-pa-10-miljarder</link>
-            <guid>https://www.svd.se/a/RGvjLA/efter-penningtvattsharvan-swedbank-riskerar-boter-pa-10-miljarder</guid>
-            <pubDate>Thu, 22 Feb 2024 06:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[Amerikanska utredningen om penningtvätt kan snart vara klar.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Jag flyger till Mauritius utan skam”]]></title>
-            <link>https://www.svd.se/a/onXO6R/flygskammen-ar-borta-skamlost-resande-ar-tillbaka</link>
-            <guid>https://www.svd.se/a/onXO6R/flygskammen-ar-borta-skamlost-resande-ar-tillbaka</guid>
-            <pubDate>Thu, 22 Feb 2024 09:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[”Äcklad” vän vägrade prata med Björn Werner – sedan fick flygresan oväntat stöd.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/5102e5ec-0ee4-4268-83ce-654eab4503f4?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=8ab00904651454fd35c04401cca2727f7f6f6a51" length="0" type="image//v2/images/5102e5ec-0ee4-4268-83ce-654eab4503f4"/>
+            <title><![CDATA[Nyheter i deklarationen: ”Skyhöga belopp i år”]]></title>
+            <link>https://www.svd.se/a/3Er4nA/deklaration-och-skatteaterbaring-allt-du-behover-veta-2024</link>
+            <guid>https://www.svd.se/a/3Er4nA/deklaration-och-skatteaterbaring-allt-du-behover-veta-2024</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[SvD guidar till skatteåterbäringen – tjänsterna du behöver ha koll på när du ska deklarera.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/23918f29-9c47-4ed0-92ee-a0650426fbb6?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=2c899529f2c0e8cf17ea820d01d940440e77304d" length="0" type="image//v2/images/23918f29-9c47-4ed0-92ee-a0650426fbb6"/>
         </item>
         <item>
             <title><![CDATA[Tillbaka på jorden – då ökar spänningen]]></title>
@@ -180,25 +191,32 @@
             <content:encoded><![CDATA[I popvärlden: Attack mot Ed Sheeran • Beyoncé historisk • Mob 47 på Slakthuset]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Hålet i berget fortsätter sluka miljarder]]></title>
+            <link>https://www.svd.se/a/zEvgW9/bussterminalen-vid-slussen-fortsatter-sluka-miljarder</link>
+            <guid>https://www.svd.se/a/zEvgW9/bussterminalen-vid-slussen-fortsatter-sluka-miljarder</guid>
+            <pubDate>Thu, 22 Feb 2024 06:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[Trafikregionrådet: ”Smärtgränsen är nådd” • Oklart vem som tar notan för bussterminalen vid Slussen.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rysk krigskritiker hindras ställa upp i val]]></title>
+            <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
+            <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
+            <pubDate>Fri, 02 Feb 2024 09:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Presidentaspiranten har beskrivit kriget i Ukraina som ett stort misstag • Senaste nytt.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Historiskt få barn föds i Sverige]]></title>
+            <link>https://www.svd.se/a/WRn222/lagsta-folkokningen-pa-over-20-ar</link>
+            <guid>https://www.svd.se/a/WRn222/lagsta-folkokningen-pa-over-20-ar</guid>
+            <pubDate>Thu, 22 Feb 2024 11:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[Antalet födda barn per kvinna lägsta någonsin, enligt SCB.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Elliot drogs in i relation med sin sjuksköterska]]></title>
             <link>https://www.svd.se/a/nQdGBQ/vardare-i-psykiatrin-inledde-sexuella-relationer-med-patienter</link>
             <guid>https://www.svd.se/a/nQdGBQ/vardare-i-psykiatrin-inledde-sexuella-relationer-med-patienter</guid>
             <pubDate>Wed, 21 Feb 2024 06:10:13 GMT</pubDate>
             <content:encoded><![CDATA[SvD granskar: Tidigare patienter inom psykiatrin vittnar om hur personalen inleder förbjudna relationer.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Källor: Iran har skickat robotar till Ryssland]]></title>
-            <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
-            <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
-            <pubDate>Fri, 02 Feb 2024 09:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Över 400 ballistiska robotar ska ha levererats • Senaste nytt.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia slår höga förväntningarna]]></title>
-            <link>https://www.svd.se/a/kE2PpX/nvidia-slapper-rapport-haller-ai-sektorn-i-skruvstad</link>
-            <guid>https://www.svd.se/a/kE2PpX/nvidia-slapper-rapport-haller-ai-sektorn-i-skruvstad</guid>
-            <pubDate>Thu, 22 Feb 2024 06:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[Släppte rapport under onsdagskvällen.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Ambulanspersonal: ”Behövs år av terapi”]]></title>
@@ -215,63 +233,56 @@
             <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Flera personer allvarligt skadade • Senaste nytt.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hit har det blivit billigare att resa]]></title>
-            <link>https://www.svd.se/a/RGv1ad/har-ar-landerna-som-blivit-billigare-att-resa-till-som-svensk</link>
-            <guid>https://www.svd.se/a/RGv1ad/har-ar-landerna-som-blivit-billigare-att-resa-till-som-svensk</guid>
-            <pubDate>Wed, 21 Feb 2024 16:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[En destination sticker ut – trots hög inflation och svag krona.]]></content:encoded>
+            <title><![CDATA[SBAB: Räkna med fem räntesänkningar]]></title>
+            <link>https://www.svd.se/a/rlkyra/sbab-rakna-med-fem-rantesankningar</link>
+            <guid>https://www.svd.se/a/rlkyra/sbab-rakna-med-fem-rantesankningar</guid>
+            <pubDate>Thu, 22 Feb 2024 06:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[Förväntar sig ökning av bostadspriserna med två procent.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Säpochefen: ”Sverige är ett attraktivt mål”]]></title>
-            <link>https://www.svd.se/a/5B9kv6/sapo-pekar-ut-ryssland-som-storsta-hotet-mot-sverige</link>
-            <guid>https://www.svd.se/a/5B9kv6/sapo-pekar-ut-ryssland-som-storsta-hotet-mot-sverige</guid>
-            <pubDate>Wed, 21 Feb 2024 11:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[Charlotte von Essen om vad Ryssland vill sno från Sverige.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[31]]></title>
+            <title><![CDATA[33]]></title>
             <link>https://kund.svd.se/kundinfo/dagens-tidning.html?utm_source=svdse&amp;utm_medium=b2c&amp;utm_content=dt&amp;utm_campaign=dt&amp;intcmp=svdse:b2c:dt:dt</link>
             <guid>https://kund.svd.se/kundinfo/dagens-tidning.html?utm_source=svdse&amp;utm_medium=b2c&amp;utm_content=dt&amp;utm_campaign=dt&amp;intcmp=svdse:b2c:dt:dt</guid>
             <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
             <content:encoded><![CDATA[torsdag 22 februari]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[32]]></title>
+            <title><![CDATA[34]]></title>
             <link>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vad_vi_ater#!/Vad-vi-ater/p/624013091/category=161931057</link>
             <guid>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vad_vi_ater#!/Vad-vi-ater/p/624013091/category=161931057</guid>
             <pubDate>Mon, 12 Feb 2024 16:08:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Bok</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">239 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Vad vi äter</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/e7669472f714aa4cb5fc81120f33fe5c6707f8b29b1f8192aad3e72ef0a89ee6.jpeg" alt="Vad vi äter"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[33]]></title>
+            <title><![CDATA[35]]></title>
             <link>https://accent.svd.se/nordliga-nationalparker-strovtag-med-natur-och-kultur.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=nationalparker</link>
             <guid>https://accent.svd.se/nordliga-nationalparker-strovtag-med-natur-och-kultur.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=nationalparker</guid>
             <pubDate>Mon, 19 Feb 2024 11:06:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">14 600 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Nordliga Nationalparker</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/0c372305b8d0c458530522cd3eb3a944d3d08ff48d29f81d6a5439610793723a.jpeg" alt="Nordliga Nationalparker"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[34]]></title>
+            <title><![CDATA[36]]></title>
             <link>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=nodradio#!/Kraftfull-Nodradio/p/628519817/category=0</link>
             <guid>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=nodradio#!/Kraftfull-Nodradio/p/628519817/category=0</guid>
             <pubDate>Mon, 19 Feb 2024 11:06:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Reach</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">699 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Nödradio</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/592e40f469d2f7e2f586158a1f52adcd8227a9479b33e14f3cb371c3ca93b3e8.jpeg" alt="Nödradio"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[35]]></title>
+            <title><![CDATA[37]]></title>
             <link>https://accent.svd.se/skottlands-historiska-hjarta.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=skottland</link>
             <guid>https://accent.svd.se/skottlands-historiska-hjarta.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=skottland</guid>
             <pubDate>Mon, 19 Feb 2024 11:06:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">33 990 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Skottlands historiska hjärta</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/dacad1f70950c76626711f95431eef414e89dc4fd34dace13b6668133d50f7ac.jpeg" alt="Skottlands historiska hjärta"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[36]]></title>
+            <title><![CDATA[38]]></title>
             <link>https://accent.svd.se/historiska-palermo.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=palermo</link>
             <guid>https://accent.svd.se/historiska-palermo.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=palermo</guid>
             <pubDate>Mon, 19 Feb 2024 11:06:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">28 800 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Historiska Palermo</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/12c4ebdfa180ecd48f846edb3368006023367fc0f6dc1e5bc521ba990d6cefa9.jpeg" alt="Historiska Palermo"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[37]]></title>
+            <title><![CDATA[39]]></title>
             <link>https://accent.svd.se/sprakkurs-i-italienska.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=italienska</link>
             <guid>https://accent.svd.se/sprakkurs-i-italienska.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=italienska</guid>
             <pubDate>Mon, 19 Feb 2024 11:06:21 GMT</pubDate>
