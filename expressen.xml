@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.expressen.se</id>
     <title>Expressen</title>
-    <updated>2024-02-27T09:08:10.893Z</updated>
+    <updated>2024-02-27T11:06:24.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.cdn-expressen.se/bundles/expressen/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JUST NU: Allvarligt skadad efter skjutning]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/skjutning-i-karlstad-/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/skjutning-i-karlstad-/"/>
+        <updated>2024-02-27T11:06:15.482Z</updated>
+        <content type="html"><![CDATA[Man skjuten i Karlstad • Tredje skadade på kort tid]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST NU: Hackerattack mot sjukhus]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/sjukhus-i-stockholm-utsatt-for-hackerattack-/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/sjukhus-i-stockholm-utsatt-for-hackerattack-/"/>
+        <updated>2024-02-27T11:06:15.489Z</updated>
+        <content type="html"><![CDATA[Sjukhus i Stockholm drabbat, skriver SVT]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Röda korsets hemliga samarbete med Putin]]></title>
         <id>https://www.expressen.se/nyheter/varlden/sa-tog-putin-makten-over-ryska-roda-korset/</id>
         <link href="https://www.expressen.se/nyheter/varlden/sa-tog-putin-makten-over-ryska-roda-korset/"/>
         <updated>2024-02-27T06:11:04.022Z</updated>
-        <content type="html"><![CDATA[Läckta dokument visar: Putins makt över hjälporganisationen i Ryssland]]></content>
+        <content type="html"><![CDATA[Läckta dokument visar makten över hjälporganisationen i Ryssland]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Läckan avslöjar Putins hjärntvätt av sitt folk]]></title>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[“Ideologiska kriget” inför ryska valet]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://www.expressen.se/nyheter/varlden/expressen-i-internationellt-samarbete-unik-inblick-i-putins-regim/</id>
         <link href="https://www.expressen.se/nyheter/varlden/expressen-i-internationellt-samarbete-unik-inblick-i-putins-regim/"/>
         <updated>2024-02-26T06:10:56.002Z</updated>
@@ -34,18 +48,39 @@
         <content type="html"><![CDATA[Gick emot i Ungerns parlament • ”Provokation mot Ryssland”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[6]]></title>
         <id>https://www.expressen.se/nyheter/sverige/ungern-sager-ja-till-sverige-i-nato-detta-hander-nu/</id>
         <link href="https://www.expressen.se/nyheter/sverige/ungern-sager-ja-till-sverige-i-nato-detta-hander-nu/"/>
         <updated>2024-02-27T06:11:03.915Z</updated>
         <content type="html"><![CDATA[Detta händer nu – Sverige inte medlem än]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slut på adhd-medicin för barn i hela landet]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/adhd-medicin-slut-i-hela-landet/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/adhd-medicin-slut-i-hela-landet/"/>
-        <updated>2024-02-27T09:08:02.472Z</updated>
-        <content type="html"><![CDATA[Prognosen: Tillbaka i mitten av mars • Kritiken: Jättemärkligt]]></content>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/tag-utan-forare-skenade-i-80-kilometer</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/tag-utan-forare-skenade-i-80-kilometer"/>
+        <updated>2024-02-27T11:06:15.232Z</updated>
+        <content type="html"><![CDATA[<video style="width:100%;aspect-ratio:16/9;display:block;" src="https://4e4b15760ed94d2e1d4e90e3db99b61c-httpcache0-03837-cachedown0.dna.ip-only.net/03837-cachedown0/ncode/2024-02-26/tvtool81c46a4f-c28a-47f0-8a17-bac4f34ea640_1708953279051/tvtool81c46a4f-c28a-47f0-8a17-bac4f34ea640_1708953279051_576p.mp4" autoplay="" loop="" muted="" playsinline=""></video>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Förarlöst tåg skenar i ilfart i 80 kilometer]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/tag-utan-forare-skenade-i-80-kilometer/</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/tag-utan-forare-skenade-i-80-kilometer/"/>
+        <updated>2024-02-27T11:06:15.494Z</updated>
+        <content type="html"><![CDATA[Föraren tog tépaus – lämnade motorn på • Livsfarliga färden]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kändisparets kroppar hittade – exet misstänks]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/polis-misstanks-ha-mordat-ex-pojkvan/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/polis-misstanks-ha-mordat-ex-pojkvan/"/>
+        <updated>2024-02-27T11:06:15.496Z</updated>
+        <content type="html"><![CDATA[Jesse Baird och hans pojkvän hittades döda i Australien • Polis misstänks]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14-åringen stod öga mot öga med vargen]]></title>
+        <id>https://www.expressen.se/tv/nyheter/14-ariga-edward-stod-oga-mot-oga-med-vargen-pa-min-fucking-vag/</id>
+        <link href="https://www.expressen.se/tv/nyheter/14-ariga-edward-stod-oga-mot-oga-med-vargen-pa-min-fucking-vag/"/>
+        <updated>2024-02-27T06:11:04.035Z</updated>
+        <content type="html"><![CDATA["Vad i helvete!"]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rymduppdrag avbryts – vurpade på månen]]></title>
@@ -83,25 +118,11 @@
         <content type="html"><![CDATA[”En plötslig rysk kollaps kan göra att det går fort”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
+        <title type="html"><![CDATA[16]]></title>
         <id>https://www.expressen.se/nyheter/varlden/expressen-och-unhcr--i-samarbete-for-ukraina/</id>
         <link href="https://www.expressen.se/nyheter/varlden/expressen-och-unhcr--i-samarbete-for-ukraina/"/>
         <updated>2024-02-23T06:10:19.778Z</updated>
         <content type="html"><![CDATA[<picture class="lazy"><source style="margin-top:16.335%"><img data-srcset="https://static.cdn-expressen.se/images/05/88/0588e17b72a64ca3929be84ea54b203b/annan/640@60.jpg 640w,https://static.cdn-expressen.se/images/05/88/0588e17b72a64ca3929be84ea54b203b/annan/1280@40.jpg 1280w" sizes="(-webkit-min-device-pixel-ratio: 2) 1280px,(min-resolution: 192dpi) 1280px,640px" alt=""><noscript><img src="https://static.cdn-expressen.se/images/05/88/0588e17b72a64ca3929be84ea54b203b/annan/640@60.jpg" alt></noscript></picture>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12]]></title>
-        <id>https://www.expressen.se/tv/nyheter/14-ariga-edward-stod-oga-mot-oga-med-vargen-pa-min-fucking-vag</id>
-        <link href="https://www.expressen.se/tv/nyheter/14-ariga-edward-stod-oga-mot-oga-med-vargen-pa-min-fucking-vag"/>
-        <updated>2024-02-27T06:11:03.833Z</updated>
-        <content type="html"><![CDATA[<video style="width:100%;aspect-ratio:16/9;display:block;" src="https://dae5c4f8e3234e4068fe55c17103b26d-httpcache0-03837-cachedown0.dna.ip-only.net/03837-cachedown0/ncode/2024-02-26/tvtool062d8228-daf2-4c19-8c22-4b3c845c1b7d_1708960387023/tvtool062d8228-daf2-4c19-8c22-4b3c845c1b7d_1708960387023_576p.mp4" autoplay="" loop="" muted="" playsinline=""></video>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14-åringens möte med vargen – utanför huset]]></title>
-        <id>https://www.expressen.se/tv/nyheter/14-ariga-edward-stod-oga-mot-oga-med-vargen-pa-min-fucking-vag/</id>
-        <link href="https://www.expressen.se/tv/nyheter/14-ariga-edward-stod-oga-mot-oga-med-vargen-pa-min-fucking-vag/"/>
-        <updated>2024-02-27T06:11:04.035Z</updated>
-        <content type="html"><![CDATA[Är på väg till bussen – då kommer rovdjuret]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flickans helvete: ”Hon valdes ut på något sätt”]]></title>
@@ -111,11 +132,11 @@
         <content type="html"><![CDATA[<span class="bb--b">DOKUMENTÄR: </span>Hör föräldrarnas förklaring • Så lever flickan från ättiksfallet nu]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inflationen åt rätt håll – styrräntan kan sänkas]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/thedeen-gar-at-ratt-hall-mojlig-sankning-pa-gang/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/thedeen-gar-at-ratt-hall-mojlig-sankning-pa-gang/"/>
-        <updated>2024-02-27T09:08:02.486Z</updated>
-        <content type="html"><![CDATA[Riksbankschefens besked: ”På fastare mark”]]></content>
+        <title type="html"><![CDATA[Han skallar flygvärden – ångrar sig omedelbart]]></title>
+        <id>https://www.expressen.se/tv/nyheter/dramatiken-i-business-class-skallar-flygvarden</id>
+        <link href="https://www.expressen.se/tv/nyheter/dramatiken-i-business-class-skallar-flygvarden"/>
+        <updated>2024-02-27T11:06:15.509Z</updated>
+        <content type="html"><![CDATA[Full passagerare i business class: ”Extremt våldsam”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Franska ikonen tillbaka – nu som en billig elbil]]></title>
@@ -132,25 +153,32 @@
         <content type="html"><![CDATA[Därför sprack vänskapen med drottning Mary]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Experterna: Så delaktig var Putin i Navalnyjs död]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/putin-har-navalnyjs--blod-pa-handerna/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/putin-har-navalnyjs--blod-pa-handerna/"/>
+        <updated>2024-02-27T11:06:15.515Z</updated>
+        <content type="html"><![CDATA[Panelen överens • ”Fullständigt löjeväckande”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slut på adhd-medicin för barn i hela landet]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/adhd-medicin-slut-i-hela-landet/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/adhd-medicin-slut-i-hela-landet/"/>
+        <updated>2024-02-27T09:08:02.472Z</updated>
+        <content type="html"><![CDATA[Prognosen: Tillbaka i mitten av mars • Kritiken: Jättemärkligt]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inflationen åt rätt håll – styrräntan kan sänkas]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/thedeen-gar-at-ratt-hall-mojlig-sankning-pa-gang/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/thedeen-gar-at-ratt-hall-mojlig-sankning-pa-gang/"/>
+        <updated>2024-02-27T09:08:02.486Z</updated>
+        <content type="html"><![CDATA[Riksbankschefens besked: ”På fastare mark”]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hunduppfödarens skryt – vi säljer ”dödsmaskiner”]]></title>
         <id>https://www.expressen.se/tv/nyheter/sverige/hunduppfodaren-skryter-om-kamphundarna-dodsmaskiner/</id>
         <link href="https://www.expressen.se/tv/nyheter/sverige/hunduppfodaren-skryter-om-kamphundarna-dodsmaskiner/"/>
         <updated>2024-02-27T09:08:02.491Z</updated>
         <content type="html"><![CDATA[Kalla Faktas dolda kamera visar försäljningen av kamphundar]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kristersons lyxrenovering: Vadpall för 1 600 kronor]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/renovering-pa-harpsund-487-000-kronor-/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/renovering-pa-harpsund-487-000-kronor-/"/>
-        <updated>2024-02-27T09:08:02.492Z</updated>
-        <content type="html"><![CDATA[Renovering på Harpsund för 487 000, skriver Aftonbladet]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lewis, 82, vägrar flytta från klippkanten: ”Är okej”]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/lewis-82-vagrar-att-flytta-huset-ar-ok/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/lewis-82-vagrar-att-flytta-huset-ar-ok/"/>
-        <updated>2024-02-27T06:11:04.030Z</updated>
-        <content type="html"><![CDATA[Balanserar på klippa över havet • Drabbades av jordskred]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bluffartiklar sprids i Expressens namn]]></title>
@@ -160,11 +188,18 @@
         <content type="html"><![CDATA[Påstår att du kan tjäna pengar • Lämna inte ut kontouppgifter]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22]]></title>
+        <title type="html"><![CDATA[26]]></title>
         <id>https://www.expressen.se/nyheter/kronikorer/amina-manzoor/slarvig-tolkning-av-studie--utnyttjas-av-vaccinskeptiker/</id>
         <link href="https://www.expressen.se/nyheter/kronikorer/amina-manzoor/slarvig-tolkning-av-studie--utnyttjas-av-vaccinskeptiker/"/>
         <updated>2024-02-26T11:05:40.217Z</updated>
         <content type="html"><![CDATA[<picture class="ratio-1x1 lazy"><img data-srcset="https://static.cdn-expressen.se/images/98/a1/98a1db76d8a24c6480b321cc38564d89/1x1/80.png 80w,https://static.cdn-expressen.se/images/98/a1/98a1db76d8a24c6480b321cc38564d89/1x1/160.png 160w" sizes="(-webkit-min-device-pixel-ratio: 2) 160px,(min-resolution: 192dpi) 160px,80px" alt=""><noscript><img src="https://static.cdn-expressen.se/images/98/a1/98a1db76d8a24c6480b321cc38564d89/1x1/80.png" alt></noscript></picture><div><div class="page-list__item-meta"><span class="th-text">Amina Manzoor</span></div>Slarvig tolkning av studie utnyttjas av vaccinskeptiker</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kristersons lyxrenovering: Vadpall för 1 600 kronor]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/renovering-pa-harpsund-487-000-kronor-/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/renovering-pa-harpsund-487-000-kronor-/"/>
+        <updated>2024-02-27T09:08:02.492Z</updated>
+        <content type="html"><![CDATA[Renovering på Harpsund för 487 000, skriver Aftonbladet]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[112 kronor för en öl på afterskin: ”Rimligt”]]></title>
@@ -195,18 +230,18 @@
         <content type="html"><![CDATA[Experten om ukrainska tågtrafiken]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svensk försökte växla sedlar – greps på Phuket]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/svensk-gripen-pa--phuket-i-thailand/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/svensk-gripen-pa--phuket-i-thailand/"/>
-        <updated>2024-02-27T06:11:04.042Z</updated>
-        <content type="html"><![CDATA[Försökte växla 200-eurosedlar • Polis kopplar in utredare]]></content>
+        <title type="html"><![CDATA[Lewis, 82, vägrar flytta från klippkanten: ”Är okej”]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/lewis-82-vagrar-att-flytta-huset-ar-ok/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/lewis-82-vagrar-att-flytta-huset-ar-ok/"/>
+        <updated>2024-02-27T06:11:04.030Z</updated>
+        <content type="html"><![CDATA[Balanserar på klippa över havet • Drabbades av jordskred]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Malin blev mormor när hon var 32 år gammal]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/malin-blev-mormor-vid-32-berattar-om-tuffa-beslutet-nar-hon-var-14-ar/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/malin-blev-mormor-vid-32-berattar-om-tuffa-beslutet-nar-hon-var-14-ar/"/>
-        <updated>2024-02-27T06:11:04.043Z</updated>
-        <content type="html"><![CDATA[Gravid vid 14 – höll det hemligt: ”Ville att barnet skulle dö” •]]></content>
+        <title type="html"><![CDATA[Bedrägeriförsök med bilförsäkringar ökar]]></title>
+        <id>https://teknikensvarld.expressen.se/nyheter/bil-och-trafik/forsakringsbedragerier-for-over-200-miljoner-kronor/</id>
+        <link href="https://teknikensvarld.expressen.se/nyheter/bil-och-trafik/forsakringsbedragerier-for-over-200-miljoner-kronor/"/>
+        <updated>2024-02-27T11:06:15.530Z</updated>
+        <content type="html"><![CDATA[Över 200 miljoner kronor i ersättning nekades]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Turisterna varnas på Kanarieöarna]]></title>
@@ -216,6 +251,13 @@
         <content type="html"><![CDATA[Flera väderincidenter –&nbsp;pojke drogs ut till havs]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Natos stora planer för Sverige: Får nyckelroll]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/nu-testas-natos-planer-for-sverige-de-tre-kritiska-punkterna-for-forsvaret/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/nu-testas-natos-planer-for-sverige-de-tre-kritiska-punkterna-for-forsvaret/"/>
+        <updated>2024-02-27T06:11:04.028Z</updated>
+        <content type="html"><![CDATA[Största övningen sedan kalla kriget • Tre viktiga punkter • Natos regionala planering]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ilska mot Frederiksen efter matlagningsbild]]></title>
         <id>https://www.expressen.se/nyheter/varlden/ilska-mot-mette-frederiksen-efter-matlagningsbilden/</id>
         <link href="https://www.expressen.se/nyheter/varlden/ilska-mot-mette-frederiksen-efter-matlagningsbilden/"/>
@@ -223,11 +265,11 @@
         <content type="html"><![CDATA[”Du kan inte mena allvar” • Danska statsministerns svar]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Natos stora planer för Sverige: Får nyckelroll]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/nu-testas-natos-planer-for-sverige-de-tre-kritiska-punkterna-for-forsvaret/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/nu-testas-natos-planer-for-sverige-de-tre-kritiska-punkterna-for-forsvaret/"/>
-        <updated>2024-02-27T06:11:04.028Z</updated>
-        <content type="html"><![CDATA[Största övningen sedan kalla kriget • Tre viktiga punkter • Natos regionala planering]]></content>
+        <title type="html"><![CDATA[S,V och MP kräver besked om vårdpengar]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/sv-och-mp-kraver-besked-om-vardpengar/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/sv-och-mp-kraver-besked-om-vardpengar/"/>
+        <updated>2024-02-27T11:06:15.540Z</updated>
+        <content type="html"><![CDATA[Uppmaningen till regeringen]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hunter Biden: Får jag återfall så vinner Trump]]></title>
@@ -244,6 +286,20 @@
         <content type="html"><![CDATA[Dömd att betala över 4,5 miljarder • Åklagarens hot]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Svensk försökte växla sedlar – greps på Phuket]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/svensk-gripen-pa--phuket-i-thailand/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/svensk-gripen-pa--phuket-i-thailand/"/>
+        <updated>2024-02-27T06:11:04.042Z</updated>
+        <content type="html"><![CDATA[Försökte växla 200-eurosedlar • Polis kopplar in utredare]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malin blev mormor när hon var 32 år gammal]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/malin-blev-mormor-vid-32-berattar-om-tuffa-beslutet-nar-hon-var-14-ar/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/malin-blev-mormor-vid-32-berattar-om-tuffa-beslutet-nar-hon-var-14-ar/"/>
+        <updated>2024-02-27T06:11:04.043Z</updated>
+        <content type="html"><![CDATA[Gravid vid 14 – höll det hemligt: ”Ville att barnet skulle dö” •]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lärare påkommen med naken 13-åring – frias]]></title>
         <id>https://www.expressen.se/nyheter/sverige/larare-pakommen-med--naken-13-aring-frias/</id>
         <link href="https://www.expressen.se/nyheter/sverige/larare-pakommen-med--naken-13-aring-frias/"/>
@@ -256,6 +312,13 @@
         <link href="https://www.expressen.se/tv/nyheter/dyker-ner-till-300-ar-gammalt-skepp-tros-innehalla-skatt-vard-miljarder"/>
         <updated>2024-02-27T06:11:04.061Z</updated>
         <content type="html"><![CDATA[300 år gammalt vrak på 600 meters djup]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[”Det ger hopp till de som tvingats fly undan kriget”]]></title>
+        <id>https://www.expressen.se/nyheter/det-ger-hopp-till-de-som-tvingats-fly-undan-kriget/</id>
+        <link href="https://www.expressen.se/nyheter/det-ger-hopp-till-de-som-tvingats-fly-undan-kriget/"/>
+        <updated>2024-02-26T11:05:40.230Z</updated>
+        <content type="html"><![CDATA[Expressens läsare har samlat in drygt 190 000 kronor till Ukraina]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sällströms sista vecka i riksdagen: ”Vägs ände”]]></title>
@@ -286,20 +349,6 @@
         <content type="html"><![CDATA[Jomshofs uppmaning till V-ledamoten Daniel Riazat: ”Borde flytta”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forskaren går emot Jan Guillou: ”Det blir absurt”]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/forskaren-gar-emot-jan--guillou-det-blir-absurt/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/forskaren-gar-emot-jan--guillou-det-blir-absurt/"/>
-        <updated>2024-02-27T06:11:04.068Z</updated>
-        <content type="html"><![CDATA[Hävdar att Sverige blir Rysslands primära mål i Europa]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”Det ger hopp till de som tvingats fly undan kriget”]]></title>
-        <id>https://www.expressen.se/nyheter/det-ger-hopp-till-de-som-tvingats-fly-undan-kriget/</id>
-        <link href="https://www.expressen.se/nyheter/det-ger-hopp-till-de-som-tvingats-fly-undan-kriget/"/>
-        <updated>2024-02-26T11:05:40.230Z</updated>
-        <content type="html"><![CDATA[Expressens läsare har samlat in drygt 190 000 kronor till Ukraina]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bönderna dumpar bajs – polisens svar: Tårgas]]></title>
         <id>https://www.expressen.se/tv/nyheter/demonstranter-dumpar-bajs-polisen-svarar-med-targas/</id>
         <link href="https://www.expressen.se/tv/nyheter/demonstranter-dumpar-bajs-polisen-svarar-med-targas/"/>
@@ -314,7 +363,7 @@
         <content type="html"><![CDATA[Ukraina bekräftar – tvingas retirera]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[44]]></title>
+        <title type="html"><![CDATA[51]]></title>
         <id>https://www.expressen.se/nyheter/fa-ett-nyhetsbrev-om-kriget-i-ukraina-varje-vecka/</id>
         <link href="https://www.expressen.se/nyheter/fa-ett-nyhetsbrev-om-kriget-i-ukraina-varje-vecka/"/>
         <updated>2024-02-26T16:10:17.037Z</updated>
@@ -326,6 +375,13 @@
         <link href="https://www.expressen.se/tv/nyheter/sverige/de-har-inget-med-konflikten-att-gora-blivit-inhyrda/"/>
         <updated>2024-02-26T16:10:17.350Z</updated>
         <content type="html"><![CDATA[Ismail Abdos mamma sköts • Det vet vi efter första dagen på mordrättegången]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forskaren går emot Jan Guillou: ”Det blir absurt”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/forskaren-gar-emot-jan--guillou-det-blir-absurt/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/forskaren-gar-emot-jan--guillou-det-blir-absurt/"/>
+        <updated>2024-02-27T06:11:04.068Z</updated>
+        <content type="html"><![CDATA[Hävdar att Sverige blir Rysslands primära mål i Europa]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Putinhälsningen – på kokainfyndet i Sverige]]></title>
@@ -363,13 +419,6 @@
         <content type="html"><![CDATA[L–topparnas jubel • V-kritiken: ”Utrikespolitiskt haveri”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Olösta konflikterna som pressar Tidösamarbetet]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/olosta-konflikterna-som-pressar-tidosamarbetet/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/olosta-konflikterna-som-pressar-tidosamarbetet/"/>
-        <updated>2024-02-26T06:10:56.193Z</updated>
-        <content type="html"><![CDATA[Hårda förhandlingar väntar med SD • ”Tuffaste perioden”]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Slarvig tolkning av studie utnyttjas av vaccinskeptiker]]></title>
         <id>https://www.expressen.se/nyheter/kronikorer/amina-manzoor/slarvig-tolkning-av-studie--utnyttjas-av-vaccinskeptiker/</id>
         <link href="https://www.expressen.se/nyheter/kronikorer/amina-manzoor/slarvig-tolkning-av-studie--utnyttjas-av-vaccinskeptiker/"/>
@@ -384,17 +433,10 @@
         <content type="html"><![CDATA[Dramatiska insatsen – dinglar i luften]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Det händer med Nato om Trump blir president]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/det-kan-handa-med-nato-om-trump-blir-president/</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/det-kan-handa-med-nato-om-trump-blir-president/"/>
-        <updated>2024-02-26T16:10:17.325Z</updated>
-        <content type="html"><![CDATA[Paasikivi avslöjar knepet: ”Då fortsätter stödet som idag”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dollarstore får böta – sålde dåliga munskydd]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/dollarstore-salde-daliga-munskydd-doms-av-forvaltningsdomstolen/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/dollarstore-salde-daliga-munskydd-doms-av-forvaltningsdomstolen/"/>
-        <updated>2024-02-26T11:05:40.234Z</updated>
-        <content type="html"><![CDATA[Munskydden under pandemin höll inte • Boten: 700 000 kronor]]></content>
+        <title type="html"><![CDATA[Olösta konflikterna som pressar Tidösamarbetet]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/olosta-konflikterna-som-pressar-tidosamarbetet/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/olosta-konflikterna-som-pressar-tidosamarbetet/"/>
+        <updated>2024-02-26T06:10:56.193Z</updated>
+        <content type="html"><![CDATA[Hårda förhandlingar väntar med SD • ”Tuffaste perioden”]]></content>
     </entry>
 </feed>
