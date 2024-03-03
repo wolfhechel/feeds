@@ -4,56 +4,232 @@
         <title>SVT Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 16:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 06:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Så lockas advokater och mäklare in i gängen: ”Blir boostade”]]></title>
-            <link>https://www.svt.se/nyheter/inrikes/sa-lockas-advokater-och-maklare-in-i-gangen-blir-boostade</link>
-            <guid>https://www.svt.se/nyheter/inrikes/sa-lockas-advokater-och-maklare-in-i-gangen-blir-boostade</guid>
+            <title><![CDATA[Alla förseningar 2023 – så sent var ditt tåg]]></title>
+            <link>https://www.svt.se/datajournalistik/sa-sena-var-tagen/</link>
+            <guid>https://www.svt.se/datajournalistik/sa-sena-var-tagen/</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Stationer, sträckor och orsaker • Sök själv här]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.67/0.43/1be84af2d43fd41fadf81b564dfe412ffcbe9062b8410136988c951c8f0aaca5" length="0" type="image/43/1be84af2d43fd41fadf81b564dfe412ffcbe9062b8410136988c951c8f0aaca5"/>
+        </item>
+        <item>
+            <title><![CDATA[Här är tågen mest försenade – i hela Sverige]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/norrbotten/i-lulea-ar-tagen-mest-forsenade-i-hela-landet</link>
+            <guid>https://www.svt.se/nyheter/lokalt/norrbotten/i-lulea-ar-tagen-mest-forsenade-i-hela-landet</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Hör Jakob berätta om mardrömsresan • Fastnade i Nattavaara]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.85/0.06/c4bc283c1874ccee7299c0b8b574374d6d7e61c3c88186305d73198a92b74c15" length="0" type="image/06/c4bc283c1874ccee7299c0b8b574374d6d7e61c3c88186305d73198a92b74c15"/>
+        </item>
+        <item>
+            <title><![CDATA[Kristoffer har tågpendlat i 20 år: ”Aldrig varit sämre”]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/vastmanland/kristoffer-har-tagpendlat-mellan-uppsala-och-sala-i-20-ar-aldrig-varit-samre</link>
+            <guid>https://www.svt.se/nyheter/lokalt/vastmanland/kristoffer-har-tagpendlat-mellan-uppsala-och-sala-i-20-ar-aldrig-varit-samre</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Kommer sent till jobb – och inte alltid hem]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.57/0.46/6acdc001f044515de5298f2b28b5e7ee5d1753acbab2669e2c0dac3732e60f89" length="0" type="image/46/6acdc001f044515de5298f2b28b5e7ee5d1753acbab2669e2c0dac3732e60f89"/>
+        </item>
+        <item>
+            <title><![CDATA[”En idé: Slopa skiten!”]]></title>
+            <link>https://www.svt.se/kultur/finalkvalet-kan-vara-nagot-av-det-trakigaste-som-visats-pa-tv-nagonsin</link>
+            <guid>https://www.svt.se/kultur/finalkvalet-kan-vara-nagot-av-det-trakigaste-som-visats-pa-tv-nagonsin</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Tali da Silva]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.32/0.42/258f274e20352dafe153c620fe74dd94093c619c8dcef521853d755dde099e6b" length="0" type="image/42/258f274e20352dafe153c620fe74dd94093c619c8dcef521853d755dde099e6b"/>
+        </item>
+        <item>
+            <title><![CDATA[Tittarna rasar mot nya finalkvalet: ”Orättvist”]]></title>
+            <link>https://www.svt.se/kultur/tittarna-rasar-mot-melodifestivalens-finalkval-orattvist</link>
+            <guid>https://www.svt.se/kultur/tittarna-rasar-mot-melodifestivalens-finalkval-orattvist</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Annika Wickihalder och Jay Smith vidare efter rysare • Se projektledarens svar]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Här pikar Medina Danny efter stav-stölden: ”Delade ut likadana till barnen”]]></title>
+            <link>https://www.svt.se/kultur/marcus-och-martinus-och-medina-till-finalen-i-melodifestivalen</link>
+            <guid>https://www.svt.se/kultur/marcus-och-martinus-och-medina-till-finalen-i-melodifestivalen</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Gick direkt till finalen tillsammans med favoriterna Marcus &amp; Martinus]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Här festade vinnarna i natt: ”Så tacksam för alla röster”]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/varmland/har-festade-vinnarna-i-natt-sa-tacksam-for-alla-roster</link>
+            <guid>https://www.svt.se/nyheter/lokalt/varmland/har-festade-vinnarna-i-natt-sa-tacksam-for-alla-roster</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Fröken Snusk och Scarlets galna dans • Champagne överallt]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.51/0.47/2b09d66e0de75d97d878ea23c353fb15bf086df6805aeedc86239ecc70968173" length="0" type="image/47/2b09d66e0de75d97d878ea23c353fb15bf086df6805aeedc86239ecc70968173"/>
+        </item>
+        <item>
+            <title><![CDATA[Dags för 100:e Vasaloppet – lär dig mer om det klassiska loppet]]></title>
+            <link>https://www.svt.se/sport/langdskidor/dags-for-100e-vasaloppet-lar-dig-mer-om-det-klassiska-loppet</link>
+            <guid>https://www.svt.se/sport/langdskidor/dags-for-100e-vasaloppet-lar-dig-mer-om-det-klassiska-loppet</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Kungliga deltagare och rekordtider]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[07.30: Vasaloppet startar – följ tävlingen här]]></title>
+            <link>https://www.svt.se/sport/langdskidor/0730-dags-for-vasaloppet-folj-loppet-har</link>
+            <guid>https://www.svt.se/sport/langdskidor/0730-dags-for-vasaloppet-folj-loppet-har</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[SVT sänder från jubileumsvasan]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Följ Klara Hammarström och Måns Möller i Vasaloppet]]></title>
+            <link>https://www.svt.se/sport/langdskidor/klara-hammarstrom-och-mans-moller-aker-vasaloppet-2024-folj-profilerna-i-sparet</link>
+            <guid>https://www.svt.se/sport/langdskidor/klara-hammarstrom-och-mans-moller-aker-vasaloppet-2024-folj-profilerna-i-sparet</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Häng med profilerna i spåret]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[SVT:s fotograf åker nio mil med en (!) stav: ”Väldigt speciellt”]]></title>
+            <link>https://www.svt.se/sport/langdskidor/svts-fotograf-aker-nio-mil-med-en-stav-valdigt-speciellt</link>
+            <guid>https://www.svt.se/sport/langdskidor/svts-fotograf-aker-nio-mil-med-en-stav-valdigt-speciellt</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Mannen bakom Vasalopps-kameran visar upp tekniken]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.5/0.33/cfc49ebe210fc011f1036b684a69aa1cbcdc1f1feecebf10396ffa775d39d38b" length="0" type="image/33/cfc49ebe210fc011f1036b684a69aa1cbcdc1f1feecebf10396ffa775d39d38b"/>
+        </item>
+        <item>
+            <title><![CDATA[”Zombieeld” har pyrt i månader – brandmän i kamp mot klockan]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/har-pyr-zombieeld-i-manader-brandmannen-kampar-mot-klockan</link>
+            <guid>https://www.svt.se/nyheter/utrikes/har-pyr-zombieeld-i-manader-brandmannen-kampar-mot-klockan</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Dröjer sig kvar efter sommarens skogsbränder]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Efter sanktionerna: Kraftig ökning av ryska flygincidenter]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/efter-sanktionerna-dramatiska-bilder-fran-ryska-flygplan</link>
+            <guid>https://www.svt.se/nyheter/utrikes/efter-sanktionerna-dramatiska-bilder-fran-ryska-flygplan</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Efter stopp för reservdelar från väst • Se dramatiska bilderna från ryska planen]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Ryssland: 38 drönare nedskjutna över Krim]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=b7f41d2229def71b8320293f836d0bce</link>
+            <guid>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=b7f41d2229def71b8320293f836d0bce</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Bro stängdes av • Invånare vittnar om höga smällar]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainska rockstjärnan pendlar mellan scenen och fronten]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/rockstjarnan-blev-soldat-pendlar-mellan-scenen-och-fronten</link>
+            <guid>https://www.svt.se/nyheter/utrikes/rockstjarnan-blev-soldat-pendlar-mellan-scenen-och-fronten</guid>
             <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Minglar på restauranger vid Stureplan • Lockar med lyxliv]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.4/0.38/fc17a11f80d410f946b51d8b9202359119465872e410f9358f808a44bc13f9a0" length="0" type="image/38/fc17a11f80d410f946b51d8b9202359119465872e410f9358f808a44bc13f9a0"/>
+            <content:encoded><![CDATA[”Du kan inte sjunga fienden ur ditt hus”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainavolontärens mamma: ”Tänker att ens barn är odödliga”]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/mamma-till-svenska-tilde-addenbrooke-i-ukraina-man-tanker-att-ens-barn-ar-ododliga</link>
+            <guid>https://www.svt.se/nyheter/utrikes/mamma-till-svenska-tilde-addenbrooke-i-ukraina-man-tanker-att-ens-barn-ar-ododliga</guid>
+            <pubDate>Sat, 02 Mar 2024 09:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[Dottern Tilde Addenbrooke på plats vid fronten • ”Hon är på rätt plats i livet”]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.49/0.19/fc166241c1a9f480cc08aa419325408da3d52f70cc0b711377b083d5a5b1f91a" length="0" type="image/19/fc166241c1a9f480cc08aa419325408da3d52f70cc0b711377b083d5a5b1f91a"/>
+        </item>
+        <item>
+            <title><![CDATA[Otäck skada på Margot Chevrier – skriker ut sin smärta]]></title>
+            <link>https://www.svt.se/sport/friidrott/hjartskarande-skrik-efter-olycka-i-stavhopp</link>
+            <guid>https://www.svt.se/sport/friidrott/hjartskarande-skrik-efter-olycka-i-stavhopp</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Är förd till sjukhus • Missade mattan]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Jätteskräll i finalen – knäckte norske superstjärnan]]></title>
+            <link>https://www.svt.se/sport/friidrott/chockad-karsten-warholm-besegrad-pa-400-meter</link>
+            <guid>https://www.svt.se/sport/friidrott/chockad-karsten-warholm-besegrad-pa-400-meter</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Doom spurtade hem VM-guldet • Se loppet]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Skadade sig på startlinjen – fördes bort i rullstol]]></title>
+            <link>https://www.svt.se/sport/friidrott/stod-pa-startlinjen-for-att-springa-final-pa-60-meter-fordes-ivag-i-rullstol</link>
+            <guid>https://www.svt.se/sport/friidrott/stod-pa-startlinjen-for-att-springa-final-pa-60-meter-fordes-ivag-i-rullstol</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Hobbs i tårar inför VM-finalen]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Här 3D-printas ögonproteser – ”Har blivit bättre och bättre”]]></title>
+            <link>https://www.svt.se/nyheter/vetenskap/sa-3d-printas-ogonproteser</link>
+            <guid>https://www.svt.se/nyheter/vetenskap/sa-3d-printas-ogonproteser</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Nya teknik framtagen i Tyskland • Används redan av hundratals personer]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Kritiken mot nödleveranserna: ”Mer för fotografierna”]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/kritiken-mot-nodleveranserna-mer-for-fotografierna</link>
+            <guid>https://www.svt.se/nyheter/utrikes/kritiken-mot-nodleveranserna-mer-for-fotografierna</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Kan signalera handlingskraft – men är snarare ineffektivt enligt experter]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Här släpper USA nödhjälp till Gaza från luften]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=f9371ad09d43ddde91f5bcd8235a7f29</link>
+            <guid>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=f9371ad09d43ddde91f5bcd8235a7f29</guid>
+            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[Biden gav löftet i går kväll • Över 35&nbsp;000 portioner mat]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Korrespondenten: ”Skulle kunna bli en vändpunkt i kriget”]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/samir-abu-eid-fragan-ar-om-det-blir-en-vandpunkt</link>
+            <guid>https://www.svt.se/nyheter/utrikes/samir-abu-eid-fragan-ar-om-det-blir-en-vandpunkt</guid>
+            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[Hundratals uppges ha dödats  i samband med att nödhjälp skulle levereras]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Västledare fördömer ”blodbad” i Gaza stad]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/vastledare-fordomer-blodbad-i-gaza-stad</link>
+            <guid>https://www.svt.se/nyheter/utrikes/vastledare-fordomer-blodbad-i-gaza-stad</guid>
+            <pubDate>Fri, 01 Mar 2024 09:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[Macron: ”Djup indignation över bilderna”]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.59/0.1/aa7ececb8fbbcdabc6881d0350bc2ba6857611b85c5dda0276b6499b85da2638" length="0" type="image/1/aa7ececb8fbbcdabc6881d0350bc2ba6857611b85c5dda0276b6499b85da2638"/>
+        </item>
+        <item>
+            <title><![CDATA[Experterna: Rekordpris på uran kan göra svensk brytning lönsam]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/uranpriset-stiger-till-rekordnivaer-kan-oppna-for-svenska-gruvor</link>
+            <guid>https://www.svt.se/nyheter/inrikes/uranpriset-stiger-till-rekordnivaer-kan-oppna-for-svenska-gruvor</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Regeringen vill tillåta nya gruvor – trots oro och protester]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump vinner ytterligare delstater i USA:s primärval]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/trump-vinner-ytterligare-delstat</link>
+            <guid>https://www.svt.se/nyheter/utrikes/trump-vinner-ytterligare-delstat</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Motståndaren Nikki Haley fortfarande utan seger]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[Har män lättare att bygga muskler än kvinnor?]]></title>
             <link>https://www.svt.se/nyheter/vetenskap/sant-eller-falskt-om-man-kvinnor-och-traning</link>
             <guid>https://www.svt.se/nyheter/vetenskap/sant-eller-falskt-om-man-kvinnor-och-traning</guid>
             <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Fysiologen: ”Män överdriver ofta hur hårt de tränar”]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.76/0.3/3f380924e39bc9b61906ed8ae67ebd8fe63d299886fb5086d7328b2370676257" length="0" type="image/3/3f380924e39bc9b61906ed8ae67ebd8fe63d299886fb5086d7328b2370676257"/>
-        </item>
-        <item>
-            <title><![CDATA[Möjlig Trump-vinst väcker oro inom Nato: ”Kan bli stor oreda”]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/sa-kan-nato-paverkas-om-trump-blir-president</link>
-            <guid>https://www.svt.se/nyheter/utrikes/sa-kan-nato-paverkas-om-trump-blir-president</guid>
-            <pubDate>Sat, 02 Mar 2024 11:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[Flaggar för minskat engagemang • ”USA kräver mer av Europa”]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.49/0.3/c52da3cb4b766ba40cbc062c1f49fb3e52be902062a05adfac1fef63a0b4de77" length="0" type="image/3/c52da3cb4b766ba40cbc062c1f49fb3e52be902062a05adfac1fef63a0b4de77"/>
-        </item>
-        <item>
-            <title><![CDATA[Ungerska talmannen har skrivit under Sveriges Natoansökan]]></title>
-            <link>https://www.svt.se/nyheter/inrikes/senaste-nytt-i-nato-processen?inlagg=6a5e4d58734d31fce426d4706de68c1a</link>
-            <guid>https://www.svt.se/nyheter/inrikes/senaste-nytt-i-nato-processen?inlagg=6a5e4d58734d31fce426d4706de68c1a</guid>
-            <pubDate>Sat, 02 Mar 2024 09:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[Endast presidenten återstår • Väntas tillträda på tisdag]]></content:encoded>
+            <content:encoded><![CDATA[Forskaren: Män måste träna mer än kvinnor för maximala hälsofördelar]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Svensk Natomottagning i USA skjuts fram]]></title>
-            <link>https://www.svt.se/nyheter/inrikes/svensk-natomottagning-i-usa-skjuts-fram</link>
-            <guid>https://www.svt.se/nyheter/inrikes/svensk-natomottagning-i-usa-skjuts-fram</guid>
-            <pubDate>Sat, 02 Mar 2024 11:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[Billströms resa till Washington dröjer]]></content:encoded>
+            <title><![CDATA[Så lockas advokater och mäklare in i gängen: ”Blir boostade”]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/sa-lockas-advokater-och-maklare-in-i-gangen-blir-boostade</link>
+            <guid>https://www.svt.se/nyheter/inrikes/sa-lockas-advokater-och-maklare-in-i-gangen-blir-boostade</guid>
+            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[Minglar på restauranger vid Stureplan • Lockar med lyxliv]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Efter Ungerns ja – detta händer nu i Natoprocessen]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/efter-ungerns-ja-detta-hander-nu-i-natoprocessen</link>
-            <guid>https://www.svt.se/nyheter/utrikes/efter-ungerns-ja-detta-hander-nu-i-natoprocessen</guid>
-            <pubDate>Sat, 02 Mar 2024 11:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[Det här är stegen som kvarstår • Fem områden där Sverige väntas bidra]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.2/0.26/f7e4c209cb520685a08f40cfda5f3b7a950bbd9c95cff062ffb5b066e05eaddf" length="0" type="image/26/f7e4c209cb520685a08f40cfda5f3b7a950bbd9c95cff062ffb5b066e05eaddf"/>
         </item>
         <item>
             <title><![CDATA[Nelin tog första pallplatsen: ”Så jäkla värd det”]]></title>
@@ -80,260 +256,84 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[USA släpper första luftburna nödhjälpen över Gaza]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=f9371ad09d43ddde91f5bcd8235a7f29</link>
-            <guid>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=f9371ad09d43ddde91f5bcd8235a7f29</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Biden gav löftet i går kväll • Över 35&nbsp;000 portioner mat]]></content:encoded>
+            <title><![CDATA[Polisen om kritiken: ”Vi behöver bli bättre”]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-om-kritiken-i-hundutredningen-vi-behover-bli-battre</link>
+            <guid>https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-om-kritiken-i-hundutredningen-vi-behover-bli-battre</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Efter hundattackerna – vill förbättra samarbetet med länsstyrelsen]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Fartyg har sjunkit i Röda havet – attackerades av huthirebellerna]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=a32a10bdc29cbbdb65f9e9b0fd9397d2</link>
-            <guid>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=a32a10bdc29cbbdb65f9e9b0fd9397d2</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Amerikanska myndigheter varnar för miljökatastrof]]></content:encoded>
+            <title><![CDATA[Utredning slår fast: Krävs lagändring efter hundattackerna]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/vasterbotten/efter-hundattackerna-utredning-slar-fast-kravs-en-lagandring</link>
+            <guid>https://www.svt.se/nyheter/lokalt/vasterbotten/efter-hundattackerna-utredning-slar-fast-kravs-en-lagandring</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Utredning tillsattes efter SVT:s granskning • Utredaren: “Skulle behövas ökade befogenheter”]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Korrespondenten: ”Skulle kunna bli en vändpunkt i kriget”]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/samir-abu-eid-fragan-ar-om-det-blir-en-vandpunkt</link>
-            <guid>https://www.svt.se/nyheter/utrikes/samir-abu-eid-fragan-ar-om-det-blir-en-vandpunkt</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Hundratals uppges ha dödats  i samband med att nödhjälp skulle levereras]]></content:encoded>
+            <title><![CDATA[Så ska du agera vid en hundattack]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/lista-sa-ska-du-agera-vid-en-hundattack</link>
+            <guid>https://www.svt.se/nyheter/inrikes/lista-sa-ska-du-agera-vid-en-hundattack</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Hundcoachen reder ut fyra viktiga saker att tänka på]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Västledare fördömer ”blodbad” i Gaza stad]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/vastledare-fordomer-blodbad-i-gaza-stad</link>
-            <guid>https://www.svt.se/nyheter/utrikes/vastledare-fordomer-blodbad-i-gaza-stad</guid>
-            <pubDate>Fri, 01 Mar 2024 09:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[Macron: ”Djup indignation över bilderna”]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.59/0.1/aa7ececb8fbbcdabc6881d0350bc2ba6857611b85c5dda0276b6499b85da2638" length="0" type="image/1/aa7ececb8fbbcdabc6881d0350bc2ba6857611b85c5dda0276b6499b85da2638"/>
-        </item>
-        <item>
-            <title><![CDATA[Över 100 uppges döda i Gaza stad – Israel besköt folkmassa]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/uppgifter-over-100-dodade-koade-till-matleveranser</link>
-            <guid>https://www.svt.se/nyheter/utrikes/uppgifter-over-100-dodade-koade-till-matleveranser</guid>
-            <pubDate>Thu, 29 Feb 2024 16:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[Israel säger sig ha skjutit ett tiotal palestinier • Sjukhuschef: De flesta skadade hade skottskador]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.26/0.4/7ac384a03fe9794cc9f9c84bd521efb9a819ae89eae7ae78bf4986d93f0b3046" length="0" type="image/4/7ac384a03fe9794cc9f9c84bd521efb9a819ae89eae7ae78bf4986d93f0b3046"/>
-        </item>
-        <item>
-            <title><![CDATA[Klanledarnas krav efter mordet: Dödsstraff eller ”blodspengar”]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/aljiburi-klanens-losning-dodsstraff-eller-blodspengar</link>
-            <guid>https://www.svt.se/nyheter/utrikes/aljiburi-klanens-losning-dodsstraff-eller-blodspengar</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[SVT träffade ”Benzemas” släkt i Irak  • ”Fördömer kriminaliteten”]]></content:encoded>
+            <title><![CDATA[Man avliden i Norrköping – polisen utreder mord]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/ost/polisen-utreder-grovt-valdsbrott-i-klockaretorpet-i-norrkoping</link>
+            <guid>https://www.svt.se/nyheter/lokalt/ost/polisen-utreder-grovt-valdsbrott-i-klockaretorpet-i-norrkoping</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Stor polisinsats i Klockaretorpet]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Efter mordet: Svenske torpeden inspärrad på hemlig plats i Irak]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/svenske-torpeden-insparrad-pa-hemlig-plats-efter-mordet-pa-benzema-i-irak</link>
-            <guid>https://www.svt.se/nyheter/utrikes/svenske-torpeden-insparrad-pa-hemlig-plats-efter-mordet-pa-benzema-i-irak</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Skjutningen av ”Benzema” väcker starka känslor i Bagdad • SVT:s team på plats]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Mordmisstänkta 19-åringens väg in i kriminaliteten]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/gavleborg/fotbollstalangen-riskerar-dodsstraff-19-aringens-vag-in-i-kriminaliteten</link>
-            <guid>https://www.svt.se/nyheter/lokalt/gavleborg/fotbollstalangen-riskerar-dodsstraff-19-aringens-vag-in-i-kriminaliteten</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[”Lättare att göra fel än att göra rätt” •  Extrajobbade på restaurang i Hudiksvall under hösten]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[”Gängkrig på distans”]]></title>
-            <link>https://www.svtplay.se/video/KvvoGnb/utrikesbyran/gangkrig-pa-distans</link>
-            <guid>https://www.svtplay.se/video/KvvoGnb/utrikesbyran/gangkrig-pa-distans</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Utrikesbyrån om gängledarnas liv i utlandet]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.23/0.42/243f6d7eb6f569a890ea7b0bf1ba61a94c34cd5106d7b52ebf4aa0aa9f9fb909" length="0" type="image/42/243f6d7eb6f569a890ea7b0bf1ba61a94c34cd5106d7b52ebf4aa0aa9f9fb909"/>
-        </item>
-        <item>
-            <title><![CDATA[Tyskland utreder misstänkt ryskt spioneri]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=20e7c65ae9fa6e0c65cb775a9d2e9f68</link>
-            <guid>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=20e7c65ae9fa6e0c65cb775a9d2e9f68</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Militärtoppars samtal om robotar till Ukraina kan ha avlyssnats]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Ukrainska rockstjärnan pendlar mellan scenen och fronten]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/rockstjarnan-blev-soldat-pendlar-mellan-scenen-och-fronten</link>
-            <guid>https://www.svt.se/nyheter/utrikes/rockstjarnan-blev-soldat-pendlar-mellan-scenen-och-fronten</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[”Du kan inte sjunga fienden ur ditt hus”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraina: Kraftig ökning av nedskjutna ryska plan]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/ukraina-kraftig-okning-av-nedskjutna-ryska-plan</link>
-            <guid>https://www.svt.se/nyheter/utrikes/ukraina-kraftig-okning-av-nedskjutna-ryska-plan</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Experten: ”Möjligt att Ryssland lider brist på erfarna piloter”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Ukrainavolontärens mamma: ”Tänker att ens barn är odödliga”]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/mamma-till-svenska-tilde-addenbrooke-i-ukraina-man-tanker-att-ens-barn-ar-ododliga</link>
-            <guid>https://www.svt.se/nyheter/utrikes/mamma-till-svenska-tilde-addenbrooke-i-ukraina-man-tanker-att-ens-barn-ar-ododliga</guid>
-            <pubDate>Sat, 02 Mar 2024 09:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[Dottern Tilde Addenbrooke på plats vid fronten • ”Hon är på rätt plats i livet”]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.49/0.19/fc166241c1a9f480cc08aa419325408da3d52f70cc0b711377b083d5a5b1f91a" length="0" type="image/19/fc166241c1a9f480cc08aa419325408da3d52f70cc0b711377b083d5a5b1f91a"/>
-        </item>
-        <item>
-            <title><![CDATA[Se ”Svenskarna i Ukraina” på SVT Play]]></title>
-            <link>https://www.svtplay.se/svenskarna-i-ukraina</link>
-            <guid>https://www.svtplay.se/svenskarna-i-ukraina</guid>
-            <pubDate>Sat, 02 Mar 2024 09:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[Dokumentär om krigets volontärer]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.3/0.48/ea004fb06b4ab2aadeb32d05886956417b4d269cd557c2155cd441272c95bae5" length="0" type="image/48/ea004fb06b4ab2aadeb32d05886956417b4d269cd557c2155cd441272c95bae5"/>
-        </item>
-        <item>
-            <title><![CDATA[Kramers fräckis säkrade VM-final: ”En superman”]]></title>
-            <link>https://www.svt.se/sport/friidrott/andreas-kramer-till-final-efter-att-ha-gjort-en-supermanfallning</link>
-            <guid>https://www.svt.se/sport/friidrott/andreas-kramer-till-final-efter-att-ha-gjort-en-supermanfallning</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[”Det var nära att det sket sig”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Skandalscener på VM – nära att hoppa rakt på krattan]]></title>
-            <link>https://www.svt.se/sport/friidrott/skandalscener-pa-friidrotts-vm-i-glasgow-funktionarerna-gropen-under-hoppet</link>
-            <guid>https://www.svt.se/sport/friidrott/skandalscener-pa-friidrotts-vm-i-glasgow-funktionarerna-gropen-under-hoppet</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[”Galna saker verkar alltid hända mig”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Tentoglou irriterad trots guldet: ”Jag bryr mig inte”]]></title>
-            <link>https://www.svt.se/sport/friidrott/greken-miltiadis-tentoglou-vann-langdhoppsfinalen-pa-friidrotts-vm-efter-jatterysare</link>
-            <guid>https://www.svt.se/sport/friidrott/greken-miltiadis-tentoglou-vann-langdhoppsfinalen-pa-friidrotts-vm-efter-jatterysare</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Thobias Montler åtta i längdhoppet]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Medina: “Vi hämtar festen i vanlig ordning”]]></title>
-            <link>https://www.svt.se/kultur/senaste-nytt-om-melodifestivalen-2024</link>
-            <guid>https://www.svt.se/kultur/senaste-nytt-om-melodifestivalen-2024</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Duon tillbaka efter succén 2022]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Här dansar Gunilla med epa-gänget i natt: ”Jätteunderbart”]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/varmland/har-dansar-gunilla-med-epa-ganget-i-natt-jatteunderbart</link>
-            <guid>https://www.svt.se/nyheter/lokalt/varmland/har-dansar-gunilla-med-epa-ganget-i-natt-jatteunderbart</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Melloaktuella Gunilla Persson favorit bland ungdomar • ”Dream come true”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[”Marcus och Martinus kan ta hem hela tävlingen”]]></title>
-            <link>https://www.svt.se/kultur/tjuvlyssnat-sa-bra-ar-latarna-i-deltavling-5</link>
-            <guid>https://www.svt.se/kultur/tjuvlyssnat-sa-bra-ar-latarna-i-deltavling-5</guid>
-            <pubDate>Fri, 01 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[SVT:s reporter har tjuvlyssnat på låtarna • ”Årets bästa startfält”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Finalkval och ”hall of fame” – snackisarna inför sista rundan]]></title>
-            <link>https://www.svt.se/kultur/har-ar-snackisarna-fran-deltavling-5</link>
-            <guid>https://www.svt.se/kultur/har-ar-snackisarna-fran-deltavling-5</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Melodifestivalen framme vid sista deltävlingen • Veteranen hyllas]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.97/0.2/9d99435c8d491eeddf0752778d14b9966a8b705f2a15d7e4b4fa6d11a7fa4368" length="0" type="image/2/9d99435c8d491eeddf0752778d14b9966a8b705f2a15d7e4b4fa6d11a7fa4368"/>
-        </item>
-        <item>
-            <title><![CDATA[Sverige klart för EM – efter ny kross]]></title>
-            <link>https://www.svt.se/sport/handboll/handbollslaget-sakrar-en-em-plats-efter-andra-raka-segern-mot-island</link>
-            <guid>https://www.svt.se/sport/handboll/handbollslaget-sakrar-en-em-plats-efter-andra-raka-segern-mot-island</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Slog Island i kvalet]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Stora förvirringen: ”Det har jag aldrig sett innan”]]></title>
-            <link>https://www.svt.se/sport/handboll/stora-forvirringen-det-har-jag-aldrig-sett-innan</link>
-            <guid>https://www.svt.se/sport/handboll/stora-forvirringen-det-har-jag-aldrig-sett-innan</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[SVT:s expert om bortdömda målet • Se situationen]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Pendlaren Daniel tröttnade på hotell – sover utomhus året runt]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/varmland/daniel-sover-ute-i-sin-hangmatta-aret-runt</link>
-            <guid>https://www.svt.se/nyheter/lokalt/varmland/daniel-sover-ute-i-sin-hangmatta-aret-runt</guid>
-            <pubDate>Sat, 02 Mar 2024 09:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[Häng med till hängmattan • “Det värsta är småregn och myggor”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Nasrin förbjöds att sjunga i Iran – nu intar hon konserthuset]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/vast/nasrin-forbjods-att-sjunga-i-iran-nu-far-hon-egen-spelning-i-goteborgs-konserthus</link>
-            <guid>https://www.svt.se/nyheter/lokalt/vast/nasrin-forbjods-att-sjunga-i-iran-nu-far-hon-egen-spelning-i-goteborgs-konserthus</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Uppfyller drömmen efter 70 års väntan]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Mardrömsputtning på PGA-touren: ”Åh kära nån”]]></title>
-            <link>https://www.svt.se/sport/golf/mardromsputtning-pa-pga-touren-fick-kvadruppel-bogey</link>
-            <guid>https://www.svt.se/sport/golf/mardromsputtning-pa-pga-touren-fick-kvadruppel-bogey</guid>
+            <title><![CDATA[Möjlig Trump-vinst väcker oro inom Nato: ”Kan bli stor oreda”]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/sa-kan-nato-paverkas-om-trump-blir-president</link>
+            <guid>https://www.svt.se/nyheter/utrikes/sa-kan-nato-paverkas-om-trump-blir-president</guid>
             <pubDate>Sat, 02 Mar 2024 11:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[Kvadruppel bogey för belgaren • Se klipp]]></content:encoded>
+            <content:encoded><![CDATA[Flaggar för minskat engagemang • ”USA kräver mer av Europa”]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Därför ökade bolaget 277 miljarder dollar – på en enda dag]]></title>
-            <link>https://www.svt.se/nyheter/ekonomi/kampen-om-ai-chippen-darfor-regnar-miljarderna-over-hajpade-bolaget</link>
-            <guid>https://www.svt.se/nyheter/ekonomi/kampen-om-ai-chippen-darfor-regnar-miljarderna-over-hajpade-bolaget</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Så gick Nvidia från gamingföretag till AI-branschens största]]></content:encoded>
+            <title><![CDATA[Ungerska talmannen har skrivit under Sveriges Natoansökan]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/senaste-nytt-i-nato-processen?inlagg=6a5e4d58734d31fce426d4706de68c1a</link>
+            <guid>https://www.svt.se/nyheter/inrikes/senaste-nytt-i-nato-processen?inlagg=6a5e4d58734d31fce426d4706de68c1a</guid>
+            <pubDate>Sat, 02 Mar 2024 09:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[Endast presidenten återstår • Väntas tillträda på tisdag]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[”Nvidia är AI:s Zlatan”]]></title>
-            <link>https://www.svt.se/nyheter/ekonomi/nvidia-ar-ais-zlatan</link>
-            <guid>https://www.svt.se/nyheter/ekonomi/nvidia-ar-ais-zlatan</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Alexander Norén]]></content:encoded>
+            <title><![CDATA[Svensk Natomottagning i USA skjuts fram]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/svensk-natomottagning-i-usa-skjuts-fram</link>
+            <guid>https://www.svt.se/nyheter/inrikes/svensk-natomottagning-i-usa-skjuts-fram</guid>
+            <pubDate>Sat, 02 Mar 2024 11:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[Billströms resa till Washington dröjer]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[”Världens viktigaste” aktie slog förväntningarna]]></title>
-            <link>https://www.svt.se/nyheter/ekonomi/nvidia-slog-forvantningarna-i-delarsrapport</link>
-            <guid>https://www.svt.se/nyheter/ekonomi/nvidia-slog-forvantningarna-i-delarsrapport</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Chiptillverkaren Nvidia lyfte nästan tio procent i efterhandeln]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+            <title><![CDATA[Efter Ungerns ja – detta händer nu i Natoprocessen]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/efter-ungerns-ja-detta-hander-nu-i-natoprocessen</link>
+            <guid>https://www.svt.se/nyheter/utrikes/efter-ungerns-ja-detta-hander-nu-i-natoprocessen</guid>
+            <pubDate>Sat, 02 Mar 2024 11:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[Det här är stegen som kvarstår • Fem områden där Sverige väntas bidra]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.2/0.26/f7e4c209cb520685a08f40cfda5f3b7a950bbd9c95cff062ffb5b066e05eaddf" length="0" type="image/26/f7e4c209cb520685a08f40cfda5f3b7a950bbd9c95cff062ffb5b066e05eaddf"/>
         </item>
         <item>
-            <title><![CDATA[25-åriga Patricia om steget att starta eget: ”Har varit min dröm”]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/sodertalje/allt-fler-unga-blir-egenforetagare-patricia-oppnar-bageri-i-jarna</link>
-            <guid>https://www.svt.se/nyheter/lokalt/sodertalje/allt-fler-unga-blir-egenforetagare-patricia-oppnar-bageri-i-jarna</guid>
-            <pubDate>Sat, 02 Mar 2024 16:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Allt fler unga stockholmare blir egenföretagare]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+            <title><![CDATA[Otäck skada på Margot Chevrier – skriker ut sin smärta]]></title>
+            <link>https://www.svt.se/sport/friidrott/hjartskarande-skrik-efter-olycka-i-stavhopp</link>
+            <guid>https://www.svt.se/sport/friidrott/hjartskarande-skrik-efter-olycka-i-stavhopp</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/sport/friidrott/hjartskarande-skrik-efter-olycka-i-stavhopp" title="Otäck skada på Margot Chevrier – skriker ut sin smärta"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.66/0.46/3d4613eb41c2de74ee7b12dec711999dcba5e274a631d71eecea13f81d81db72" alt="Otäck skada på Margot Chevrier" title="Foto: Paul Childs/Bildbyrån"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Otäck skada på Margot Chevrier – skriker ut sin smärta</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.66/0.46/3d4613eb41c2de74ee7b12dec711999dcba5e274a631d71eecea13f81d81db72" length="0" type="image/46/3d4613eb41c2de74ee7b12dec711999dcba5e274a631d71eecea13f81d81db72"/>
         </item>
         <item>
-            <title><![CDATA[Man anhållen efter dödsskjutning i södra Stockholm]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-skarholmen-en-skadad</link>
-            <guid>https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-skarholmen-en-skadad</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Vittne: ”Hörde fyra skott” • Stor polisinsats på fredagskvällen]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Ralf, 11, bjöds aldrig på kalas – mamma Lina fixade stor fest]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/halland/funkismamman-lina-i-halmstad-uppmanar-foraldrar-till-inkluderande-barnkalas</link>
-            <guid>https://www.svt.se/nyheter/lokalt/halland/funkismamman-lina-i-halmstad-uppmanar-foraldrar-till-inkluderande-barnkalas</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[Uppmanar till inkludering: ”Vill inte anklaga – men kan man inte tänka till?”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+            <title><![CDATA[Efter sanktionerna: Kraftig ökning av ryska flygincidenter]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/efter-sanktionerna-dramatiska-bilder-fran-ryska-flygplan</link>
+            <guid>https://www.svt.se/nyheter/utrikes/efter-sanktionerna-dramatiska-bilder-fran-ryska-flygplan</guid>
+            <pubDate>Sun, 03 Mar 2024 06:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/utrikes/efter-sanktionerna-dramatiska-bilder-fran-ryska-flygplan" title="Efter sanktionerna: Kraftig ökning av ryska flygincidenter"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.33/0.5/a4ae8c713e19d926ea5b9fa93ad66fbe0dd4eda5c21ce000787a6f9f5d281785" alt="Tre ryska flygincidenter, syrgasmasker nedfällda, motorhuv som saknas" title="Foto: ENews112, Avianincident och Bazabazon"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Efter sanktionerna: Kraftig ökning av ryska flygincidenter</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.33/0.5/a4ae8c713e19d926ea5b9fa93ad66fbe0dd4eda5c21ce000787a6f9f5d281785" length="0" type="image/5/a4ae8c713e19d926ea5b9fa93ad66fbe0dd4eda5c21ce000787a6f9f5d281785"/>
         </item>
         <item>
             <title><![CDATA[Pendlaren Daniel tröttnade på hotell – sover utomhus året runt]]></title>
@@ -342,22 +342,6 @@
             <pubDate>Sat, 02 Mar 2024 09:06:22 GMT</pubDate>
             <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/lokalt/varmland/daniel-sover-ute-i-sin-hangmatta-aret-runt" title="Pendlaren Daniel tröttnade på hotell – sover utomhus året runt"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.74/0.48/58a8ce2d5711a6807b523bcfa323d26738dce4648a93c2cc487e7ad3675039ef" alt="En man med skägg, keps och glasögon ligger ute i en mörkgrön hängmatta och ler och tittar in i kameran." title="Foto: Rebecka Hugosson/SVT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Pendlaren Daniel tröttnade på hotell – sover utomhus året runt</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
             <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.74/0.48/58a8ce2d5711a6807b523bcfa323d26738dce4648a93c2cc487e7ad3675039ef" length="0" type="image/48/58a8ce2d5711a6807b523bcfa323d26738dce4648a93c2cc487e7ad3675039ef"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryska stjärnan diskades efter utbrott:  ”Skämtar du?”]]></title>
-            <link>https://www.svt.se/sport/tennis/ryssen-andrej-rublev-rasande-diskad-i-dubai-for-osportsligt-upptradande</link>
-            <guid>https://www.svt.se/sport/tennis/ryssen-andrej-rublev-rasande-diskad-i-dubai-for-osportsligt-upptradande</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/sport/tennis/ryssen-andrej-rublev-rasande-diskad-i-dubai-for-osportsligt-upptradande" title="Ryska stjärnan diskades efter utbrott:  ”Skämtar du?”"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.25/0.52/1c8865302347542944add0651fc1769425021b024502fd15397b91dba6799276" alt="Andrej Rublev rasande på domaren på ATP-turneringen i Dubai." title="Foto: Tv4 play"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Ryska stjärnan diskades efter utbrott:  ”Skämtar du?”</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.25/0.52/1c8865302347542944add0651fc1769425021b024502fd15397b91dba6799276" length="0" type="image/52/1c8865302347542944add0651fc1769425021b024502fd15397b91dba6799276"/>
-        </item>
-        <item>
-            <title><![CDATA[Här dansar Gunilla med epa-gänget i natt: ”Jätteunderbart”]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/varmland/har-dansar-gunilla-med-epa-ganget-i-natt-jatteunderbart</link>
-            <guid>https://www.svt.se/nyheter/lokalt/varmland/har-dansar-gunilla-med-epa-ganget-i-natt-jatteunderbart</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/lokalt/varmland/har-dansar-gunilla-med-epa-ganget-i-natt-jatteunderbart" title="Här dansar Gunilla med epa-gänget i natt: ”Jätteunderbart”"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.49/0.27/aed863d5d519c83181db787c2926642b8bb9ae99c806e2f9d00704411c73aa9a" alt="gunilla persson dansar med ungdomar" title="Foto: Filip Jemtelius/SVT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Här dansar Gunilla med epa-gänget i natt: ”Jätteunderbart”</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.49/0.27/aed863d5d519c83181db787c2926642b8bb9ae99c806e2f9d00704411c73aa9a" length="0" type="image/27/aed863d5d519c83181db787c2926642b8bb9ae99c806e2f9d00704411c73aa9a"/>
         </item>
     </channel>
 </rss>
