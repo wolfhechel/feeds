@@ -4,11 +4,27 @@
         <title>SVT Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 09:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 11:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Frånvaro stort problem på skolor: ”Symtom på hur samhället mår”]]></title>
+            <title><![CDATA[Herrlandslaget presenteras – Jon Dahl Tomassons första trupp]]></title>
+            <link>https://www.svt.se/sport/fotboll/sveriges-herrlandslag-i-fotboll</link>
+            <guid>https://www.svt.se/sport/fotboll/sveriges-herrlandslag-i-fotboll</guid>
+            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[SVT sänder live från förbundskaptenens presskonferens]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.59/0.26/6b16f4d2d4c171f35565dbb572e6cebeb3340bdc1af16c8ce3f2692b72ad2c8a" length="0" type="image/26/6b16f4d2d4c171f35565dbb572e6cebeb3340bdc1af16c8ce3f2692b72ad2c8a"/>
+        </item>
+        <item>
+            <title><![CDATA[Emil Forsberg om landslaget: ”Ingen välgörenhet”]]></title>
+            <link>https://www.svt.se/sport/fotboll/emil-forsberg-om-svenska-landslaget-det-ar-ingen-valgorenhet</link>
+            <guid>https://www.svt.se/sport/fotboll/emil-forsberg-om-svenska-landslaget-det-ar-ingen-valgorenhet</guid>
+            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[Tycker till om Jon Dahl Tomasson och framtiden]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.29/0.45/9047a705b670e0a1b4a94464473688e50864a676261c7f2977e09e649b5f50f4" length="0" type="image/45/9047a705b670e0a1b4a94464473688e50864a676261c7f2977e09e649b5f50f4"/>
+        </item>
+        <item>
+            <title><![CDATA[Larmet inifrån skolorna: ”Det här har skenat efter pandemin”]]></title>
             <link>https://www.svt.se/nyheter/inrikes/franvaro-stort-problem-pa-skolor-ett-symtom-pa-hur-samhallet-mar</link>
             <guid>https://www.svt.se/nyheter/inrikes/franvaro-stort-problem-pa-skolor-ett-symtom-pa-hur-samhallet-mar</guid>
             <pubDate>Wed, 13 Mar 2024 09:08:43 GMT</pubDate>
@@ -24,12 +40,20 @@
             <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.51/0.45/5a3d7432fac250610a1d707641d4ac501ec1eccf1d4027e13db35bf09bedbd51" length="0" type="image/45/5a3d7432fac250610a1d707641d4ac501ec1eccf1d4027e13db35bf09bedbd51"/>
         </item>
         <item>
+            <title><![CDATA[Vad säger lagen om skolplikt?]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/vasternorrland/vad-sager-lagen-om-skolplikt</link>
+            <guid>https://www.svt.se/nyheter/lokalt/vasternorrland/vad-sager-lagen-om-skolplikt</guid>
+            <pubDate>Wed, 13 Mar 2024 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[Skolverkets jurist förklarar • Då behövs synnerliga skäl]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
             <title><![CDATA[Hyrläkaren Björn från Stockholm tjänar 150 000 i Sveg]]></title>
             <link>https://www.svt.se/nyheter/inrikes/hyrlakaren-bjorn-fran-stockholm-bar-upp-vardcentralen-i-sveg</link>
             <guid>https://www.svt.se/nyheter/inrikes/hyrlakaren-bjorn-fran-stockholm-bar-upp-vardcentralen-i-sveg</guid>
             <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
             <content:encoded><![CDATA[Vården vill spara – men är beroende av hyrläkare • Enhetschefen: ”Avgörande”]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.44/0.4/78b1599c9b5fed8760e882967c8fa2cac4c2bbdadcedd166ca4f130717f5bb6b" length="0" type="image/4/78b1599c9b5fed8760e882967c8fa2cac4c2bbdadcedd166ca4f130717f5bb6b"/>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[Varnar för hyrstoppet: ”De sjuka drabbas hårdast”]]></title>
@@ -37,70 +61,14 @@
             <guid>https://www.svt.se/nyheter/inrikes/stopp-for-inhyrd-vardpersonal-i-atta-regioner-flera-varnar-for-att-patienter-kan-drabbas</guid>
             <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
             <content:encoded><![CDATA[Ilska mot regionernas planer om stopp för inhyrda läkare och sjuksköterskor • Hör SVT:s reporter]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.33/0.39/b5832d7326f4e9bc4acfc52198efaf3ac6ff73dee00a6b3324e85854f55975c9" length="0" type="image/39/b5832d7326f4e9bc4acfc52198efaf3ac6ff73dee00a6b3324e85854f55975c9"/>
-        </item>
-        <item>
-            <title><![CDATA[Tre falska nyheter – som medierna spred vidare]]></title>
-            <link>https://www.svt.se/nyheter/inrikes/tre-falska-nyheter-som-alla-trodde-var-pa-riktigt</link>
-            <guid>https://www.svt.se/nyheter/inrikes/tre-falska-nyheter-som-alla-trodde-var-pa-riktigt</guid>
-            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[Digitala visklekar blev till nyheter • I dag är det källkritikens dag]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Ny rapport: Män sämre på källkritik i sociala medier]]></title>
-            <link>https://www.svt.se/kultur/ny-rapport-man-samre-pa-kallkritik-i-sociala-medier</link>
-            <guid>https://www.svt.se/kultur/ny-rapport-man-samre-pa-kallkritik-i-sociala-medier</guid>
-            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[Jonatan: ”Jag antar att ingenting är sant”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Här är Egyptens nya huvudstad – men ingen har flyttat dit]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/megaprojekt-i-oknen-folj-med-till-egyptens-nya-huvudstad</link>
-            <guid>https://www.svt.se/nyheter/utrikes/megaprojekt-i-oknen-folj-med-till-egyptens-nya-huvudstad</guid>
-            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[Fem gånger större än Paris • Afrikas högsta byggnad och nytt presidentpalats – men  vem ska betala?]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Emil Forsberg om landslaget: ”Ingen välgörenhet”]]></title>
-            <link>https://www.svt.se/sport/fotboll/emil-forsberg-om-svenska-landslaget-det-ar-ingen-valgorenhet</link>
-            <guid>https://www.svt.se/sport/fotboll/emil-forsberg-om-svenska-landslaget-det-ar-ingen-valgorenhet</guid>
-            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[Tycker till om Jon Dahl Tomasson och framtiden]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[12.00: Jon Dahl Tomasson presenterar sin första trupp]]></title>
-            <link>https://www.svt.se/sport/fotboll/sveriges-herrlandslag-i-fotboll</link>
-            <guid>https://www.svt.se/sport/fotboll/sveriges-herrlandslag-i-fotboll</guid>
-            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[SVT sänder live]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Här levereras nödhjälp från luften: ”Enda alternativet”]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/nodhjalp-till-gaza-svt-foljer-med-jordanskt-militarflyg</link>
-            <guid>https://www.svt.se/nyheter/utrikes/nodhjalp-till-gaza-svt-foljer-med-jordanskt-militarflyg</guid>
-            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[Läget allt mer desperat • Se när SVT följde med ett jordanskt militärflyg i norra Gaza]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Första fartyget med nödhjälp på väg mot Gaza]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=090cce3db46a5b0582f8a3625653e499</link>
-            <guid>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=090cce3db46a5b0582f8a3625653e499</guid>
-            <pubDate>Wed, 13 Mar 2024 09:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[200 ton mat ombord • Se rutten]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Svenske läkaren om situationen i Gaza: ”Helvetet på jorden”]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/svenska-lakaren-om-situationen-i-gaza-helvetet-pa-jorden</link>
-            <guid>https://www.svt.se/nyheter/utrikes/svenska-lakaren-om-situationen-i-gaza-helvetet-pa-jorden</guid>
-            <pubDate>Mon, 11 Mar 2024 09:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[”Det jag har sett är svårt att beskriva med ord”]]></content:encoded>
+            <title><![CDATA[17-årige Alvar Myhlback uttagen till VC-avslutningen]]></title>
+            <link>https://www.svt.se/sport/vintersport/vinterstudion-20232024-folj-sasongens-tavlingar-och-fa-senaste-nytt--5cjxzu</link>
+            <guid>https://www.svt.se/sport/vintersport/vinterstudion-20232024-folj-sasongens-tavlingar-och-fa-senaste-nytt--5cjxzu</guid>
+            <pubDate>Wed, 13 Mar 2024 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[Svenska trupperna till Falun • Poromaa och Halfvarsson osäkra]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -120,7 +88,63 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[”Garven avlöser varandra” – Strömquist tillbaka på Dramaten]]></title>
+            <title><![CDATA[Här är Egyptens nya huvudstad – men ingen har flyttat dit]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/megaprojekt-i-oknen-folj-med-till-egyptens-nya-huvudstad</link>
+            <guid>https://www.svt.se/nyheter/utrikes/megaprojekt-i-oknen-folj-med-till-egyptens-nya-huvudstad</guid>
+            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[Fem gånger större än Paris • Afrikas högsta byggnad och nytt presidentpalats – men  vem ska betala?]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Navalnyjs tidigare stabschef attackerad med hammare]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/navalnyjs-fore-detta-stabschef-attackerades-utanfor-sitt-hem</link>
+            <guid>https://www.svt.se/nyheter/utrikes/navalnyjs-fore-detta-stabschef-attackerades-utanfor-sitt-hem</guid>
+            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[”De ville bokstavligen göra en schnitzel av mig”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Ny rapport: Män sämre på källkritik i sociala medier]]></title>
+            <link>https://www.svt.se/kultur/ny-rapport-man-samre-pa-kallkritik-i-sociala-medier</link>
+            <guid>https://www.svt.se/kultur/ny-rapport-man-samre-pa-kallkritik-i-sociala-medier</guid>
+            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[Jonatan: ”Jag antar att ingenting är sant”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Tre falska nyheter – som medierna spred vidare]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/tre-falska-nyheter-som-alla-trodde-var-pa-riktigt</link>
+            <guid>https://www.svt.se/nyheter/inrikes/tre-falska-nyheter-som-alla-trodde-var-pa-riktigt</guid>
+            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[Digitala visklekar blev till nyheter • I dag är det källkritikens dag]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Första fartyget med nödhjälp på väg mot Gaza]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=090cce3db46a5b0582f8a3625653e499</link>
+            <guid>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=090cce3db46a5b0582f8a3625653e499</guid>
+            <pubDate>Wed, 13 Mar 2024 09:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[200 ton mat ombord • Se rutten]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Här levereras nödhjälp från luften: ”Enda alternativet”]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/nodhjalp-till-gaza-svt-foljer-med-jordanskt-militarflyg</link>
+            <guid>https://www.svt.se/nyheter/utrikes/nodhjalp-till-gaza-svt-foljer-med-jordanskt-militarflyg</guid>
+            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[Läget allt mer desperat • Se när SVT följde med ett jordanskt militärflyg i norra Gaza]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Svenske läkaren om situationen i Gaza: ”Helvetet på jorden”]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/svenska-lakaren-om-situationen-i-gaza-helvetet-pa-jorden</link>
+            <guid>https://www.svt.se/nyheter/utrikes/svenska-lakaren-om-situationen-i-gaza-helvetet-pa-jorden</guid>
+            <pubDate>Mon, 11 Mar 2024 09:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[”Det jag har sett är svårt att beskriva med ord”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[”Garven avlöser varandra” – Strömquist tillbaka]]></title>
             <link>https://www.svt.se/kultur/recension-liv-och-dod-stromquist-pa-dramaten</link>
             <guid>https://www.svt.se/kultur/recension-liv-och-dod-stromquist-pa-dramaten</guid>
             <pubDate>Wed, 13 Mar 2024 09:08:43 GMT</pubDate>
@@ -144,19 +168,11 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Navalnyjs tidigare stabschef attackerad med hammare]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/navalnyjs-fore-detta-stabschef-attackerades-utanfor-sitt-hem</link>
-            <guid>https://www.svt.se/nyheter/utrikes/navalnyjs-fore-detta-stabschef-attackerades-utanfor-sitt-hem</guid>
-            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[”De ville bokstavligen göra en schnitzel av mig”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Det här vet vi om den ryska frivilligstyrkan]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=5aa95a14f8a9c3f35e70be213b333994</link>
-            <guid>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=5aa95a14f8a9c3f35e70be213b333994</guid>
-            <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[SVT på plats: ”Flyglarmen avlöste varandra”]]></content:encoded>
+            <title><![CDATA[Zelenskyj tackar Biden för nytt stöd]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=1f38cc77212972e5509a6f0b988b8c2b</link>
+            <guid>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=1f38cc77212972e5509a6f0b988b8c2b</guid>
+            <pubDate>Wed, 13 Mar 2024 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[Stödet ska gå till Ukrainas omedelbara behov av artilleri, pansarvärn, och luftförsvar]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -288,12 +304,12 @@
             <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.28/0.39/e12ebbd6df677a59d15143dd72ddbf18466ef8456a7bc1adea9b59a3c22b2151" length="0" type="image/39/e12ebbd6df677a59d15143dd72ddbf18466ef8456a7bc1adea9b59a3c22b2151"/>
         </item>
         <item>
-            <title><![CDATA[Bonden Gunnar lurar in vildsvin i fälla – för att skjuta dem]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/vast/bonden-gunnar-lidell-fangar-vildsvin-i-en-falla-och-skjuter-dem</link>
-            <guid>https://www.svt.se/nyheter/lokalt/vast/bonden-gunnar-lidell-fangar-vildsvin-i-en-falla-och-skjuter-dem</guid>
+            <title><![CDATA[Hyrläkaren Björn från Stockholm tjänar 150 000 i Sveg]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/hyrlakaren-bjorn-fran-stockholm-bar-upp-vardcentralen-i-sveg</link>
+            <guid>https://www.svt.se/nyheter/inrikes/hyrlakaren-bjorn-fran-stockholm-bar-upp-vardcentralen-i-sveg</guid>
             <pubDate>Wed, 13 Mar 2024 06:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/lokalt/vast/bonden-gunnar-lidell-fangar-vildsvin-i-en-falla-och-skjuter-dem" title="Bonden Gunnar lurar in vildsvin i fälla – för att skjuta dem"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.47/0.31/618445d6cb19a7738e501b221eb17455bceda6fa7578e710da07df2688cc009c" alt="Bonden Gunnar Lidell vid vildsvinsfällan i Vänersborg" title="Foto: SVT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Bonden Gunnar lurar in vildsvin i fälla – för att skjuta dem</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.47/0.31/618445d6cb19a7738e501b221eb17455bceda6fa7578e710da07df2688cc009c" length="0" type="image/31/618445d6cb19a7738e501b221eb17455bceda6fa7578e710da07df2688cc009c"/>
+            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/inrikes/hyrlakaren-bjorn-fran-stockholm-bar-upp-vardcentralen-i-sveg" title="Hyrläkaren Björn från Stockholm tjänar 150&nbsp;000 i Sveg"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.44/0.4/78b1599c9b5fed8760e882967c8fa2cac4c2bbdadcedd166ca4f130717f5bb6b" alt="Björn Falk, hyrläkare i Sveg." title="Foto: Henrik Norsell/SVT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Hyrläkaren Björn från Stockholm tjänar 150&nbsp;000 i Sveg</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.44/0.4/78b1599c9b5fed8760e882967c8fa2cac4c2bbdadcedd166ca4f130717f5bb6b" length="0" type="image/4/78b1599c9b5fed8760e882967c8fa2cac4c2bbdadcedd166ca4f130717f5bb6b"/>
         </item>
     </channel>
 </rss>
