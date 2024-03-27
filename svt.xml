@@ -4,7 +4,7 @@
         <title>SVT Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 09:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 11:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.svt.se/nyheter/ekonomi/riksbankens-rantebesked</guid>
             <pubDate>Wed, 27 Mar 2024 09:09:17 GMT</pubDate>
             <content:encoded><![CDATA[SVT:s ekonomikommentator: ”Spår en ännu större räntesänkning”]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.41/0.39/c0c2467e9f9725ec605208a157c9884de60533420d857c2f672c12226c0bf62e" length="0" type="image/39/c0c2467e9f9725ec605208a157c9884de60533420d857c2f672c12226c0bf62e"/>
+            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.6/0.36/0975e2a472fbc6628d722449c173b84de19301ff5a5addb51667bb343be47691" length="0" type="image/36/0975e2a472fbc6628d722449c173b84de19301ff5a5addb51667bb343be47691"/>
+        </item>
+        <item>
+            <title><![CDATA[Hur påverkas du av en räntesänkning?]]></title>
+            <link>https://www.svt.se/special/rantesnurran/</link>
+            <guid>https://www.svt.se/special/rantesnurran/</guid>
+            <pubDate>Wed, 27 Mar 2024 11:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[Testa hur dina kostnader påverkas av styrräntan]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.5/0.5/3f41b18b6162493390e2b2c76bfb166e6b7f017d86097bdf5dfbbbeb48260eef" length="0" type="image/5/3f41b18b6162493390e2b2c76bfb166e6b7f017d86097bdf5dfbbbeb48260eef"/>
         </item>
         <item>
             <title><![CDATA[Bränder, bengaler och stormning – så urartade stormatcherna]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.svt.se/nyheter/utrikes/lakaren-oppnade-mottagning-for-gravida-maste-gora-nagot</guid>
             <pubDate>Wed, 27 Mar 2024 09:09:17 GMT</pubDate>
             <content:encoded><![CDATA[Hittade ultraljudsmaskin i rasmassorna • ”Många föder för tidigt på grund av stress”]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.46/0.44/f0a5e0241dc924d85d1ee01254526c2dcb1a2aae675891eb56136c8fad8dcd4a" length="0" type="image/44/f0a5e0241dc924d85d1ee01254526c2dcb1a2aae675891eb56136c8fad8dcd4a"/>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[Gravid med trillingar – vet inte var hon ska föda: ”Är rädd”]]></title>
@@ -112,7 +120,15 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Två av tre diskvalificeras för lumpen – anses vara för sjuka]]></title>
+            <title><![CDATA[Skärpt straff för huvudman i stort gängmål i Sundsvall]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/vasternorrland/det-stora-gangmalet-hovratten-skarper-straffet-for-huvudmannen</link>
+            <guid>https://www.svt.se/nyheter/lokalt/vasternorrland/det-stora-gangmalet-hovratten-skarper-straffet-for-huvudmannen</guid>
+            <pubDate>Wed, 27 Mar 2024 11:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[Får straffet höjt från elva till 14 års fängelse • Friande domar för Bosvedjeskjutningen]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Två av tre diskvalificeras från lumpen – anses vara för sjuka]]></title>
             <link>https://www.svt.se/nyheter/inrikes/tva-av-tre-kan-inte-gora-lumpen-for-sjuka</link>
             <guid>https://www.svt.se/nyheter/inrikes/tva-av-tre-kan-inte-gora-lumpen-for-sjuka</guid>
             <pubDate>Wed, 27 Mar 2024 06:10:31 GMT</pubDate>
@@ -128,11 +144,11 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Veckans streamingtips: ”Mänskliggör personerna som drabbades”]]></title>
-            <link>https://www.svt.se/kultur/veckans-streamingtips-tre-serier-och-filmer-inspirerade-av-verkliga-handelser</link>
-            <guid>https://www.svt.se/kultur/veckans-streamingtips-tre-serier-och-filmer-inspirerade-av-verkliga-handelser</guid>
-            <pubDate>Wed, 27 Mar 2024 06:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[Tv-kritikern listar tre serier och filmer inspirerade av verkliga händelser]]></content:encoded>
+            <title><![CDATA[Misstänkt hedersmotiv bakom mord på gravid kvinna i Örebro]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/orebro/gravid-kvinna-mordades-i-orebro-nu-kommer-atalet</link>
+            <guid>https://www.svt.se/nyheter/lokalt/orebro/gravid-kvinna-mordades-i-orebro-nu-kommer-atalet</guid>
+            <pubDate>Wed, 27 Mar 2024 11:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[Åtal har väckts mot man • Åklagaren: ”Skett i en hederskontext ”]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -157,6 +173,22 @@
             <guid>https://www.svt.se/nyheter/utrikes/platsen-dar-kriget-tagit-sig-till-ryssland</guid>
             <pubDate>Tue, 26 Mar 2024 16:09:43 GMT</pubDate>
             <content:encoded><![CDATA[Massevakueringar, strider och drönarattacker – i ryska Belgorod märks kriget tydligt]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Skulptören Richard Serra död – en av de största i sin generation]]></title>
+            <link>https://www.svt.se/kultur/skulptoren-richard-serra-dod</link>
+            <guid>https://www.svt.se/kultur/skulptoren-richard-serra-dod</guid>
+            <pubDate>Wed, 27 Mar 2024 11:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[Känd för gigantiska stålkonstruktioner]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Veckans streamingtips: ”Mänskliggör personerna som drabbades”]]></title>
+            <link>https://www.svt.se/kultur/veckans-streamingtips-tre-serier-och-filmer-inspirerade-av-verkliga-handelser</link>
+            <guid>https://www.svt.se/kultur/veckans-streamingtips-tre-serier-och-filmer-inspirerade-av-verkliga-handelser</guid>
+            <pubDate>Wed, 27 Mar 2024 06:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[Tv-kritikern listar tre serier och filmer inspirerade av verkliga händelser]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -232,46 +264,6 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Här saktar stjärnan helt plötsligt ner – ger bort guldet]]></title>
-            <link>https://www.svt.se/sport/alpint/michelle-gisin-gav-bort-slalomguldet-i-schweiz</link>
-            <guid>https://www.svt.se/sport/alpint/michelle-gisin-gav-bort-slalomguldet-i-schweiz</guid>
-            <pubDate>Wed, 27 Mar 2024 06:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[Ledde med över en sekund • Se klipp]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Efter succén – så nära är VM för Northug och Johaug]]></title>
-            <link>https://www.svt.se/sport/langdskidor/vm-snacket-kring-therese-johaug-och-petter-northug-efter-succehelgen</link>
-            <guid>https://www.svt.se/sport/langdskidor/vm-snacket-kring-therese-johaug-och-petter-northug-efter-succehelgen</guid>
-            <pubDate>Wed, 27 Mar 2024 06:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[SVT:s expert: ”Många skulle nog bli irriterade”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Burman överlägsen – trots ryggproblem: ”Hann bli orolig”]]></title>
-            <link>https://www.svt.se/sport/langdskidor/jens-burmans-uppvisning-pa-femmilen-beholl-ledningen-fran-start-till-mal</link>
-            <guid>https://www.svt.se/sport/langdskidor/jens-burmans-uppvisning-pa-femmilen-beholl-ledningen-fran-start-till-mal</guid>
-            <pubDate>Tue, 26 Mar 2024 16:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[Tog revansch från förra året]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Plågad Linn Svahn efter silvret: ”Hon kan säkert inte få kramp”]]></title>
-            <link>https://www.svt.se/sport/langdskidor/linn-svahn-efter-tremilen-ebba-kan-sakert-inte-fa-kramp</link>
-            <guid>https://www.svt.se/sport/langdskidor/linn-svahn-efter-tremilen-ebba-kan-sakert-inte-fa-kramp</guid>
-            <pubDate>Tue, 26 Mar 2024 16:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[Pikar segraren • Se situationen]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.66/0.31/808acd794ffc70b87e7193e56d17953b8dd57f9ea3416e9451c48d627b725320" length="0" type="image/31/808acd794ffc70b87e7193e56d17953b8dd57f9ea3416e9451c48d627b725320"/>
-        </item>
-        <item>
-            <title><![CDATA[Biologens sensationella fynd: ”Utdöd” fjäril på Nya Zeeland]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/smaland/kalmarbiologens-sensationella-upptackt-hittade-utdod-fjaril-pa-nya-zeeland</link>
-            <guid>https://www.svt.se/nyheter/lokalt/smaland/kalmarbiologens-sensationella-upptackt-hittade-utdod-fjaril-pa-nya-zeeland</guid>
-            <pubDate>Wed, 27 Mar 2024 06:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[Ovanlig fjäril har inte setts till på 65 år: ”Den enda bilden på arten i levande tillstånd”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
             <title><![CDATA[”Greta Thunberg har gjort det riktigt svårt för sig”]]></title>
             <link>https://www.svt.se/nyheter/inrikes/den-hardare-greta-thunberg-har-gjort-det-riktigt-svart-for-sig</link>
             <guid>https://www.svt.se/nyheter/inrikes/den-hardare-greta-thunberg-har-gjort-det-riktigt-svart-for-sig</guid>
@@ -280,20 +272,20 @@
             <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.25/0.43/9cb8a6322929abee648ef00e7cc40fc108dc89b7beb31617e8d73f376798b0f4" length="0" type="image/43/9cb8a6322929abee648ef00e7cc40fc108dc89b7beb31617e8d73f376798b0f4"/>
         </item>
         <item>
+            <title><![CDATA[Så kokar du det perfekta påskägget]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/sa-kokar-du-det-perfekta-paskagget</link>
+            <guid>https://www.svt.se/nyheter/inrikes/sa-kokar-du-det-perfekta-paskagget</guid>
+            <pubDate>Wed, 27 Mar 2024 09:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/inrikes/sa-kokar-du-det-perfekta-paskagget" title="Så kokar du det perfekta påskägget"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.69/0.28/49585fef5b7cd580ada01de5eb1cd7ae8323ad81b85da4fd04f5b000003a051c" alt="Kocken Siri Barje." title="Foto: SVT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Så kokar du det perfekta påskägget</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.69/0.28/49585fef5b7cd580ada01de5eb1cd7ae8323ad81b85da4fd04f5b000003a051c" length="0" type="image/28/49585fef5b7cd580ada01de5eb1cd7ae8323ad81b85da4fd04f5b000003a051c"/>
+        </item>
+        <item>
             <title><![CDATA[Så kollapsar bron i Baltimore: ”Väldigt ovanligt”]]></title>
             <link>https://www.svt.se/nyheter/utrikes/bild-for-bild-sa-kollapsar-bron-i-baltimore</link>
             <guid>https://www.svt.se/nyheter/utrikes/bild-for-bild-sa-kollapsar-bron-i-baltimore</guid>
             <pubDate>Wed, 27 Mar 2024 06:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/utrikes/bild-for-bild-sa-kollapsar-bron-i-baltimore" title="Så kollapsar bron i Baltimore: ”Väldigt ovanligt”"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.16/0.26/c667919e131bd31bf9cc4eb4f1b98fa13a1401a7be3e922aefcc2fa6d642296a" alt="Bron som kollapsade i Baltimore, Maryland, USA, på morgonen 26/3&nbsp;2024." title="Foto: StreamTime live"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Så kollapsar bron i Baltimore: ”Väldigt ovanligt”</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
             <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.16/0.26/c667919e131bd31bf9cc4eb4f1b98fa13a1401a7be3e922aefcc2fa6d642296a" length="0" type="image/26/c667919e131bd31bf9cc4eb4f1b98fa13a1401a7be3e922aefcc2fa6d642296a"/>
-        </item>
-        <item>
-            <title><![CDATA[Greta Thunberg frågas ut i Aktuellt]]></title>
-            <link>https://www.svt.se/nyheter/inrikes/greta-thunberg-fragas-ut-i-kvallens-aktuellt</link>
-            <guid>https://www.svt.se/nyheter/inrikes/greta-thunberg-fragas-ut-i-kvallens-aktuellt</guid>
-            <pubDate>Wed, 27 Mar 2024 06:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/inrikes/greta-thunberg-fragas-ut-i-kvallens-aktuellt" title="Greta Thunberg frågas ut i Aktuellt"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.42/0.41/31b259ac35529585b6173875d98b20a5c74527ca4a34290db4d150ccc718f575" alt="Greta Thunberg" title="Foto: Aktuellt"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Greta Thunberg frågas ut i Aktuellt</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.42/0.41/31b259ac35529585b6173875d98b20a5c74527ca4a34290db4d150ccc718f575" length="0" type="image/41/31b259ac35529585b6173875d98b20a5c74527ca4a34290db4d150ccc718f575"/>
         </item>
     </channel>
 </rss>
