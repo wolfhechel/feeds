@@ -4,14 +4,20 @@
         <title>Svenska Dagbladet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 09:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 11:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Föräldrarna i ättiksfallet överklagar domen]]></title>
-            <link>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=32668</link>
-            <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=32668</guid>
-            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
+            <title><![CDATA[Polisen utreder dubbelmord i Gävle]]></title>
+            <link>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=32683</link>
+            <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=32683</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bensinpriset höjs inför påskhelgen]]></title>
+            <link>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=32678</link>
+            <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=32678</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alltid senaste nytt – följ SvD direkt]]></title>
@@ -20,12 +26,12 @@
             <pubDate>Tue, 26 Mar 2024 11:07:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[”Så länge jorden snurrar överlever Golfströmmen”]]></title>
-            <link>https://www.svd.se/a/P4zkQR/kan-golfstrommen-stanna-forskare-splittrade-om-klimatets-paverkan</link>
-            <guid>https://www.svd.se/a/P4zkQR/kan-golfstrommen-stanna-forskare-splittrade-om-klimatets-paverkan</guid>
-            <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[Forskare: Vid kollaps förvandlas hela Norden – men experterna är oeniga om det sker.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/74336c40-6213-4c9c-a5ed-d2e2e023e788?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=3077344160e46f9cbc803116614662d140504959" length="0" type="image//v2/images/74336c40-6213-4c9c-a5ed-d2e2e023e788"/>
+            <title><![CDATA[Broexpert: Så skyddas broarna i Sverige]]></title>
+            <link>https://www.svd.se/a/Llvvgp/experten-sa-skyddas-broarna-i-sverige</link>
+            <guid>https://www.svd.se/a/Llvvgp/experten-sa-skyddas-broarna-i-sverige</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[Flera svenska broar är byggda på samma sätt som Baltimorebron – men är inte lika utsatta.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/a9a86080-df03-46dc-8bb1-ea82851c4b8b?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=c69790083fba84f24845367d2d4d92cc98c052f5" length="0" type="image//v2/images/a9a86080-df03-46dc-8bb1-ea82851c4b8b"/>
         </item>
         <item>
             <title><![CDATA[Det hände sekunderna innan brokollapsen]]></title>
@@ -33,20 +39,21 @@
             <guid>https://www.svd.se/a/P4WWXb/polisens-snabba-beslut-innan-brokollapsen-i-baltimore-hyllas</guid>
             <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
             <content:encoded><![CDATA[Polisen fick knappt två minuters förvarning – snabba beslutet hyllas: ”Räddade liv.”]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/5b450dc4-6f0c-4259-9a63-c90ba7470d56?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=be1b4eb37f2ffb59dd4e6b1f9eb28113b4bad9d9" length="0" type="image//v2/images/5b450dc4-6f0c-4259-9a63-c90ba7470d56"/>
         </item>
         <item>
-            <title><![CDATA[Farlig last på olycksfartyget]]></title>
-            <link>https://www.svd.se/a/0QwjPG/olycksfartyget-bar-pa-farlig-last</link>
-            <guid>https://www.svd.se/a/0QwjPG/olycksfartyget-bar-pa-farlig-last</guid>
+            <title><![CDATA[”Så länge jorden snurrar överlever Golfströmmen”]]></title>
+            <link>https://www.svd.se/a/P4zkQR/kan-golfstrommen-stanna-forskare-splittrade-om-klimatets-paverkan</link>
+            <guid>https://www.svd.se/a/P4zkQR/kan-golfstrommen-stanna-forskare-splittrade-om-klimatets-paverkan</guid>
             <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[Bland annat bar fartyget på frätande och brandfarliga ämnen.]]></content:encoded>
+            <content:encoded><![CDATA[Forskare: Vid kollaps förvandlas hela Norden – men experterna är oeniga om det sker.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ny miljardaffär för Embracer]]></title>
-            <link>https://www.svd.se/a/zER5R1/embracer-saljer-bolag-for-4-6-miljarder</link>
-            <guid>https://www.svd.se/a/zER5R1/embracer-saljer-bolag-for-4-6-miljarder</guid>
-            <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[Spelkoncernen säljer sitt prestigebolag i stor affär.]]></content:encoded>
+            <title><![CDATA[16 års fängelse för dödsskjutning]]></title>
+            <link>https://www.svd.se/a/EQ0oM5/16-ar-for-dodsskjutning-i-jakobsberg</link>
+            <guid>https://www.svd.se/a/EQ0oM5/16-ar-for-dodsskjutning-i-jakobsberg</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[En man döms för mordet i Jakobsberg förra året.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Draget som bäddar för långt, framgångsrikt liv]]></title>
@@ -57,25 +64,18 @@
             <enclosure url="https://svd.vgc.no/v2/images/4ba85ef2-3239-45ba-b595-350978be8805?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=3a8dc21cae749aba73368617fd1beef388ea0edf" length="0" type="image//v2/images/4ba85ef2-3239-45ba-b595-350978be8805"/>
         </item>
         <item>
-            <title><![CDATA[Vildvittrorna har blivit gruvligt otäcka]]></title>
-            <link>https://www.svd.se/a/KnQdz5/netflix-ronja-rovardotter-serie-ar-bade-frasch-och-nostalgisk</link>
-            <guid>https://www.svd.se/a/KnQdz5/netflix-ronja-rovardotter-serie-ar-bade-frasch-och-nostalgisk</guid>
-            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[”Ronja Rövardotter” är sig lik – trots nyskriven handling och modern teknik.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Supermedicin ska ge oss mindre fett, mer muskler]]></title>
-            <link>https://www.svd.se/a/JQK3a7/ozempic-eller-mounjaro-viktnedgang-och-effekt-pa-muskler-jamford</link>
-            <guid>https://www.svd.se/a/JQK3a7/ozempic-eller-mounjaro-viktnedgang-och-effekt-pa-muskler-jamford</guid>
-            <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[Efter Ozempic tas nu nästa generation läkemedel fram – för en muskulösare figur.]]></content:encoded>
+            <title><![CDATA[En av Krogstockholms roligaste upplevelser]]></title>
+            <link>https://www.svd.se/a/q1zBag/krogguidens-recension-av-ping-x-lill-ladan-genuin-och-rolig-thai</link>
+            <guid>https://www.svd.se/a/q1zBag/krogguidens-recension-av-ping-x-lill-ladan-genuin-och-rolig-thai</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[Smakexplosioner och jubel – vi är tacksamma för att hemmaköket blev restaurang.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Putin: F-16-plan kan attackeras i andra länder]]></title>
             <link>https://www.svd.se/a/0QwE9E/putin-f-16-plan-kan-attackeras-i-andra-lander</link>
             <guid>https://www.svd.se/a/0QwE9E/putin-f-16-plan-kan-attackeras-i-andra-lander</guid>
             <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[Planen är ”legitima mål” även om de står vid Natos flygbaser, enligt Putin.]]></content:encoded>
+            <content:encoded><![CDATA[Stridsplanen ses som ”legitima mål” • Paasikivi: ”Då blir det ett tredje världskrig.”]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Ukraina: Ny typ av flygbomb mot Charkiv]]></title>
@@ -83,6 +83,13 @@
             <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
             <pubDate>Sun, 17 Mar 2024 09:07:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>”Något mellan en guidad flygbomb och en robot” • Senaste nytt.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vildvittrorna har blivit gruvligt otäcka]]></title>
+            <link>https://www.svd.se/a/KnQdz5/netflix-ronja-rovardotter-serie-ar-bade-frasch-och-nostalgisk</link>
+            <guid>https://www.svd.se/a/KnQdz5/netflix-ronja-rovardotter-serie-ar-bade-frasch-och-nostalgisk</guid>
+            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[”Ronja Rövardotter” är sig lik – trots nyskriven handling och modern teknik.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Högskoleprovet 2004: Klarar du alla 15 orden?]]></title>
@@ -93,39 +100,39 @@
             <enclosure url="https://svd.vgc.no/v2/images/7d53d0b1-6c99-4e9b-a9ec-99a34f3317ae?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=7974718b8683ff6c8af13e05f0de3c79171a6d29" length="0" type="image//v2/images/7d53d0b1-6c99-4e9b-a9ec-99a34f3317ae"/>
         </item>
         <item>
-            <title><![CDATA[FI: Banker dåliga på hållbart sparande]]></title>
-            <link>https://www.svd.se/a/Lly0XQ/fi-banker-daliga-pa-hallbart-sparande</link>
-            <guid>https://www.svd.se/a/Lly0XQ/fi-banker-daliga-pa-hallbart-sparande</guid>
-            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">FI: Banker dåliga på hållbart sparande</h2></div>]]></content:encoded>
+            <title><![CDATA[Regeringen skyndar på riktlinjer för skärmtid]]></title>
+            <link>https://www.svd.se/a/769lkw/regeringen-skyndar-pa-riktlinjer-for-skarmtid</link>
+            <guid>https://www.svd.se/a/769lkw/regeringen-skyndar-pa-riktlinjer-for-skarmtid</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Regeringen skyndar på riktlinjer för skärmtid</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Så blåser vi den ryska björnen]]></title>
-            <link>https://www.svd.se/a/769l4v/sa-blaser-vi-den-ryska-bjornen</link>
-            <guid>https://www.svd.se/a/769l4v/sa-blaser-vi-den-ryska-bjornen</guid>
-            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Så blåser vi den ryska björnen</h2></div>]]></content:encoded>
+            <title><![CDATA[Vad har konstnärer och vårdpersonal gemensamt?]]></title>
+            <link>https://www.svd.se/a/15ggVG/recension-chronos-pa-tensta-konsthall</link>
+            <guid>https://www.svd.se/a/15ggVG/recension-chronos-pa-tensta-konsthall</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Vad har konstnärer och vårdpersonal gemensamt?</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ett år i fångenskap för amerikansk reporter]]></title>
-            <link>https://www.svd.se/a/KnEvqM/ett-ar-i-fangenskap-for-amerikansk-reporter</link>
-            <guid>https://www.svd.se/a/KnEvqM/ett-ar-i-fangenskap-for-amerikansk-reporter</guid>
-            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Ett år i fångenskap för amerikansk reporter</h2></div>]]></content:encoded>
+            <title><![CDATA[Broexpert: Så skyddas broarna i Sverige]]></title>
+            <link>https://www.svd.se/a/Llvvgp/experten-sa-skyddas-broarna-i-sverige</link>
+            <guid>https://www.svd.se/a/Llvvgp/experten-sa-skyddas-broarna-i-sverige</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Broexpert: Så skyddas broarna i Sverige</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Två åtalas för sju år gammalt mord]]></title>
-            <link>https://www.svd.se/a/JQP1qJ/atalas-for-sju-ar-gammalt-mord</link>
-            <guid>https://www.svd.se/a/JQP1qJ/atalas-for-sju-ar-gammalt-mord</guid>
-            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Två åtalas för sju år gammalt mord</h2></div>]]></content:encoded>
+            <title><![CDATA[Mordmisstänkta 16-åringen placeras på Sis-hem]]></title>
+            <link>https://www.svd.se/a/5BmVgm/mordmisstankt-16-aring-ska-undersokas</link>
+            <guid>https://www.svd.se/a/5BmVgm/mordmisstankt-16-aring-ska-undersokas</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Mordmisstänkta 16-åringen placeras på Sis-hem</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Föräldrarna i ättiksfallet överklagar domen]]></title>
-            <link>https://www.svd.se/a/kEqay9/foraldrarna-i-attiksfallet-overklagar-domarna</link>
-            <guid>https://www.svd.se/a/kEqay9/foraldrarna-i-attiksfallet-overklagar-domarna</guid>
-            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Föräldrarna i ättiksfallet överklagar domen</h2></div>]]></content:encoded>
+            <title><![CDATA[16 år för dödsskjutning i Jakobsberg]]></title>
+            <link>https://www.svd.se/a/XbGw7m/16-ar-for-dodsskjutning-i-jakobsberg</link>
+            <guid>https://www.svd.se/a/XbGw7m/16-ar-for-dodsskjutning-i-jakobsberg</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">16 år för dödsskjutning i Jakobsberg</h2></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Världen går inte under av lite frihet]]></title>
@@ -135,18 +142,32 @@
             <content:encoded><![CDATA[<strong>Mattias Svensson: </strong>Vad är det värsta som kan hända om Sverige får vinbarer utan lagad mat?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Supermedicin ska ge oss mindre fett, mer muskler]]></title>
+            <link>https://www.svd.se/a/JQK3a7/ozempic-eller-mounjaro-viktnedgang-och-effekt-pa-muskler-jamford</link>
+            <guid>https://www.svd.se/a/JQK3a7/ozempic-eller-mounjaro-viktnedgang-och-effekt-pa-muskler-jamford</guid>
+            <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[Efter Ozempic tas nu nästa generation läkemedel fram – för en muskulösare figur.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jag klädde ut mig till barnhäxa]]></title>
+            <link>https://www.svd.se/a/9zj9Bd/sa-borjade-traditionen-med-paskkarringar</link>
+            <guid>https://www.svd.se/a/9zj9Bd/sa-borjade-traditionen-med-paskkarringar</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Dick Harrison: </strong>Den svenska traditionen är allvarligt hotad av Halloween.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ny miljardaffär för Embracer]]></title>
+            <link>https://www.svd.se/a/zER5R1/embracer-saljer-bolag-for-4-6-miljarder</link>
+            <guid>https://www.svd.se/a/zER5R1/embracer-saljer-bolag-for-4-6-miljarder</guid>
+            <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[Spelkoncernen säljer sitt prestigebolag i stor affär.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Efter debatten: ”Autister i grupp verkar farligt”]]></title>
             <link>https://www.svd.se/a/xgj758/autistiskt-skrivande-provocerade-ny-kurs-i-host</link>
             <guid>https://www.svd.se/a/xgj758/autistiskt-skrivande-provocerade-ny-kurs-i-host</guid>
             <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
             <content:encoded><![CDATA[Deras kurs i autistiskt skrivande provocerade kritikerna.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Trump klättrar i miljardärsindex]]></title>
-            <link>https://www.svd.se/a/0QwEp0/trump-klattrar-i-globalt-miljardarsindex</link>
-            <guid>https://www.svd.se/a/0QwEp0/trump-klattrar-i-globalt-miljardarsindex</guid>
-            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[Ex-presidentens förmögenhet beräknas nu till 7,8 miljarder dollar.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Eldsjälarna gör det som vården inte lyckats med]]></title>
@@ -156,33 +177,19 @@
             <content:encoded><![CDATA[Läkarstudenten Hanna Larsson har samlat berättelser om övergrepp i flera år.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["Titanic"-föremål sålt för miljoner]]></title>
-            <link>https://www.svd.se/a/jlV9jw/traforemalet-som-raddade-rose-i-titanic-har-salts</link>
-            <guid>https://www.svd.se/a/jlV9jw/traforemalet-som-raddade-rose-i-titanic-har-salts</guid>
-            <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[Räddade Rose från iskalla vattnet i slutet av filmen.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Knivskarpt klarspråk om Benny Fredrikssons död]]></title>
-            <link>https://www.svd.se/a/O8LLxO/recension-den-siste-teaterdirektoren-av-johan-hilton</link>
-            <guid>https://www.svd.se/a/O8LLxO/recension-den-siste-teaterdirektoren-av-johan-hilton</guid>
-            <pubDate>Wed, 27 Mar 2024 16:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[Berättelsen om Benny Fredriksson är en exceptionellt välskriven bladvändare.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Knepet att lära sig av ”de som inte går upp i vikt”]]></title>
-            <link>https://www.svd.se/a/veRV8L/neat-knepet-att-lara-sig-av-de-som-aldrig-gar-upp-i-vikt</link>
-            <guid>https://www.svd.se/a/veRV8L/neat-knepet-att-lara-sig-av-de-som-aldrig-gar-upp-i-vikt</guid>
-            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[Deltagarna går ner tio kilo om året efter professorns mikro­justeringar i USA.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/e5c18cde-dd42-4832-b24a-2c54cf89fe49?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=8ac0493d98e6bf09ba1b614285fde55fef5ba47b" length="0" type="image//v2/images/e5c18cde-dd42-4832-b24a-2c54cf89fe49"/>
+            <title><![CDATA[Gick ner 26 kilo: ”Äter och tränar för 50 år till”]]></title>
+            <link>https://www.svd.se/a/abpA3A/styrketraningens-effektivaste-upplagg-enligt-forskning</link>
+            <guid>https://www.svd.se/a/abpA3A/styrketraningens-effektivaste-upplagg-enligt-forskning</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[Henrik, 42, följer styrke­träningens effektivaste upplägg, enligt forskning.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/423b88f6-4789-46c6-b690-719cdd912fd9?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=6c1ef3568e8fc6503afba17ba55c1a04b4bd102f" length="0" type="image//v2/images/423b88f6-4789-46c6-b690-719cdd912fd9"/>
         </item>
         <item>
             <title><![CDATA[Superb – missa inte nya BBC-serien]]></title>
             <link>https://www.svd.se/a/Q7nQWP/streamingtips-ronja-rovardotter-steve-och-grym-stand-up</link>
             <guid>https://www.svd.se/a/Q7nQWP/streamingtips-ronja-rovardotter-steve-och-grym-stand-up</guid>
             <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Anna Hellsten: </strong>Upprörande skildring av britternas värsta rättskandal.]]></content:encoded>
+            <content:encoded><![CDATA[<strong>Anna Hellsten: </strong>Upprörande skildring av britternas värsta rättsskandal.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Så är läget i det brittiska kungahuset]]></title>
@@ -199,11 +206,11 @@
             <content:encoded><![CDATA[Tv-spelsvärlden kryllar av nyversioner – här är några remakes värda din tid.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”En plåga – får jag säga åt andras skrikande barn?”]]></title>
-            <link>https://www.svd.se/a/dwoKAA/far-man-saga-at-en-framlings-skrikande-barn</link>
-            <guid>https://www.svd.se/a/dwoKAA/far-man-saga-at-en-framlings-skrikande-barn</guid>
-            <pubDate>Wed, 27 Mar 2024 06:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[Sofia Larsson svarar Sara: Ditt sista förslag har testats på flyg – det slutade inte väl.]]></content:encoded>
+            <title><![CDATA[Knivskarpt klarspråk om Benny Fredrikssons död]]></title>
+            <link>https://www.svd.se/a/O8LLxO/recension-den-siste-teaterdirektoren-av-johan-hilton</link>
+            <guid>https://www.svd.se/a/O8LLxO/recension-den-siste-teaterdirektoren-av-johan-hilton</guid>
+            <pubDate>Wed, 27 Mar 2024 16:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[Berättelsen om Benny Fredriksson är en exceptionellt välskriven bladvändare.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Går hårt åt Riksbanken – varnar för nedkylning]]></title>
@@ -213,11 +220,11 @@
             <content:encoded><![CDATA[”Inte över i en handvändning” • Ser mörkt på effekterna av dagens ränta.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Tandvården söver barn för att tjäna pengar”]]></title>
-            <link>https://www.svd.se/a/JQK0LX/tandvarden-sover-barn-for-att-tjana-pengar-skriver-jonas-lindberg-v</link>
-            <guid>https://www.svd.se/a/JQK0LX/tandvarden-sover-barn-for-att-tjana-pengar-skriver-jonas-lindberg-v</guid>
-            <pubDate>Thu, 28 Mar 2024 06:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[Jonas Lindberg (V): Regionen måste ta över verksamheten i egen regi.]]></content:encoded>
+            <title><![CDATA[Brittiska EM-fans varnas för tysk öl]]></title>
+            <link>https://www.svd.se/a/y6e1QK/brittiska-em-fans-varnas-for-tysk-ol</link>
+            <guid>https://www.svd.se/a/y6e1QK/brittiska-em-fans-varnas-for-tysk-ol</guid>
+            <pubDate>Thu, 28 Mar 2024 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[Alkoholhalten ”kan överraska” enligt utrikesdepartementet.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Bombardemang lyser upp himlen över Rafah]]></title>
@@ -227,25 +234,25 @@
             <content:encoded><![CDATA[Israel: Riktat mot ambulanscenter kopplad till terrorstämplad islamistisk grupp.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Flera palestinier dödade i räd på Västbanken]]></title>
+            <title><![CDATA[Israelisk militär: Över 200 dödade vid sjukhus]]></title>
             <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
             <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
             <pubDate>Sun, 03 Mar 2024 16:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Israel genomförde räd i flyktinglägret i Jenin på Västbanken • Senaste nytt om kriget.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Hävdar att det rör sig om beväpnade Hamasanslutna personer • Senaste nytt om kriget.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Erbjudande jag inte kunde tacka nej till”]]></title>
-            <link>https://www.svd.se/a/P4WWQp/janne-anderssons-nya-jobb-fantastiskt-erbjudande</link>
-            <guid>https://www.svd.se/a/P4WWQp/janne-anderssons-nya-jobb-fantastiskt-erbjudande</guid>
-            <pubDate>Wed, 27 Mar 2024 11:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[Tidigare förbundskaptenen Janne Anderssons nya jobb.]]></content:encoded>
+            <title><![CDATA[Trump klättrar i miljardärsindex]]></title>
+            <link>https://www.svd.se/a/0QwEp0/trump-klattrar-i-globalt-miljardarsindex</link>
+            <guid>https://www.svd.se/a/0QwEp0/trump-klattrar-i-globalt-miljardarsindex</guid>
+            <pubDate>Thu, 28 Mar 2024 09:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[Ex-presidentens förmögenhet beräknas nu till 7,8 miljarder dollar.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ett rejält påskägg från ”inflationsdräparen”]]></title>
-            <link>https://www.svd.se/a/3ElLKd/henrik-torehmmar-ett-rejalt-paskagg-fran-elisabeth-svantesson</link>
-            <guid>https://www.svd.se/a/3ElLKd/henrik-torehmmar-ett-rejalt-paskagg-fran-elisabeth-svantesson</guid>
-            <pubDate>Wed, 27 Mar 2024 16:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Henrik Torehammar: </strong>Fastan är bruten – finansminister Svantesson återuppstår.]]></content:encoded>
+            <title><![CDATA[”En plåga – får jag säga åt andras skrikande barn?”]]></title>
+            <link>https://www.svd.se/a/dwoKAA/far-man-saga-at-en-framlings-skrikande-barn</link>
+            <guid>https://www.svd.se/a/dwoKAA/far-man-saga-at-en-framlings-skrikande-barn</guid>
+            <pubDate>Wed, 27 Mar 2024 06:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Sofia Larsson svarar Sara: Ditt sista förslag har testats på flyg – det slutade inte väl.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Samtycke handlar om mer än att säga ”ja”]]></title>
@@ -255,49 +262,49 @@
             <content:encoded><![CDATA[<strong>Merete Mazzarella: </strong>Att dra en skarp gräns mellan att vilja och att inte vilja ha sex är långt ifrån okomplicerat.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[35]]></title>
+            <title><![CDATA[36]]></title>
             <link>https://kund.svd.se/kundinfo/dagens-tidning.html?utm_source=svdse&amp;utm_medium=b2c&amp;utm_content=dt&amp;utm_campaign=dt&amp;intcmp=svdse:b2c:dt:dt</link>
             <guid>https://kund.svd.se/kundinfo/dagens-tidning.html?utm_source=svdse&amp;utm_medium=b2c&amp;utm_content=dt&amp;utm_campaign=dt&amp;intcmp=svdse:b2c:dt:dt</guid>
             <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
             <content:encoded><![CDATA[torsdag 28 mars]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[36]]></title>
+            <title><![CDATA[37]]></title>
             <link>https://www.svd.se/sprakkurser?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=sprakkurser</link>
             <guid>https://www.svd.se/sprakkurser?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=sprakkurser</guid>
             <pubDate>Mon, 11 Mar 2024 16:08:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Onlinekurs</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">1 mån gratis</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Förbättra din franska</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/8f8e11c63795851b9c5ced3b695b704e6b80b87876f386bb15fa598a87cff704.jpeg" alt="Förbättra din franska"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[37]]></title>
+            <title><![CDATA[38]]></title>
             <link>https://accent.svd.se/tryffeltid-i-piemonte-och-havsvandring-i-ligurien.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=piemonte</link>
             <guid>https://accent.svd.se/tryffeltid-i-piemonte-och-havsvandring-i-ligurien.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=piemonte</guid>
             <pubDate>Mon, 25 Mar 2024 11:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">21 800 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Tryffeltid i Piemonte och havsvandring i Ligurien</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/945a310ef163eb4b621104d3e6002e9c80cafcf266389cea88539f4df70d2c86.jpeg" alt="Tryffeltid i Piemonte och havsvandring i Ligurien"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[38]]></title>
+            <title><![CDATA[39]]></title>
             <link>https://accent.svd.se/historia-pa-donau-jarnporten-med-dick-harrison.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=donau_jarnporten</link>
             <guid>https://accent.svd.se/historia-pa-donau-jarnporten-med-dick-harrison.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=donau_jarnporten</guid>
             <pubDate>Mon, 25 Mar 2024 11:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">43 900 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Historia på Donau – Järnporten med Dick Harrison</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/2915a4c5af6cfd63c8e49ee2a3d2538565fe346bdcb61c802bc60a1405ae7125.jpeg" alt="Historia på Donau – Järnporten med Dick Harrison"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[39]]></title>
+            <title><![CDATA[40]]></title>
             <link>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vevradio#!/Vevradio-med-solceller/p/615130864/category=161917572</link>
             <guid>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vevradio#!/Vevradio-med-solceller/p/615130864/category=161917572</guid>
             <pubDate>Mon, 25 Mar 2024 11:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Beredd</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">799 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Vevradio</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/7b101d5b1d25edda9575eabc9d1ff5d2563691a46d90b5d45ccd5bc46078b8d0.jpeg" alt="Vevradio"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[40]]></title>
+            <title><![CDATA[41]]></title>
             <link>https://prenumerera.svd.se/svdvinklubb?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vinklubb</link>
             <guid>https://prenumerera.svd.se/svdvinklubb?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vinklubb</guid>
             <pubDate>Mon, 04 Mar 2024 16:09:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">SvD Vinklubb</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">1 mån gratis</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Vintipsen före alla andra</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/b190edd9d441a354dd74d7418ee822405c7ec6907cb68af2270384cab32b4a01.jpeg" alt="Vintipsen före alla andra"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[41]]></title>
+            <title><![CDATA[42]]></title>
             <link>https://accent.svd.se/stor-och-liten-serigrafi-av-owe-gustafson.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=stor_och_liten</link>
             <guid>https://accent.svd.se/stor-och-liten-serigrafi-av-owe-gustafson.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=stor_och_liten</guid>
             <pubDate>Mon, 25 Mar 2024 11:07:36 GMT</pubDate>
