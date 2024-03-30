@@ -1,418 +1,393 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Expressen</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 06:09:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[JUST NU: Tusk: Befinner oss i ”förkrigstid”]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/tusk-befinner-oss-i-forkrigstid/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/tusk-befinner-oss-i-forkrigstid/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Jämför med åren före första världskriget]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JUST NU: Explosion i port till lägenhetshus]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/explosion-i-varnamo/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/explosion-i-varnamo/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Bombtekniker kallade till Värnamo]]></content:encoded>
-            <enclosure url="https://static.cdn-expressen.se/images/dd/d8/ddd836e39937460893b1c231b46a77f2/annan/640@60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JUST NU: Kraftig explosion: ”Finns inga fönster kvar”]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/larm-om-explosion-i-akersberga/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/larm-om-explosion-i-akersberga/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Bombgruppen på väg till Åkersberga • Granne: ”Har aldrig blivit så rädd”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3]]></title>
-            <link>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</link>
-            <guid>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</guid>
-            <pubDate>Sun, 24 Mar 2024 16:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="bb--red">TIPSA: </span>Vet du mer? Sms:a 0790-643643]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Här har Jan Emanuel hittat hem: ”White trash”]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/pa-gran-canaria-har-jan-emanuel--hittat-hem-jag-ar-white-trash/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/pa-gran-canaria-har-jan-emanuel--hittat-hem-jag-ar-white-trash/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Expressen besöker nya lyan på Gran Canaria • "Hummer är inte gott – jag vill ha kebab"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Programledarens miss i TV4:s direktsändning]]></title>
-            <link>https://www.expressen.se/tv/nyheter/sverige/programledarens-miss-i-tv4s-direktsandning/</link>
-            <guid>https://www.expressen.se/tv/nyheter/sverige/programledarens-miss-i-tv4s-direktsandning/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Anders Krafts påskblunder: ”Visst är konstigt?”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Stjärnkocken om lyxkrogen i Ryssland]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/stjarnkocken-om-kritiken-mot-krogen-i-ryssland/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/stjarnkocken-om-kritiken-mot-krogen-i-ryssland/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Daniel Höglander om kritiken: Har hjälpt en vän]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hunden sover djupt – ser inte dödsfaran]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/hunden-ligger-och-sover-da-slingrar-sig-kobran-narmare/</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/hunden-ligger-och-sover-da-slingrar-sig-kobran-narmare/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Kobran slingrar sig i Thailand]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Anklagelsen mot väst: Vill ”strypa” diktaturen]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/ryssland-usa-stryper-nordkorea/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/ryssland-usa-stryper-nordkorea/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Ambassadörens svar: Rysk jakt på vapen till kriget mot Ukraina]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Putins bluff synas – avslöjas av dokument]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/putins-bluff-synas-avslojas-av-dokument/</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/putins-bluff-synas-avslojas-av-dokument/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Varnades dagar före terrordådet •&nbsp;Beskyller Ukraina]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/mitt-i-intima-samtalet-har-ingen-koll-bakom-sig</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/mitt-i-intima-samtalet-har-ingen-koll-bakom-sig</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<video style="width:100%;min-width:10px;aspect-ratio:16/9;display:block;" src="https://cec25b81f5367e87971d00ade15aed0e-httpcache0-03837-cachedown0.dna.ip-only.net/03837-cachedown0/ncode/2024-03-30/nxtedition-U8PhqeFwbb3sjb-1711774980/nxtedition-U8PhqeFwbb3sjb-1711774980_720p.mp4" autoplay="" loop="" muted="" playsinline=""></video>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Mitt i intima samtalet – har inte koll bakom sig]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/mitt-i-intima-samtalet-har-ingen-koll-bakom-sig</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/mitt-i-intima-samtalet-har-ingen-koll-bakom-sig</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[28-årigen överrumplad på en sekund i London • ”Nej, men sluta...”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Görgens fina påskfynd på promenaden: ”Paff”]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/hittade-gavan-under-promenaden-sa-paff-/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/hittade-gavan-under-promenaden-sa-paff-/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Hyllar presenten: ”Finns fantastiskt fina generösa människor”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Fräck biljettkupp – tar sig förbi flygkontrollen]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/frack-biljettkupp-tar-bild-pa-resenars-boardingkort-</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/frack-biljettkupp-tar-bild-pa-resenars-boardingkort-</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Försöker gömma sig ombord • Grips i USA]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Uppgifter: Israel AI-övervakar palestinier]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/uppgifter-israel-ai-overvakar-palestinier-i-gaza/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/uppgifter-israel-ai-overvakar-palestinier-i-gaza/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Källor till New York Times: Ska avslöja Hamas]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Tre religioner firar i Jerusalem: ”Spänt”]]></title>
-            <link>https://www.expressen.se/nyheter/tre-religioner-firar-helg-i-jerusalem-sorglig-pask/</link>
-            <guid>https://www.expressen.se/nyheter/tre-religioner-firar-helg-i-jerusalem-sorglig-pask/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Dyster långfredag och ramadan • ”Gud ger oss hopp om fred och rättvisa”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Mohammed, 6, dog av svält – vädjan från Gaza]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/6-arige-mohammed-senast-att-do-av-svalt-i-gaza</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/6-arige-mohammed-senast-att-do-av-svalt-i-gaza</guid>
-            <pubDate>Fri, 29 Mar 2024 11:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[FN:s larm: En miljon palestinier står inför hungersnöd]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Testa valkompassen: Vem ska du rösta på?]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</guid>
-            <pubDate>Tue, 26 Mar 2024 16:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[9 juni är det EU-val – vilket parti företräder dina åsikter?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Putins övervakning testades på VM-fansen]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/putins-ai-overvakning-testades-pa-vm-fansen/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/putins-ai-overvakning-testades-pa-vm-fansen/</guid>
-            <pubDate>Fri, 29 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Fifa: ”Inte vårt ansvar”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Veronica, 38, hittad mördad: ”Mitt allt”]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/veronica-38-hittades--mordad-dottern-om--sorgen-var-mitt-allt/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/veronica-38-hittades--mordad-dottern-om--sorgen-var-mitt-allt/</guid>
-            <pubDate>Thu, 28 Mar 2024 06:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[Anmälan nedlagd – trots våldshistoriken]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ribbenvik: ”Det har blivit som SD vill”]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/fick-ga-efter-patryckning-det-har-blivit-som-sd-vill/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/fick-ga-efter-patryckning-det-har-blivit-som-sd-vill/</guid>
-            <pubDate>Tue, 26 Mar 2024 11:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[Generaldirektörer utbytta: ”Ingen slump”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kanarieöarna pressas av stor flyktingström]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/har-anlander-flyktingstrommen-bland--charterturisterna-pa-kanarieoarna/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/har-anlander-flyktingstrommen-bland--charterturisterna-pa-kanarieoarna/</guid>
-            <pubDate>Sun, 24 Mar 2024 09:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[Turistmålet kallas ”nya Lampedusa”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Polis åtalad för mordhot: ”Kommer döda henne”]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/polis-atalad-for-mordhot-jag-kommer-doda-henne/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/polis-atalad-for-mordhot-jag-kommer-doda-henne/</guid>
-            <pubDate>Fri, 29 Mar 2024 16:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[Attackerade taxichaufför •&nbsp;Förhöret: ”Jag var jätterädd”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jakt på droghelikoptern – flyger utan belysning]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/jakt-pa-droghelikoptern-flyger-utan-belysning-/</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/jakt-pa-droghelikoptern-flyger-utan-belysning-/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Spansk polis beslagtar 795 kilo hasch – värt över 10 miljoner kronor]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Man hittad död i bostad – polisen utreder mord]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/person-hittad-dod-i-stockholm/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/person-hittad-dod-i-stockholm/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Kvinna greps i Vallentuna – släpptes sen • ”Oklara omständigheter”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dramatiska eldinfernot – delar faller mot gatan]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/dramatiska-eldinfernot-delar-rasar-mot-gatan/</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/dramatiska-eldinfernot-delar-rasar-mot-gatan/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Se klippen • Enorm brand i den brasilianska miljonstaden]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Siamesiska tvillingarnas ord till ”haters” på nätet]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/siamesiska-tvillingarnas-ord-till-haters-pa-natet/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/siamesiska-tvillingarnas-ord-till-haters-pa-natet/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Bryter tystnaden efter virala giftermålet: ”Om du inte...”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bråk urartade – man dömd för dödshugg]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/man-domd-for-dodshugg-pa-lastbilscentral/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/man-domd-for-dodshugg-pa-lastbilscentral/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[42-åring knivhögg två på lastbilscentral i Asarum – en dog • 18 års fängelse]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Begick sexbrott mot 30 flickor – döms till fängelse]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/hassanein-fadhel-hassen-begick-sexbrott-mot-30-flickor/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/hassanein-fadhel-hassen-begick-sexbrott-mot-30-flickor/</guid>
-            <pubDate>Fri, 29 Mar 2024 16:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[Hassanein Fadhel Hassen låtsades vara tonårspojke på Snapchat]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Stjärnkockarna: Så dricksar vi på krogen]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/stjarnkockarna-sa-dricksar-vi-pa-krogen/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/stjarnkockarna-sa-dricksar-vi-pa-krogen/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[”Två-tre procent känns nästan förolämpande”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Servitrisen Astrid: Sårar att kallas girig]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/servitrisen-astrid-53-om-dricksdebatten-sarad/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/servitrisen-astrid-53-om-dricksdebatten-sarad/</guid>
-            <pubDate>Fri, 29 Mar 2024 11:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[Vänder sig mot drickskritiken • ”Är man är nöjd ska det synas”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ikea bygger nytt – då spricker Kenneths hus]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/ikea-bygge-orsakar-sprickor-i-kenneths-hus-/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/ikea-bygge-orsakar-sprickor-i-kenneths-hus-/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[En mardröm för grannarna i Älmhult • Möbeljättens svar]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cyklist i 75-årsåldern död – påkörd i Kalmar]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/man-till-sjukhus-efter-trafikolycka-i-kalmar-/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/man-till-sjukhus-efter-trafikolycka-i-kalmar-/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Polisen: ”Kollision mellan en cyklist och en personbil”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Misstänkt mordförsök i Kalmar – två skadade]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/misstankt-mordforsok-i-kalmar-tva-skadade/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/misstankt-mordforsok-i-kalmar-tva-skadade/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Dök upp på akuten]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Man i 60-årsåldern gripen för grovt brott]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/man-i-60-arsaldern-gripen-for-grovt-brott/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/man-i-60-arsaldern-gripen-for-grovt-brott/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Mannen i Helsingborgs kommun hade ”krut och tändkapslar”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Plan hamnade i ”extrem” turbulens – sju till sjukhus]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/plan-hamnade-i-extrem-turbulens-sju-till-sjukhus/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/plan-hamnade-i-extrem-turbulens-sju-till-sjukhus/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Tvingades nödlanda på flygplats i New York]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Maskerade män rånade man utomhus i Malmö]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/maskerade-man-ranade-man-utomhus-i-malmo/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/maskerade-man-ranade-man-utomhus-i-malmo/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Fick med sig cykel efter brottet i Malmö]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hundratals tävlar i en galen fikautmaning]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/hundratals-tavlar-i-galna-fika-utmaningen-/</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/hundratals-tavlar-i-galna-fika-utmaningen-/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Snabbast vinner – utan spring och spill]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Gravida Nora hittades död – man misstänkt]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/gravida-nora-40-hittades-dod-man-haktad/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/gravida-nora-40-hittades-dod-man-haktad/</guid>
-            <pubDate>Fri, 29 Mar 2024 16:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[Man häktad • Mamman: ”Kände att något var fel”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sju kvinnor hittade döda – på tre veckor]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/sju-kvinnor-hittade-doda-i-misstankta-mord-i-mars-/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/sju-kvinnor-hittade-doda-i-misstankta-mord-i-mars-/</guid>
-            <pubDate>Fri, 29 Mar 2024 16:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[Misstänkta mördarna • ”Katastrof det som sker nu”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kvinnan ska handla – går fel på en sekund]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/golvet-forsvinner-under-kvinnans-fotter-i-butiken</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/golvet-forsvinner-under-kvinnans-fotter-i-butiken</guid>
-            <pubDate>Fri, 29 Mar 2024 11:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[Hinner inte reagera •&nbsp;Kundernas chock i Kina •&nbsp;Ingen kan förklara]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Varnar för ”svag snö” – risk för stora laviner]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/lavinfara-i-svenska-fjall-under-langfredagen/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/lavinfara-i-svenska-fjall-under-langfredagen/</guid>
-            <pubDate>Fri, 29 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Betydande lavinfara i fyra fjällområdena • SMHI: Blåst och snö]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kvinnliga fångar gråter – påven kysser deras fötter]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/kvinnliga-fangar-storgrater-paven-kysser-deras-fotter</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/kvinnliga-fangar-storgrater-paven-kysser-deras-fotter</guid>
-            <pubDate>Fri, 29 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Påve Franciskus behandling skapar kraftig reaktion]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Efter orden om maken – Gypsy Rose skiljer sig]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/gypsy-rose-blanchard-skiljer-sig/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/gypsy-rose-blanchard-skiljer-sig/</guid>
-            <pubDate>Fri, 29 Mar 2024 16:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[Hade ett fängelsebröllop 2022 • Behöver hitta ”vem hon är”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Tyskt pollen drar in över Sverige i påsk]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/tyskt-pollen-drar-in-over-sverige-i-pask-w86d5/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/tyskt-pollen-drar-in-over-sverige-i-pask-w86d5/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[Smällen i Sverige i påsk – luftströmmen påverkar]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Flerfrontskriget mot gängen – nya planen]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/stor-intervju-sa-vill-gunnar-strommer-stoppa-gangen/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/stor-intervju-sa-vill-gunnar-strommer-stoppa-gangen/</guid>
-            <pubDate>Fri, 29 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Strömmer i stor intervju • Piken efter Gucci-utspelet]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jagas i hela världen efter skotten i Farsta]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/man-internationellt-efterlyst-efter-dubbelmordet-i-farsta-centrum/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/man-internationellt-efterlyst-efter-dubbelmordet-i-farsta-centrum/</guid>
-            <pubDate>Fri, 29 Mar 2024 16:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[Uppgifter till Aftonbladet • Elias, 13, och Tesfamichal, 43, sköts till döds]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Intensiva strider vid sjukhus – stora oron]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/intensiva-strider-vid-sjukhus-i-gaza-oron/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/intensiva-strider-vid-sjukhus-i-gaza-oron/</guid>
-            <pubDate>Fri, 29 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Tvingas stänga ner efter attacker • WHO: ”Överlever knappt”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Israeliskt luftangrepp mot kuststad i Gaza]]></title>
-            <link>https://www.expressen.se/tv/nyheter/varlden/israelisk-luftangrepp-mot-kuststaden-i-gaza/</link>
-            <guid>https://www.expressen.se/tv/nyheter/varlden/israelisk-luftangrepp-mot-kuststaden-i-gaza/</guid>
-            <pubDate>Fri, 29 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Al Zawaida attackerades på torsdagen]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Putin om att attackera Nato: ”Rent nonsens”]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/putin-om-att-attackera-nato-rent-nonsens/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/putin-om-att-attackera-nato-rent-nonsens/</guid>
-            <pubDate>Fri, 29 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Men hotar med attacker mot amerikanska jaktplan]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[USA efter terrordådet: ”Varnade flera gånger”]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/usa-efter-terrordadet--varnade-flera-ganger/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/usa-efter-terrordadet--varnade-flera-ganger/</guid>
-            <pubDate>Fri, 29 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Vita huset: ”Vi hade informationen” •&nbsp;FSB anklagar väst]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[21 skadade i olycka – reste hem från skolresa]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/bussolycka-pa-autobahn-21-skadade/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/bussolycka-pa-autobahn-21-skadade/</guid>
-            <pubDate>Fri, 29 Mar 2024 09:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[Körde av vägen på autobahn utanför Dortmund]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Man gripen för våldtäkt utomhus – insats i Åre]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/man-gripen-for-valdtakt-i-are/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/man-gripen-for-valdtakt-i-are/</guid>
-            <pubDate>Fri, 29 Mar 2024 09:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[Kvinna i 20-årsåldern utsatt]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Man allvarligt skadad efter bråk – två gripna]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/man-svart-skadad-tva-gripna-i-bredang/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/man-svart-skadad-tva-gripna-i-bredang/</guid>
-            <pubDate>Fri, 29 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Grannar larmade •&nbsp;Insats i södra Stockholm]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[54]]></title>
-            <link>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</link>
-            <guid>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</guid>
-            <pubDate>Sun, 24 Mar 2024 16:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="bb--red">TIPSA: </span>Vet du mer? Sms:a 0790-643643]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hovprofiler i miljardstrid efter 100-årig greves död]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/hovprofiler-i-miljardstrid-efter-100-arig-greves-dod/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/hovprofiler-i-miljardstrid-efter-100-arig-greves-dod/</guid>
-            <pubDate>Fri, 29 Mar 2024 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Testamente ändrades kort innan dödsfall •&nbsp;"Flera passade på att sko sig"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Flera gripna misstänkta för terrordådet i Moskva]]></title>
-            <link>https://www.expressen.se/nyheter/varlden/flera-gripna-i-tadzjikistan-for-terrordadet-i-moskva/</link>
-            <guid>https://www.expressen.se/nyheter/varlden/flera-gripna-i-tadzjikistan-for-terrordadet-i-moskva/</guid>
-            <pubDate>Fri, 29 Mar 2024 16:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[Togs i Tadzjikistan • Ska ha haft ”kontakter”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Pojke i femårsåldern död – gick genom isen]]></title>
-            <link>https://www.expressen.se/nyheter/sverige/pojke-dod-gick-genom-isen-i-borlange/</link>
-            <guid>https://www.expressen.se/nyheter/sverige/pojke-dod-gick-genom-isen-i-borlange/</guid>
-            <pubDate>Fri, 29 Mar 2024 09:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[Fördes till sjukhus i söndags]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.expressen.se</id>
+    <title>Expressen</title>
+    <updated>2024-03-30T09:07:46.681Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://static.cdn-expressen.se/bundles/expressen/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JUST NU: Väg avstängd utanför Åre]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/stopp-i-trafiken-utanfor-are-efter-krock/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/stopp-i-trafiken-utanfor-are-efter-krock/"/>
+        <updated>2024-03-30T09:07:37.736Z</updated>
+        <content type="html"><![CDATA[Bilar i krock]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryska framfarten – tagit stora områden]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/larmet-ryssland-har-tagit-100-kvadratkilometer-sedan-arsskiftet/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/larmet-ryssland-har-tagit-100-kvadratkilometer-sedan-arsskiftet/"/>
+        <updated>2024-03-30T09:07:37.743Z</updated>
+        <content type="html"><![CDATA[”Ge oss de jävla Patriot-missilerna” •&nbsp;Stödet från väst minskar]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stoppas direkt – efter orden om IS]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/politikern-stoppas-i-ryska-stats-tv-efter-orden-om-is/</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/politikern-stoppas-i-ryska-stats-tv-efter-orden-om-is/"/>
+        <updated>2024-03-30T09:07:37.744Z</updated>
+        <content type="html"><![CDATA[Obekväm stämning i rysk stats-tv • Programledarens ilska]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Här har Jan Emanuel hittat hem: ”White trash”]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/pa-gran-canaria-har-jan-emanuel--hittat-hem-jag-ar-white-trash/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/pa-gran-canaria-har-jan-emanuel--hittat-hem-jag-ar-white-trash/"/>
+        <updated>2024-03-30T06:09:15.344Z</updated>
+        <content type="html"><![CDATA[Expressen besöker nya lyan på Gran Canaria • "Hummer är inte gott – jag vill ha kebab"]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explosion i bostadshus: ”Finns inga fönster kvar”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/larm-om-explosion-i-akersberga/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/larm-om-explosion-i-akersberga/"/>
+        <updated>2024-03-30T06:09:15.344Z</updated>
+        <content type="html"><![CDATA[Bombgruppen på väg till Åkersberga • Granne: ”Har aldrig blivit så rädd”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</id>
+        <link href="https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/"/>
+        <updated>2024-03-24T16:08:50.978Z</updated>
+        <content type="html"><![CDATA[<span class="bb--red">TIPSA: </span>Vet du mer? Sms:a 0790-643643]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programledarens miss i TV4:s direktsändning]]></title>
+        <id>https://www.expressen.se/tv/nyheter/sverige/programledarens-miss-i-tv4s-direktsandning/</id>
+        <link href="https://www.expressen.se/tv/nyheter/sverige/programledarens-miss-i-tv4s-direktsandning/"/>
+        <updated>2024-03-30T06:09:15.344Z</updated>
+        <content type="html"><![CDATA[Anders Krafts påskblunder: ”Visst är konstigt?”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stjärnkocken om lyxkrogen i Ryssland]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/stjarnkocken-om-kritiken-mot-krogen-i-ryssland/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/stjarnkocken-om-kritiken-mot-krogen-i-ryssland/"/>
+        <updated>2024-03-30T06:09:15.345Z</updated>
+        <content type="html"><![CDATA[Daniel Höglander om kritiken: Har hjälpt en vän]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testar 700 sorters godis inför påsk: ”Nej, fy fan”]]></title>
+        <id>https://www.expressen.se/tv/nyheter/sverige/testar-700-sorters-godis-nej-fy-fan/</id>
+        <link href="https://www.expressen.se/tv/nyheter/sverige/testar-700-sorters-godis-nej-fy-fan/"/>
+        <updated>2024-03-30T09:07:37.747Z</updated>
+        <content type="html"><![CDATA[Expressens reporter besöker virala godisbutiken • Så var frystorkade godiset]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/mitt-i-intima-samtalet-har-ingen-koll-bakom-sig</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/mitt-i-intima-samtalet-har-ingen-koll-bakom-sig"/>
+        <updated>2024-03-30T06:09:15.182Z</updated>
+        <content type="html"><![CDATA[<video style="width:100%;min-width:10px;aspect-ratio:16/9;display:block;" src="https://cec25b81f5367e87971d00ade15aed0e-httpcache0-03837-cachedown0.dna.ip-only.net/03837-cachedown0/ncode/2024-03-30/nxtedition-U8PhqeFwbb3sjb-1711774980/nxtedition-U8PhqeFwbb3sjb-1711774980_720p.mp4" autoplay="" loop="" muted="" playsinline=""></video>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitt i intima samtalet – har inte koll bakom sig]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/mitt-i-intima-samtalet-har-ingen-koll-bakom-sig</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/mitt-i-intima-samtalet-har-ingen-koll-bakom-sig"/>
+        <updated>2024-03-30T06:09:15.182Z</updated>
+        <content type="html"><![CDATA[28-årigen överrumplad på en sekund i London • ”Nej, men sluta...”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Görgens fina påskfynd på promenaden: ”Paff”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/hittade-gavan-under-promenaden-sa-paff-/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/hittade-gavan-under-promenaden-sa-paff-/"/>
+        <updated>2024-03-30T06:09:15.348Z</updated>
+        <content type="html"><![CDATA[Hyllar presenten: ”Finns fantastiskt fina generösa människor”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premiärministerns kyss – inser sin miss direkt]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/premiarministerns-blunder-kysser-assistenten-</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/premiarministerns-blunder-kysser-assistenten-"/>
+        <updated>2024-03-30T09:07:37.750Z</updated>
+        <content type="html"><![CDATA[Libanons ledares pinsamma stund •&nbsp;Fångas på film]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explosion i bostadshus – porten ”bortsprängd”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/explosion-i-varnamo/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/explosion-i-varnamo/"/>
+        <updated>2024-03-30T06:09:15.343Z</updated>
+        <content type="html"><![CDATA[Bombtekniker kallades till Värnamo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fräck biljettkupp – tar sig förbi flygkontrollen]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/frack-biljettkupp-tar-bild-pa-resenars-boardingkort-</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/frack-biljettkupp-tar-bild-pa-resenars-boardingkort-"/>
+        <updated>2024-03-30T06:09:15.349Z</updated>
+        <content type="html"><![CDATA[Försöker gömma sig ombord • Grips i USA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testa valkompassen: Vem ska du rösta på?]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/"/>
+        <updated>2024-03-26T16:09:47.039Z</updated>
+        <content type="html"><![CDATA[9 juni är det EU-val – vilket parti företräder dina åsikter?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uppgifter: Israel AI-övervakar palestinier]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/uppgifter-israel-ai-overvakar-palestinier-i-gaza/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/uppgifter-israel-ai-overvakar-palestinier-i-gaza/"/>
+        <updated>2024-03-30T06:09:15.351Z</updated>
+        <content type="html"><![CDATA[Källor till New York Times: Ska avslöja Hamas]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tre religioner firar i Jerusalem: ”Spänt”]]></title>
+        <id>https://www.expressen.se/nyheter/tre-religioner-firar-helg-i-jerusalem-sorglig-pask/</id>
+        <link href="https://www.expressen.se/nyheter/tre-religioner-firar-helg-i-jerusalem-sorglig-pask/"/>
+        <updated>2024-03-30T06:09:15.353Z</updated>
+        <content type="html"><![CDATA[Dyster långfredag och ramadan • ”Gud ger oss hopp om fred och rättvisa”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mohammed, 6, dog av svält – vädjan från Gaza]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/6-arige-mohammed-senast-att-do-av-svalt-i-gaza</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/6-arige-mohammed-senast-att-do-av-svalt-i-gaza"/>
+        <updated>2024-03-29T11:08:31.096Z</updated>
+        <content type="html"><![CDATA[FN:s larm: En miljon palestinier står inför hungersnöd]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putins övervakning testades på VM-fansen]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/putins-ai-overvakning-testades-pa-vm-fansen/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/putins-ai-overvakning-testades-pa-vm-fansen/"/>
+        <updated>2024-03-29T06:10:25.073Z</updated>
+        <content type="html"><![CDATA[Fifa: ”Inte vårt ansvar”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veronica, 38, hittad mördad: ”Mitt allt”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/veronica-38-hittades--mordad-dottern-om--sorgen-var-mitt-allt/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/veronica-38-hittades--mordad-dottern-om--sorgen-var-mitt-allt/"/>
+        <updated>2024-03-28T06:10:00.519Z</updated>
+        <content type="html"><![CDATA[Anmälan nedlagd – trots våldshistoriken]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ribbenvik: ”Det har blivit som SD vill”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/fick-ga-efter-patryckning-det-har-blivit-som-sd-vill/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/fick-ga-efter-patryckning-det-har-blivit-som-sd-vill/"/>
+        <updated>2024-03-26T11:07:35.458Z</updated>
+        <content type="html"><![CDATA[Generaldirektörer utbytta: ”Ingen slump”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanarieöarna pressas av stor flyktingström]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/har-anlander-flyktingstrommen-bland--charterturisterna-pa-kanarieoarna/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/har-anlander-flyktingstrommen-bland--charterturisterna-pa-kanarieoarna/"/>
+        <updated>2024-03-24T09:08:16.786Z</updated>
+        <content type="html"><![CDATA[Turistmålet kallas ”nya Lampedusa”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minröjningen i Ukraina kan ta hundratals år]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/minrojningen-i-ukraina-kan-ta-hundratals-ar/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/minrojningen-i-ukraina-kan-ta-hundratals-ar/"/>
+        <updated>2024-03-30T09:07:37.782Z</updated>
+        <content type="html"><![CDATA[30 procent av landets yta täckt]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siamesiska tvillingarnas ord till ”haters” på nätet]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/siamesiska-tvillingarnas-ord-till-haters-pa-natet/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/siamesiska-tvillingarnas-ord-till-haters-pa-natet/"/>
+        <updated>2024-03-30T06:09:15.379Z</updated>
+        <content type="html"><![CDATA[Bryter tystnaden efter virala giftermålet: ”Om du inte...”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tusk: Vi befinner oss i ”förkrigstid”]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/tusk-befinner-oss-i-forkrigstid/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/tusk-befinner-oss-i-forkrigstid/"/>
+        <updated>2024-03-30T06:09:15.334Z</updated>
+        <content type="html"><![CDATA[Jämför med åren före första världskriget]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bråk urartade – man dömd för dödshugg]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/man-domd-for-dodshugg-pa-lastbilscentral/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/man-domd-for-dodshugg-pa-lastbilscentral/"/>
+        <updated>2024-03-30T06:09:15.379Z</updated>
+        <content type="html"><![CDATA[42-åring knivhögg två på lastbilscentral i Asarum – en dog • 18 års fängelse]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man i 60-årsåldern gripen för grovt brott]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/man-i-60-arsaldern-gripen-for-grovt-brott/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/man-i-60-arsaldern-gripen-for-grovt-brott/"/>
+        <updated>2024-03-30T06:09:15.387Z</updated>
+        <content type="html"><![CDATA[Mannen i Helsingborgs kommun hade ”krut och tändkapslar”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plan hamnade i ”extrem” turbulens – sju till sjukhus]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/plan-hamnade-i-extrem-turbulens-sju-till-sjukhus/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/plan-hamnade-i-extrem-turbulens-sju-till-sjukhus/"/>
+        <updated>2024-03-30T06:09:15.389Z</updated>
+        <content type="html"><![CDATA[Tvingades nödlanda på flygplats i New York]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryssland anklagar väst – vill ”strypa” diktaturen]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/ryssland-usa-stryper-nordkorea/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/ryssland-usa-stryper-nordkorea/"/>
+        <updated>2024-03-30T06:09:15.346Z</updated>
+        <content type="html"><![CDATA[Ambassadören: jakt på vapen i kriget mot Ukraina]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maskerade män rånade man utomhus i Malmö]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/maskerade-man-ranade-man-utomhus-i-malmo/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/maskerade-man-ranade-man-utomhus-i-malmo/"/>
+        <updated>2024-03-30T06:09:15.390Z</updated>
+        <content type="html"><![CDATA[Fick med sig cykel efter brottet i Malmö]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polis åtalad för mordhot: ”Kommer döda henne”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/polis-atalad-for-mordhot-jag-kommer-doda-henne/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/polis-atalad-for-mordhot-jag-kommer-doda-henne/"/>
+        <updated>2024-03-29T16:08:01.028Z</updated>
+        <content type="html"><![CDATA[Attackerade taxichaufför •&nbsp;Förhöret: ”Jag var jätterädd”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jakt på droghelikoptern – flyger utan belysning]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/jakt-pa-droghelikoptern-flyger-utan-belysning-/</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/jakt-pa-droghelikoptern-flyger-utan-belysning-/"/>
+        <updated>2024-03-30T06:09:15.371Z</updated>
+        <content type="html"><![CDATA[Spansk polis beslagtar 795 kilo hasch – värt över 10 miljoner kronor]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man hittad död i bostad – polisen utreder mord]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/person-hittad-dod-i-stockholm/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/person-hittad-dod-i-stockholm/"/>
+        <updated>2024-03-30T06:09:15.372Z</updated>
+        <content type="html"><![CDATA[Kvinna greps i Vallentuna – släpptes sen • ”Oklara omständigheter”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dramatiska eldinfernot – delar faller mot gatan]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/dramatiska-eldinfernot-delar-rasar-mot-gatan/</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/dramatiska-eldinfernot-delar-rasar-mot-gatan/"/>
+        <updated>2024-03-30T06:09:15.373Z</updated>
+        <content type="html"><![CDATA[Se klippen • Enorm brand i den brasilianska miljonstaden]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Begick sexbrott mot 30 flickor – döms till fängelse]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/hassanein-fadhel-hassen-begick-sexbrott-mot-30-flickor/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/hassanein-fadhel-hassen-begick-sexbrott-mot-30-flickor/"/>
+        <updated>2024-03-29T16:08:01.011Z</updated>
+        <content type="html"><![CDATA[Hassanein Fadhel Hassen låtsades vara tonårspojke på Snapchat]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stjärnkockarna: Så dricksar vi på krogen]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/stjarnkockarna-sa-dricksar-vi-pa-krogen/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/stjarnkockarna-sa-dricksar-vi-pa-krogen/"/>
+        <updated>2024-03-30T06:09:15.381Z</updated>
+        <content type="html"><![CDATA[”Två-tre procent känns nästan förolämpande”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Servitrisen Astrid: Sårar att kallas girig]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/servitrisen-astrid-53-om-dricksdebatten-sarad/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/servitrisen-astrid-53-om-dricksdebatten-sarad/"/>
+        <updated>2024-03-29T11:08:31.100Z</updated>
+        <content type="html"><![CDATA[Vänder sig mot drickskritiken • ”Är man är nöjd ska det synas”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hundratals tävlar i en galen fikautmaning]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/hundratals-tavlar-i-galna-fika-utmaningen-/</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/hundratals-tavlar-i-galna-fika-utmaningen-/"/>
+        <updated>2024-03-30T06:09:15.394Z</updated>
+        <content type="html"><![CDATA[Snabbast vinner – utan spring och spill]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gravida Nora hittades död – man misstänkt]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/gravida-nora-40-hittades-dod-man-haktad/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/gravida-nora-40-hittades-dod-man-haktad/"/>
+        <updated>2024-03-29T16:08:01.014Z</updated>
+        <content type="html"><![CDATA[Man häktad • Mamman: ”Kände att något var fel”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sju kvinnor hittade döda – på tre veckor]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/sju-kvinnor-hittade-doda-i-misstankta-mord-i-mars-/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/sju-kvinnor-hittade-doda-i-misstankta-mord-i-mars-/"/>
+        <updated>2024-03-29T16:08:01.015Z</updated>
+        <content type="html"><![CDATA[Misstänkta mördarna • ”Katastrof det som sker nu”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ikea bygger nytt – då spricker Kenneths hus]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/ikea-bygge-orsakar-sprickor-i-kenneths-hus-/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/ikea-bygge-orsakar-sprickor-i-kenneths-hus-/"/>
+        <updated>2024-03-30T06:09:15.383Z</updated>
+        <content type="html"><![CDATA[En mardröm för grannarna i Älmhult • Möbeljättens svar]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misstänkt mordförsök i Kalmar – två skadade]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/misstankt-mordforsok-i-kalmar-tva-skadade/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/misstankt-mordforsok-i-kalmar-tva-skadade/"/>
+        <updated>2024-03-30T06:09:15.386Z</updated>
+        <content type="html"><![CDATA[Dök upp på akuten]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kvinnan ska handla – går fel på en sekund]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/golvet-forsvinner-under-kvinnans-fotter-i-butiken</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/golvet-forsvinner-under-kvinnans-fotter-i-butiken"/>
+        <updated>2024-03-29T11:08:30.909Z</updated>
+        <content type="html"><![CDATA[Hinner inte reagera •&nbsp;Kundernas chock i Kina •&nbsp;Ingen kan förklara]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyklist i 75-årsåldern död – påkörd i Kalmar]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/man-till-sjukhus-efter-trafikolycka-i-kalmar-/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/man-till-sjukhus-efter-trafikolycka-i-kalmar-/"/>
+        <updated>2024-03-30T06:09:15.385Z</updated>
+        <content type="html"><![CDATA[Polisen: ”Kollision mellan en cyklist och en personbil”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efter orden om maken – Gypsy Rose skiljer sig]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/gypsy-rose-blanchard-skiljer-sig/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/gypsy-rose-blanchard-skiljer-sig/"/>
+        <updated>2024-03-29T16:08:01.021Z</updated>
+        <content type="html"><![CDATA[Hade ett fängelsebröllop 2022 • Behöver hitta ”vem hon är”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varnar för ”svag snö” – risk för stora laviner]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/lavinfara-i-svenska-fjall-under-langfredagen/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/lavinfara-i-svenska-fjall-under-langfredagen/"/>
+        <updated>2024-03-29T06:10:25.103Z</updated>
+        <content type="html"><![CDATA[Betydande lavinfara i fyra fjällområdena • SMHI: Blåst och snö]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kvinnliga fångar gråter – påven kysser deras fötter]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/kvinnliga-fangar-storgrater-paven-kysser-deras-fotter</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/kvinnliga-fangar-storgrater-paven-kysser-deras-fotter"/>
+        <updated>2024-03-29T06:10:25.055Z</updated>
+        <content type="html"><![CDATA[Påve Franciskus behandling skapar kraftig reaktion]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tyskt pollen drar in över Sverige i påsk]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/tyskt-pollen-drar-in-over-sverige-i-pask-w86d5/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/tyskt-pollen-drar-in-over-sverige-i-pask-w86d5/"/>
+        <updated>2024-03-30T06:09:15.404Z</updated>
+        <content type="html"><![CDATA[Smällen i Sverige i påsk – luftströmmen påverkar]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flerfrontskriget mot gängen – nya planen]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/stor-intervju-sa-vill-gunnar-strommer-stoppa-gangen/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/stor-intervju-sa-vill-gunnar-strommer-stoppa-gangen/"/>
+        <updated>2024-03-29T06:10:25.047Z</updated>
+        <content type="html"><![CDATA[Strömmer i stor intervju • Piken efter Gucci-utspelet]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jagas i hela världen efter skotten i Farsta]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/man-internationellt-efterlyst-efter-dubbelmordet-i-farsta-centrum/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/man-internationellt-efterlyst-efter-dubbelmordet-i-farsta-centrum/"/>
+        <updated>2024-03-29T16:08:01.047Z</updated>
+        <content type="html"><![CDATA[Uppgifter till Aftonbladet • Elias, 13, och Tesfamichal, 43, sköts till döds]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intensiva strider vid sjukhus – stora oron]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/intensiva-strider-vid-sjukhus-i-gaza-oron/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/intensiva-strider-vid-sjukhus-i-gaza-oron/"/>
+        <updated>2024-03-29T06:10:25.045Z</updated>
+        <content type="html"><![CDATA[Tvingas stänga ner efter attacker • WHO: ”Överlever knappt”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israeliskt luftangrepp mot kuststad i Gaza]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/israelisk-luftangrepp-mot-kuststaden-i-gaza/</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/israelisk-luftangrepp-mot-kuststaden-i-gaza/"/>
+        <updated>2024-03-29T06:10:25.046Z</updated>
+        <content type="html"><![CDATA[Al Zawaida attackerades på torsdagen]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin om att attackera Nato: ”Rent nonsens”]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/putin-om-att-attackera-nato-rent-nonsens/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/putin-om-att-attackera-nato-rent-nonsens/"/>
+        <updated>2024-03-29T06:10:25.060Z</updated>
+        <content type="html"><![CDATA[Men hotar med attacker mot amerikanska jaktplan]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USA efter terrordådet: ”Varnade flera gånger”]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/usa-efter-terrordadet--varnade-flera-ganger/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/usa-efter-terrordadet--varnade-flera-ganger/"/>
+        <updated>2024-03-29T06:10:25.060Z</updated>
+        <content type="html"><![CDATA[Vita huset: ”Vi hade informationen” •&nbsp;FSB anklagar väst]]></content>
+    </entry>
+</feed>
