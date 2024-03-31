@@ -4,7 +4,7 @@
         <title>Dagens Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 09:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 11:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,13 +18,23 @@
             <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/d5d8d96c-b071-499a-ab1e-3b7e79522538.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Han blir ”Idol”-juryns fjärde medlem]]></title>
+            <title><![CDATA[Leif GW Persson lämnar TV4]]></title>
             <link>https://www.dn.se</link>
             <guid>https://www.dn.se</guid>
-            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">10:22</span>
+            <pubDate>Sun, 31 Mar 2024 11:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">11:56</span>
       <h3 class="ds-teaser__title">
-        Han blir ”Idol”-juryns fjärde medlem
+        Leif GW Persson lämnar TV4
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Leif GW Persson lämnar TV4]]></title>
+            <link>https://www.dn.se/direkt/2024-03-31/leif-gw-persson-lamnar-tv4-2/</link>
+            <guid>https://www.dn.se/direkt/2024-03-31/leif-gw-persson-lamnar-tv4-2/</guid>
+            <pubDate>Sun, 31 Mar 2024 11:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">11:56</span>
+      <h3 class="ds-teaser__title">
+        Leif GW Persson lämnar TV4
       </h3>]]></content:encoded>
         </item>
         <item>
@@ -38,13 +48,13 @@
       </h3>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Man har rymt från Sis-hem – hotade personal]]></title>
-            <link>https://www.dn.se/direkt/2024-03-31/man-har-rymt-fran-sis-hem-hotade-personal/</link>
-            <guid>https://www.dn.se/direkt/2024-03-31/man-har-rymt-fran-sis-hem-hotade-personal/</guid>
-            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
+            <title><![CDATA[Man har rymt från Sis-hem – pappan gripen]]></title>
+            <link>https://www.dn.se/direkt/2024-03-31/man-har-rymt-fran-sis-hem-pappan-gripen/</link>
+            <guid>https://www.dn.se/direkt/2024-03-31/man-har-rymt-fran-sis-hem-pappan-gripen/</guid>
+            <pubDate>Sun, 31 Mar 2024 11:07:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">09:19</span>
       <h3 class="ds-teaser__title">
-        Man har rymt från Sis-hem – hotade personal
+        Man har rymt från Sis-hem – pappan gripen
       </h3>]]></content:encoded>
         </item>
         <item>
@@ -118,26 +128,6 @@
       </h3>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Gayklubbschefer uppsatta på rysk terror- och extremistlista]]></title>
-            <link>https://www.dn.se/direkt/2024-03-30/gayklubbschefer-uppsatta-pa-rysk-terror-och-extremistlista/</link>
-            <guid>https://www.dn.se/direkt/2024-03-30/gayklubbschefer-uppsatta-pa-rysk-terror-och-extremistlista/</guid>
-            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">I går 21:12</span>
-      <h3 class="ds-teaser__title">
-        Gayklubbschefer uppsatta på rysk terror- och extremistlista
-      </h3>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Första sexscenen var skam ända in i själen”]]></title>
-            <link>https://www.dn.se/kultur/camilla-lackberg-det-var-skam-anda-in-i-sjalen-nar-jag-skrev-sexscenerna/</link>
-            <guid>https://www.dn.se/kultur/camilla-lackberg-det-var-skam-anda-in-i-sjalen-nar-jag-skrev-sexscenerna/</guid>
-            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Camilla Läckberg om bonnighet, lyx, fejkat självförtroende – och lyckan i att hämnas.]]></content:encoded>
-            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/eb2c0bda-dd6b-4eec-b830-17b949a3fbc0.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Peter Wolodarski:
           Trump sniffar sig fram till sekten i Waco – förstår vi vad som pågår?]]></title>
             <link>https://www.dn.se/ledare/peter-wolodarski-trump-sniffar-sig-fram-till-sekten-i-waco-forstar-vi-vad-som-pagar/</link>
@@ -181,6 +171,71 @@
     </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Bajenfan: ”Är en helt otrolig stämning”]]></title>
+            <link>https://www.dn.se/sport/traditionsenlig-marsch-infor-bajens-forsta-match/</link>
+            <guid>https://www.dn.se/sport/traditionsenlig-marsch-infor-bajens-forsta-match/</guid>
+            <pubDate>Sun, 31 Mar 2024 11:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Tusentals Hammarbysupportrar i traditionsenlig marsch inför allsvenska premiären.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Så blev 27-åringen ansvarig för Hammarbys framtid]]></title>
+            <link>https://www.dn.se/sport/sa-blev-en-27-aring-ansvarig-for-hammarbys-framtid/</link>
+            <guid>https://www.dn.se/sport/sa-blev-en-27-aring-ansvarig-for-hammarbys-framtid/</guid>
+            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          ”Hemligt, det får du inte fota” • Adrian von Heijne blev domare vid tio år, tränare vid tolv.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• Guldfavoriten Malmö FF krossade Norrköping]]></title>
+            <link>https://www.dn.se/sport/guldfavoriten-malmo-ff-krossade-norrkoping/</link>
+            <guid>https://www.dn.se/sport/guldfavoriten-malmo-ff-krossade-norrkoping/</guid>
+            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • Guldfavoriten Malmö FF krossade Norrköping
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Johan Esk:
+          Malmö FF kan förstöra något av det bästa allsvenskan har]]></title>
+            <link>https://www.dn.se/sport/johan-esk-malmo-sanker-en-av-seriens-storsta-styrkor/</link>
+            <guid>https://www.dn.se/sport/johan-esk-malmo-sanker-en-av-seriens-storsta-styrkor/</guid>
+            <pubDate>Sat, 30 Mar 2024 06:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            SPORT | KRÖNIKA
+          </div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Johan Esk:</span>
+          Malmö FF kan förstöra något av det bästa allsvenskan har
+        </h2>
+
+      </div>
+
+        <div class="ds-teaser__byline">
+          
+      
+
+      
+
+      <div class="picture   lazy-image" style="padding-bottom:228.0543%">
+          <noscript>
+              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-author/5ltyctspv7vlavt2fsrhzei5y5bmufevo5xyomksm6et2pz55oha-442x1008.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-author/5ltyctspv7vlavt2fsrhzei5y5bmufevo5xyomksm6et2pz55oha-442x1008.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://cached-images.bonnier.news/gcs/bilder/dn-author/5ltyctspv7vlavt2fsrhzei5y5bmufevo5xyomksm6et2pz55oha-442x1008.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+        </div>
+    </div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Hotellgäst vägrade checka ut – hävdar besittningsrätt]]></title>
             <link>https://www.dn.se/varlden/hotellgast-vagrade-checka-ut-havdar-besittningsratt/</link>
             <guid>https://www.dn.se/varlden/hotellgast-vagrade-checka-ut-havdar-besittningsratt/</guid>
@@ -198,6 +253,15 @@
 För att må bra behöver ditt husdjur få i sig alla näringsämnen i rätt balans utifrån dess behov.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[”Jag fick kontakt med min pappa från andra sidan”]]></title>
+            <link>https://www.dn.se/kultur/camilla-lackberg-det-var-skam-anda-in-i-sjalen-nar-jag-skrev-sexscenerna/</link>
+            <guid>https://www.dn.se/kultur/camilla-lackberg-det-var-skam-anda-in-i-sjalen-nar-jag-skrev-sexscenerna/</guid>
+            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Camilla Läckberg om familjen, lyx, fejkat självförtroende – och lyckan i att hämnas.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Johan Croneman:
           Man blir spyfärdig av Viaplays bondfångeri]]></title>
             <link>https://www.dn.se/sport/johan-croneman-man-blir-spyfardig-av-viaplays-bondfangeri/</link>
@@ -208,71 +272,23 @@ För att må bra behöver ditt husdjur få i sig alla näringsämnen i rätt bal
             De kan bluffa konsumenter och allmänhet utan några som helst konsekvenser.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Tusentals på illegal rejvfest på flygplats]]></title>
-            <link>https://www.dn.se/varlden/8-000-pa-illegal-rejvfest-pa-fransk-flygplats/</link>
-            <guid>https://www.dn.se/varlden/8-000-pa-illegal-rejvfest-pa-fransk-flygplats/</guid>
-            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
+            <title><![CDATA[Maria Gunther:
+          Därför lär vi oss bättre av folk vi gillar]]></title>
+            <link>https://www.dn.se/varlden/maria-gunther-darfor-lar-vi-oss-battre-av-folk-vi-gillar/</link>
+            <guid>https://www.dn.se/varlden/maria-gunther-darfor-lar-vi-oss-battre-av-folk-vi-gillar/</guid>
+            <pubDate>Sun, 31 Mar 2024 11:07:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-
-          Rejvparty i Frankrike • Polisen: För riskabelt att försöka avhysa.]]></content:encoded>
+            Minnesstudien kan ge oss ny kunskap om vårt samhälle.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Rekordstora protester – vänder sig mot Netanyahu]]></title>
-            <link>https://www.dn.se/varlden/israel-storsta-protesterna-sedan-kriget-borjade/</link>
-            <guid>https://www.dn.se/varlden/israel-storsta-protesterna-sedan-kriget-borjade/</guid>
-            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
+            <title><![CDATA[Se DN-fotografernas bästa bilder från veckan]]></title>
+            <link>https://www.dn.se/kultur/vecka-13-i-bilder-se-varlden-genom-dn-fotografernas-ogon-4/</link>
+            <guid>https://www.dn.se/kultur/vecka-13-i-bilder-se-varlden-genom-dn-fotografernas-ogon-4/</guid>
+            <pubDate>Sun, 31 Mar 2024 11:07:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-            Anhöriga till gisslan kritiserar Israels regering • Påbörjar tältaktion utanför knesset.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Därför fortsätter Biden att stödja Israel]]></title>
-            <link>https://www.dn.se/varlden/darfor-fortsatter-biden-att-stodja-israel-trots-risken-for-valjartapp/</link>
-            <guid>https://www.dn.se/varlden/darfor-fortsatter-biden-att-stodja-israel-trots-risken-for-valjartapp/</guid>
-            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Trots risken för väljartapp • Expert: Han har en stark ideologisk tanke.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[• Fler länder stoppar militärt stöd till Israel]]></title>
-            <link>https://www.dn.se/varlden/okad-press-att-stoppa-militart-stod-till-israel-svarare-att-forneka-krigsbrott/</link>
-            <guid>https://www.dn.se/varlden/okad-press-att-stoppa-militart-stod-till-israel-svarare-att-forneka-krigsbrott/</guid>
-            <pubDate>Sat, 30 Mar 2024 06:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <h2 class="ds-teaser__title">
-        • Fler länder stoppar militärt stöd till Israel
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Direkt.
-        Fredssamtalen om Gaza återupptas]]></title>
-            <link>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</link>
-            <guid>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</guid>
-            <pubDate>Sun, 18 Feb 2024 09:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-
-
-      <h2 class="ds-teaser__title">
-          <span class="ds-teaser__highlight">Direkt.</span>
-        Fredssamtalen om Gaza återupptas
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ärkebiskop Martin Modéus:
-          På påskdagen tänder vi ljusen och omfamnar mysteriet]]></title>
-            <link>https://www.dn.se/kultur/arkebiskop-martin-modeus-pa-paskdagen-tander-vi-ljusen-och-omfamnar-mysteriet/</link>
-            <guid>https://www.dn.se/kultur/arkebiskop-martin-modeus-pa-paskdagen-tander-vi-ljusen-och-omfamnar-mysteriet/</guid>
-            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Det går inte att förklara med varken språk eller beräkningar.]]></content:encoded>
+            Fem fotografier som speglar tiden.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Elsa, 28, har fått över 50 hjärtstopp]]></title>
@@ -288,7 +304,7 @@ För att må bra behöver ditt husdjur få i sig alla näringsämnen i rätt bal
         Kalla markövertagare för ockupanter]]></title>
             <link>https://www.dn.se</link>
             <guid>https://www.dn.se</guid>
-            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
+            <pubDate>Sun, 31 Mar 2024 11:07:08 GMT</pubDate>
             <content:encoded><![CDATA[<h3 class="ds-teaser__title">
           <span class="ds-teaser__highlight">
             Insändare.
@@ -459,57 +475,81 @@ För att må bra behöver ditt husdjur få i sig alla näringsämnen i rätt bal
         <span class="ds-teaser-swipe-card__time">2024-03-27</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Så blev 27-åringen ansvarig för Hammarbys framtid]]></title>
-            <link>https://www.dn.se/sport/sa-blev-en-27-aring-ansvarig-for-hammarbys-framtid/</link>
-            <guid>https://www.dn.se/sport/sa-blev-en-27-aring-ansvarig-for-hammarbys-framtid/</guid>
-            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            ”Hemligt, det får du inte fota” • Adrian von Heijne blev domare vid tio år, tränare vid tolv.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Guldfavoriten Malmö FF krossade Norrköping]]></title>
-            <link>https://www.dn.se/sport/guldfavoriten-malmo-ff-krossade-norrkoping/</link>
-            <guid>https://www.dn.se/sport/guldfavoriten-malmo-ff-krossade-norrkoping/</guid>
-            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
+            <title><![CDATA[Tusentals på illegal rejvfest på flygplats]]></title>
+            <link>https://www.dn.se/varlden/8-000-pa-illegal-rejvfest-pa-fransk-flygplats/</link>
+            <guid>https://www.dn.se/varlden/8-000-pa-illegal-rejvfest-pa-fransk-flygplats/</guid>
+            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
 
-          Fjolårets skyttekung Isaac Kiese Thelin inledde målskyttet.]]></content:encoded>
+          Rejvparty i Frankrike • Polisen: För riskabelt att försöka avhysa.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Johan Esk:
-          Malmö FF kan förstöra något av det bästa allsvenskan har]]></title>
-            <link>https://www.dn.se/sport/johan-esk-malmo-sanker-en-av-seriens-storsta-styrkor/</link>
-            <guid>https://www.dn.se/sport/johan-esk-malmo-sanker-en-av-seriens-storsta-styrkor/</guid>
+            <title><![CDATA[Leif GW Persson lämnar TV4]]></title>
+            <link>https://www.dn.se/kultur/leif-gw-persson-lamnar-tv4-efter-sex-ar/</link>
+            <guid>https://www.dn.se/kultur/leif-gw-persson-lamnar-tv4-efter-sex-ar/</guid>
+            <pubDate>Sun, 31 Mar 2024 11:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Beskedet kom under söndagens sändning av Nyhetsmorgon.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rekordstora protester – vänder sig mot Netanyahu]]></title>
+            <link>https://www.dn.se/varlden/israel-storsta-protesterna-sedan-kriget-borjade/</link>
+            <guid>https://www.dn.se/varlden/israel-storsta-protesterna-sedan-kriget-borjade/</guid>
+            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Anhöriga till gisslan kritiserar Israels regering • Påbörjar tältaktion utanför knesset.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Därför fortsätter Biden att stödja Israel]]></title>
+            <link>https://www.dn.se/varlden/darfor-fortsatter-biden-att-stodja-israel-trots-risken-for-valjartapp/</link>
+            <guid>https://www.dn.se/varlden/darfor-fortsatter-biden-att-stodja-israel-trots-risken-for-valjartapp/</guid>
+            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Trots risken för väljartapp • Expert: Han har en stark ideologisk tanke.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• Fler länder stoppar militärt stöd till Israel]]></title>
+            <link>https://www.dn.se/varlden/okad-press-att-stoppa-militart-stod-till-israel-svarare-att-forneka-krigsbrott/</link>
+            <guid>https://www.dn.se/varlden/okad-press-att-stoppa-militart-stod-till-israel-svarare-att-forneka-krigsbrott/</guid>
             <pubDate>Sat, 30 Mar 2024 06:09:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-          <div class="ds-teaser__vignette">
-            SPORT | KRÖNIKA
-          </div>
-        <h2 class="ds-teaser__title">
-            <span class="ds-teaser__highlight">Johan Esk:</span>
-          Malmö FF kan förstöra något av det bästa allsvenskan har
-        </h2>
+      <h2 class="ds-teaser__title">
+        • Fler länder stoppar militärt stöd till Israel
+      </h2>
 
-      </div>
-
-        <div class="ds-teaser__byline">
-          
-      
-
-      
-
-      <div class="picture   lazy-image" style="padding-bottom:228.0543%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-author/5ltyctspv7vlavt2fsrhzei5y5bmufevo5xyomksm6et2pz55oha-442x1008.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-author/5ltyctspv7vlavt2fsrhzei5y5bmufevo5xyomksm6et2pz55oha-442x1008.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://cached-images.bonnier.news/gcs/bilder/dn-author/5ltyctspv7vlavt2fsrhzei5y5bmufevo5xyomksm6et2pz55oha-442x1008.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-        </div>
     </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Direkt.
+        Fredssamtalen om Gaza återupptas]]></title>
+            <link>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</link>
+            <guid>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</guid>
+            <pubDate>Sun, 18 Feb 2024 09:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+
+
+      <h2 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">Direkt.</span>
+        Fredssamtalen om Gaza återupptas
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ärkebiskop Martin Modéus:
+          På påskdagen tänder vi ljusen och omfamnar mysteriet]]></title>
+            <link>https://www.dn.se/kultur/arkebiskop-martin-modeus-pa-paskdagen-tander-vi-ljusen-och-omfamnar-mysteriet/</link>
+            <guid>https://www.dn.se/kultur/arkebiskop-martin-modeus-pa-paskdagen-tander-vi-ljusen-och-omfamnar-mysteriet/</guid>
+            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Det går inte att förklara med varken språk eller beräkningar.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Åsa Beckman:
@@ -520,35 +560,6 @@ För att må bra behöver ditt husdjur få i sig alla näringsämnen i rätt bal
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             Allt fler tidningar väljer att lägga ned sin kulturbevakning.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Flera nöjesparker höjer biljettpriserna i sommar]]></title>
-            <link>https://www.dn.se/sverige/sa-hojer-nojesparkerna-priserna-i-ar/</link>
-            <guid>https://www.dn.se/sverige/sa-hojer-nojesparkerna-priserna-i-ar/</guid>
-            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            De sänker priser i stället för att höja •&nbsp;Stor förändring väntas på Gröna Lund.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ledare:
-          Historiskt få lever på bidrag – får man säga det i det här landet?]]></title>
-            <link>https://www.dn.se/ledare/historiskt-fa-lever-pa-bidrag-far-man-saga-det-i-det-har-landet/</link>
-            <guid>https://www.dn.se/ledare/historiskt-fa-lever-pa-bidrag-far-man-saga-det-i-det-har-landet/</guid>
-            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Arbetslösheten stiger och rekordmånga är sjukskrivna för stress – därför är nyheten från SCB kanske svår att ta in.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nathan Shachar:
-          Slaget om Istanbul avgör Turkiets framtid]]></title>
-            <link>https://www.dn.se/varlden/nathan-shachar-kurdiska-valjare-nyckeln-till-makten-i-istanbul/</link>
-            <guid>https://www.dn.se/varlden/nathan-shachar-kurdiska-valjare-nyckeln-till-makten-i-istanbul/</guid>
-            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Mycket står på spel i dagens lokalval – inte minst Erdogans prestige.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hitta din nästa favoritbok med DN:s Deckarväljare]]></title>
@@ -636,6 +647,35 @@ För att må bra behöver ditt husdjur få i sig alla näringsämnen i rätt bal
             <pubDate>Mon, 25 Mar 2024 09:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 ”Den är otroligt snygg och maffig, och att det är en elbil”.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Flera nöjesparker höjer biljettpriserna i sommar]]></title>
+            <link>https://www.dn.se/sverige/sa-hojer-nojesparkerna-priserna-i-ar/</link>
+            <guid>https://www.dn.se/sverige/sa-hojer-nojesparkerna-priserna-i-ar/</guid>
+            <pubDate>Sun, 31 Mar 2024 09:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            De sänker priser i stället för att höja •&nbsp;Stor förändring väntas på Gröna Lund.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ledare:
+          Historiskt få lever på bidrag – får man säga det i det här landet?]]></title>
+            <link>https://www.dn.se/ledare/historiskt-fa-lever-pa-bidrag-far-man-saga-det-i-det-har-landet/</link>
+            <guid>https://www.dn.se/ledare/historiskt-fa-lever-pa-bidrag-far-man-saga-det-i-det-har-landet/</guid>
+            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Arbetslösheten stiger och rekordmånga är sjukskrivna för stress – därför är nyheten från SCB kanske svår att ta in.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nathan Shachar:
+          Slaget om Istanbul avgör Turkiets framtid]]></title>
+            <link>https://www.dn.se/varlden/nathan-shachar-kurdiska-valjare-nyckeln-till-makten-i-istanbul/</link>
+            <guid>https://www.dn.se/varlden/nathan-shachar-kurdiska-valjare-nyckeln-till-makten-i-istanbul/</guid>
+            <pubDate>Sun, 31 Mar 2024 06:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Mycket står på spel i dagens lokalval – inte minst Erdogans prestige.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Studien spräcker myten om protein och träning]]></title>
@@ -872,25 +912,6 @@ För att må bra behöver ditt husdjur få i sig alla näringsämnen i rätt bal
             Många ser ner på utropstecken. Men se dem som raka, känslosamma och roliga!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Det är mer avslappnat och mindre dömande här”]]></title>
-            <link>https://www.dn.se/varlden/dalifornien-en-fristad-i-kina-fran-den-harda-kontrollen/</link>
-            <guid>https://www.dn.se/varlden/dalifornien-en-fristad-i-kina-fran-den-harda-kontrollen/</guid>
-            <pubDate>Sat, 30 Mar 2024 11:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-              <span class="ds-teaser__sticker">
-                TV | TEXT
-              </span>
-            I ”Dalifornien” har unga kineser hittat en fristad • Men det finns gränser för friheten.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PÅ PLATS | Dali, Kina]]></title>
-            <link>https://www.dn.se/varlden/dalifornien-en-fristad-i-kina-fran-den-harda-kontrollen/</link>
-            <guid>https://www.dn.se/varlden/dalifornien-en-fristad-i-kina-fran-den-harda-kontrollen/</guid>
-            <pubDate>Sat, 30 Mar 2024 11:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[Gilles Sabrié och Marianne Björklund]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Storm och höga vågor för test av ny vågkraft]]></title>
             <link>https://www.dn.se/ekonomi/svenskt-vagkraftforetag-kan-ha-fatt-sitt-stora-genombrott/</link>
             <guid>https://www.dn.se/ekonomi/svenskt-vagkraftforetag-kan-ha-fatt-sitt-stora-genombrott/</guid>
@@ -898,55 +919,6 @@ För att må bra behöver ditt husdjur få i sig alla näringsämnen i rätt bal
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             Svenskt vågkraftföretag säger sig ha nått ett genombrott för energislaget.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sjukhuskonflikt eskalerar – kan bli vård i baracker]]></title>
-            <link>https://www.dn.se/sverige/brak-om-nytt-sjukhus-i-kiruna-eskalerar/</link>
-            <guid>https://www.dn.se/sverige/brak-om-nytt-sjukhus-i-kiruna-eskalerar/</guid>
-            <pubDate>Sat, 30 Mar 2024 16:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Kiruna kommun dömer ut regionens förslag: ”Svaghetszoner i berget.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nya regler ska ge hjälp inför bostadsköpet]]></title>
-            <link>https://www.dn.se/ekonomi/nya-regler-ger-dig-koll-pa-foreningens-ekonomi/</link>
-            <guid>https://www.dn.se/ekonomi/nya-regler-ger-dig-koll-pa-foreningens-ekonomi/</guid>
-            <pubDate>Sat, 30 Mar 2024 16:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Tuffare krav på föreningar att redovisa sin ekonomi.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Linus Larsson:
-          Apples värsta förbrytelse har gått ostraffad]]></title>
-            <link>https://www.dn.se/kultur/linus-larsson-apples-varsta-forbrytelse-har-gatt-ostraffad/</link>
-            <guid>https://www.dn.se/kultur/linus-larsson-apples-varsta-forbrytelse-har-gatt-ostraffad/</guid>
-            <pubDate>Sat, 30 Mar 2024 11:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            De fyllde våra musikbibliotek med irländsk Ica Maxi-rock.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Patrik Lundberg:
-          Det är formeln som skapat Sveriges största artist]]></title>
-            <link>https://www.dn.se/kultur/patrik-lundberg-formeln-som-skapat-sveriges-storsta-artist/</link>
-            <guid>https://www.dn.se/kultur/patrik-lundberg-formeln-som-skapat-sveriges-storsta-artist/</guid>
-            <pubDate>Sat, 30 Mar 2024 16:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Håkan Hellström fyller 50 år – det här är hans hemlighet.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Här är de bästa albumen just nu]]></title>
-            <link>https://www.dn.se/kultur/dn-valjer-har-ar-de-basta-albumen-vecka-13-2/</link>
-            <guid>https://www.dn.se/kultur/dn-valjer-har-ar-de-basta-albumen-vecka-13-2/</guid>
-            <pubDate>Sat, 30 Mar 2024 16:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Sydafrikanska Tylas mästerliga debut med på Albumtoppen.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Bjud in vännerna till en härlig påskbrunch]]></title>
@@ -1269,7 +1241,7 @@ För att må bra behöver ditt husdjur få i sig alla näringsämnen i rätt bal
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[91]]></title>
+            <title><![CDATA[88]]></title>
             <link>https://etidning.dn.se/</link>
             <guid>https://etidning.dn.se/</guid>
             <pubDate>Sat, 02 Mar 2024 09:06:34 GMT</pubDate>
