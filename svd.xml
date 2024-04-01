@@ -4,7 +4,7 @@
         <title>Svenska Dagbladet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 09:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 11:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,19 +23,19 @@
             <enclosure url="https://svd.vgc.no/v2/images/085345b8-4f09-4773-882b-45c85c157102?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=2e005e96e8c196ac32a88c4d069453025638e86a" length="0" type="image//v2/images/085345b8-4f09-4773-882b-45c85c157102"/>
         </item>
         <item>
+            <title><![CDATA[Meteorologen: ”Brakar loss ordentligt på tisdag”]]></title>
+            <link>https://www.svd.se/a/l38n9G/sno-och-regn-vantas-efter-paskens-varvader</link>
+            <guid>https://www.svd.se/a/l38n9G/sno-och-regn-vantas-efter-paskens-varvader</guid>
+            <pubDate>Mon, 01 Apr 2024 11:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[Efter en påskhelg med vårväder kommer vintern tillbaka – kan falla två till tre decimeter snö.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/61a62e7f-4cbf-45d3-a6ff-a4aba33d18ab?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=86c213a6beb0836b8c0e27f432a5fba4f6c81708" length="0" type="image//v2/images/61a62e7f-4cbf-45d3-a6ff-a4aba33d18ab"/>
+        </item>
+        <item>
             <title><![CDATA[”Har blivit tyst i hjärnan, är bara sugen på apelsin”]]></title>
             <link>https://www.svd.se/a/l3p99o/gick-upp-efter-sin-gastric-bypass-sen-testade-margareta-ozempic</link>
             <guid>https://www.svd.se/a/l3p99o/gick-upp-efter-sin-gastric-bypass-sen-testade-margareta-ozempic</guid>
             <pubDate>Mon, 01 Apr 2024 06:10:54 GMT</pubDate>
             <content:encoded><![CDATA[Gick upp i vikt igen efter sin gastric bypass – sedan testade Margareta Ozempic.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/ca888f27-494d-4e43-a811-0e0a27f3490f?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=7c184507ce56f27a697012ecf5e00cff659a35cd" length="0" type="image//v2/images/ca888f27-494d-4e43-a811-0e0a27f3490f"/>
-        </item>
-        <item>
-            <title><![CDATA[Gillrade AI-fälla – satte dit fuskande studenter]]></title>
-            <link>https://www.svd.se/a/pQ064V/karlstad-universitet-gillrade-ai-falla-satte-dit-elever</link>
-            <guid>https://www.svd.se/a/pQ064V/karlstad-universitet-gillrade-ai-falla-satte-dit-elever</guid>
-            <pubDate>Mon, 01 Apr 2024 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[27 av 34 tillfrågade lärosäten har anmält elever för AI-fusk • Lärarna tog saker i egna händer.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Semesterparadoxen – ledighet får fel effekt]]></title>
@@ -44,6 +44,13 @@
             <pubDate>Mon, 01 Apr 2024 06:10:54 GMT</pubDate>
             <content:encoded><![CDATA[Tre stressforskare varnar för fällorna: ”Då behöver man ju rehab efter sommaren.”]]></content:encoded>
             <enclosure url="https://svd.vgc.no/v2/images/3e0cf7cb-2002-4345-9b16-c6bf5f1c9df0?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=84fb8f1938e0d703ce2d849692c2ef5970ffde03" length="0" type="image//v2/images/3e0cf7cb-2002-4345-9b16-c6bf5f1c9df0"/>
+        </item>
+        <item>
+            <title><![CDATA[Gillrade AI-fälla – satte dit fuskande studenter]]></title>
+            <link>https://www.svd.se/a/pQ064V/karlstad-universitet-gillrade-ai-falla-satte-dit-elever</link>
+            <guid>https://www.svd.se/a/pQ064V/karlstad-universitet-gillrade-ai-falla-satte-dit-elever</guid>
+            <pubDate>Mon, 01 Apr 2024 09:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[27 av 34 tillfrågade lärosäten har anmält elever för AI-fusk • Lärarna tog saker i egna händer.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Vi lärde oss inte läxan efter elfte september”]]></title>
@@ -60,13 +67,6 @@
             <content:encoded><![CDATA[hoppades kunna gå vidare – fick i stället se rättegången läggas ut som underhållning.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ett bakslag för Erdogan: ”Visar att han är sårbar”]]></title>
-            <link>https://www.svd.se/a/y6eEJx/bakslag-i-valet-visar-att-erdogan-ar-sarbar</link>
-            <guid>https://www.svd.se/a/y6eEJx/bakslag-i-valet-visar-att-erdogan-ar-sarbar</guid>
-            <pubDate>Mon, 01 Apr 2024 06:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[Turkiets regeringsparti går mot förlust i lokalvalen i både Istanbul och Ankara.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Ultraprocessad mat kopplas till 32 sjukdomar]]></title>
             <link>https://www.svd.se/a/pQJVbw/sjukdomar-kopplad-till-ultraprocessad-mat-vad-forskningen-sager</link>
             <guid>https://www.svd.se/a/pQJVbw/sjukdomar-kopplad-till-ultraprocessad-mat-vad-forskningen-sager</guid>
@@ -75,39 +75,39 @@
             <enclosure url="https://svd.vgc.no/v2/images/6806a226-e623-4e4a-b44d-2d0c5597bfbd?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=5984b666a3a387d51dbb9ef3cc614f729d22b1bd" length="0" type="image//v2/images/6806a226-e623-4e4a-b44d-2d0c5597bfbd"/>
         </item>
         <item>
+            <title><![CDATA[Meteorologen: ”Brakar loss ordentligt på tisdag”]]></title>
+            <link>https://www.svd.se/a/l38n9G/sno-och-regn-vantas-efter-paskens-varvader</link>
+            <guid>https://www.svd.se/a/l38n9G/sno-och-regn-vantas-efter-paskens-varvader</guid>
+            <pubDate>Mon, 01 Apr 2024 11:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Meteorologen: ”Brakar loss ordentligt på tisdag”</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Här är årets aprilskämt – blev du lurad?]]></title>
+            <link>https://www.svd.se/a/769pwW/har-ar-arets-aprilskamt-blev-du-lurad</link>
+            <guid>https://www.svd.se/a/769pwW/har-ar-arets-aprilskamt-blev-du-lurad</guid>
+            <pubDate>Mon, 01 Apr 2024 11:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Här är årets aprilskämt – blev du lurad?</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Politisk stjärna tar mark: Utmaning för Erdogan]]></title>
+            <link>https://www.svd.se/a/xgxrW8/politisk-stjarna-tar-mark-utmaning-for-erdogan</link>
+            <guid>https://www.svd.se/a/xgxrW8/politisk-stjarna-tar-mark-utmaning-for-erdogan</guid>
+            <pubDate>Mon, 01 Apr 2024 11:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Politisk stjärna tar mark: Utmaning för Erdogan</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Poliskontroller ska kunna utgöra diskriminering]]></title>
+            <link>https://www.svd.se/a/EQ0xkP/poliskontroller-ska-kunna-utgora-diskriminering</link>
+            <guid>https://www.svd.se/a/EQ0xkP/poliskontroller-ska-kunna-utgora-diskriminering</guid>
+            <pubDate>Mon, 01 Apr 2024 11:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Poliskontroller ska kunna utgöra diskriminering</h2></div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Gillrade AI-fälla – satte dit fuskande studenter]]></title>
             <link>https://www.svd.se/a/pQ064V/karlstad-universitet-gillrade-ai-falla-satte-dit-elever</link>
             <guid>https://www.svd.se/a/pQ064V/karlstad-universitet-gillrade-ai-falla-satte-dit-elever</guid>
             <pubDate>Mon, 01 Apr 2024 09:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Gillrade AI-fälla – satte dit fuskande studenter</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Han kämpar mot Amazons vd: ”Allas fight”]]></title>
-            <link>https://www.svd.se/a/JQK0RX/chris-smalls-kampar-mot-amazons-vd-jeff-bezos-allas-fight</link>
-            <guid>https://www.svd.se/a/JQK0RX/chris-smalls-kampar-mot-amazons-vd-jeff-bezos-allas-fight</guid>
-            <pubDate>Mon, 01 Apr 2024 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Han kämpar mot Amazons vd: ”Allas fight”</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nathalie Björn skadad – missar EM-kval]]></title>
-            <link>https://www.svd.se/a/pQ0Bl1/nathalie-bjorn-skadad-missar-em-kval</link>
-            <guid>https://www.svd.se/a/pQ0Bl1/nathalie-bjorn-skadad-missar-em-kval</guid>
-            <pubDate>Mon, 01 Apr 2024 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Nathalie Björn skadad – missar EM-kval</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Granateld mot Libyens premiärminister]]></title>
-            <link>https://www.svd.se/a/AP8rJr/granateld-mot-libyens-premiarminister</link>
-            <guid>https://www.svd.se/a/AP8rJr/granateld-mot-libyens-premiarminister</guid>
-            <pubDate>Mon, 01 Apr 2024 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Granateld mot Libyens premiärminister</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Man måste förtjäna igelkottars kärlek”]]></title>
-            <link>https://www.svd.se/a/dwxBoO/influencern-jasminkotts-pygmeigelkottar-blev-virala-pa-tiktok</link>
-            <guid>https://www.svd.se/a/dwxBoO/influencern-jasminkotts-pygmeigelkottar-blev-virala-pa-tiktok</guid>
-            <pubDate>Mon, 01 Apr 2024 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">”Man måste förtjäna igelkottars kärlek”</h2></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[S har slutat tro på sitt partiprogram]]></title>
@@ -131,6 +131,13 @@
             <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Ska ha gripits i sitt hem i södra Israel • Senaste nytt]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Ett bakslag för Erdogan: ”Visar att han är sårbar”]]></title>
+            <link>https://www.svd.se/a/y6eEJx/bakslag-i-valet-visar-att-erdogan-ar-sarbar</link>
+            <guid>https://www.svd.se/a/y6eEJx/bakslag-i-valet-visar-att-erdogan-ar-sarbar</guid>
+            <pubDate>Mon, 01 Apr 2024 06:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[Turkiets regeringsparti går mot förlust i lokalvalen i både Istanbul och Ankara.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[De ska ta emot matrester – hittar däck och mattor]]></title>
             <link>https://www.svd.se/a/WRnnrk/biogasanlaggning-i-huddinge-hittar-sten-och-cyklar-i-matavfallet</link>
             <guid>https://www.svd.se/a/WRnnrk/biogasanlaggning-i-huddinge-hittar-sten-och-cyklar-i-matavfallet</guid>
@@ -150,13 +157,6 @@
             <guid>https://www.svd.se/a/kEqalv/andres-lokko-det-kan-jag-sakna-efter-tio-ars-nykterhet</guid>
             <pubDate>Mon, 01 Apr 2024 06:10:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>Andres Lokko: </strong>Jag saknar egentligen ingenting efter tio års nykterhet.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Mannen vägrade checka ut – bodde gratis i fem år]]></title>
-            <link>https://www.svd.se/a/q1K1GE/checkade-in-pa-art-deco-hotellet-new-yorker-vagrade-checka-ut</link>
-            <guid>https://www.svd.se/a/q1K1GE/checkade-in-pa-art-deco-hotellet-new-yorker-vagrade-checka-ut</guid>
-            <pubDate>Sun, 31 Mar 2024 16:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[Så lyckades han mjölka välkänt hotell på pengar – draget kan få svidande konsekvenser.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Nära döden-forskaren: ”Jag är tagen än idag”]]></title>
@@ -179,6 +179,13 @@
             <guid>https://www.svd.se/a/xg1ja8/trana-med-gummiband-experternas-fem-ovningar</guid>
             <pubDate>Sun, 31 Mar 2024 06:08:53 GMT</pubDate>
             <content:encoded><![CDATA[”Du kan alltid vara redo att träna med gummiband” – experternas fem övningar.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mannen vägrade checka ut – bodde gratis i fem år]]></title>
+            <link>https://www.svd.se/a/q1K1GE/checkade-in-pa-art-deco-hotellet-new-yorker-vagrade-checka-ut</link>
+            <guid>https://www.svd.se/a/q1K1GE/checkade-in-pa-art-deco-hotellet-new-yorker-vagrade-checka-ut</guid>
+            <pubDate>Sun, 31 Mar 2024 16:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[Så lyckades han mjölka välkänt hotell på pengar – draget kan få svidande konsekvenser.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Rubiales hotade förstöra Hermosos karriär]]></title>
@@ -221,13 +228,6 @@
             <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
             <pubDate>Sun, 17 Mar 2024 09:07:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Vädjade till Ryssland och Ukraina i påskpredikan.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kvarlevorna efter Émile, 2,  har hittats]]></title>
-            <link>https://www.svd.se/a/BW70v0/kvarlevor-efter-saknad-fransk-tvaaring-hittade</link>
-            <guid>https://www.svd.se/a/BW70v0/kvarlevor-efter-saknad-fransk-tvaaring-hittade</guid>
-            <pubDate>Sun, 31 Mar 2024 16:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[Tvåårige pojken försvann i somras från en by i de franska Alperna.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Så blev de queera en samhällsfara]]></title>
