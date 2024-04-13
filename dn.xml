@@ -4,27 +4,50 @@
         <title>Dagens Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 06:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 09:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Gideon Levy: ”Vad är ett folkmord, om inte detta?”]]></title>
+            <title><![CDATA[Fem personer döda i dåd på köpcenter i Australien]]></title>
+            <link>https://www.dn.se/varlden/flera-uppges-ha-dodats-i-valdsdad-i-australien/</link>
+            <guid>https://www.dn.se/varlden/flera-uppges-ha-dodats-i-valdsdad-i-australien/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+              <span class="ds-teaser__sticker">
+                TV | TEXT
+              </span>
+            Bekräftas av polis på presskonferens • Gärningsman sköts till döds av polis.]]></content:encoded>
+            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/9a1e4acd-6576-412c-941a-7ec80d62c772.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Han har förlorat vänner för sina åsikter om Israel]]></title>
             <link>https://www.dn.se/varlden/gideon-levy-vad-ar-ett-folkmord-om-inte-detta/</link>
             <guid>https://www.dn.se/varlden/gideon-levy-vad-ar-ett-folkmord-om-inte-detta/</guid>
             <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-            Journalisten hyllas utomlands men kallas Israels mest hatade man • Levt med livvakter.]]></content:encoded>
-            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/afbd7dc1-91de-4339-b612-f88ff1a33d8f.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
+            Israeliska journalisten Gideon Levy om kriget, dödshot och storbråket med Pink Floyd.]]></content:encoded>
+            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/ab9c841c-d1b3-4f0f-bc3e-685e45cdb796.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Minnesstund i Skärholmen efter dödsskjutning]]></title>
+            <title><![CDATA[Fem döda i våldsdåd i Australien]]></title>
             <link>https://www.dn.se</link>
             <guid>https://www.dn.se</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">07:10</span>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">08:23</span>
       <h3 class="ds-teaser__title">
-        Minnesstund i Skärholmen efter dödsskjutning
+        Fem döda i våldsdåd i Australien
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fem döda i våldsdåd i Australien]]></title>
+            <link>https://www.dn.se/direkt/2024-04-13/fem-doda-i-valdsdad-i-australien/</link>
+            <guid>https://www.dn.se/direkt/2024-04-13/fem-doda-i-valdsdad-i-australien/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">08:23</span>
+      <h3 class="ds-teaser__title">
+        Fem döda i våldsdåd i Australien
       </h3>]]></content:encoded>
         </item>
         <item>
@@ -118,16 +141,6 @@
       </h3>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Justitieministern efter dödsskjutningen: ”Förändring tar tid”]]></title>
-            <link>https://www.dn.se/direkt/2024-04-12/justitieministern-efter-dodsskjutningen-forandring-tar-tid/</link>
-            <guid>https://www.dn.se/direkt/2024-04-12/justitieministern-efter-dodsskjutningen-forandring-tar-tid/</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">I går 14:17</span>
-      <h3 class="ds-teaser__title">
-        Justitieministern efter dödsskjutningen: ”Förändring tar tid”
-      </h3>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[”Jag testade att vara kändis – det fick mig att må skit”]]></title>
             <link>https://www.dn.se/kultur/little-jinder-jag-har-testat-att-vara-kandis-men-det-fick-mig-att-ma-skit/</link>
             <guid>https://www.dn.se/kultur/little-jinder-jag-har-testat-att-vara-kandis-men-det-fick-mig-att-ma-skit/</guid>
@@ -136,16 +149,6 @@
 
             Little Jinder om att bli vuxen – och att behöva ha kontorsjobb för att försörja sig.]]></content:encoded>
             <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/942932d8-f41f-484d-8f62-fa179ac489d6.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kinesiska journalisten var med i Nobelsammanhang]]></title>
-            <link>https://www.dn.se/sverige/mycket-tillforlitlig-information-bakom-utvisning-av-journalist/</link>
-            <guid>https://www.dn.se/sverige/mycket-tillforlitlig-information-bakom-utvisning-av-journalist/</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Kvinnan ska nu utvisas som säkerhetshot • Expert: Journalistrollen en bra täckmantel.]]></content:encoded>
-            <enclosure url="https://cached-images.bonnier.news/gcs/bilder/dn-mly/ed7ce961-0f9a-48af-99a3-4638dcb80872.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Linus Larsson:
@@ -180,13 +183,41 @@
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Barnet blir kvitt traumat med hjälp av berättelsen]]></title>
-            <link>https://www.dn.se/sverige/berattelsen-hjalper-barnet-att-fly-fran-traumat/</link>
-            <guid>https://www.dn.se/sverige/berattelsen-hjalper-barnet-att-fly-fran-traumat/</guid>
+            <title><![CDATA[Johan Croneman:
+          Parnevik är ett fynd – den roligaste experten på evigheter]]></title>
+            <link>https://www.dn.se/sport/johan-croneman-parnevik-ar-ett-fynd-den-roligaste-experten-pa-evigheter/</link>
+            <guid>https://www.dn.se/sport/johan-croneman-parnevik-ar-ett-fynd-den-roligaste-experten-pa-evigheter/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            DN:s sport-i-tv-krönikör faller för en annan svensk när Ludvig Åberg spelar US Masters i golf.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kylig Åberg sjua efter superspurt i Masters]]></title>
+            <link>https://www.dn.se/sport/superspurt-ger-aberg-vittring-sjua-i-masters/</link>
+            <guid>https://www.dn.se/sport/superspurt-ger-aberg-vittring-sjua-i-masters/</guid>
             <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-            Det finns bra behandling för barn som är med om en fruktansvärd händelse.]]></content:encoded>
+
+          Svensken trotsade vindarna på Augusta: ”Jag blev aldrig stressad.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Så upplever du Köpenhamn bäst från höga höjder]]></title>
+            <link>https://kampanj.dn.se/visitcopenhagen/sa-upplever-du-kopenhamn-bast-fran-hoga-hojder/</link>
+            <guid>https://kampanj.dn.se/visitcopenhagen/sa-upplever-du-kopenhamn-bast-fran-hoga-hojder/</guid>
+            <pubDate>Mon, 08 Apr 2024 09:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+Här är sju sköna tips på takterrasser för den nyfikne.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Polischefen: Människors civilkurage tar skada]]></title>
+            <link>https://www.dn.se/sverige/polischefen-efter-mordet-i-skarholmen-manniskors-civilkurage-tar-skada/</link>
+            <guid>https://www.dn.se/sverige/polischefen-efter-mordet-i-skarholmen-manniskors-civilkurage-tar-skada/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Jale Poljarevius: ”Stora samhällsskador som äger rum när det här händer.”]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[• Minnesstund hålls efter dödsskjutningen]]></title>
@@ -207,26 +238,16 @@
             <pubDate>Fri, 12 Apr 2024 16:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-
           Carin Götblad vill införa etik och moral som ämne i skolan.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ingen gripen efter dödsskjutningen]]></title>
-            <link>https://www.dn.se/sverige/ingen-gripen-efter-mordet-i-skarholmen/</link>
-            <guid>https://www.dn.se/sverige/ingen-gripen-efter-mordet-i-skarholmen/</guid>
-            <pubDate>Fri, 12 Apr 2024 11:08:35 GMT</pubDate>
+            <title><![CDATA[Barnet blir kvitt traumat med hjälp av berättelsen]]></title>
+            <link>https://www.dn.se/sverige/berattelsen-hjalper-barnet-att-fly-fran-traumat/</link>
+            <guid>https://www.dn.se/sverige/berattelsen-hjalper-barnet-att-fly-fran-traumat/</guid>
+            <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-          Polisen till SR: Har en ”relativt god uppfattning” om vilka vi jagar efter mordet.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Svågern: ”Han såg sin pappa bli ihjälskjuten”]]></title>
-            <link>https://www.dn.se/sverige/han-sag-sin-pappa-bli-ihjalskjuten/</link>
-            <guid>https://www.dn.se/sverige/han-sag-sin-pappa-bli-ihjalskjuten/</guid>
-            <pubDate>Fri, 12 Apr 2024 06:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-          ”Jag ringde honom från bilen och han svarade hysteriskt: Någon har skjutit min pappa.”]]></content:encoded>
+          Finns bra behandling för barn som är med om en fruktansvärd händelse.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Ledare:
@@ -258,14 +279,6 @@
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Så upplever du Köpenhamn bäst från höga höjder]]></title>
-            <link>https://kampanj.dn.se/visitcopenhagen/sa-upplever-du-kopenhamn-bast-fran-hoga-hojder/</link>
-            <guid>https://kampanj.dn.se/visitcopenhagen/sa-upplever-du-kopenhamn-bast-fran-hoga-hojder/</guid>
-            <pubDate>Mon, 08 Apr 2024 09:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-Här är sju sköna tips på takterrasser för den nyfikne.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Linus Larsson:
           AI-kameran ger nakenbilder av dig på 10 sekunder]]></title>
             <link>https://www.dn.se/kultur/linus-larsson-ai-kameran-ger-nakenbilder-av-dig-pa-10-sekunder/</link>
@@ -274,6 +287,15 @@ Här är sju sköna tips på takterrasser för den nyfikne.]]></content:encoded>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             Är detta den senaste vansinniga AI-uppfinningen?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kinesiska journalisten var med i Nobelsammanhang]]></title>
+            <link>https://www.dn.se/sverige/mycket-tillforlitlig-information-bakom-utvisning-av-journalist/</link>
+            <guid>https://www.dn.se/sverige/mycket-tillforlitlig-information-bakom-utvisning-av-journalist/</guid>
+            <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Kvinnan ska nu utvisas som säkerhetshot • Expert: Journalistrollen en bra täckmantel.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Ryska taktiken: Lura indier att ta värvning]]></title>
@@ -311,51 +333,6 @@ Här är sju sköna tips på takterrasser för den nyfikne.]]></content:encoded>
           Ukrainas underläge vid fronten kritiskt • ”Det är lite av en kapplöpning mot tiden.”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Susanne Nyström:
-          Svenska killar vill inte betala hemmafruars pilates – de vill vara softa hemmamän]]></title>
-            <link>https://www.dn.se/ledare/susanne-nystrom-svenska-killar-vill-inte-betala-hemmafruars-pilates-de-vill-vara-softa-hemmaman/</link>
-            <guid>https://www.dn.se/ledare/susanne-nystrom-svenska-killar-vill-inte-betala-hemmafruars-pilates-de-vill-vara-softa-hemmaman/</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Borde inte männen – som förväntas stå för försörjningen – också ha något att säga till om?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[USA: Iransk hämnd mot Israel väntas inom dygn]]></title>
-            <link>https://www.dn.se/varlden/usa-iransk-hamndaktion-mot-israel-inom-narmsta-dygnen/</link>
-            <guid>https://www.dn.se/varlden/usa-iransk-hamndaktion-mot-israel-inom-narmsta-dygnen/</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Hotar att besvara attacken mot konsulatet i Damaskus • Expert: Kommer inte att aviseras.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Unicef: Barn som överlever får trauman för livet]]></title>
-            <link>https://www.dn.se/varlden/unicef-barnen-som-overlever-far-trauman-for-livet/</link>
-            <guid>https://www.dn.se/varlden/unicef-barnen-som-overlever-far-trauman-for-livet/</guid>
-            <pubDate>Thu, 11 Apr 2024 16:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Varnar för ödesdigra konsekvenser om Israel invaderar Rafah.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Direkt.
-        Biden varnar Iran för att attackera Israel]]></title>
-            <link>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</link>
-            <guid>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</guid>
-            <pubDate>Sun, 18 Feb 2024 09:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-
-
-      <h2 class="ds-teaser__title">
-          <span class="ds-teaser__highlight">Direkt.</span>
-        Biden varnar Iran för att attackera Israel
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Forskningen visar: Inte bara rökare som får KOL]]></title>
             <link>https://kampanj.dn.se/hjart-lungfonden/forskare-manga-som-inte-roker-drabbas-av-kol/</link>
             <guid>https://kampanj.dn.se/hjart-lungfonden/forskare-manga-som-inte-roker-drabbas-av-kol/</guid>
@@ -369,7 +346,7 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
         Vi måste få bort marknaden för narkotika]]></title>
             <link>https://www.dn.se</link>
             <guid>https://www.dn.se</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
             <content:encoded><![CDATA[<h3 class="ds-teaser__title">
           <span class="ds-teaser__highlight">
             Insändare.
@@ -540,13 +517,87 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
         <span class="ds-teaser-swipe-card__time">2024-04-11</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Kylig Åberg sjua efter superspurt i Masters]]></title>
-            <link>https://www.dn.se/sport/superspurt-ger-aberg-vittring-sjua-i-masters/</link>
-            <guid>https://www.dn.se/sport/superspurt-ger-aberg-vittring-sjua-i-masters/</guid>
+            <title><![CDATA[Susanne Nyström:
+          Svenska killar vill inte betala hemmafruars pilates – de vill vara softa hemmamän]]></title>
+            <link>https://www.dn.se/ledare/susanne-nystrom-svenska-killar-vill-inte-betala-hemmafruars-pilates-de-vill-vara-softa-hemmaman/</link>
+            <guid>https://www.dn.se/ledare/susanne-nystrom-svenska-killar-vill-inte-betala-hemmafruars-pilates-de-vill-vara-softa-hemmaman/</guid>
             <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-            Supersvensken trotsade vindarna på Augusta: ”Jag blev aldrig stressad.”]]></content:encoded>
+            Borde inte männen – som förväntas stå för försörjningen – också ha något att säga till om?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Biden: ”Vi kommer hjälpa till att försvara Israel”]]></title>
+            <link>https://www.dn.se/varlden/iran-uppges-flytta-robotar-for-angrepp-pa-israel-joe-biden-gor-det-inte/</link>
+            <guid>https://www.dn.se/varlden/iran-uppges-flytta-robotar-for-angrepp-pa-israel-joe-biden-gor-det-inte/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Iran uppges flytta robotar – tolkas som förberedelse för ett angrepp på Israel.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Direkt.
+        Israeliska bosättare stormade by på Västbanken]]></title>
+            <link>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</link>
+            <guid>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</guid>
+            <pubDate>Sun, 18 Feb 2024 09:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+
+
+      <h2 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">Direkt.</span>
+        Israeliska bosättare stormade by på Västbanken
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sju billiga knep som ger nybilskänsla i en äldre bil]]></title>
+            <link>https://www.dn.se/motor/sa-far-du-nybilskansla-i-din-begagnade-bil/</link>
+            <guid>https://www.dn.se/motor/sa-far-du-nybilskansla-i-din-begagnade-bil/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Handeln med begagnade bilar väntas vara stor i år.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Otroligt stora skillnader” i ojämlika damallsvenskan]]></title>
+            <link>https://www.dn.se/sport/den-ojamlika-damallsvenskan-sorgligt/</link>
+            <guid>https://www.dn.se/sport/den-ojamlika-damallsvenskan-sorgligt/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Storsatsande ”dubbelklubbar” – och elitspelare som inte kan leva på sin fotboll.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[17-åring affischnamn för BK Häcken]]></title>
+            <link>https://www.dn.se/sport/maldrottningen-hamtar-kraften-pa-kalvsund/</link>
+            <guid>https://www.dn.se/sport/maldrottningen-hamtar-kraften-pa-kalvsund/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          Födelsedagsbarnet Felicia Schröder: ”Jag har aldrig varit blyg.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Tusen personer här låter högre än tiotusen i City”]]></title>
+            <link>https://www.dn.se/sport/hammarbys-stjarnvarvning-tusen-personer-har-later-hogre-an-tiotusen-i-city/</link>
+            <guid>https://www.dn.se/sport/hammarbys-stjarnvarvning-tusen-personer-har-later-hogre-an-tiotusen-i-city/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          Julie Blakstad om publiken och spel i Hammarby.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• Guide: Allt inför damallsvenskan 2024]]></title>
+            <link>https://www.dn.se/sport/saknade-stjarnor-heta-nyforvarv-och-en-veteran-som-kor-vidare-allt-infor-damallsvenskan-2024/</link>
+            <guid>https://www.dn.se/sport/saknade-stjarnor-heta-nyforvarv-och-en-veteran-som-kor-vidare-allt-infor-damallsvenskan-2024/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • Guide: Allt inför damallsvenskan 2024
+      </h2>
+
+    </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Frida Johansson Metso:
@@ -557,6 +608,53 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             Även människor på flykt blir så sjuka att de närmar sig döden.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1177 börjar ge råd till den som är orolig över klimatet]]></title>
+            <link>https://www.dn.se/sverige/nu-borjar-1177-ge-rad-till-den-som-ar-orolig-over-klimatet/</link>
+            <guid>https://www.dn.se/sverige/nu-borjar-1177-ge-rad-till-den-som-ar-orolig-over-klimatet/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Har lagt upp en guide för den som behöver hjälp i frågan • ”Finns ett behov och en oro.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lotta Olsson:
+          Bästa deckarna om familjerelationer just nu]]></title>
+            <link>https://www.dn.se/kultur/lotta-olsson-tipsar-5-x-nya-deckare-23/</link>
+            <guid>https://www.dn.se/kultur/lotta-olsson-tipsar-5-x-nya-deckare-23/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Pussel och nagelbitande spänning bland favoriterna.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Deckarväljaren – bästa tipsen för dig]]></title>
+            <link>https://www.dn.se/deckarvaljaren/</link>
+            <guid>https://www.dn.se/deckarvaljaren/</guid>
+            <pubDate>Fri, 05 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Blodigt, realistiskt, brittiskt? Klicka i vad du gillar – få tips på de bästa deckarna för dig.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Toppolitikern Elvy fick hjärtinfarkt efter pensionen]]></title>
+            <link>https://kampanj.dn.se/hjart-lungfonden/toppolitikern-elvy-fick-hjartinfarkt-efter-pensionen/</link>
+            <guid>https://kampanj.dn.se/hjart-lungfonden/toppolitikern-elvy-fick-hjartinfarkt-efter-pensionen/</guid>
+            <pubDate>Thu, 04 Apr 2024 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+”Jag tänkte att jag kunde leva på som vanligt. Det gick inte så himla bra.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Camilla Thulin vet hur blusen ska knytas]]></title>
+            <link>https://www.dn.se/familj/camilla-thulin-vet-hur-blusen-ska-knytas/</link>
+            <guid>https://www.dn.se/familj/camilla-thulin-vet-hur-blusen-ska-knytas/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          I dag är ingen vanlig lördag. I dag är det knytblusens dag.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Malin Fransson:
@@ -577,6 +675,15 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
 
 
           Tajt och målsnål match mot Mora avgjordes i den femte perioden.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Förbisedda mästerverk av kvinnliga impressionister]]></title>
+            <link>https://www.dn.se/kultur/forbisedda-masterverk-av-kvinnliga-impressionister-och-manlig-expressionist/</link>
+            <guid>https://www.dn.se/kultur/forbisedda-masterverk-av-kvinnliga-impressionister-och-manlig-expressionist/</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Danska Ordrupgaard firar 50-årsjubileum med flera obemärkta kvinnliga konstnärer.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Katter får fri tillgång till Mexikos presidentpalats]]></title>
@@ -626,14 +733,6 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             Ändå tycker mina vänner att det är mest synd om mig.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Toppolitikern Elvy fick hjärtinfarkt efter pensionen]]></title>
-            <link>https://kampanj.dn.se/hjart-lungfonden/toppolitikern-elvy-fick-hjartinfarkt-efter-pensionen/</link>
-            <guid>https://kampanj.dn.se/hjart-lungfonden/toppolitikern-elvy-fick-hjartinfarkt-efter-pensionen/</guid>
-            <pubDate>Thu, 04 Apr 2024 16:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-”Jag tänkte att jag kunde leva på som vanligt. Det gick inte så himla bra.”]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Läkaren svarade på frågor om övervikt]]></title>
@@ -838,34 +937,6 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Larmet: Går mot rekordår för denguefeber]]></title>
-            <link>https://www.dn.se/varlden/organisation-varnar-gar-mot-rekordar-for-denguefeber/</link>
-            <guid>https://www.dn.se/varlden/organisation-varnar-gar-mot-rekordar-for-denguefeber/</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Latinamerikanska länder rapporterar rekordhöga antal fall • Undantagstillstånd i Brasilien .]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Tung svensk förlust – men OS-hoppet lever]]></title>
-            <link>https://www.dn.se/sport/tung-svensk-handbollsforlust-men-os-hoppet-lever/</link>
-            <guid>https://www.dn.se/sport/tung-svensk-handbollsforlust-men-os-hoppet-lever/</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Ungern besegrade handbollsdamerna med 28–25 på hemmaplan.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Labour utlovar satsning på ubåtar med kärnvapen]]></title>
-            <link>https://www.dn.se/varlden/labour-lovar-att-satsa-pa-ubatar-med-karnvapen/</link>
-            <guid>https://www.dn.se/varlden/labour-lovar-att-satsa-pa-ubatar-med-karnvapen/</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Keir Starmer vill också höja Storbritanniens försvarsbudget till 2,5 procent av bnp.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Erik Helmerson:
           Fotbollsmiljonärerna borde tänka innan de handhjärtar]]></title>
             <link>https://www.dn.se/ledare/erik-helmerson-fotbollsmiljonarerna-borde-tanka-innan-de-handhjartar/</link>
@@ -950,159 +1021,6 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             ”En sjövild och skruvad sektthriller” och ny serie med en briljant Michael Douglas.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Skidskyttebasen döms till fängelse för korruption]]></title>
-            <link>https://www.dn.se/sport/dom-mot-tidigare-skidskyttebasen-i-eftermiddag/</link>
-            <guid>https://www.dn.se/sport/dom-mot-tidigare-skidskyttebasen-i-eftermiddag/</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Har tagit emot exklusiva klockor och accepterat sexuella tjänster från prostituerade.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Stjärnan om domen: ”Fantastiskt bra”]]></title>
-            <link>https://www.dn.se/sport/samuelsson-om-domen-fantastiskt-bra/</link>
-            <guid>https://www.dn.se/sport/samuelsson-om-domen-fantastiskt-bra/</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Sebastian Samuelsson är nöjd med domen mot Anders Besseberg.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jens Littorin:
-          Det finns fulare fiskar än Besseberg]]></title>
-            <link>https://www.dn.se/sport/jens-littorin-det-finns-fulare-fiskar-an-besseberg/</link>
-            <guid>https://www.dn.se/sport/jens-littorin-det-finns-fulare-fiskar-an-besseberg/</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-          <div class="ds-teaser__vignette">
-            SPORT | KOMMENTAR
-          </div>
-        <h2 class="ds-teaser__title">
-            <span class="ds-teaser__highlight">Jens Littorin:</span>
-          Det finns fulare fiskar än Besseberg
-        </h2>
-
-      </div>
-
-        <div class="ds-teaser__byline">
-          
-      
-
-      
-
-      <div class="picture   lazy-image" style="padding-bottom:245.5206%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-author/6khtkt47yok4siyfymlhnc2ajqvgyei5ypce6gily5ciag46lesq-413x1014.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-author/6khtkt47yok4siyfymlhnc2ajqvgyei5ypce6gily5ciag46lesq-413x1014.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://cached-images.bonnier.news/gcs/bilder/dn-author/6khtkt47yok4siyfymlhnc2ajqvgyei5ypce6gily5ciag46lesq-413x1014.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-        </div>
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zanyar Adami:
-          Jag ville lära min son att våga säga ifrån, nu tvivlar jag]]></title>
-            <link>https://www.dn.se/kultur/zanyar-adami-jag-ville-lara-min-son-att-vaga-saga-ifran-nu-tvivlar-jag/</link>
-            <guid>https://www.dn.se/kultur/zanyar-adami-jag-ville-lara-min-son-att-vaga-saga-ifran-nu-tvivlar-jag/</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Nu måste jag kanske lära honom titta bort i stället, skriver journalisten och Skärholmsbon.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Alla räknar med att räntan kommer sänkas i maj]]></title>
-            <link>https://www.dn.se/ekonomi/alla-raknar-med-sankt-ranta-i-maj-kassaskapssakert/</link>
-            <guid>https://www.dn.se/ekonomi/alla-raknar-med-sankt-ranta-i-maj-kassaskapssakert/</guid>
-            <pubDate>Fri, 12 Apr 2024 09:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            ”Det är kassaskåpssäkert” • Bred samsyn om Riksbankens nästa besked.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Carl Johan von Seth:
-          Bara omvärlden står i vägen för en räntesänkning i maj]]></title>
-            <link>https://www.dn.se/ekonomi/carl-johan-von-seth-bara-omvarlden-star-i-vagen-for-en-rantesankning-i-maj/</link>
-            <guid>https://www.dn.se/ekonomi/carl-johan-von-seth-bara-omvarlden-star-i-vagen-for-en-rantesankning-i-maj/</guid>
-            <pubDate>Fri, 12 Apr 2024 09:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-vip-badge" aria-hidden="true">
-      <i class="ds-icon ds-icon--sprite ds-icon--vip">
-    <svg><use xlink:href="#ds-vip"></use></svg>
-  </i>
-
-    
-  </div>
-
-
-    <div class="ds-teaser__content">
-      <div class="ds-teaser__content-inner">
-          <div class="ds-teaser__vignette">
-            EKONOMI | KOMMENTAR
-          </div>
-        <h2 class="ds-teaser__title">
-            <span class="ds-teaser__highlight">Carl Johan von Seth:</span>
-          Bara omvärlden står i vägen för en räntesänkning i maj
-        </h2>
-
-      </div>
-
-        <div class="ds-teaser__byline">
-          
-      
-
-      
-
-      <div class="picture   lazy-image" style="padding-bottom:207.8529%">
-          <noscript>
-              <img class="picture__img" src="https://cached-images.bonnier.news/gcs/bilder/dn-author/bbcgwyoqao6t672l67odzc2g5cimnoc4lpnsljk5vptegu6w4vaq-1006x2091.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://cached-images.bonnier.news/gcs/bilder/dn-author/bbcgwyoqao6t672l67odzc2g5cimnoc4lpnsljk5vptegu6w4vaq-1006x2091.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://cached-images.bonnier.news/gcs/bilder/dn-author/bbcgwyoqao6t672l67odzc2g5cimnoc4lpnsljk5vptegu6w4vaq-1006x2091.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
-
-          </noscript>
-      </div>
-
-        </div>
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[• Inflationen sjönk mer än väntat]]></title>
-            <link>https://www.dn.se/ekonomi/inflationen-sjonk-mer-an-vantat-matpriserna-faller/</link>
-            <guid>https://www.dn.se/ekonomi/inflationen-sjonk-mer-an-vantat-matpriserna-faller/</guid>
-            <pubDate>Fri, 12 Apr 2024 09:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <h2 class="ds-teaser__title">
-        • Inflationen sjönk mer än väntat
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Direkt.
-        Blandade bolagsrapporter gav USA-börsen frossa]]></title>
-            <link>https://www.dn.se/ekonomi/dns-direktrapportering-om-laget-i-ekonomin/</link>
-            <guid>https://www.dn.se/ekonomi/dns-direktrapportering-om-laget-i-ekonomin/</guid>
-            <pubDate>Fri, 12 Apr 2024 09:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-
-
-      <h2 class="ds-teaser__title">
-          <span class="ds-teaser__highlight">Direkt.</span>
-        Blandade bolagsrapporter gav USA-börsen frossa
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Skrev ”hjälp” med palmblad – räddades]]></title>
-            <link>https://www.dn.se/varlden/sjoman-skrev-hjalp-med-palmblad-raddade-efter-vecka-pa-ode-o/</link>
-            <guid>https://www.dn.se/varlden/sjoman-skrev-hjalp-med-palmblad-raddade-efter-vecka-pa-ode-o/</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Tre sjömän var strandsatta på en öde ö i Stilla havet i över en vecka.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Så hanterar du vårens godaste primörer]]></title>
@@ -1498,7 +1416,7 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[95]]></title>
+            <title><![CDATA[93]]></title>
             <link>https://etidning.dn.se/</link>
             <guid>https://etidning.dn.se/</guid>
             <pubDate>Sat, 13 Apr 2024 06:08:14 GMT</pubDate>

@@ -4,26 +4,15 @@
         <title>Svenska Dagbladet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 06:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 09:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Kvinna skadad – överfölls i trapphus i Norrköping]]></title>
-            <link>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=33754</link>
-            <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=33754</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minst en skadad efter grovt våldsbrott i natt]]></title>
-            <link>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=33755</link>
-            <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=33755</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Alltid senaste nytt – följ SvD direkt]]></title>
             <link>https://www.svd.se/a/wA9Gmd/senaste-nytt</link>
             <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt</guid>
             <pubDate>Thu, 04 Apr 2024 16:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Liverapport med de senaste nyheterna.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Ett samhälle utan civilkurage blir utarmat”]]></title>
@@ -50,18 +39,25 @@
             <enclosure url="https://svd.vgc.no/v2/images/767f456b-d91d-4840-a652-02df83134d3d?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=44366c7cd20e07a8418e2ef43052259475b2b4cc" length="0" type="image//v2/images/767f456b-d91d-4840-a652-02df83134d3d"/>
         </item>
         <item>
-            <title><![CDATA[Reportern i Sverige kan få ersättning efter tortyr]]></title>
-            <link>https://www.svd.se/a/OobbbA/reportern-tillfangatogs-och-torderades-kan-nu-fa-ersattning</link>
-            <guid>https://www.svd.se/a/OobbbA/reportern-tillfangatogs-och-torderades-kan-nu-fa-ersattning</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[Jobbade på Al-Jazeera – tillfångatogs av amerikanska trupper •  ”Kommer aldrig glömma”]]></content:encoded>
+            <title><![CDATA[Fem döda efter våldsdåd på köpcentrum]]></title>
+            <link>https://www.svd.se/a/o3LA7a/valdsdad-i-sydney-flera-uppges-doda</link>
+            <guid>https://www.svd.se/a/o3LA7a/valdsdad-i-sydney-flera-uppges-doda</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[Stor polisinsats i Sydney • Misstänkt man har  skjutits – möjliga terrorkopplingar utreds.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Spionerade åt Kuba i över 40 år – döms]]></title>
-            <link>https://www.svd.se/a/xmAPGX/spionerade-at-kuba-i-40-ar-doms</link>
-            <guid>https://www.svd.se/a/xmAPGX/spionerade-at-kuba-i-40-ar-doms</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[Var ambassadör och medlem i USA:s säkerhetsråd.]]></content:encoded>
+            <title><![CDATA[”Nu går det inte att lappa och laga längre”]]></title>
+            <link>https://www.svd.se/a/4onAQR/stockholms-slitna-operahus-dansare-malar-och-lackande-tak</link>
+            <guid>https://www.svd.se/a/4onAQR/stockholms-slitna-operahus-dansare-malar-och-lackande-tak</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[Dansarna målar väggar och hinkar mot läckande tak • SvD på husesyn i slitna operahuset.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bryr sig svenska politiker inte alls om kultur?]]></title>
+            <link>https://www.svd.se/a/O8Rwkq/andersq-bjorkman-struntar-svenska-politiker-i-kultur</link>
+            <guid>https://www.svd.se/a/O8Rwkq/andersq-bjorkman-struntar-svenska-politiker-i-kultur</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Anders Q Björkman: </strong>Regering efter regering har låter kulturfastigheter förfalla.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Får rådet av kvinna på tåget: Gör en ”vit flykt”]]></title>
@@ -78,6 +74,20 @@
             <content:encoded><![CDATA[<strong>Emma Frans: </strong>New York-professors bästsäljare om ungas mående får svidande kritik.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Spionerade åt Kuba i över 40 år – döms]]></title>
+            <link>https://www.svd.se/a/xmAPGX/spionerade-at-kuba-i-40-ar-doms</link>
+            <guid>https://www.svd.se/a/xmAPGX/spionerade-at-kuba-i-40-ar-doms</guid>
+            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[Var ambassadör och medlem i USA:s säkerhetsråd.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Reportern i Sverige kan få ersättning efter tortyr]]></title>
+            <link>https://www.svd.se/a/OobbbA/reportern-tillfangatogs-och-torderades-kan-nu-fa-ersattning</link>
+            <guid>https://www.svd.se/a/OobbbA/reportern-tillfangatogs-och-torderades-kan-nu-fa-ersattning</guid>
+            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[Jobbade på Al-Jazeera – tillfångatogs av amerikanska trupper •  ”Kommer aldrig glömma”]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[”Deras fans är så kaxiga – utan att någonsin vinna”]]></title>
             <link>https://www.svd.se/a/kEqkgX/tre-lag-gor-upp-i-premier-league-arsenals-fans-kaxigast</link>
             <guid>https://www.svd.se/a/kEqkgX/tre-lag-gor-upp-i-premier-league-arsenals-fans-kaxigast</guid>
@@ -85,60 +95,46 @@
             <content:encoded><![CDATA[England är delat inför det största dramat i Premier League på tio år – tre lag gör upp.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Löveldning på tomten förbjuds]]></title>
-            <link>https://www.svd.se/a/GylG34/nya-regler-forbjudet-att-elda-lov-pa-tomten</link>
-            <guid>https://www.svd.se/a/GylG34/nya-regler-forbjudet-att-elda-lov-pa-tomten</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[Naturvårdsverket: ”Räknar med att fler börjar kompostera.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Måste bli högstatus att jobba på vårdcentral”]]></title>
-            <link>https://www.svd.se/a/rlv0Pm/stockholmsvarden-tusen-fler-lakare-ska-utbildas-till-vardcentralerna</link>
-            <guid>https://www.svd.se/a/rlv0Pm/stockholmsvarden-tusen-fler-lakare-ska-utbildas-till-vardcentralerna</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[Region Stockholm vill radera läkarbristen med miljardsatsning – tusen fler läkare ska utbildas.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bäst bubbel 2024 – fem fullpoängare]]></title>
-            <link>https://www.svd.se/a/8Jb2rW/topplista-atta-pigga-bubblor-i-olika-prisklasser</link>
-            <guid>https://www.svd.se/a/8Jb2rW/topplista-atta-pigga-bubblor-i-olika-prisklasser</guid>
+            <title><![CDATA[Priset på exklusiva elbilar rasar]]></title>
+            <link>https://www.svd.se/a/y6eeVa/prisraset-for-elbilar-fortsatter</link>
+            <guid>https://www.svd.se/a/y6eeVa/prisraset-for-elbilar-fortsatter</guid>
             <pubDate>Fri, 12 Apr 2024 06:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[SvD:s vinexpert testar cava, crémant och champagne.]]></content:encoded>
+            <content:encoded><![CDATA[”Tekniskt frånsprungen” • Dieselbilar skjuter i väg i pris.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Sökes: Tolv personer utan åsikt om Trump]]></title>
-            <link>https://www.svd.se/a/mPgB0l/sokes-tolv-personer-utan-asikt-om-trump</link>
-            <guid>https://www.svd.se/a/mPgB0l/sokes-tolv-personer-utan-asikt-om-trump</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Sökes: Tolv personer utan åsikt om Trump</h2></div>]]></content:encoded>
+            <title><![CDATA[Ukraina: "Läget i öst förvärras avsevärt"]]></title>
+            <link>https://www.svd.se/a/vgWAz4/ukraina-laget-i-ost-forvarras-avsevart</link>
+            <guid>https://www.svd.se/a/vgWAz4/ukraina-laget-i-ost-forvarras-avsevart</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Ukraina: "Läget i öst förvärras avsevärt"</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Trots allt: Paris förblir en god idé]]></title>
-            <link>https://www.svd.se/a/P46Aq6/trots-allt-paris-forblir-en-god-ide</link>
-            <guid>https://www.svd.se/a/P46Aq6/trots-allt-paris-forblir-en-god-ide</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Trots allt: Paris förblir en god idé</h2></div>]]></content:encoded>
+            <title><![CDATA[Fjolårets nagelbitare väntas i år igen]]></title>
+            <link>https://www.svd.se/a/GMv42q/damallsvenskans-premiar-blir-duell-mellan-hammarby-och-hacken</link>
+            <guid>https://www.svd.se/a/GMv42q/damallsvenskans-premiar-blir-duell-mellan-hammarby-och-hacken</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Fjolårets nagelbitare väntas i år igen</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["Det har blivit vardag med beväpnade ungdomar"]]></title>
-            <link>https://www.svd.se/a/AvzlLn/det-har-blivit-vardag-med-bevapnade-ungdomar</link>
-            <guid>https://www.svd.se/a/AvzlLn/det-har-blivit-vardag-med-bevapnade-ungdomar</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">"Det har blivit vardag med beväpnade ungdomar"</h2></div>]]></content:encoded>
+            <title><![CDATA[Bryr sig svenska politiker inte alls om kultur?]]></title>
+            <link>https://www.svd.se/a/O8Rwkq/andersq-bjorkman-struntar-svenska-politiker-i-kultur</link>
+            <guid>https://www.svd.se/a/O8Rwkq/andersq-bjorkman-struntar-svenska-politiker-i-kultur</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Bryr sig svenska politiker inte alls om kultur?</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Ett samhälle utan civilkurage blir utarmat”]]></title>
-            <link>https://www.svd.se/a/25n1KB/kriminologer-och-forskare-om-vikten-av-civilkurage</link>
-            <guid>https://www.svd.se/a/25n1KB/kriminologer-och-forskare-om-vikten-av-civilkurage</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">”Ett samhälle utan civilkurage blir utarmat”</h2></div>]]></content:encoded>
+            <title><![CDATA[”Nu går det inte att lappa och laga längre”]]></title>
+            <link>https://www.svd.se/a/4onAQR/stockholms-slitna-operahus-dansare-malar-och-lackande-tak</link>
+            <guid>https://www.svd.se/a/4onAQR/stockholms-slitna-operahus-dansare-malar-och-lackande-tak</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">”Nu går det inte att lappa och laga längre”</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Vad gör norrmännen i Gullspång?]]></title>
-            <link>https://www.svd.se/a/Ey4o1K/podd-svd-tv-kollen-om-dokumentaren-miraklet-i-gullspang</link>
-            <guid>https://www.svd.se/a/Ey4o1K/podd-svd-tv-kollen-om-dokumentaren-miraklet-i-gullspang</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Vad gör norrmännen i Gullspång?</h2></div>]]></content:encoded>
+            <title><![CDATA[Så uppfostrade Konsum oss till goda samhällsmedborgare]]></title>
+            <link>https://www.svd.se/a/XbGGmg/recension-det-forlorade-paradiset-av-sara-kristofersson</link>
+            <guid>https://www.svd.se/a/XbGGmg/recension-det-forlorade-paradiset-av-sara-kristofersson</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Så uppfostrade Konsum oss till goda samhällsmedborgare</h2></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Landet där ännu en gräns passerats]]></title>
@@ -155,6 +151,34 @@
             <content:encoded><![CDATA[Vem som helst kan drabbas av hjärtstopp – hjärtstartaren kan vara livsavgörande.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Joe Bidens varning till Iran: ”Gör det inte”]]></title>
+            <link>https://www.svd.se/a/zA5Gmq/biden-varnar-for-iransk-attack</link>
+            <guid>https://www.svd.se/a/zA5Gmq/biden-varnar-for-iransk-attack</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[Attack från Iran tros komma i närtid • USA: Kommer hjälpa till att försvara Israel.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Beväpnade israeliska bosättare stormade by]]></title>
+            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
+            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
+            <pubDate>Sun, 03 Mar 2024 16:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Minst en död och ett tjugotal skadade på västbanken • Senaste nytt.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Måste bli högstatus att jobba på vårdcentral”]]></title>
+            <link>https://www.svd.se/a/rlv0Pm/stockholmsvarden-tusen-fler-lakare-ska-utbildas-till-vardcentralerna</link>
+            <guid>https://www.svd.se/a/rlv0Pm/stockholmsvarden-tusen-fler-lakare-ska-utbildas-till-vardcentralerna</guid>
+            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[Region Stockholm vill radera läkarbristen med miljardsatsning – tusen fler läkare ska utbildas.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fjolårets nagelbitare väntas i år igen]]></title>
+            <link>https://www.svd.se/a/GMv42q/damallsvenskans-premiar-blir-duell-mellan-hammarby-och-hacken</link>
+            <guid>https://www.svd.se/a/GMv42q/damallsvenskans-premiar-blir-duell-mellan-hammarby-och-hacken</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Anders Lindblad: </strong>Tunga spelarförluster för Hammarby öppnar för nya att knipa SM-guldet.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Brittiskt laservapen kan skickas till Ukraina]]></title>
             <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
             <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
@@ -162,53 +186,18 @@
             <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Försvarsministern vill skynda på projektet ”Dragonfire” • Senaste nytt.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Förslaget: Fångar ska bli soldater]]></title>
-            <link>https://www.svd.se/a/jlVepz/ukrainska-lagforslaget-fangar-ska-bli-soldater</link>
-            <guid>https://www.svd.se/a/jlVepz/ukrainska-lagforslaget-fangar-ska-bli-soldater</guid>
-            <pubDate>Thu, 11 Apr 2024 16:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[Förbereder sig inför förmodad rysk offensiv • ”Gör vad man kan i krig.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Vad gör norrmännen i Gullspång?]]></title>
-            <link>https://www.svd.se/a/Ey4o1K/podd-svd-tv-kollen-om-dokumentaren-miraklet-i-gullspang</link>
-            <guid>https://www.svd.se/a/Ey4o1K/podd-svd-tv-kollen-om-dokumentaren-miraklet-i-gullspang</guid>
+            <title><![CDATA[Löveldning på tomten förbjuds]]></title>
+            <link>https://www.svd.se/a/GylG34/nya-regler-forbjudet-att-elda-lov-pa-tomten</link>
+            <guid>https://www.svd.se/a/GylG34/nya-regler-forbjudet-att-elda-lov-pa-tomten</guid>
             <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[PODD | Om omsusade ”Miraklet i Gullspång” och deckaren ”Sugar”.]]></content:encoded>
+            <content:encoded><![CDATA[Naturvårdsverket: ”Räknar med att fler börjar kompostera.”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Nytt sätt att räkna – nu faller priserna]]></title>
-            <link>https://www.svd.se/a/eJlbAK/inflationssiffrorna-sverige-kan-redan-ha-deflation</link>
-            <guid>https://www.svd.se/a/eJlbAK/inflationssiffrorna-sverige-kan-redan-ha-deflation</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Johan Carlström: </strong>Men fredagens inflationsyra kan snabbt bytas mot inflationsfrossa.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kraftiga prisökningar på alkohol och tobak]]></title>
-            <link>https://www.svd.se/a/jQ99ze/inflation-ol-vin-och-tobak-okar-mest-i-pris-lax-billigare</link>
-            <guid>https://www.svd.se/a/jQ99ze/inflation-ol-vin-och-tobak-okar-mest-i-pris-lax-billigare</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[Men om du är ute efter ett påslakanset är de nya inflationssiffrorna goda nyheter.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Åberg klättrar – har vittring på tätstriden]]></title>
-            <link>https://www.svd.se/a/lwg1Pk/mardromsmorgon-och-vattenbesok-for-aberg</link>
-            <guid>https://www.svd.se/a/lwg1Pk/mardromsmorgon-och-vattenbesok-for-aberg</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[Stark comeback av svensken i nattens US Masters.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Winehouse var så mycket mer än tragisk partybrud]]></title>
-            <link>https://www.svd.se/a/lwggVG/recension-biopicen-back-to-black-om-amy-winehouse-ar-platt</link>
-            <guid>https://www.svd.se/a/lwggVG/recension-biopicen-back-to-black-om-amy-winehouse-ar-platt</guid>
-            <pubDate>Fri, 12 Apr 2024 11:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[Artisten vitaliserade soulmusiken – men filmen om henne blir bara en sliskig undergångssaga.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”De var övertygade: det fortsätter efter döden”]]></title>
-            <link>https://www.svd.se/a/BW5dxE/studie-nara-doden-upplevelse-efter-hjartstopp-andrar-livssyn</link>
-            <guid>https://www.svd.se/a/BW5dxE/studie-nara-doden-upplevelse-efter-hjartstopp-andrar-livssyn</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[Överläkare efter studie av återupplivades nära döden-upplevelser: ”Är tagen än i&nbsp;dag”]]></content:encoded>
+            <title><![CDATA[”Skriker och svär – är min fru psykiskt störd?”]]></title>
+            <link>https://www.svd.se/a/y6LeQg/psykologens-basta-svar-om-ilska-ni-kanske-borde-separera-en-tid</link>
+            <guid>https://www.svd.se/a/y6LeQg/psykologens-basta-svar-om-ilska-ni-kanske-borde-separera-en-tid</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[Psykologens bästa svar om ilska: Agera, hon ska inte vara ensam med barnen.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Pratar jag för mycket om pappa?”]]></title>
@@ -225,11 +214,46 @@
             <content:encoded><![CDATA[Fyra destinationer för dig som vill höja racketen på semestern.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Beväpnade israeliska bosättare stormade by]]></title>
-            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
-            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
-            <pubDate>Sun, 03 Mar 2024 16:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cKinPn">Direkt</span>Minst en död och ett tjugotal skadade på västbanken • Senaste nytt.]]></content:encoded>
+            <title><![CDATA[Groteska scener skildrar sexuellt våld]]></title>
+            <link>https://www.svd.se/a/0QwPLM/recension-like-lovers-do-utsatter-oss-for-vittnesmal-om-sexuellt-vald</link>
+            <guid>https://www.svd.se/a/0QwPLM/recension-like-lovers-do-utsatter-oss-for-vittnesmal-om-sexuellt-vald</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[Sivan Ben Yishais pjäs ”Like lovers do” utsätter publiken för många vittnesmål.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nytt sätt att räkna – nu faller priserna]]></title>
+            <link>https://www.svd.se/a/eJlbAK/inflationssiffrorna-sverige-kan-redan-ha-deflation</link>
+            <guid>https://www.svd.se/a/eJlbAK/inflationssiffrorna-sverige-kan-redan-ha-deflation</guid>
+            <pubDate>Fri, 12 Apr 2024 16:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Johan Carlström: </strong>Men fredagens inflationsyra kan snabbt bytas mot inflationsfrossa.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kraftiga prisökningar på alkohol och tobak]]></title>
+            <link>https://www.svd.se/a/jQ99ze/inflation-ol-vin-och-tobak-okar-mest-i-pris-lax-billigare</link>
+            <guid>https://www.svd.se/a/jQ99ze/inflation-ol-vin-och-tobak-okar-mest-i-pris-lax-billigare</guid>
+            <pubDate>Fri, 12 Apr 2024 16:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[Men om du är ute efter ett påslakanset är de nya inflationssiffrorna goda nyheter.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Winehouse var så mycket mer än tragisk partybrud]]></title>
+            <link>https://www.svd.se/a/lwggVG/recension-biopicen-back-to-black-om-amy-winehouse-ar-platt</link>
+            <guid>https://www.svd.se/a/lwggVG/recension-biopicen-back-to-black-om-amy-winehouse-ar-platt</guid>
+            <pubDate>Fri, 12 Apr 2024 11:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[Artisten vitaliserade soulmusiken – men filmen om henne blir bara en sliskig undergångssaga.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vad gör norrmännen i Gullspång?]]></title>
+            <link>https://www.svd.se/a/Ey4o1K/podd-svd-tv-kollen-om-dokumentaren-miraklet-i-gullspang</link>
+            <guid>https://www.svd.se/a/Ey4o1K/podd-svd-tv-kollen-om-dokumentaren-miraklet-i-gullspang</guid>
+            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[PODD | Om omsusade ”Miraklet i Gullspång” och deckaren ”Sugar”.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Så uppfostrade Konsum oss till goda samhällsmedborgare]]></title>
+            <link>https://www.svd.se/a/XbGGmg/recension-det-forlorade-paradiset-av-sara-kristofersson</link>
+            <guid>https://www.svd.se/a/XbGGmg/recension-det-forlorade-paradiset-av-sara-kristofersson</guid>
+            <pubDate>Sat, 13 Apr 2024 09:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[Målet var ett jämställt samhälle där arbetarna åt gott och inte slavade under kommersialismen.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Snart kan alla gå runt med dubbla könsorgan]]></title>
@@ -237,48 +261,6 @@
             <guid>https://www.svd.se/a/BW7An0/johannes-klenell-snart-kan-alla-ha-dubbla-konsorgan</guid>
             <pubDate>Fri, 12 Apr 2024 11:08:31 GMT</pubDate>
             <content:encoded><![CDATA[Tänk vad en ändrad siffra i personnumret kan göra när bara fantasin sätter gränserna.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nekade kvinna huvudduk – stäms]]></title>
-            <link>https://www.svd.se/a/qPpALe/flygbolag-stams-sedan-kvinna-nekats-huvudduk</link>
-            <guid>https://www.svd.se/a/qPpALe/flygbolag-stams-sedan-kvinna-nekats-huvudduk</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[DO yrkar på att flygbolaget ska betala henne 150&nbsp;000 kronor.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ny analys: Sverige missar alla klimatmål]]></title>
-            <link>https://www.svd.se/a/EQ0OBP/naturvardsverkets-analys-underkanner-regeringens-klimatpolitik</link>
-            <guid>https://www.svd.se/a/EQ0OBP/naturvardsverkets-analys-underkanner-regeringens-klimatpolitik</guid>
-            <pubDate>Fri, 12 Apr 2024 09:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[Effekterna av klimatpolitiken redovisas i rapport • Naturvårdsverket: Krävs snabba åtgärder.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Daniel Helldén: Regeringen ljuger]]></title>
-            <link>https://www.svd.se/a/zA5LM9/efter-klimatsagningen-ministern-till-utskottet</link>
-            <guid>https://www.svd.se/a/zA5LM9/efter-klimatsagningen-ministern-till-utskottet</guid>
-            <pubDate>Fri, 12 Apr 2024 16:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[Romina Pourmokhtari kallas till utskottet efter klimatsågning.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Priset på exklusiva elbilar rasar]]></title>
-            <link>https://www.svd.se/a/y6eeVa/prisraset-for-elbilar-fortsatter</link>
-            <guid>https://www.svd.se/a/y6eeVa/prisraset-for-elbilar-fortsatter</guid>
-            <pubDate>Fri, 12 Apr 2024 06:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[”Tekniskt frånsprungen” • Dieselbilar skjuter i väg i pris.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Trots allt: Paris förblir en god idé]]></title>
-            <link>https://www.svd.se/a/P46Aq6/trots-allt-paris-forblir-en-god-ide</link>
-            <guid>https://www.svd.se/a/P46Aq6/trots-allt-paris-forblir-en-god-ide</guid>
-            <pubDate>Sat, 13 Apr 2024 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Per Wästberg: </strong>Veckorna kring påsk då jag vistades i Paris bevakade polis och militär kyrkor, muséer, varuhus.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Skrattade åt snoppar – sonen kan inte duscha”]]></title>
-            <link>https://www.svd.se/a/4onx56/aldersgrans-i-omkladningsrum-pa-badhus-asikterna-gar-isar</link>
-            <guid>https://www.svd.se/a/4onx56/aldersgrans-i-omkladningsrum-pa-badhus-asikterna-gar-isar</guid>
-            <pubDate>Wed, 10 Apr 2024 06:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[Åldersgräns för barn i omklädningsrum på badhus? Så kan du tänka som förälder.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Skulle hellre dö än att leva så igen”]]></title>
@@ -302,11 +284,11 @@
             <content:encoded><![CDATA[<strong>Torbjörn Nilsson: </strong>Känner igen politiskt självskadebeteende när jag ser det.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Fel att säga att ännu en gräns passerats]]></title>
-            <link>https://www.svd.se/a/JQPKER/dodsskjutningen-i-skarholmen-konsekvens-av-unga-som-bar-vapen</link>
-            <guid>https://www.svd.se/a/JQPKER/dodsskjutningen-i-skarholmen-konsekvens-av-unga-som-bar-vapen</guid>
-            <pubDate>Fri, 12 Apr 2024 11:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Frida Svensson: </strong>Mordet är en konsekvens av att ungdomar i Sverige bär skarpa vapen.]]></content:encoded>
+            <title><![CDATA[”Skrattade åt snoppar – sonen kan inte duscha”]]></title>
+            <link>https://www.svd.se/a/4onx56/aldersgrans-i-omkladningsrum-pa-badhus-asikterna-gar-isar</link>
+            <guid>https://www.svd.se/a/4onx56/aldersgrans-i-omkladningsrum-pa-badhus-asikterna-gar-isar</guid>
+            <pubDate>Wed, 10 Apr 2024 06:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[Åldersgräns för barn i omklädningsrum på badhus? Så kan du tänka som förälder.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Sex smarta saker att säga om ”3 body problem”]]></title>
@@ -316,6 +298,13 @@
             <content:encoded><![CDATA[Hur trovärdig är vetenskapen i ”Game of thrones”-skaparnas nya Netflix-succé?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Fel att säga att ännu en gräns passerats]]></title>
+            <link>https://www.svd.se/a/JQPKER/dodsskjutningen-i-skarholmen-konsekvens-av-unga-som-bar-vapen</link>
+            <guid>https://www.svd.se/a/JQPKER/dodsskjutningen-i-skarholmen-konsekvens-av-unga-som-bar-vapen</guid>
+            <pubDate>Fri, 12 Apr 2024 11:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Frida Svensson: </strong>Mordet är en konsekvens av att ungdomar i Sverige bär skarpa vapen.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[”Osammanhängande konst av tvivelaktigt värde”]]></title>
             <link>https://www.svd.se/a/nQ50gx/surrealismens-manifest-fyller-100</link>
             <guid>https://www.svd.se/a/nQ50gx/surrealismens-manifest-fyller-100</guid>
@@ -323,49 +312,49 @@
             <content:encoded><![CDATA[<strong>Mats Jansson: </strong>”Surrealismens manifest” fyller 100.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[45]]></title>
+            <title><![CDATA[43]]></title>
             <link>https://kund.svd.se/kundinfo/dagens-tidning.html?utm_source=svdse&amp;utm_medium=b2c&amp;utm_content=dt&amp;utm_campaign=dt&amp;intcmp=svdse:b2c:dt:dt</link>
             <guid>https://kund.svd.se/kundinfo/dagens-tidning.html?utm_source=svdse&amp;utm_medium=b2c&amp;utm_content=dt&amp;utm_campaign=dt&amp;intcmp=svdse:b2c:dt:dt</guid>
             <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
             <content:encoded><![CDATA[lördag 13 april]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[46]]></title>
+            <title><![CDATA[44]]></title>
             <link>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=cirkus#!/Cirkus-Formel-1/p/640538447/category=161931057</link>
             <guid>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=cirkus#!/Cirkus-Formel-1/p/640538447/category=161931057</guid>
             <pubDate>Mon, 08 Apr 2024 16:10:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Bok</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">229 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Cirkus Formel 1</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/c26a513fd9e61068ab78a8c149bae3bb9547680a1f24b509baff19d866e0ac56.jpeg" alt="Cirkus Formel 1"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[47]]></title>
+            <title><![CDATA[45]]></title>
             <link>https://accent.svd.se/dalarna-med-anders-hanser.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=dalarna</link>
             <guid>https://accent.svd.se/dalarna-med-anders-hanser.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=dalarna</guid>
             <pubDate>Mon, 08 Apr 2024 16:10:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">16 950 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Kulturresa till Dalarna – med Anders Hanser</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/9072fc1a6f5b12290286d0cb98edd26a3542c360f9c5f762aa7c07e30da6dbd9.jpeg" alt="Kulturresa till Dalarna – med Anders Hanser"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[48]]></title>
+            <title><![CDATA[46]]></title>
             <link>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=horlurar#!/Defunc-True-basic/p/645522483/category=0</link>
             <guid>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=horlurar#!/Defunc-True-basic/p/645522483/category=0</guid>
             <pubDate>Mon, 08 Apr 2024 16:10:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Hörlurar</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">299 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Defunc True basic</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/5b773a85a37bd349d32cae6f8367d140faabfaa124826785ad7e4c8ee3aa0623.jpeg" alt="Defunc True basic"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[49]]></title>
+            <title><![CDATA[47]]></title>
             <link>https://prenumerera.svd.se/svdvinklubb?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vinklubb</link>
             <guid>https://prenumerera.svd.se/svdvinklubb?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vinklubb</guid>
             <pubDate>Mon, 04 Mar 2024 16:09:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">SvD Vinklubb</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">1 mån gratis</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Vintipsen före alla andra</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/b190edd9d441a354dd74d7418ee822405c7ec6907cb68af2270384cab32b4a01.jpeg" alt="Vintipsen före alla andra"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[50]]></title>
+            <title><![CDATA[48]]></title>
             <link>https://accent.svd.se/konsttaget.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=konsttaget</link>
             <guid>https://accent.svd.se/konsttaget.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=konsttaget</guid>
             <pubDate>Mon, 08 Apr 2024 16:10:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">19 900 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Konsttåget</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/d6abd94eb301896e4a0276ee585e9e9745776155d2030d302b60064bddd4cc64.jpeg" alt="Konsttåget"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[51]]></title>
+            <title><![CDATA[49]]></title>
             <link>https://accent.svd.se/operaresa-till-verona.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=verona</link>
             <guid>https://accent.svd.se/operaresa-till-verona.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=verona</guid>
             <pubDate>Tue, 02 Apr 2024 09:08:29 GMT</pubDate>
