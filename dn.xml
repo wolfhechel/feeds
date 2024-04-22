@@ -4,35 +4,9 @@
         <title>Dagens Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 09:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 11:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Just nu:
-        Hissolycka på gymnasieskola i Göteborg]]></title>
-            <link>https://www.dn.se/direkt/2024-04-22/hissolycka-pa-gymnasieskola-i-goteborg/</link>
-            <guid>https://www.dn.se/direkt/2024-04-22/hissolycka-pa-gymnasieskola-i-goteborg/</guid>
-            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <h2 class="ds-teaser__title">
-        <span class="ds-teaser__highlight">Just nu:</span>
-        Hissolycka på gymnasieskola i Göteborg
-      </h2>
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Just nu:
-        Chef för Israels militära underrättelsetjänst avgår]]></title>
-            <link>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</link>
-            <guid>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</guid>
-            <pubDate>Sun, 18 Feb 2024 09:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <h2 class="ds-teaser__title">
-        <span class="ds-teaser__highlight">Just nu:</span>
-        Chef för Israels militära underrättelsetjänst avgår
-      </h2>
-    </div>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Michael Winiarski:
           För ryska kyrkan är det ett heligt krig mot satanistiska väst]]></title>
@@ -98,7 +72,16 @@
             <link>https://www.dn.se/kultur/catia-hultquist-halsoguruns-besvikna-kompis-sager-nagot-om-modern-manlig-vanskap/</link>
             <guid>https://www.dn.se/kultur/catia-hultquist-halsoguruns-besvikna-kompis-sager-nagot-om-modern-manlig-vanskap/</guid>
             <pubDate>Mon, 22 Apr 2024 06:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
+            <content:encoded><![CDATA[<div class="ds-vip-badge" aria-hidden="true">
+      <i class="ds-icon ds-icon--sprite ds-icon--vip">
+    <svg><use xlink:href="#ds-vip"></use></svg>
+  </i>
+
+    
+  </div>
+
+
+    <div class="ds-teaser__content">
       <div class="ds-teaser__content-inner">
           <div class="ds-teaser__vignette">
             KULTUR | KRÖNIKA
@@ -125,13 +108,23 @@
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hissolycka på gymnasieskola i Göteborg]]></title>
+            <title><![CDATA[Fartkameror stals – sju personer åtalas]]></title>
             <link>https://www.dn.se</link>
             <guid>https://www.dn.se</guid>
-            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">10:45</span>
+            <pubDate>Mon, 22 Apr 2024 11:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">11:36</span>
       <h3 class="ds-teaser__title">
-        Hissolycka på gymnasieskola i Göteborg
+        Fartkameror stals – sju personer åtalas
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fartkameror stals – sju personer åtalas]]></title>
+            <link>https://www.dn.se/direkt/2024-04-22/fartkameror-stals-sju-personer-atalas/</link>
+            <guid>https://www.dn.se/direkt/2024-04-22/fartkameror-stals-sju-personer-atalas/</guid>
+            <pubDate>Mon, 22 Apr 2024 11:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">11:36</span>
+      <h3 class="ds-teaser__title">
+        Fartkameror stals – sju personer åtalas
       </h3>]]></content:encoded>
         </item>
         <item>
@@ -225,16 +218,6 @@
       </h3>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Misstänkt i narkotikatillslag försatt på fri fot]]></title>
-            <link>https://www.dn.se/direkt/2024-04-21/misstankt-i-narkotikatillslag-forsatt-pa-fri-fot/</link>
-            <guid>https://www.dn.se/direkt/2024-04-21/misstankt-i-narkotikatillslag-forsatt-pa-fri-fot/</guid>
-            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">I går 17:52</span>
-      <h3 class="ds-teaser__title">
-        Misstänkt i narkotikatillslag försatt på fri fot
-      </h3>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Linda har gått på över 100 dejter – utan att hitta rätt]]></title>
             <link>https://www.dn.se/insidan/linda-har-gatt-pa-over-100-dejter-utan-att-hitta-ratt/</link>
             <guid>https://www.dn.se/insidan/linda-har-gatt-pa-over-100-dejter-utan-att-hitta-ratt/</guid>
@@ -271,6 +254,48 @@
 Svaren som kan göra dig klokare, men kanske inte på det sätt du tror.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Björn Wiman:
+          Bildningsbefriade politiker satsar på fotboll och låter kulturen förfalla]]></title>
+            <link>https://www.dn.se/kultur/bjorn-wiman-bildningsbefriade-politiker-satsar-pa-fotboll-och-later-kulturen-forfalla/</link>
+            <guid>https://www.dn.se/kultur/bjorn-wiman-bildningsbefriade-politiker-satsar-pa-fotboll-och-later-kulturen-forfalla/</guid>
+            <pubDate>Mon, 22 Apr 2024 11:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Två nya jättearenor – medan operahuset faller samman.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kungliga Operan stänger – i fem år]]></title>
+            <link>https://www.dn.se/direkt/2024-04-22/kungliga-operan-stanger-i-juli-2026/</link>
+            <guid>https://www.dn.se/direkt/2024-04-22/kungliga-operan-stanger-i-juli-2026/</guid>
+            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Stängs för renovering 2026 • ”Nuläget för operabyggnaden är akut.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• Kulturdebatt: Ett unikt tillfälle]]></title>
+            <link>https://www.dn.se/kultur/fredrik-lindgren-vd-kungliga-operan-unikt-tillfalle-om-bara-politikerna-valjer-ratt/</link>
+            <guid>https://www.dn.se/kultur/fredrik-lindgren-vd-kungliga-operan-unikt-tillfalle-om-bara-politikerna-valjer-ratt/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • Kulturdebatt: Ett unikt tillfälle
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hissolycka på skola i Göteborg]]></title>
+            <link>https://www.dn.se/direkt/2024-04-22/hissolycka-pa-gymnasieskola-i-goteborg/</link>
+            <guid>https://www.dn.se/direkt/2024-04-22/hissolycka-pa-gymnasieskola-i-goteborg/</guid>
+            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Kvinna i 50-årsåldern skadad – ska ha fallit ner i schakt.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Kinesiska stadens gator ligger under vatten]]></title>
             <link>https://www.dn.se/varlden/manga-evakuerade-efter-massiva-oversvamningar-i-kina/</link>
             <guid>https://www.dn.se/varlden/manga-evakuerade-efter-massiva-oversvamningar-i-kina/</guid>
@@ -293,78 +318,6 @@ Svaren som kan göra dig klokare, men kanske inte på det sätt du tror.]]></con
           151 personer dog på grund av extremväder i Europa.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Palestinsk flicka föddes föräldralös]]></title>
-            <link>https://www.dn.se/varlden/palestinsk-flicka-foddes-foraldralos-mamman-dodades-i-luftrad/</link>
-            <guid>https://www.dn.se/varlden/palestinsk-flicka-foddes-foraldralos-mamman-dodades-i-luftrad/</guid>
-            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Mamman dödades i en israelisk lufträd • Läkare lyckades förlösa dottern.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Direkt.
-        Chef för Israels militära underrättelsetjänst avgår]]></title>
-            <link>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</link>
-            <guid>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</guid>
-            <pubDate>Sun, 18 Feb 2024 09:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-
-
-      <h2 class="ds-teaser__title">
-          <span class="ds-teaser__highlight">Direkt.</span>
-        Chef för Israels militära underrättelsetjänst avgår
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu om USA:s plan: ”Absurt”]]></title>
-            <link>https://www.dn.se/varlden/ilska-i-jerusalem-over-amerikanska-sanktioner-mot-armen/</link>
-            <guid>https://www.dn.se/varlden/ilska-i-jerusalem-over-amerikanska-sanktioner-mot-armen/</guid>
-            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Chock och ilska i Jerusalem över amerikanska sanktioner mot armén.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[• Nya attacker mot Rafah – flera barn dödade]]></title>
-            <link>https://www.dn.se/varlden/flera-barn-dodade-i-attacker-mot-rafah/</link>
-            <guid>https://www.dn.se/varlden/flera-barn-dodade-i-attacker-mot-rafah/</guid>
-            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <h2 class="ds-teaser__title">
-        • Nya attacker mot Rafah – flera barn dödade
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Swedbank: Boräntan 3,9 procent i december]]></title>
-            <link>https://www.dn.se/ekonomi/swedbank-borantan-3-9-procent-i-december/</link>
-            <guid>https://www.dn.se/ekonomi/swedbank-borantan-3-9-procent-i-december/</guid>
-            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Storbanker ändrar bedömningar hur Riksbanken kommer att sänka styrräntan.&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Direkt.
-        Mångdubbling av dansk vindkraft]]></title>
-            <link>https://www.dn.se/ekonomi/dns-direktrapportering-om-laget-i-ekonomin/</link>
-            <guid>https://www.dn.se/ekonomi/dns-direktrapportering-om-laget-i-ekonomin/</guid>
-            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-
-
-      <h2 class="ds-teaser__title">
-          <span class="ds-teaser__highlight">Direkt.</span>
-        Mångdubbling av dansk vindkraft
-      </h2>
-
-    </div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Nya Volvo EX30 prisad på prestigefull gala]]></title>
             <link>https://www.dn.se/brandstudio/volvo-cars/nya-volvo-ex30-prisad-pa-prestigefull-gala/</link>
             <guid>https://www.dn.se/brandstudio/volvo-cars/nya-volvo-ex30-prisad-pa-prestigefull-gala/</guid>
@@ -378,7 +331,7 @@ Den lilla eldrivna suven får uppmärksamhet, både från kunder och motorjourna
         Jämlik välfärd är väldigt avlägsen i Norrbottens inland]]></title>
             <link>https://www.dn.se</link>
             <guid>https://www.dn.se</guid>
-            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
+            <pubDate>Mon, 22 Apr 2024 11:06:20 GMT</pubDate>
             <content:encoded><![CDATA[<h3 class="ds-teaser__title">
           <span class="ds-teaser__highlight">
             Insändare.
@@ -549,6 +502,78 @@ Den lilla eldrivna suven får uppmärksamhet, både från kunder och motorjourna
         <span class="ds-teaser-swipe-card__time">2024-04-18</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Palestinsk flicka föddes föräldralös]]></title>
+            <link>https://www.dn.se/varlden/palestinsk-flicka-foddes-foraldralos-mamman-dodades-i-luftrad/</link>
+            <guid>https://www.dn.se/varlden/palestinsk-flicka-foddes-foraldralos-mamman-dodades-i-luftrad/</guid>
+            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Mamman dödades i en israelisk lufträd • Läkare lyckades förlösa dottern.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Direkt.
+        Chef för Israels militära underrättelsetjänst avgår]]></title>
+            <link>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</link>
+            <guid>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</guid>
+            <pubDate>Sun, 18 Feb 2024 09:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+
+
+      <h2 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">Direkt.</span>
+        Chef för Israels militära underrättelsetjänst avgår
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu om USA:s plan: ”Absurt”]]></title>
+            <link>https://www.dn.se/varlden/ilska-i-jerusalem-over-amerikanska-sanktioner-mot-armen/</link>
+            <guid>https://www.dn.se/varlden/ilska-i-jerusalem-over-amerikanska-sanktioner-mot-armen/</guid>
+            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Chock och ilska i Jerusalem över amerikanska sanktioner mot armén.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• Nya attacker mot Rafah – flera barn dödade]]></title>
+            <link>https://www.dn.se/varlden/flera-barn-dodade-i-attacker-mot-rafah/</link>
+            <guid>https://www.dn.se/varlden/flera-barn-dodade-i-attacker-mot-rafah/</guid>
+            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • Nya attacker mot Rafah – flera barn dödade
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Swedbank: Boräntan 3,9 procent i december]]></title>
+            <link>https://www.dn.se/ekonomi/swedbank-borantan-3-9-procent-i-december/</link>
+            <guid>https://www.dn.se/ekonomi/swedbank-borantan-3-9-procent-i-december/</guid>
+            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Storbanker ändrar bedömningar hur Riksbanken kommer att sänka styrräntan.&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Direkt.
+        Mångdubbling av dansk vindkraft]]></title>
+            <link>https://www.dn.se/ekonomi/dns-direktrapportering-om-laget-i-ekonomin/</link>
+            <guid>https://www.dn.se/ekonomi/dns-direktrapportering-om-laget-i-ekonomin/</guid>
+            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+
+
+      <h2 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">Direkt.</span>
+        Mångdubbling av dansk vindkraft
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Talman Andreas Norlén: Nog är jag en romantiker]]></title>
             <link>https://www.dn.se/kultur/talmannen-andreas-norlen-nog-ar-jag-en-romantiker/</link>
             <guid>https://www.dn.se/kultur/talmannen-andreas-norlen-nog-ar-jag-en-romantiker/</guid>
@@ -556,6 +581,16 @@ Den lilla eldrivna suven får uppmärksamhet, både från kunder och motorjourna
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             Nu har han samlat sin favoritpoesi i en guidebok •&nbsp;”Dikter är som buljongtärningar.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Separatistseger i valet i Baskien]]></title>
+            <link>https://www.dn.se/varlden/separatistseger-i-baskien-men-nasta-regionpresident-utses-i-madrid/</link>
+            <guid>https://www.dn.se/varlden/separatistseger-i-baskien-men-nasta-regionpresident-utses-i-madrid/</guid>
+            <pubDate>Mon, 22 Apr 2024 11:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Men regionens nästa regeringschef utses av den spanska premiärministern.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Johan Lagerkvist:
@@ -588,26 +623,22 @@ Den lilla eldrivna suven får uppmärksamhet, både från kunder och motorjourna
             Hälsoguruns kompis säger något om manlig vänskap.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Kulturdebatt:
-          Unikt tillfälle – om bara politikerna väljer rätt]]></title>
-            <link>https://www.dn.se/kultur/fredrik-lindgren-vd-kungliga-operan-unikt-tillfalle-om-bara-politikerna-valjer-ratt/</link>
-            <guid>https://www.dn.se/kultur/fredrik-lindgren-vd-kungliga-operan-unikt-tillfalle-om-bara-politikerna-valjer-ratt/</guid>
-            <pubDate>Mon, 22 Apr 2024 06:12:17 GMT</pubDate>
+            <title><![CDATA[Forskningen visar: Inte bara rökare som får KOL]]></title>
+            <link>https://kampanj.dn.se/hjart-lungfonden/forskare-manga-som-inte-roker-drabbas-av-kol/</link>
+            <guid>https://kampanj.dn.se/hjart-lungfonden/forskare-manga-som-inte-roker-drabbas-av-kol/</guid>
+            <pubDate>Thu, 18 Apr 2024 09:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Renoveringen av Operahuset är en sällsynt möjlighet att göra nationalscenen till en plats för stor konst, skriver vd:n Fredrik Lindgren.]]></content:encoded>
+Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, men forskning har visat att det inte stämmer.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[• Kungliga Operan stänger – i fem år]]></title>
-            <link>https://www.dn.se/direkt/2024-04-22/kungliga-operan-stanger-i-juli-2026/</link>
-            <guid>https://www.dn.se/direkt/2024-04-22/kungliga-operan-stanger-i-juli-2026/</guid>
-            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ds-teaser__content">
-      <h2 class="ds-teaser__title">
-        • Kungliga Operan stänger – i fem år
-      </h2>
+            <title><![CDATA[AIK-spelare måste opereras efter derbyt]]></title>
+            <link>https://www.dn.se/sport/aik-spelare-maste-opereras-efter-skadan-i-derbyt/</link>
+            <guid>https://www.dn.se/sport/aik-spelare-maste-opereras-efter-skadan-i-derbyt/</guid>
+            <pubDate>Mon, 22 Apr 2024 11:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-    </div>]]></content:encoded>
+
+          Abdihakim Ali skadade sig i matchen mot Djurgården.&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Klimatförändringen dödar allt fler]]></title>
@@ -628,14 +659,6 @@ Den lilla eldrivna suven får uppmärksamhet, både från kunder och motorjourna
 
 
           Hanna Hallgren har skrivit folkbildande queerhistoria, tycker Rebecka Kärde.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Forskningen visar: Inte bara rökare som får KOL]]></title>
-            <link>https://kampanj.dn.se/hjart-lungfonden/forskare-manga-som-inte-roker-drabbas-av-kol/</link>
-            <guid>https://kampanj.dn.se/hjart-lungfonden/forskare-manga-som-inte-roker-drabbas-av-kol/</guid>
-            <pubDate>Thu, 18 Apr 2024 09:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, men forskning har visat att det inte stämmer.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Judiska elever råds att inte gå till universitet]]></title>
@@ -676,6 +699,16 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
 <path d="M25.9355 31.3364C25.4796 31.3364 25.0522 31.1554 25.0522 29.3756V27.4449H27.3601V26.2081H25.0522V12H20.6929L13 26.4495V27.4449H19.4677V29.3756C19.4677 31.1554 19.0688 31.3364 18.5845 31.3364H17.3308V31.7285H27.1891V31.3364H25.9355ZM13.8548 26.2081L19.4677 15.5294V26.2081H13.8548Z"></path><path d="M30.7491 32C32.0028 32 33 31.0347 33 29.2549C33 27.5053 32.0028 26.5098 30.7491 26.5098C29.4955 26.5098 28.4982 27.5053 28.4982 29.2549C28.4982 31.0347 29.4955 32 30.7491 32Z"></path><circle cx="22" cy="22" r="21" fill="none" stroke-width="2"></circle></svg>  </i>
 
           Han lyckas sammanfoga en musikalisk helhet, tycker Johanna Paulsson.&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Boende vill ha bort ”Trump” från huset]]></title>
+            <link>https://www.dn.se/varlden/boende-vill-ha-bort-trump-fran-huset/</link>
+            <guid>https://www.dn.se/varlden/boende-vill-ha-bort-trump-fran-huset/</guid>
+            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Boende i Trump Plaza vill att fastigheten ska byta namn – hoppas att värdet ska öka.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Ledare:
@@ -772,24 +805,14 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Var finns de berömda hällristningarna?]]></title>
-            <link>https://www.dn.se/quiz/sverige-runt/koll-pa-sveriges-kulturarv/</link>
-            <guid>https://www.dn.se/quiz/sverige-runt/koll-pa-sveriges-kulturarv/</guid>
-            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
+            <title><![CDATA[Tredje raka för Brynäs – Dif måste skriva historia]]></title>
+            <link>https://www.dn.se/sport/nu-kravs-att-djurgarden-skriver-svensk-hockeyhistoria/</link>
+            <guid>https://www.dn.se/sport/nu-kravs-att-djurgarden-skriver-svensk-hockeyhistoria/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
 
-          Testa vad du vet om Sveriges världsarv.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Boende vill ha bort ”Trump” från huset]]></title>
-            <link>https://www.dn.se/varlden/boende-vill-ha-bort-trump-fran-huset/</link>
-            <guid>https://www.dn.se/varlden/boende-vill-ha-bort-trump-fran-huset/</guid>
-            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Boende i Trump Plaza vill att fastigheten ska byta namn – hoppas att värdet ska öka.]]></content:encoded>
+          Inget svenskt lag har hittills vänt ett 0–3-underläge i en slutspelsserie.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Saga Cavallin:
@@ -802,34 +825,20 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
             Vad händer med våra jag när de blir en del av affärsmodellen?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ny topplacering av Jenny Rissveds]]></title>
-            <link>https://www.dn.se/sport/ny-topplacering-av-jenny-rissveds/</link>
-            <guid>https://www.dn.se/sport/ny-topplacering-av-jenny-rissveds/</guid>
-            <pubDate>Mon, 22 Apr 2024 06:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          På pallen igen efter förra veckans seger i världscupen i mountainbike.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Tredje raka för Brynäs – Dif måste skriva historia]]></title>
-            <link>https://www.dn.se/sport/nu-kravs-att-djurgarden-skriver-svensk-hockeyhistoria/</link>
-            <guid>https://www.dn.se/sport/nu-kravs-att-djurgarden-skriver-svensk-hockeyhistoria/</guid>
-            <pubDate>Mon, 22 Apr 2024 06:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Inget svenskt lag har hittills vänt ett 0–3-underläge i en slutspelsserie.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Pollensäsongen är här – så lindrar du besvären]]></title>
-            <link>https://www.dn.se/insidan/prosit-varmare-klimat-gor-fler-allergiska-mot-pollen/</link>
-            <guid>https://www.dn.se/insidan/prosit-varmare-klimat-gor-fler-allergiska-mot-pollen/</guid>
+            <title><![CDATA[”Det var en impuls att jag gav soldaten en nejlika”]]></title>
+            <link>https://www.dn.se/varlden/revolutionen-gav-oss-frihet-men-vi-blev-inte-rika/</link>
+            <guid>https://www.dn.se/varlden/revolutionen-gav-oss-frihet-men-vi-blev-inte-rika/</guid>
             <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-
-          Klimatförändringen påverkar: ”Fler allergiska ny” • Expertens 14 bästa tips.]]></content:encoded>
+            50 år sedan Nejlikerevolutionen – en revolt som störtade den portugisiska diktaturen.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PÅ PLATS | Lissabon, Portugal]]></title>
+            <link>https://www.dn.se/om/portugal/</link>
+            <guid>https://www.dn.se/om/portugal/</guid>
+            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[Henrik Brandão Jönsson &amp; Ana Brigida.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Vad heter den indiska premiärministern?]]></title>
@@ -851,41 +860,6 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
             14 forskare: Det finns risker med institutionsvård för barn och ungdomar, men den behövs. Den nya utredningen bör fokusera på att höja personalens kompetens.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Det var en impuls att jag gav soldaten en nejlika”]]></title>
-            <link>https://www.dn.se/varlden/revolutionen-gav-oss-frihet-men-vi-blev-inte-rika/</link>
-            <guid>https://www.dn.se/varlden/revolutionen-gav-oss-frihet-men-vi-blev-inte-rika/</guid>
-            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            50 år sedan Nejlikerevolutionen – en revolt som störtade den portugisiska diktaturen.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PÅ PLATS | Lissabon, Portugal]]></title>
-            <link>https://www.dn.se/om/portugal/</link>
-            <guid>https://www.dn.se/om/portugal/</guid>
-            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[Henrik Brandão Jönsson &amp; Ana Brigida.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Pojken från Auschwitz blev presidenternas skräddare]]></title>
-            <link>https://www.dn.se/kultur/pojken-fran-auschwitz-blev-presidenternas-skraddare/</link>
-            <guid>https://www.dn.se/kultur/pojken-fran-auschwitz-blev-presidenternas-skraddare/</guid>
-            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Martin Greenfield skapade kostymer åt Clinton, Obama och Trump.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Oro i Jokkmokk: ”Tänk om ambulansen inte kommer”]]></title>
-            <link>https://www.dn.se/sverige/orolig-mamma-nar-akutvard-stangs-tank-om-ambulansen-inte-kommer/</link>
-            <guid>https://www.dn.se/sverige/orolig-mamma-nar-akutvard-stangs-tank-om-ambulansen-inte-kommer/</guid>
-            <pubDate>Sun, 21 Apr 2024 16:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Närmaste akutsjukvård en timme bort när Region Norrbotten pausar jourverksamheten.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Massiva Israelprotester dämpar Eurovisionyran]]></title>
             <link>https://www.dn.se/kultur/protester-hojd-hotniva-och-sprangd-budget-sa-kom-eurovision-festen-av-sig/</link>
             <guid>https://www.dn.se/kultur/protester-hojd-hotniva-och-sprangd-budget-sa-kom-eurovision-festen-av-sig/</guid>
@@ -903,6 +877,16 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
 
 
           Myndigheter och arrangörer jobbar tätt ihop för att säkerställa säkerheten.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Var finns de berömda hällristningarna?]]></title>
+            <link>https://www.dn.se/quiz/sverige-runt/koll-pa-sveriges-kulturarv/</link>
+            <guid>https://www.dn.se/quiz/sverige-runt/koll-pa-sveriges-kulturarv/</guid>
+            <pubDate>Mon, 22 Apr 2024 09:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Testa vad du vet om Sveriges världsarv.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Sudoku]]></title>
@@ -1274,7 +1258,7 @@ Tidigare en ”man-får-skylla-sig-själv-sjukdom” som bara drabbar rökare, m
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[86]]></title>
+            <title><![CDATA[84]]></title>
             <link>https://etidning.dn.se/</link>
             <guid>https://etidning.dn.se/</guid>
             <pubDate>Mon, 22 Apr 2024 06:12:17 GMT</pubDate>
