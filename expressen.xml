@@ -1,386 +1,405 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.expressen.se</id>
-    <title>Expressen</title>
-    <updated>2024-04-21T16:09:21.790Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://static.cdn-expressen.se/bundles/expressen/images/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[JUST NU: Man begärs häktad]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/man-begars-haktad-for-mordforsok-i-vasteras/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/man-begars-haktad-for-mordforsok-i-vasteras/"/>
-        <updated>2024-04-21T16:09:11.618Z</updated>
-        <content type="html"><![CDATA[Misstänks för fyra mordförsök i Västerås]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/ryskt-krigsfartyg-traffat-pa-krim</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/ryskt-krigsfartyg-traffat-pa-krim"/>
-        <updated>2024-04-21T16:09:11.445Z</updated>
-        <content type="html"><![CDATA[<video style="width:100%;min-width:10px;aspect-ratio:16/9;display:block;" src="https://dc49e1ac5927597803736506d31150c1-httpcache0-03837-cachedown0.dna.ip-only.net/03837-cachedown0/ncode/2024-04-21/tvtool6769cf42-64b6-42b9-86f5-f6dace9960c1_1713709923807/tvtool6769cf42-64b6-42b9-86f5-f6dace9960c1_1713709923807_576p.mp4" autoplay="" loop="" muted="" playsinline=""></video>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unikt ryskt krigsskepp träffat i ukrainsk attack]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/ryskt-krigsfartyg-traffat-pa-krim/</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/ryskt-krigsfartyg-traffat-pa-krim/"/>
-        <updated>2024-04-21T16:09:11.618Z</updated>
-        <content type="html"><![CDATA[Slog till mot Krim under söndagen]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russel Bentley är död – krigade för Ryssland]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/russel-bentley-ar-dod--krigade-for-ryssland/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/russel-bentley-ar-dod--krigade-for-ryssland/"/>
-        <updated>2024-04-21T16:09:11.618Z</updated>
-        <content type="html"><![CDATA[Hyllas av Moskva: ”Riktig amerikan”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”Helt annan sak att besegra Ryssland”]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/experterna-om-usas-stod-till--ukraina-gar-inte-overdriva/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/experterna-om-usas-stod-till--ukraina-gar-inte-overdriva/"/>
-        <updated>2024-04-21T06:10:37.861Z</updated>
-        <content type="html"><![CDATA[Ukraina får 665 miljarder • Experter: ”Inte över”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svenska Ann-Catrins varning: Kom inte hit]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/svenska-ann-catrin-mitt-bland-massprotesterna-pa-kanarieoarna/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/svenska-ann-catrin-mitt-bland-massprotesterna-pa-kanarieoarna/"/>
-        <updated>2024-04-21T09:08:12.045Z</updated>
-        <content type="html"><![CDATA[Bott på Kanarieöarna i 24 år – får nu hat • Arga lappar]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massiva protesterna skakar Kanarieöarna]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/ilskan-pa-kanarieoarna-har-protesterar-de-mot-turister</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/ilskan-pa-kanarieoarna-har-protesterar-de-mot-turister"/>
-        <updated>2024-04-20T16:08:31.743Z</updated>
-        <content type="html"><![CDATA[Turist-ilskan: ”Nått en gräns”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”Samma i Sverige – lata och fega politiker”]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/jan-emanuel-om-kaoset-pa-kanarieoarna/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/jan-emanuel-om-kaoset-pa-kanarieoarna/"/>
-        <updated>2024-04-21T06:10:37.867Z</updated>
-        <content type="html"><![CDATA[Jan Emanuel om kaoset på Kanarieöarna]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avkragade biskopens fru: ”Lämna var inget alternativ”]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/avkragade-biskopens-fru-att-lamna-honom-var-inget-alternativ/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/avkragade-biskopens-fru-att-lamna-honom-var-inget-alternativ/"/>
-        <updated>2024-04-21T06:10:37.852Z</updated>
-        <content type="html"><![CDATA[Susannas man var otrogen • Parets nya liv – efter skandalen • Exklusiv intervju]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”Man ska passa sig – och inte blanda sig i”]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/grannens-chock-man-misshandlades-av-ungdomsgang-i-hasselby/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/grannens-chock-man-misshandlades-av-ungdomsgang-i-hasselby/"/>
-        <updated>2024-04-21T16:09:11.631Z</updated>
-        <content type="html"><![CDATA[Man svårt misshandlad med basebollträ – konfronterade ungdomar i västra Stockholm]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10]]></title>
-        <id>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</id>
-        <link href="https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/"/>
-        <updated>2024-04-18T06:10:53.100Z</updated>
-        <content type="html"><![CDATA[<span class="bb--red">TIPSA:</span> Vet du mer? Sms:a 0790-643643]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lägenheten visades – ingen såg kroppen]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/har-hittades-doda-mannen-i-kortedala-under-sangen-efter-flera-ar/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/har-hittades-doda-mannen-i-kortedala-under-sangen-efter-flera-ar/"/>
-        <updated>2024-04-20T06:09:18.515Z</updated>
-        <content type="html"><![CDATA[Döda mannen hittades efter flera år • Kostnaden för barnen: 300 000 kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nio barn döda efter ny attack mot Rafah]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/over-34-000-doda-i-gaza/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/over-34-000-doda-i-gaza/"/>
-        <updated>2024-04-21T06:10:37.852Z</updated>
-        <content type="html"><![CDATA[Nya räden på Västbanken • Dödssiffran i Gaza har stigit till över 34 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nya roboten ska överträffa människor]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/nya-roboten-ska-overtraffa-manniskor/</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/nya-roboten-ska-overtraffa-manniskor/"/>
-        <updated>2024-04-21T16:09:11.643Z</updated>
-        <content type="html"><![CDATA[Gamla klassikern går i pension]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/sista-vittnet-om-mordnatten-da-einar-dodades/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/sista-vittnet-om-mordnatten-da-einar-dodades/"/>
-        <updated>2024-04-17T06:13:02.909Z</updated>
-        <content type="html"><![CDATA[<picture class="lazy"><source style="margin-top:56.25%"><img data-srcset="https://static.cdn-expressen.se/images/b6/62/b66208f8bae0447bba35eeac581120d4/annan/640.png 640w,https://static.cdn-expressen.se/images/b6/62/b66208f8bae0447bba35eeac581120d4/annan/1280.png 1280w" sizes="(-webkit-min-device-pixel-ratio: 2) 1280px,(min-resolution: 192dpi) 1280px,640px" alt=""><noscript><img src="https://static.cdn-expressen.se/images/b6/62/b66208f8bae0447bba35eeac581120d4/annan/640.png" alt></noscript></picture>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testa valkompassen: Vem ska du rösta på?]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/"/>
-        <updated>2024-03-26T16:09:47.039Z</updated>
-        <content type="html"><![CDATA[9 juni är det EU-val – vilket parti företräder dina åsikter?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Försökte fly notan: ”Smita ut bakvägen”]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/tva-man-forsokte-fly-hotellnota-pa-80-000-/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/tva-man-forsokte-fly-hotellnota-pa-80-000-/"/>
-        <updated>2024-04-21T09:08:12.042Z</updated>
-        <content type="html"><![CDATA[Två män gripna – hade hotellnota på 80 000 kronor • Vd:n: ”Avvikande beteende”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17]]></title>
-        <id>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</id>
-        <link href="https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/"/>
-        <updated>2024-04-18T06:10:53.100Z</updated>
-        <content type="html"><![CDATA[<span class="bb--red">TIPSA: </span>Vet du mer? Sms:a 0790-643643]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jagas efter massdådet – poserar med Rawa Majid]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/ali-shehab-jagas-efter-massdadet-poserar-med-rawa-majid/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/ali-shehab-jagas-efter-massdadet-poserar-med-rawa-majid/"/>
-        <updated>2024-04-21T09:08:12.042Z</updated>
-        <content type="html"><![CDATA[Ali Shehab efterlyst efter masskjutningen i Farsta]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”Får vara slut på den pinsamma cirkusen”]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/interna-ilskan-mot-batra-smutsar-ned-partiet/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/interna-ilskan-mot-batra-smutsar-ned-partiet/"/>
-        <updated>2024-04-19T16:09:20.784Z</updated>
-        <content type="html"><![CDATA[Intern ilska mot Kinberg Batra • M-toppens avgångskrav]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parisa Liljestrand: ”En förtroendekris”]]></title>
-        <id>https://www.expressen.se/tv/nyheter/sverige/parisa-liljestrand-en-fortroendekris/</id>
-        <link href="https://www.expressen.se/tv/nyheter/sverige/parisa-liljestrand-en-fortroendekris/"/>
-        <updated>2024-04-20T06:09:18.513Z</updated>
-        <content type="html"><![CDATA[Ministern om avgångskraven på Kinberg Batra: ”Återstår att se”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minst 16 personer skjutna vid streetrace i Memphis]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/16-personer-skjutna-vid-streetrace-i-memphis</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/16-personer-skjutna-vid-streetrace-i-memphis"/>
-        <updated>2024-04-21T09:08:12.054Z</updated>
-        <content type="html"><![CDATA[121:a masskjutningen i USA hittills i år]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ryska hotet: ”USA kommer stå till svars”]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/ryska-hotet-efter-stodet-usa-far-sta-till-svars/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/ryska-hotet-efter-stodet-usa-far-sta-till-svars/"/>
-        <updated>2024-04-21T06:10:37.860Z</updated>
-        <content type="html"><![CDATA[Svaret efter gigantiska stödpaketet till Ukraina: ”Irreparabel skada”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stor attack mot ryska mål i natt: ”Hämnd”]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/filmer-uppges-visa-ukrainska-attacken-mot-ryska-oljedepan-</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/filmer-uppges-visa-ukrainska-attacken-mot-ryska-oljedepan-"/>
-        <updated>2024-04-20T16:08:31.928Z</updated>
-        <content type="html"><![CDATA[Ukrainas drönare träffade kraftstationer och oljedepåer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rattfull kvinna körde in i barnkalas – två barn döda]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/rattfulla-kvinnan-kor-rakt-in-i-barnkalas-syskon-dodas</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/rattfulla-kvinnan-kor-rakt-in-i-barnkalas-syskon-dodas"/>
-        <updated>2024-04-21T06:10:37.856Z</updated>
-        <content type="html"><![CDATA[Sheriffen i Berlin Township nära tårar: ”Kaotiska scener”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gränspolisens jobb i det dolda på Arlanda]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/granspolisens-jobb-i-det-dolda-pa-arlanda/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/granspolisens-jobb-i-det-dolda-pa-arlanda/"/>
-        <updated>2024-04-21T06:10:37.870Z</updated>
-        <content type="html"><![CDATA[”Profilerar ut individer” • Stora pengabeslag]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nytt pengabeslag på Arlanda – två gripna]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/tva-man-gripna-pa-arlanda/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/tva-man-gripna-pa-arlanda/"/>
-        <updated>2024-04-20T16:08:31.952Z</updated>
-        <content type="html"><![CDATA[Kontanter och smycken och klockor: ”Över 270 000 kronor”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27]]></title>
-        <id>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</id>
-        <link href="https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/"/>
-        <updated>2024-04-18T06:10:53.100Z</updated>
-        <content type="html"><![CDATA[<span class="bb--red">TIPSA: </span>Vet du mer? Sms:a 0790-643643]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planen: Göra storstaden Charkiv till ”sanitär zon”]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/ryska-planen-gora-storstaden-till-sanitar-zon/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/ryska-planen-gora-storstaden-till-sanitar-zon/"/>
-        <updated>2024-04-21T06:10:37.878Z</updated>
-        <content type="html"><![CDATA[Antyder storoffensiv: ”En nyckelroll” •&nbsp;Fejkade planen]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Här slår Ryssland ut ukrainskt jaktflyg]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/har-slar-ryssland-ut-ukrainskt-jaktflyg/</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/har-slar-ryssland-ut-ukrainskt-jaktflyg/"/>
-        <updated>2024-04-21T06:10:37.879Z</updated>
-        <content type="html"><![CDATA[Ukrainska bakslaget –<br>flera viktiga mål träffade]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[33-åringens förvirring i förhör om attackerna]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/han-misstanks-for-attackerna-i-vasteras/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/han-misstanks-for-attackerna-i-vasteras/"/>
-        <updated>2024-04-21T06:10:37.881Z</updated>
-        <content type="html"><![CDATA[Misstänks för fyra överfall • Livsvändningen • Tidigare brotten]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Här slår polisen till mot knivmannen]]></title>
-        <id>https://www.expressen.se/tv/nyheter/sverige/har-grips-garningsmannen-i-vasteras/</id>
-        <link href="https://www.expressen.se/tv/nyheter/sverige/har-grips-garningsmannen-i-vasteras/"/>
-        <updated>2024-04-20T06:09:18.530Z</updated>
-        <content type="html"><![CDATA[Skadade flera kvinnor i Västerås]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trumps mardröm i rätten – förolämpningar haglar]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/trumps-mardrom-i-ratten-forolampningar-haglar/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/trumps-mardrom-i-ratten-forolampningar-haglar/"/>
-        <updated>2024-04-21T06:10:37.863Z</updated>
-        <content type="html"><![CDATA[Jurykandidater: ”Självisk och självcentrerad”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden: Min morbror kan ha ätits av kannibaler]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/joe-biden-farbror-bosie-kan-ha-atits-av-kannibaler/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/joe-biden-farbror-bosie-kan-ha-atits-av-kannibaler/"/>
-        <updated>2024-04-21T06:10:37.865Z</updated>
-        <content type="html"><![CDATA[Märkliga utspelet väcker ilska på Nya Guinea: ”Oacceptabelt”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ryska miljonkrav hotar svenska storbolag]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/ryska-miljonkrav-hotar-svenska-storbolag/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/ryska-miljonkrav-hotar-svenska-storbolag/"/>
-        <updated>2024-04-21T09:08:12.071Z</updated>
-        <content type="html"><![CDATA[Försöker lämna Ryssland – stora skadeståndskrav]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranska hånet: ”Mer som leksaker – inte drönare”]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/iranska-ministern-om-israels-attack--mer-som-leksaker-inte-dronare/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/iranska-ministern-om-israels-attack--mer-som-leksaker-inte-dronare/"/>
-        <updated>2024-04-21T06:10:37.884Z</updated>
-        <content type="html"><![CDATA[Ministerns svar om Israels påstådda attack]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USA:s nya stödpaket: 665 miljarder kronor]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/ja-till-nytt-stodpaket-till-ukraina-/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/ja-till-nytt-stodpaket-till-ukraina-/"/>
-        <updated>2024-04-21T06:10:37.886Z</updated>
-        <content type="html"><![CDATA[Ukrainas ödesstund avgjord •&nbsp;Zelenskyjs glädje: ”Tacksam”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uppgifter: Israel sköt tre robotar mot Iran]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/uppgifter-israel-avfyrade-tre-robotar-mot-iran-/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/uppgifter-israel-avfyrade-tre-robotar-mot-iran-/"/>
-        <updated>2024-04-20T11:04:54.363Z</updated>
-        <content type="html"><![CDATA[Nya detaljerna – attacken mer avancerad än tidigare rapporter: ”Som leksaker”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uppges ha siktat mot luftvärnsradar]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/uppgifter-har-skjuts-israels-dronare-ner-over-iran-/</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/uppgifter-har-skjuts-israels-dronare-ner-over-iran-/"/>
-        <updated>2024-04-20T11:04:54.366Z</updated>
-        <content type="html"><![CDATA[Attacken skedde nära kärnkraftsanläggning]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uppgifter: Kokainbeslag värt 1,3 miljarder kronor]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/uppgifter-kokainbeslaget-vart-13-miljarder-kronor/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/uppgifter-kokainbeslaget-vart-13-miljarder-kronor/"/>
-        <updated>2024-04-20T16:08:31.908Z</updated>
-        <content type="html"><![CDATA[1,5 ton togs i Nynäshamn, enligt Aftonbladet]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilskan: ”Brutit mot alla internationella lagar”]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/palestinas-ilska-mot-usa-har--brutit-mot-alla-internationella-lagar/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/palestinas-ilska-mot-usa-har--brutit-mot-alla-internationella-lagar/"/>
-        <updated>2024-04-20T16:08:31.929Z</updated>
-        <content type="html"><![CDATA[USA lade in veto mot Palestina i FN • Presidenten rasar]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tvekan om Oceanas framtid: ”Inte bestämt”]]></title>
-        <id>https://www.expressen.se/tv/nyheter/sverige/se-bilderna-inifran-eldharjade-oceana/</id>
-        <link href="https://www.expressen.se/tv/nyheter/sverige/se-bilderna-inifran-eldharjade-oceana/"/>
-        <updated>2024-04-21T16:09:11.676Z</updated>
-        <content type="html"><![CDATA[Se bilderna inifrån Lisebergs eldhärjade badpalats]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glädjebeskedet: Då är värmen tillbaka]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/gladjebeskedet-da--ar-varmen-tillbaka/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/gladjebeskedet-da--ar-varmen-tillbaka/"/>
-        <updated>2024-04-20T11:04:54.368Z</updated>
-        <content type="html"><![CDATA[Kylan biter sig fast – men vändningen är nära: ”Högtryck tar över”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nordkoreas nya drag: ”Superstor” stridsspets]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/nordkorea-skjuter-upp-superstor-stridsspets</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/nordkorea-skjuter-upp-superstor-stridsspets"/>
-        <updated>2024-04-20T06:09:18.516Z</updated>
-        <content type="html"><![CDATA[Nya tester driver på spekulationer om kärnvapenprogram]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smet från hotellräkning på 80 000: ”Sticker ut”]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/tog-springnota-pa-hotell-tva-gripna/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/tog-springnota-pa-hotell-tva-gripna/"/>
-        <updated>2024-04-20T16:08:31.931Z</updated>
-        <content type="html"><![CDATA[Två män gripna • Personalens misstankar]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Max, 37, brände sig själv till döds: ”Var väldigt tyst”]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/man-tande-eld-pa-sig-sjalv-utanfor-trump-rattegang/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/man-tande-eld-pa-sig-sjalv-utanfor-trump-rattegang/"/>
-        <updated>2024-04-20T06:09:18.503Z</updated>
-        <content type="html"><![CDATA[Max Azzarello tände eld på sig själv utanför Trump-rättegången]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trumps borgen duger inte – åklagarens hot]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/trumps-borgen-duger-inte-aklagaren-vill-beslagta-egendom/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/trumps-borgen-duger-inte-aklagaren-vill-beslagta-egendom/"/>
-        <updated>2024-04-20T06:09:18.508Z</updated>
-        <content type="html"><![CDATA[Säkerheten för 1,9 miljarder ”oanvändbar”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nu öppnar Liseberg igen efter tragedin]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/nu-oppnar-liseberg-igen-efter-branden-i-oceana/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/nu-oppnar-liseberg-igen-efter-branden-i-oceana/"/>
-        <updated>2024-04-20T06:09:18.520Z</updated>
-        <content type="html"><![CDATA[Två månader efter stora branden •&nbsp;”Många känslor i spel”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kvinnan ströps ihjäl – försvaret: Självmord]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/kvinna-misstanks-ha-mordats-i-lulea-/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/kvinna-misstanks-ha-mordats-i-lulea-/"/>
-        <updated>2024-04-20T09:07:03.563Z</updated>
-        <content type="html"><![CDATA[Polisanmälde mannen – nu misstänks han ha mördat henne • ”Kärleksrelation”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannabis-kaos i Oslo – hann sälja för 50 000]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/cannabis-kaos-i-oslo-hundratals-ville-kopa-knark</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/cannabis-kaos-i-oslo-hundratals-ville-kopa-knark"/>
-        <updated>2024-04-20T16:08:31.954Z</updated>
-        <content type="html"><![CDATA[Olagligt kafé öppnade – stängdes ner av polis]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man död efter storbrand i villa i natt: ”Lågor slog ut”]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/kraftig-brand-i-villa-i-alvsjo/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/kraftig-brand-i-villa-i-alvsjo/"/>
-        <updated>2024-04-20T06:09:18.556Z</updated>
-        <content type="html"><![CDATA[Räddningstjänsten i Stockholm: ”Brann för fullt när vi kom dit”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flera kvinnor skadade – man skjuten av polis]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/flera-skadade-i-vasteras/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/flera-skadade-i-vasteras/"/>
-        <updated>2024-04-19T16:09:20.782Z</updated>
-        <content type="html"><![CDATA[Attackerades med vasst föremål: ”Det är läskigt”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misstänks för överfall vid skola innan dådet]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/misstanks-for-overfall-vid-skola-innan-knivattack/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/misstanks-for-overfall-vid-skola-innan-knivattack/"/>
-        <updated>2024-04-20T06:09:18.529Z</updated>
-        <content type="html"><![CDATA[Mannen i Västerås dömd till fängelse för flera brott tidigare]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[53]]></title>
-        <id>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</id>
-        <link href="https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/"/>
-        <updated>2024-04-18T06:10:53.100Z</updated>
-        <content type="html"><![CDATA[<span class="bb--b">TIPSA:</span> Vet du mer? Sms:a 0790-643643]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Expressen</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 22 Apr 2024 06:12:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hotet om jättestödet: ”Behöver en flyktväg”]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/zelenskyj-forlorat-initiativet-behover-stodet-nu/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/zelenskyj-forlorat-initiativet-behover-stodet-nu/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Zelenskyj om akuta läget: ”Förlorat initiativet”]]></content:encoded>
+            <enclosure url="https://static.cdn-expressen.se/images/98/09/9809c340d5be46c49c770a91751acc43/16x9/640.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Unikt ryskt krigsskepp träffat i ukrainsk attack]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/ryskt-krigsfartyg-traffat-pa-krim/</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/ryskt-krigsfartyg-traffat-pa-krim/</guid>
+            <pubDate>Sun, 21 Apr 2024 16:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Slog till mot Krim • Rysslands version: Bråte]]></content:encoded>
+            <enclosure url="https://static.cdn-expressen.se/images/77/34/77346bb06fa0417e9a16cf44696875ec/1x1/210@60.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kristerssons rådgivare: ”Expert på maktspel”]]></title>
+            <link>https://www.expressen.se/nyheter/kristerssons-radgivare-expert-pa-maktspel/</link>
+            <guid>https://www.expressen.se/nyheter/kristerssons-radgivare-expert-pa-maktspel/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Doldisarna som styr Sverige • ”Man blir rädd när han ringer”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kravet på Röda korset: Ryssland ska uteslutas]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/roda-korset-haller-krismote-kravet-om-ryssland/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/roda-korset-haller-krismote-kravet-om-ryssland/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Kremlin-Leaks: Intern granskning efter Expressens avslöjande]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/mirakelinsatsen-har-raddas-mannen-ur-brinnande-bil</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/mirakelinsatsen-har-raddas-mannen-ur-brinnande-bil</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[<video style="width:100%;min-width:10px;aspect-ratio:16/9;display:block;" src="https://6459be1119fb16574f33206ae5d698d7-httpcache0-03837-cachedown0.dna.ip-only.net/03837-cachedown0/ncode/2024-04-22/nxtedition-UAe5smN1h8o5sv-1713761502/nxtedition-UAe5smN1h8o5sv-1713761502_432p.mp4" autoplay="" loop="" muted="" playsinline=""></video>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hjälteinsatsen mitt i eldinfernot på vägen]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/mirakelinsatsen-har-raddas-mannen-ur-brinnande-bil</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/mirakelinsatsen-har-raddas-mannen-ur-brinnande-bil</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Tvekade inte en sekund när bilen började brinna i Minnesota]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bråket i Milano – glass kan förbjudas]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/glassbrak-i-milano-kan-forbjudas-efter-midnatt/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/glassbrak-i-milano-kan-forbjudas-efter-midnatt/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Hundratals klagomål • Kritiken]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nya roboten ska överträffa människor]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/nya-roboten-ska-overtraffa-manniskor/</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/nya-roboten-ska-overtraffa-manniskor/</guid>
+            <pubDate>Sun, 21 Apr 2024 16:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Gamla klassikern går i pension]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ida lämnade Jehovas – bröt med sin pappa]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/ida-27-lamnade-jehovas-brot-med-sin-pappa/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/ida-27-lamnade-jehovas-brot-med-sin-pappa/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Strikta reglerna och straffen under uppväxten • ”Hjärntvättade”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vittnesmålen som kan fälla Donald Trump]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/david-pecker-och-hope-hicks-har-ar-vittnena-som-kan-falla-donald-trump/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/david-pecker-och-hope-hicks-har-ar-vittnena-som-kan-falla-donald-trump/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Tidningsmannen och vännen först ut •&nbsp;Långvariga medarbetaren]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Skrällen: Tar flest röster från Trump]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/ovantade-matningen-kennedy-tar-flest-roster-fran-trump/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/ovantade-matningen-kennedy-tar-flest-roster-fran-trump/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Biden har oroat sig – men RFK Jr. tilltalar republikaner mer]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Skrämdes av ett brak – såg mystiskt hål i huset]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/alejandros-hus-fick-mystiskt-hal-i-taket</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/alejandros-hus-fick-mystiskt-hal-i-taket</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Teorin bakom smällen i Alejandros hus: ”Det är 50-50”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Här är självkörande bilar inte välkomna]]></title>
+            <link>https://teknikensvarld.expressen.se/nyheter/bil-och-trafik/vancouver-forbjuder-sjalvkorande-bilar-enligt-niva-3-eller-hogre/</link>
+            <guid>https://teknikensvarld.expressen.se/nyheter/bil-och-trafik/vancouver-forbjuder-sjalvkorande-bilar-enligt-niva-3-eller-hogre/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Nya regler gäller från april • Tekniken anses inte säker nog]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Avkragade biskopens fru: ”Lämna var inget alternativ”]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/avkragade-biskopens-fru-att-lamna-honom-var-inget-alternativ/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/avkragade-biskopens-fru-att-lamna-honom-var-inget-alternativ/</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Susannas man var otrogen • Parets nya liv – efter skandalen • Exklusiv intervju]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Putins nya plan: ”Har ett stort övertag nu”]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/putins-nya-plan-strategisk-bombkampanj/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/putins-nya-plan-strategisk-bombkampanj/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Väntas agera innan Ukrainas miljardstöd, enligt Oscar Jonsson]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Russel Bentley är död – krigade för Ryssland]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/russel-bentley-ar-dod--krigade-for-ryssland/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/russel-bentley-ar-dod--krigade-for-ryssland/</guid>
+            <pubDate>Sun, 21 Apr 2024 16:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Hyllas av Moskva: ”Riktig amerikan”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mamma dödades – bebis räddades från livmodern]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/mamma-dodades-bebis-raddades-fran-livmodern/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/mamma-dodades-bebis-raddades-fran-livmodern/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Gravid i vecka 30 • Flera barn döda i attack mot Rafah]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hamastoppens syster uppmanade till ”slakt”]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/hamastoppens-syster-uppmanade-till-slakt/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/hamastoppens-syster-uppmanade-till-slakt/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Åtalas efter meddelanden om terrorattacken]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[18]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/sista-vittnet-om-mordnatten-da-einar-dodades/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/sista-vittnet-om-mordnatten-da-einar-dodades/</guid>
+            <pubDate>Wed, 17 Apr 2024 06:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<picture class="lazy"><source style="margin-top:56.25%"><img data-srcset="https://static.cdn-expressen.se/images/b6/62/b66208f8bae0447bba35eeac581120d4/annan/640.png 640w,https://static.cdn-expressen.se/images/b6/62/b66208f8bae0447bba35eeac581120d4/annan/1280.png 1280w" sizes="(-webkit-min-device-pixel-ratio: 2) 1280px,(min-resolution: 192dpi) 1280px,640px" alt=""><noscript><img src="https://static.cdn-expressen.se/images/b6/62/b66208f8bae0447bba35eeac581120d4/annan/640.png" alt></noscript></picture>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Testa valkompassen: Vem ska du rösta på?]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</guid>
+            <pubDate>Tue, 26 Mar 2024 16:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[9 juni är det EU-val – vilket parti företräder dina åsikter?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Man ska passa sig – och inte blanda sig i”]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/grannens-chock-man-misshandlades-av-ungdomsgang-i-hasselby/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/grannens-chock-man-misshandlades-av-ungdomsgang-i-hasselby/</guid>
+            <pubDate>Sun, 21 Apr 2024 16:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Man svårt misshandlad med basebollträ – konfronterade ungdomar i västra Stockholm]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[21]]></title>
+            <link>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</link>
+            <guid>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</guid>
+            <pubDate>Thu, 18 Apr 2024 06:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="bb--red">TIPSA:</span> Vet du mer? Sms:a 0790-643643]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Här slår rånarna till – men något går snett]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/har-slar-ranarna-till-men-nagot-gar-snett/</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/har-slar-ranarna-till-men-nagot-gar-snett/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Misslyckade kuppen fångas av övervakningskameran]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Attack mot amerikansk militärbas: ”Bara början”]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/attack-mot-amerikansk-militarbas-i-syrien/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/attack-mot-amerikansk-militarbas-i-syrien/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Irakisk terrorgrupp tar på sig attacken]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tonåring dödades av krokodil i Australien]]></title>
+            <link>https://www.expressen.se/nyheter/tonaring-dodad-av-krokodil-i-australien/</link>
+            <guid>https://www.expressen.se/nyheter/tonaring-dodad-av-krokodil-i-australien/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Båten fick motorstopp – bestämde sig för att simma]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Overshoot day – slut på Sveriges resurser]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/overshoot-day-i-sverige-manifestation-i-stockholm/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/overshoot-day-i-sverige-manifestation-i-stockholm/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Stor manifestation i Stockholm • Kritiken mot begreppet]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Någon ristade hakkors på Maries bil: ”Otäckt”]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/maries-chock-fick-hakkors--inristat-pa-sin-bil-otackt/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/maries-chock-fick-hakkors--inristat-pa-sin-bil-otackt/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Flera andra drabbade • Måste lackera om]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Skräcken i kabinen – flyget fylls med rök]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/har-fylls-flygplanet-med-rok</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/har-fylls-flygplanet-med-rok</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Tvingades nödlanda i Norge • Vittne om dramat]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hotellet i ”The Shining” började plötsligt brinna]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/hotellet-fran-the-shining-borjade-brinna/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/hotellet-fran-the-shining-borjade-brinna/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Stor eldstad misstänks ha satt eld på taket]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Norska utspelet: Ge upp kronan – och inför euron]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/norska-utspelet-ge-upp-kronan-och-infor-euron/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/norska-utspelet-ge-upp-kronan-och-infor-euron/</guid>
+            <pubDate>Mon, 22 Apr 2024 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[Chefsekonom: Byt ut den • Får mothugg]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Svenska Ann-Catrins varning: Kom inte hit]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/svenska-ann-catrin-mitt-bland-massprotesterna-pa-kanarieoarna/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/svenska-ann-catrin-mitt-bland-massprotesterna-pa-kanarieoarna/</guid>
+            <pubDate>Sun, 21 Apr 2024 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[Bott på Kanarieöarna i 24 år – får nu hat • Arga lappar]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Massiva protesterna skakar Kanarieöarna]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/ilskan-pa-kanarieoarna-har-protesterar-de-mot-turister</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/ilskan-pa-kanarieoarna-har-protesterar-de-mot-turister</guid>
+            <pubDate>Sat, 20 Apr 2024 16:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[Turist-ilskan: ”Nått en gräns”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Samma i Sverige – lata och fega politiker”]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/jan-emanuel-om-kaoset-pa-kanarieoarna/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/jan-emanuel-om-kaoset-pa-kanarieoarna/</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Jan Emanuel om kaoset på Kanarieöarna]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jagas efter massdådet – poserar med Rawa Majid]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/ali-shehab-jagas-efter-massdadet-poserar-med-rawa-majid/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/ali-shehab-jagas-efter-massdadet-poserar-med-rawa-majid/</guid>
+            <pubDate>Sun, 21 Apr 2024 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[Ali Shehab efterlyst efter masskjutningen i Farsta]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Minst 16 personer skjutna vid streetrace i Memphis]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/16-personer-skjutna-vid-streetrace-i-memphis</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/16-personer-skjutna-vid-streetrace-i-memphis</guid>
+            <pubDate>Sun, 21 Apr 2024 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[121:a masskjutningen i USA hittills i år]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ryska hotet: ”USA kommer stå till svars”]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/ryska-hotet-efter-stodet-usa-far-sta-till-svars/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/ryska-hotet-efter-stodet-usa-far-sta-till-svars/</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Svaret efter gigantiska stödpaketet till Ukraina: ”Irreparabel skada”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Helt annan sak att besegra Ryssland”]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/experterna-om-usas-stod-till--ukraina-gar-inte-overdriva/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/experterna-om-usas-stod-till--ukraina-gar-inte-overdriva/</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Experterna om enorma stödpaketets betydelse]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Stor attack mot ryska mål i natt: ”Hämnd”]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/filmer-uppges-visa-ukrainska-attacken-mot-ryska-oljedepan-</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/filmer-uppges-visa-ukrainska-attacken-mot-ryska-oljedepan-</guid>
+            <pubDate>Sat, 20 Apr 2024 16:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[Ukrainas drönare träffade kraftstationer och oljedepåer]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Försökte fly notan: ”Smita ut bakvägen”]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/tva-man-forsokte-fly-hotellnota-pa-80-000-/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/tva-man-forsokte-fly-hotellnota-pa-80-000-/</guid>
+            <pubDate>Sun, 21 Apr 2024 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[Två män gripna – hade hotellnota på 80 000 kronor • Vd:n: ”Avvikande beteende”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[39]]></title>
+            <link>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</link>
+            <guid>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</guid>
+            <pubDate>Thu, 18 Apr 2024 06:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="bb--red">TIPSA: </span>Vet du mer? Sms:a 0790-643643]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Får vara slut på den pinsamma cirkusen”]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/interna-ilskan-mot-batra-smutsar-ned-partiet/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/interna-ilskan-mot-batra-smutsar-ned-partiet/</guid>
+            <pubDate>Fri, 19 Apr 2024 16:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[Intern ilska mot Kinberg Batra • M-toppens avgångskrav]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Parisa Liljestrand: ”En förtroendekris”]]></title>
+            <link>https://www.expressen.se/tv/nyheter/sverige/parisa-liljestrand-en-fortroendekris/</link>
+            <guid>https://www.expressen.se/tv/nyheter/sverige/parisa-liljestrand-en-fortroendekris/</guid>
+            <pubDate>Sat, 20 Apr 2024 06:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[Ministern om avgångskraven på Kinberg Batra: ”Återstår att se”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rattfull kvinna körde in i barnkalas – två dog]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/rattfulla-kvinnan-kor-rakt-in-i-barnkalas-syskon-dodas</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/rattfulla-kvinnan-kor-rakt-in-i-barnkalas-syskon-dodas</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Sheriffen i Berlin Township nära tårar: ”Kaotiska scener”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Gränspolisens jobb i det dolda på Arlanda]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/granspolisens-jobb-i-det-dolda-pa-arlanda/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/granspolisens-jobb-i-det-dolda-pa-arlanda/</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[”Profilerar ut individer” • Stora pengabeslag]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nytt pengabeslag på Arlanda – två gripna]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/tva-man-gripna-pa-arlanda/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/tva-man-gripna-pa-arlanda/</guid>
+            <pubDate>Sat, 20 Apr 2024 16:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[Kontanter och smycken och klockor: ”Över 270 000 kronor”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[45]]></title>
+            <link>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</link>
+            <guid>https://www.expressen.se/nyheter/har-du-ett-nyhetstips-eller-bilder/</guid>
+            <pubDate>Thu, 18 Apr 2024 06:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="bb--red">TIPSA: </span>Vet du mer? Sms:a 0790-643643]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[33-åringens förvirring i förhör om attackerna]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/han-misstanks-for-attackerna-i-vasteras/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/han-misstanks-for-attackerna-i-vasteras/</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Misstänks för fyra överfall • Livsvändningen • Tidigare brotten]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Här slår polisen till mot knivmannen]]></title>
+            <link>https://www.expressen.se/tv/nyheter/sverige/har-grips-garningsmannen-i-vasteras/</link>
+            <guid>https://www.expressen.se/tv/nyheter/sverige/har-grips-garningsmannen-i-vasteras/</guid>
+            <pubDate>Sat, 20 Apr 2024 06:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[Skadade flera kvinnor i Västerås]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trumps mardröm i rätten – förolämpningar haglar]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/trumps-mardrom-i-ratten-forolampningar-haglar/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/trumps-mardrom-i-ratten-forolampningar-haglar/</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Jurykandidater: ”Självisk och självcentrerad”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Biden: Min morbror kan ha ätits av kannibaler]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/joe-biden-farbror-bosie-kan-ha-atits-av-kannibaler/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/joe-biden-farbror-bosie-kan-ha-atits-av-kannibaler/</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Märkliga utspelet väcker ilska på Nya Guinea: ”Oacceptabelt”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ryska miljonkrav hotar svenska storbolag]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/ryska-miljonkrav-hotar-svenska-storbolag/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/ryska-miljonkrav-hotar-svenska-storbolag/</guid>
+            <pubDate>Sun, 21 Apr 2024 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[Försöker lämna Ryssland – stora skadeståndskrav]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Iranska hånet: ”Mer som leksaker – inte drönare”]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/iranska-ministern-om-israels-attack--mer-som-leksaker-inte-dronare/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/iranska-ministern-om-israels-attack--mer-som-leksaker-inte-dronare/</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Ministerns svar om Israels påstådda attack]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[USA:s nya stödpaket: 665 miljarder kronor]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/ja-till-nytt-stodpaket-till-ukraina-/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/ja-till-nytt-stodpaket-till-ukraina-/</guid>
+            <pubDate>Sun, 21 Apr 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Ukrainas ödesstund avgjord •&nbsp;Zelenskyjs glädje: ”Tacksam”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Uppgifter: Israel sköt tre robotar mot Iran]]></title>
+            <link>https://www.expressen.se/nyheter/varlden/uppgifter-israel-avfyrade-tre-robotar-mot-iran-/</link>
+            <guid>https://www.expressen.se/nyheter/varlden/uppgifter-israel-avfyrade-tre-robotar-mot-iran-/</guid>
+            <pubDate>Sat, 20 Apr 2024 11:04:54 GMT</pubDate>
+            <content:encoded><![CDATA[Nya detaljerna – attacken mer avancerad än tidigare rapporter: ”Som leksaker”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Uppges ha siktat mot luftvärnsradar]]></title>
+            <link>https://www.expressen.se/tv/nyheter/varlden/uppgifter-har-skjuts-israels-dronare-ner-over-iran-/</link>
+            <guid>https://www.expressen.se/tv/nyheter/varlden/uppgifter-har-skjuts-israels-dronare-ner-over-iran-/</guid>
+            <pubDate>Sat, 20 Apr 2024 11:04:54 GMT</pubDate>
+            <content:encoded><![CDATA[Attacken skedde nära kärnkraftsanläggning]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Uppgifter: Kokainbeslag värt 1,3 miljarder kronor]]></title>
+            <link>https://www.expressen.se/nyheter/sverige/uppgifter-kokainbeslaget-vart-13-miljarder-kronor/</link>
+            <guid>https://www.expressen.se/nyheter/sverige/uppgifter-kokainbeslaget-vart-13-miljarder-kronor/</guid>
+            <pubDate>Sat, 20 Apr 2024 16:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[1,5 ton togs i Nynäshamn, enligt Aftonbladet]]></content:encoded>
+        </item>
+    </channel>
+</rss>
