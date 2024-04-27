@@ -4,9 +4,19 @@
         <title>Dagens Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 06:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 09:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Svenska Elbit duckar koppling till IDF]]></title>
+            <link>https://www.dn.se/sverige/svenska-elbit-duckar-koppling-till-israels-forsvarsmakt/</link>
+            <guid>https://www.dn.se/sverige/svenska-elbit-duckar-koppling-till-israels-forsvarsmakt/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Vd:n Tobias Wennberg: ”Kan inte ta ansvar för hur koncernens produkter används.”]]></content:encoded>
+            <enclosure url="https://static.bonniernews.se/gcs/bilder/dn-mly/c7681078-4bea-4931-a276-455e7dadd955.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[”Det som EU gör är ju inte en önskelista till tomten”]]></title>
             <link>https://www.dn.se/sverige/jonas-sjostedt-v-det-ar-inte-en-onskelista-till-tomten/</link>
@@ -29,23 +39,23 @@
             <enclosure url="https://static.bonniernews.se/gcs/bilder/dn-mly/ffb7d612-92ed-416b-8e51-6ebff3a3bb38.jpeg?interpolation=lanczos-none&fit=around%7C196:111&crop=196:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[”Ryssland är som en alkoholmissbrukare”]]></title>
-            <link>https://www.dn.se/varlden/lettlands-premiarminister-putin-ar-som-en-missbrukande-granne/</link>
-            <guid>https://www.dn.se/varlden/lettlands-premiarminister-putin-ar-som-en-missbrukande-granne/</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Lettlands premiärminister Evika Silina om hotet från oberäkneliga grannen • Välkomnar svensk trupp.]]></content:encoded>
-            <enclosure url="https://static.bonniernews.se/gcs/bilder/dn-mly/a4c4c2c3-11c9-4625-ba1c-e92daad58167.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tiktok-stjärna ihjälskjuten i Bagdad]]></title>
+            <title><![CDATA[Man stickskadad i Malmö]]></title>
             <link>https://www.dn.se</link>
             <guid>https://www.dn.se</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">07:41</span>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">09:47</span>
       <h3 class="ds-teaser__title">
-        Tiktok-stjärna ihjälskjuten i Bagdad
+        Man stickskadad i Malmö
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Man stickskadad i Malmö]]></title>
+            <link>https://www.dn.se/direkt/2024-04-27/man-stickskadad-i-malmo/</link>
+            <guid>https://www.dn.se/direkt/2024-04-27/man-stickskadad-i-malmo/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">09:47</span>
+      <h3 class="ds-teaser__title">
+        Man stickskadad i Malmö
       </h3>]]></content:encoded>
         </item>
         <item>
@@ -139,16 +149,6 @@
       </h3>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Kinberg Batra beslutade om vännens lön]]></title>
-            <link>https://www.dn.se/direkt/2024-04-26/kinberg-batra-beslutade-om-vannens-lon/</link>
-            <guid>https://www.dn.se/direkt/2024-04-26/kinberg-batra-beslutade-om-vannens-lon/</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">I går 20:15</span>
-      <h3 class="ds-teaser__title">
-        Kinberg Batra beslutade om vännens lön
-      </h3>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Linus Larsson:
           Polischeferna vill stoppa kryptering och ingen reagerar längre]]></title>
             <link>https://www.dn.se/kultur/linus-larsson-polischeferna-vill-stoppa-kryptering-och-ingen-reagerar-langre/</link>
@@ -190,14 +190,14 @@
             Psykiatrikern om frihet och att leva ensam • ”Är det inte en fruktansvärd oro att ha barn?”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Lisa Magnusson:
-          Språkpoliserna tror att de har rätt, men inget kunde vara mer fel]]></title>
-            <link>https://www.dn.se/ledare/lisa-magnusson-sprakpoliserna-tror-att-de-har-ratt-men-inget-kunde-vara-mer-fel/</link>
-            <guid>https://www.dn.se/ledare/lisa-magnusson-sprakpoliserna-tror-att-de-har-ratt-men-inget-kunde-vara-mer-fel/</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
+            <title><![CDATA[Anställda har fått nog av stölder och hot]]></title>
+            <link>https://www.dn.se/sverige/efter-hot-och-stolder-goteborg-vill-kamerabevaka-sina-sopstationer/</link>
+            <guid>https://www.dn.se/sverige/efter-hot-och-stolder-goteborg-vill-kamerabevaka-sina-sopstationer/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-            Hur står de ut med sig själva? Vi andra gör det nämligen inte.]]></content:encoded>
+
+          Göteborgs återvinningscentraler ska kameraövervakas.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[DN låser upp sajten på grund av världsläget]]></title>
@@ -217,63 +217,32 @@
 Den lilla eldrivna suven får uppmärksamhet, både från kunder och motorjournalister.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[C kallar minister till utskott efter avslöjandet]]></title>
-            <link>https://www.dn.se/sverige/c-kallar-minister-till-utskott-efter-avslojandet-om-grit-academy/</link>
-            <guid>https://www.dn.se/sverige/c-kallar-minister-till-utskott-efter-avslojandet-om-grit-academy/</guid>
+            <title><![CDATA[Så vinner du budgivningen vid bostadsköp]]></title>
+            <link>https://www.dn.se/ekonomi/for-att-vinna-budgivningen-ska-du-undvika-att-vara-med/</link>
+            <guid>https://www.dn.se/ekonomi/for-att-vinna-budgivningen-ska-du-undvika-att-vara-med/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Tre experter om spelet efter visningarna • ”Bästa tipset är att undvika budgivning.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fransk multikonstnär sötchockar Stockholm]]></title>
+            <link>https://www.dn.se/kultur/fransk-multikonstnar-sotchockar-stockholm/</link>
+            <guid>https://www.dn.se/kultur/fransk-multikonstnar-sotchockar-stockholm/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          ”Mignonisme” är Philippe Katerines första utställning i Sverige.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Ryssland är som en alkoholmissbrukare”]]></title>
+            <link>https://www.dn.se/varlden/lettlands-premiarminister-putin-ar-som-en-missbrukande-granne/</link>
+            <guid>https://www.dn.se/varlden/lettlands-premiarminister-putin-ar-som-en-missbrukande-granne/</guid>
             <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-            ”Otroligt viktigt att pengarna skattebetalare lägger hanteras rätt.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Lämnade fel uppgifter – beviljades miljoner]]></title>
-            <link>https://www.dn.se/sverige/yrkeshogskola-beviljades-miljoner-lamnade-felaktiga-uppgifter/</link>
-            <guid>https://www.dn.se/sverige/yrkeshogskola-beviljades-miljoner-lamnade-felaktiga-uppgifter/</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Yrkeshögskola uppgav att det behövdes 800–900 filmklippare.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Linus Larsson:
-          Polischeferna vill stoppa kryptering och ingen reagerar längre]]></title>
-            <link>https://www.dn.se/kultur/linus-larsson-polischeferna-vill-stoppa-kryptering-och-ingen-reagerar-langre/</link>
-            <guid>https://www.dn.se/kultur/linus-larsson-polischeferna-vill-stoppa-kryptering-och-ingen-reagerar-langre/</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Det säger en del om vår tid.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Så kan yoga påverka världens största val]]></title>
-            <link>https://www.dn.se/podd/spotlight/hur-blev-yogagurun-en-politisk-maktfaktor-i-indien/</link>
-            <guid>https://www.dn.se/podd/spotlight/hur-blev-yogagurun-en-politisk-maktfaktor-i-indien/</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Yogagurun trollbinder med sin mage • Har blivit en politisk maktfaktor i Indien.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Misstänkte skytten säger att han var som i trans]]></title>
-            <link>https://www.dn.se/podd/spotlight/masskjutningen-vid-tunnelbanan-misstankte-mordaren-sager-att-han-blev-tvingad/</link>
-            <guid>https://www.dn.se/podd/spotlight/masskjutningen-vid-tunnelbanan-misstankte-mordaren-sager-att-han-blev-tvingad/</guid>
-            <pubDate>Fri, 26 Apr 2024 16:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-          Påstår sig ha blivit tvingad till skjutningen i Farsta.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Kinberg Batras avgång har varit ett sår i M”]]></title>
-            <link>https://www.dn.se/podd/alskade-politik/kinberg-batras-avgang-var-ett-sar-i-moderaterna/</link>
-            <guid>https://www.dn.se/podd/alskade-politik/kinberg-batras-avgang-var-ett-sar-i-moderaterna/</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            <span class="ds-teaser__sticker">
-              PODD
-            </span>
-          DN:s politikreportrar om stormen kring Anna Kinberg Batra.]]></content:encoded>
+            Lettlands premiärminister Evika Silina om hotet från oberäkneliga grannen • Välkomnar svensk trupp.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Så maxar du din avkastning med ränta på ränta-effekten]]></title>
@@ -289,7 +258,7 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
         Svar: Djurhållning är det stora hotet mot biologisk mångfald]]></title>
             <link>https://www.dn.se</link>
             <guid>https://www.dn.se</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<h3 class="ds-teaser__title">
           <span class="ds-teaser__highlight">
             Insändare.
@@ -460,6 +429,161 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
         <span class="ds-teaser-swipe-card__time">2024-04-25</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Johan Croneman:
+          Jag vaknade med ett ryck efter drömmen om Lasse Granqvist]]></title>
+            <link>https://www.dn.se/sport/johan-croneman-jag-vaknade-med-ett-ryck-efter-drommen-om-lasse-granqvist/</link>
+            <guid>https://www.dn.se/sport/johan-croneman-jag-vaknade-med-ett-ryck-efter-drommen-om-lasse-granqvist/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            DN:s sport-i-tv-krönikör hyllar kommentatorn.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[På jakt efter en förlorad barndom i förorten]]></title>
+            <link>https://www.dn.se/kultur/pa-jakt-efter-en-forlorad-barndom-i-fororten/</link>
+            <guid>https://www.dn.se/kultur/pa-jakt-efter-en-forlorad-barndom-i-fororten/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Nicolas Lunabba återvänder till kvarteret i Lund där han växte upp – ingenting är sig likt.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lotta Olsson:
+          Här är tips på fem nya deckare]]></title>
+            <link>https://www.dn.se/kultur/lotta-olsson-tipsar-5-x-nya-deckare-24/</link>
+            <guid>https://www.dn.se/kultur/lotta-olsson-tipsar-5-x-nya-deckare-24/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Det finns mängder av klichéer bland deckare men en hade jag inte tänkt på.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[C kallar minister till utskott efter avslöjandet]]></title>
+            <link>https://www.dn.se/sverige/c-kallar-minister-till-utskott-efter-avslojandet-om-grit-academy/</link>
+            <guid>https://www.dn.se/sverige/c-kallar-minister-till-utskott-efter-avslojandet-om-grit-academy/</guid>
+            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            ”Otroligt viktigt att pengarna skattebetalare lägger hanteras rätt.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lämnade fel uppgifter – beviljades miljoner]]></title>
+            <link>https://www.dn.se/sverige/yrkeshogskola-beviljades-miljoner-lamnade-felaktiga-uppgifter/</link>
+            <guid>https://www.dn.se/sverige/yrkeshogskola-beviljades-miljoner-lamnade-felaktiga-uppgifter/</guid>
+            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Yrkeshögskola uppgav att det behövdes 800–900 filmklippare.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Konst från södra halvklotet dominerar Venedigbiennalen]]></title>
+            <link>https://www.dn.se/kultur/konst-fran-sodra-halvklotet-dominerar-venedigbiennalen/</link>
+            <guid>https://www.dn.se/kultur/konst-fran-sodra-halvklotet-dominerar-venedigbiennalen/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Temat ”Främlingar överallt” är hyperaktuellt men konsten ojämn, tycker Birgitta Rubin.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Shout Out Louds öppnar dörren till en hemlig klubblokal på 00-talet]]></title>
+            <link>https://www.dn.se/kultur/shout-out-louds-jubileumskonsert-oppnar-dorren-till-en-hemlig-klubblokal-pa-00-talet/</link>
+            <guid>https://www.dn.se/kultur/shout-out-louds-jubileumskonsert-oppnar-dorren-till-en-hemlig-klubblokal-pa-00-talet/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<i class="ds-icon ds-icon--grade ds-icon--grade-four">      <svg xmlns="http://www.w3.org/2000/svg" role="img" lang="sv" xml:lang="sv" aria-labelledby="title description" fill="none" viewBox="0 0 44 44">    <title id="title">Betyg: 4.</title>
+    <desc id="description">Betygsskala: 0 till 5.</desc>
+<path d="M25.9355 31.3364C25.4796 31.3364 25.0522 31.1554 25.0522 29.3756V27.4449H27.3601V26.2081H25.0522V12H20.6929L13 26.4495V27.4449H19.4677V29.3756C19.4677 31.1554 19.0688 31.3364 18.5845 31.3364H17.3308V31.7285H27.1891V31.3364H25.9355ZM13.8548 26.2081L19.4677 15.5294V26.2081H13.8548Z"></path><path d="M30.7491 32C32.0028 32 33 31.0347 33 29.2549C33 27.5053 32.0028 26.5098 30.7491 26.5098C29.4955 26.5098 28.4982 27.5053 28.4982 29.2549C28.4982 31.0347 29.4955 32 30.7491 32Z"></path><circle cx="22" cy="22" r="21" fill="none" stroke-width="2"></circle></svg>  </i>
+            När bandet firar debutalbumets 20-årsjubileum framkallas riktiga känslor.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Barnoperan ”Vilse” är en pärla i sagoformat]]></title>
+            <link>https://www.dn.se/kultur/barnoperan-vilse-hanterar-existentiella-fragor-pa-ett-underbart-lekfullt-satt/</link>
+            <guid>https://www.dn.se/kultur/barnoperan-vilse-hanterar-existentiella-fragor-pa-ett-underbart-lekfullt-satt/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Här hanteras existentiella frågor på ett underbart lekfullt sätt.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[VM-silver för svenska cheerleadingdamerna]]></title>
+            <link>https://www.dn.se/sport/vm-silver-for-de-svenska-cheerleadingdamerna/</link>
+            <guid>https://www.dn.se/sport/vm-silver-for-de-svenska-cheerleadingdamerna/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Säkrade medaljen efter en spännande final.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Världsunik svensk studie ska hindra hjärtinfarkter]]></title>
+            <link>https://kampanj.dn.se/hjart-lungfonden/varldsunik-svensk-studie-ska-hindra-hjartinfarkter/</link>
+            <guid>https://kampanj.dn.se/hjart-lungfonden/varldsunik-svensk-studie-ska-hindra-hjartinfarkter/</guid>
+            <pubDate>Tue, 23 Apr 2024 09:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+”Inom några år hoppas vi på att minska antalet drabbade radikalt”.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lisa Magnusson:
+          Språkpoliserna tror att de har rätt, men inget kunde vara mer fel]]></title>
+            <link>https://www.dn.se/ledare/lisa-magnusson-sprakpoliserna-tror-att-de-har-ratt-men-inget-kunde-vara-mer-fel/</link>
+            <guid>https://www.dn.se/ledare/lisa-magnusson-sprakpoliserna-tror-att-de-har-ratt-men-inget-kunde-vara-mer-fel/</guid>
+            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Hur står de ut med sig själva? Vi andra gör det nämligen inte.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Förskola i Stockholm stängs omedelbart]]></title>
+            <link>https://www.dn.se/sverige/forskola-i-stockholm-stangs-omedelbart-allvarliga-sakerhetsbrister/</link>
+            <guid>https://www.dn.se/sverige/forskola-i-stockholm-stangs-omedelbart-allvarliga-sakerhetsbrister/</guid>
+            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Trasiga elkablar hängde löst • Thorengruppen kan nu förlora tillståndet.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Linus Larsson:
+          Polischeferna vill stoppa kryptering och ingen reagerar längre]]></title>
+            <link>https://www.dn.se/kultur/linus-larsson-polischeferna-vill-stoppa-kryptering-och-ingen-reagerar-langre/</link>
+            <guid>https://www.dn.se/kultur/linus-larsson-polischeferna-vill-stoppa-kryptering-och-ingen-reagerar-langre/</guid>
+            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Det säger en del om vår tid.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Så kan yoga påverka världens största val]]></title>
+            <link>https://www.dn.se/podd/spotlight/hur-blev-yogagurun-en-politisk-maktfaktor-i-indien/</link>
+            <guid>https://www.dn.se/podd/spotlight/hur-blev-yogagurun-en-politisk-maktfaktor-i-indien/</guid>
+            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Yogagurun trollbinder med sin mage • Har blivit en politisk maktfaktor i Indien.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Misstänkte skytten säger att han var som i trans]]></title>
+            <link>https://www.dn.se/podd/spotlight/masskjutningen-vid-tunnelbanan-misstankte-mordaren-sager-att-han-blev-tvingad/</link>
+            <guid>https://www.dn.se/podd/spotlight/masskjutningen-vid-tunnelbanan-misstankte-mordaren-sager-att-han-blev-tvingad/</guid>
+            <pubDate>Fri, 26 Apr 2024 16:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          Påstår sig ha blivit tvingad till skjutningen i Farsta.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Kinberg Batras avgång har varit ett sår i M”]]></title>
+            <link>https://www.dn.se/podd/alskade-politik/kinberg-batras-avgang-var-ett-sar-i-moderaterna/</link>
+            <guid>https://www.dn.se/podd/alskade-politik/kinberg-batras-avgang-var-ett-sar-i-moderaterna/</guid>
+            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            <span class="ds-teaser__sticker">
+              PODD
+            </span>
+          DN:s politikreportrar om stormen kring Anna Kinberg Batra.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[”Får vara uppmärksam på märkliga dragningar”]]></title>
             <link>https://www.dn.se/sport/far-vara-uppmarksam-pa-markliga-dragningar-och-sjuka-mal/</link>
             <guid>https://www.dn.se/sport/far-vara-uppmarksam-pa-markliga-dragningar-och-sjuka-mal/</guid>
@@ -489,14 +613,23 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
           Pixbo ställs mot mardrömsmotståndaren.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Förskola i Stockholm stängs omedelbart]]></title>
-            <link>https://www.dn.se/sverige/forskola-i-stockholm-stangs-omedelbart-allvarliga-sakerhetsbrister/</link>
-            <guid>https://www.dn.se/sverige/forskola-i-stockholm-stangs-omedelbart-allvarliga-sakerhetsbrister/</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
+            <title><![CDATA[Sugen på brunch? Hitta stället som passar dig bäst]]></title>
+            <link>https://www.dn.se/kultur/dns-brunchvaljare-hjalper-dig-att-hitta-ratt/</link>
+            <guid>https://www.dn.se/kultur/dns-brunchvaljare-hjalper-dig-att-hitta-ratt/</guid>
+            <pubDate>Fri, 26 Apr 2024 06:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Få skräddarsydda tips på nolltid • Över 80 ställen i Stockholm.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10 evenemang för en lyckad helg]]></title>
+            <link>https://www.dn.se/kultur/dn-tipsar-har-ar-10-evenemang-for-en-lyckad-helg-i-stockholm-13/</link>
+            <guid>https://www.dn.se/kultur/dn-tipsar-har-ar-10-evenemang-for-en-lyckad-helg-i-stockholm-13/</guid>
+            <pubDate>Fri, 26 Apr 2024 06:10:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
 
-          Trasiga elkablar hängde löst • Thorengruppen kan nu förlora tillståndet.]]></content:encoded>
+          Lär dig vandra och premiär för nytt kulturdistrikt i Stockholm.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Ryska soldater har dödat över 100 efter hemkomsten]]></title>
@@ -519,7 +652,7 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Direkt.
-        Sjukhus i Charkiv skadat av rysk missil]]></title>
+        Ryssland: Skjutit ned 68 drönare]]></title>
             <link>https://www.dn.se/varlden/folj-det-sakerhetspolitiska-laget-i-europa/</link>
             <guid>https://www.dn.se/varlden/folj-det-sakerhetspolitiska-laget-i-europa/</guid>
             <pubDate>Sun, 21 Apr 2024 06:10:45 GMT</pubDate>
@@ -528,7 +661,7 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
 
       <h2 class="ds-teaser__title">
           <span class="ds-teaser__highlight">Direkt.</span>
-        Sjukhus i Charkiv skadat av rysk missil
+        Ryssland: Skjutit ned 68 drönare
       </h2>
 
     </div>]]></content:encoded>
@@ -592,12 +725,46 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
           Vaktmästaren om när han hittade tavlorna i skrubben.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Världsunik svensk studie ska hindra hjärtinfarkter]]></title>
-            <link>https://kampanj.dn.se/hjart-lungfonden/varldsunik-svensk-studie-ska-hindra-hjartinfarkter/</link>
-            <guid>https://kampanj.dn.se/hjart-lungfonden/varldsunik-svensk-studie-ska-hindra-hjartinfarkter/</guid>
-            <pubDate>Tue, 23 Apr 2024 09:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-”Inom några år hoppas vi på att minska antalet drabbade radikalt”.]]></content:encoded>
+            <title><![CDATA[Så står sig begagnade däck mot nya]]></title>
+            <link>https://www.dn.se/motor/sa-har-klarar-sig-det-begagnade-dacket-mot-det-nya/</link>
+            <guid>https://www.dn.se/motor/sa-har-klarar-sig-det-begagnade-dacket-mot-det-nya/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+        <div class="ds-teaser__media">
+          
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/5e14b1c5-fd71-4ea5-9cf4-883a4e07724f.jpeg?interpolation=lanczos-none&amp;fit=around%7C196:111&amp;crop=196:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/5e14b1c5-fd71-4ea5-9cf4-883a4e07724f.jpeg?interpolation=lanczos-none&amp;fit=around%7C196:111&amp;crop=196:h;center,top&amp;output-quality=80 196w, https://static.bonniernews.se/gcs/bilder/dn-mly/5e14b1c5-fd71-4ea5-9cf4-883a4e07724f.jpeg?interpolation=lanczos-none&amp;fit=around%7C392:221&amp;crop=392:h;center,top&amp;output-quality=60 392w" sizes="196px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: Linus Pröjtz</figcaption>
+  </figure>
+
+              <div class="ds-vip-badge" aria-hidden="true">
+      <i class="ds-icon ds-icon--sprite ds-icon--vip">
+    <svg><use xlink:href="#ds-vip"></use></svg>
+  </i>
+
+    
+  </div>
+
+        </div>
+
+
+      <h2 class="ds-teaser__title">
+        Så står sig begagnade däck mot nya
+      </h2>
+
+    </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EKG:
@@ -649,7 +816,7 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Direkt.
-        Hamas: Israeliskt förslag mottaget]]></title>
+        Förslag om vapenvila ”sista chansen innan Rafah”]]></title>
             <link>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</link>
             <guid>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</guid>
             <pubDate>Sun, 18 Feb 2024 09:08:18 GMT</pubDate>
@@ -658,7 +825,7 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
 
       <h2 class="ds-teaser__title">
           <span class="ds-teaser__highlight">Direkt.</span>
-        Hamas: Israeliskt förslag mottaget
+        Förslag om vapenvila ”sista chansen innan Rafah”
       </h2>
 
     </div>]]></content:encoded>
@@ -712,33 +879,14 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
             Det får din chef betalt i månadslön • Skiljer sig stort mellan män och kvinnor.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Sverige vidare till VM-final i curling]]></title>
-            <link>https://www.dn.se/sport/sverige-till-vm-final-moter-estland/</link>
-            <guid>https://www.dn.se/sport/sverige-till-vm-final-moter-estland/</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Syskonen Isabella och Rasmus Wranå möter Estland på lördag.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Tonåringar bar vapen vid tingsrätt – kopplas till gäng]]></title>
             <link>https://www.dn.se/sverige/tonaringar-bar-vapen-vid-tingsratt-kopplas-till-vaxjonatverk/</link>
             <guid>https://www.dn.se/sverige/tonaringar-bar-vapen-vid-tingsratt-kopplas-till-vaxjonatverk/</guid>
             <pubDate>Fri, 26 Apr 2024 16:10:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-            Två pojkar häktades på fredagen • Hör till Växjönätverk – dömda för grova brott.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Imam misstänks för terrorbrott]]></title>
-            <link>https://www.dn.se/sverige/imam-i-tyreso-misstanks-for-terrorbrott/</link>
-            <guid>https://www.dn.se/sverige/imam-i-tyreso-misstanks-for-terrorbrott/</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
-
-          Myndighet bekräftar för TV4 • Häktas efter Säpos tillslag i Tyresö.]]></content:encoded>
+          Två pojkar häktades på fredagen • Hör till Växjönätverk – dömda för grova brott.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Jonson: ”Det kan behövas förstärkningar”]]></title>
@@ -822,25 +970,6 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Döda möss tejpades fast på fotbollsspelares dörr]]></title>
-            <link>https://www.dn.se/sport/doda-moss-tejpades-fast-pa-fotbollsspelares-dorr/</link>
-            <guid>https://www.dn.se/sport/doda-moss-tejpades-fast-pa-fotbollsspelares-dorr/</guid>
-            <pubDate>Fri, 26 Apr 2024 16:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Allsvenska spelaren har även hotats på sociala medier.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Domen överklagas: ”Vill att Lucas ska få rättvisa”]]></title>
-            <link>https://www.dn.se/sverige/dom-mot-16-aring-som-dodade-lucas-overklagas/</link>
-            <guid>https://www.dn.se/sverige/dom-mot-16-aring-som-dodade-lucas-overklagas/</guid>
-            <pubDate>Fri, 26 Apr 2024 16:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Mamman om beskedet • Tonåring fick övervakning efter dödsmisshandeln av 17-åringen.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Rapport: En tredjedel klarar inte språkkrav]]></title>
             <link>https://www.dn.se/sverige/rapport-invandrare-klarar-inte-regeringens-sprakkrav/</link>
             <guid>https://www.dn.se/sverige/rapport-invandrare-klarar-inte-regeringens-sprakkrav/</guid>
@@ -859,55 +988,6 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
             <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
 
             Intressant att ”Baby Reindeer” kommer i en tid som är så otroligt upptagen av offerskap.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[V-ledamot bar palestinasjal i riksdagen]]></title>
-            <link>https://www.dn.se/sverige/v-politiker-bar-palestinasjal-i-riksdagen-partiet-upp-till-varje-ledamot/</link>
-            <guid>https://www.dn.se/sverige/v-politiker-bar-palestinasjal-i-riksdagen-partiet-upp-till-varje-ledamot/</guid>
-            <pubDate>Fri, 26 Apr 2024 16:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Finns förbud mot politiska symboler • Partiet: ”Upp till varje ledamot.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sugen på brunch? Hitta stället som passar dig bäst]]></title>
-            <link>https://www.dn.se/kultur/dns-brunchvaljare-hjalper-dig-att-hitta-ratt/</link>
-            <guid>https://www.dn.se/kultur/dns-brunchvaljare-hjalper-dig-att-hitta-ratt/</guid>
-            <pubDate>Fri, 26 Apr 2024 06:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-            Få skräddarsydda tips på nolltid • Över 80 ställen i Stockholm.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10 evenemang för en lyckad helg]]></title>
-            <link>https://www.dn.se/kultur/dn-tipsar-har-ar-10-evenemang-for-en-lyckad-helg-i-stockholm-13/</link>
-            <guid>https://www.dn.se/kultur/dn-tipsar-har-ar-10-evenemang-for-en-lyckad-helg-i-stockholm-13/</guid>
-            <pubDate>Fri, 26 Apr 2024 06:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Lär dig vandra och premiär för nytt kulturdistrikt i Stockholm.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nya brott utreds efter attacken i Gubbängen]]></title>
-            <link>https://www.dn.se/sverige/nya-brott-utreds-efter-attacken-i-gubbangen/</link>
-            <guid>https://www.dn.se/sverige/nya-brott-utreds-efter-attacken-i-gubbangen/</guid>
-            <pubDate>Fri, 26 Apr 2024 16:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Polisen vädjar om tips • Manifestation på lördag.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Statliga tågbolaget gör brakförlust]]></title>
-            <link>https://www.dn.se/ekonomi/statliga-tagbolaget-gor-brakforlust/</link>
-            <guid>https://www.dn.se/ekonomi/statliga-tagbolaget-gor-brakforlust/</guid>
-            <pubDate>Fri, 26 Apr 2024 16:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
-
-
-          Green cargo blöder pengar.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Jag har inte rest över halva jorden för att göra dig arg”]]></title>
@@ -1325,7 +1405,7 @@ Därför kallas det ”världens åttonde underverk”.]]></content:encoded>
     </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[90]]></title>
+            <title><![CDATA[95]]></title>
             <link>https://etidning.dn.se/</link>
             <guid>https://etidning.dn.se/</guid>
             <pubDate>Sat, 27 Apr 2024 06:10:06 GMT</pubDate>
