@@ -4,20 +4,31 @@
         <title>Svenska Dagbladet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 11:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 16:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Person hittad död i lägenhet – stor polisinsats]]></title>
-            <link>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=34935</link>
-            <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=34935</guid>
-            <pubDate>Sat, 27 Apr 2024 11:05:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Alltid senaste nytt – följ SvD direkt]]></title>
             <link>https://www.svd.se/a/wA9Gmd/senaste-nytt</link>
             <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt</guid>
             <pubDate>Sat, 20 Apr 2024 09:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Liverapport med de senaste nyheterna.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ännu en död kropp – vem var han?]]></title>
+            <link>https://www.svd.se/a/zA5dW4/mustafa-can-om-alla-oidentifierade-doda-pa-ukrainas-slagfalt</link>
+            <guid>https://www.svd.se/a/zA5dW4/mustafa-can-om-alla-oidentifierade-doda-pa-ukrainas-slagfalt</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Mustafa Can: </strong>Liken blir kvar när stridslarmet tystnar • Varning för starka bilder.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/f49fe744-2c77-4f55-a40b-44b28341bf24?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=ac75ed0170c343b67454b25a0cb8266e59616895" length="0" type="image//v2/images/f49fe744-2c77-4f55-a40b-44b28341bf24"/>
+        </item>
+        <item>
+            <title><![CDATA[”Massiva” angrepp mot Ukraina – flera skadade]]></title>
+            <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
+            <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
+            <pubDate>Sun, 17 Mar 2024 09:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Ryssland attackerade ukrainsk energiförsörjning och ett sjukhus • Senaste nytt.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/c1c34493-a0ee-4346-961c-05efdd227448?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=d12854c012770ab5a902a9a5e6724d8e8b963d91" length="0" type="image//v2/images/c1c34493-a0ee-4346-961c-05efdd227448"/>
         </item>
         <item>
             <title><![CDATA[”Hushåller med resurser – räddar inte liv”]]></title>
@@ -25,15 +36,27 @@
             <guid>https://www.svd.se/a/0VjP2o/hemlig-inspelning-avslojar-sma-patient-nekas-for-dyr-medicin</guid>
             <pubDate>Sat, 27 Apr 2024 09:07:53 GMT</pubDate>
             <content:encoded><![CDATA[Hemlig inspelning avslöjar: Ekonomi snarare än vårdbehov styr vilka som får viktig medicin.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/3455fe02-e3d4-4264-8bd7-9fcfeb653b50?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=f43928d75e12f3dbd897f351493c33261dd93663" length="0" type="image//v2/images/3455fe02-e3d4-4264-8bd7-9fcfeb653b50"/>
         </item>
         <item>
-            <title><![CDATA[”Minns att jag försöker greppa tag i dina armar”]]></title>
+            <title><![CDATA[Stora Gazaprotester på prestigeuniversitetet]]></title>
+            <link>https://www.svd.se/a/Pp3dEz/sciences-po-i-paris-ockuperades-av-pro-palestinska-demonstranter</link>
+            <guid>https://www.svd.se/a/Pp3dEz/sciences-po-i-paris-ockuperades-av-pro-palestinska-demonstranter</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[Campusbyggnaden i Paris ockuperades • Svenska studenten: ”Varit en helt annan nivå”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Företaget jobbar dubbelt så snabbt – med AI]]></title>
+            <link>https://www.svd.se/a/pPgXrR/king-utvecklar-spel-med-ai</link>
+            <guid>https://www.svd.se/a/pPgXrR/king-utvecklar-spel-med-ai</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[Skaparna av Candy Crush ser på AI i det dagliga arbetet på ett annat sätt än Klarna.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Minns att jag försöker greppa dina armar”]]></title>
             <link>https://www.svd.se/a/onJqng/ett-ar-efter-jetline-olycka-pa-grona-lund-skadade-karin-berattar</link>
             <guid>https://www.svd.se/a/onJqng/ett-ar-efter-jetline-olycka-pa-grona-lund-skadade-karin-berattar</guid>
             <pubDate>Sat, 27 Apr 2024 06:10:01 GMT</pubDate>
             <content:encoded><![CDATA[Mikael såg sin fru Karin falla handlöst ur bergochdalbanan Jetline på Gröna Lund.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/2981409d-c08d-4745-a303-f4cd3b725312?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=0130eb0250fbdc5e472667519f6ae516a60864bd" length="0" type="image//v2/images/2981409d-c08d-4745-a303-f4cd3b725312"/>
         </item>
         <item>
             <title><![CDATA[Vem vågar åka karusellerna?]]></title>
@@ -43,18 +66,11 @@
             <content:encoded><![CDATA[Ett år efter dödsolyckan – Gröna Lund säsongsöppnar.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[S-grupp föreslår kortare arbetstid]]></title>
-            <link>https://www.svd.se/a/QMlJRP/s-lagger-fram-forslag-om-kortare-arbetstid</link>
-            <guid>https://www.svd.se/a/QMlJRP/s-lagger-fram-forslag-om-kortare-arbetstid</guid>
-            <pubDate>Sat, 27 Apr 2024 11:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[Svenskt Näringsliv ställer sig kritiskt till förslaget: ”Oansvarigt.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Att vinna genom att skuldsätta sig är fusk”]]></title>
-            <link>https://www.svd.se/a/JbW0mb/oklar-framtid-for-inter-hanet-efter-lo-scudetto-uppror</link>
-            <guid>https://www.svd.se/a/JbW0mb/oklar-framtid-for-inter-hanet-efter-lo-scudetto-uppror</guid>
-            <pubDate>Sat, 27 Apr 2024 09:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[Inters hånfulla budskap rör upp känslor i Milano – och framtiden är oklar.]]></content:encoded>
+            <title><![CDATA[Partitoppar i protest mot ”terrorhandling”]]></title>
+            <link>https://www.svd.se/a/lw1nae/partitoppar-i-protest-mot-terrorhandling</link>
+            <guid>https://www.svd.se/a/lw1nae/partitoppar-i-protest-mot-terrorhandling</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[Demonstrerade efter onsdagens attack mot ett antifascistiskt möte i Gubbängen.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Världsrekordlöparen: ”95 procent springer för fort”]]></title>
@@ -64,11 +80,67 @@
             <content:encoded><![CDATA[Experternas tips: Träning, kost, vila – så förbereder du dig optimalt inför maraton.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Guvernör sköt ihjäl ”värdelös” hundvalp]]></title>
-            <link>https://www.svd.se/a/Gy1xnJ/potentiell-vicepresident-skot-ihjal-hundvalp</link>
-            <guid>https://www.svd.se/a/Gy1xnJ/potentiell-vicepresident-skot-ihjal-hundvalp</guid>
-            <pubDate>Sat, 27 Apr 2024 11:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[Trumps tänkbara vice­president skrev om dödandet i sin bok.]]></content:encoded>
+            <title><![CDATA[Bästa rödvinssåsen är ”fyllig och förförisk”]]></title>
+            <link>https://www.svd.se/a/Jb1WAR/test-basta-fardiga-rodvinssasen</link>
+            <guid>https://www.svd.se/a/Jb1WAR/test-basta-fardiga-rodvinssasen</guid>
+            <pubDate>Sat, 27 Apr 2024 11:05:21 GMT</pubDate>
+            <content:encoded><![CDATA[SvD testar färdiga rödvinssåser – en får full pott och en tar tankarna till skolmatsalen.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Storvreta svenska mästare – inför rekordpublik]]></title>
+            <link>https://www.svd.se/a/mP6K10/storvreta-svenska-mastare-infor-rekordpublik</link>
+            <guid>https://www.svd.se/a/mP6K10/storvreta-svenska-mastare-infor-rekordpublik</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Storvreta svenska mästare – inför rekordpublik</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Stora Gazaprotester på prestigeuniversitetet]]></title>
+            <link>https://www.svd.se/a/Pp3dEz/sciences-po-i-paris-ockuperades-av-pro-palestinska-demonstranter</link>
+            <guid>https://www.svd.se/a/Pp3dEz/sciences-po-i-paris-ockuperades-av-pro-palestinska-demonstranter</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Stora Gazaprotester på prestigeuniversitetet</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Företaget jobbar dubbelt så snabbt – med AI]]></title>
+            <link>https://www.svd.se/a/pPgXrR/king-utvecklar-spel-med-ai</link>
+            <guid>https://www.svd.se/a/pPgXrR/king-utvecklar-spel-med-ai</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Företaget jobbar dubbelt så snabbt – med AI</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Isak öser in mål – passerade Ibrahimovic]]></title>
+            <link>https://www.svd.se/a/63nqrL/isak-historisk-slog-ibrahimovic-rekord</link>
+            <guid>https://www.svd.se/a/63nqrL/isak-historisk-slog-ibrahimovic-rekord</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Isak öser in mål – passerade Ibrahimovic</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Succé på hemmaplan: Svenskt VM-guld i curling]]></title>
+            <link>https://www.svd.se/a/xmRrqG/succe-pa-hemmaplan-svenskt-vm-guld-i-curling</link>
+            <guid>https://www.svd.se/a/xmRrqG/succe-pa-hemmaplan-svenskt-vm-guld-i-curling</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Succé på hemmaplan: Svenskt VM-guld i curling</h2></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[De som ser rött]]></title>
+            <link>https://www.svd.se/a/0VEQzJ/susanna-popova-arbetsmiljolarm-pa-rosenbad</link>
+            <guid>https://www.svd.se/a/0VEQzJ/susanna-popova-arbetsmiljolarm-pa-rosenbad</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Susanna Popova: </strong>Knapptryckarna som är mest stressade.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Att vinna genom att skuldsätta sig är fusk”]]></title>
+            <link>https://www.svd.se/a/JbW0mb/oklar-framtid-for-inter-hanet-efter-lo-scudetto-uppror</link>
+            <guid>https://www.svd.se/a/JbW0mb/oklar-framtid-for-inter-hanet-efter-lo-scudetto-uppror</guid>
+            <pubDate>Sat, 27 Apr 2024 09:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[Inters hånfulla budskap rör upp känslor i Milano – och framtiden är oklar.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Sluta att höja skatten på alkohol”]]></title>
+            <link>https://www.svd.se/a/Gy1xw9/debattorer-varna-systembolaget-genom-klok-skattepolitik</link>
+            <guid>https://www.svd.se/a/Gy1xw9/debattorer-varna-systembolaget-genom-klok-skattepolitik</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[Debattörer: Värna Systembolaget genom klok skattepolitik]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Palmes mördare skulle inte fångats på film i dag]]></title>
@@ -78,53 +150,11 @@
             <content:encoded><![CDATA[Chefen för polisens kameraövervakning berättar att myndigheten lider av växtvärk.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Franska spioner immuna mot ryska sexfällor]]></title>
-            <link>https://www.svd.se/a/0VjPr2/franska-spioner-immuna-mot-sexfallor-fruarna-vet-redan</link>
-            <guid>https://www.svd.se/a/0VjPr2/franska-spioner-immuna-mot-sexfallor-fruarna-vet-redan</guid>
-            <pubDate>Wed, 24 Apr 2024 16:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[Unik inblick – 20 agenter intervjuas • ”Fruarna vet redan”.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Guvernör sköt ihjäl ”värdelös” hundvalp]]></title>
-            <link>https://www.svd.se/a/Gy1xnJ/potentiell-vicepresident-skot-ihjal-hundvalp</link>
-            <guid>https://www.svd.se/a/Gy1xnJ/potentiell-vicepresident-skot-ihjal-hundvalp</guid>
-            <pubDate>Sat, 27 Apr 2024 11:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Guvernör sköt ihjäl ”värdelös” hundvalp</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Yle: Sannfinländare anhållen efter skottlossning]]></title>
-            <link>https://www.svd.se/a/Oonkek/yle-sannfinlandare-anhallen-efter-skottlossning</link>
-            <guid>https://www.svd.se/a/Oonkek/yle-sannfinlandare-anhallen-efter-skottlossning</guid>
-            <pubDate>Sat, 27 Apr 2024 11:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Yle: Sannfinländare anhållen efter skottlossning</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Person hittad död i lägenhet – stor polisinsats]]></title>
-            <link>https://www.svd.se/a/W0Lvx2/person-hittad-dod-i-lagenhet-stor-polisinsats</link>
-            <guid>https://www.svd.se/a/W0Lvx2/person-hittad-dod-i-lagenhet-stor-polisinsats</guid>
-            <pubDate>Sat, 27 Apr 2024 11:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Person hittad död i lägenhet – stor polisinsats</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Amanda Lind tar sikte mot regering]]></title>
-            <link>https://www.svd.se/a/73lpyV/amanda-lind-tar-sikte-mot-regering</link>
-            <guid>https://www.svd.se/a/73lpyV/amanda-lind-tar-sikte-mot-regering</guid>
-            <pubDate>Sat, 27 Apr 2024 11:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Amanda Lind tar sikte mot regering</h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Underbart gå vilse i Andrea Tarrodis barnopera]]></title>
-            <link>https://www.svd.se/a/73nXjK/recension-vilse-av-andrea-tarrodi-ar-ett-bildrikt-dromspel</link>
-            <guid>https://www.svd.se/a/73nXjK/recension-vilse-av-andrea-tarrodi-ar-ett-bildrikt-dromspel</guid>
-            <pubDate>Sat, 27 Apr 2024 11:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Underbart gå vilse i Andrea Tarrodis barnopera </h2></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Så skyddar du dig mot skitsnackarna]]></title>
-            <link>https://www.svd.se/a/8qwQWA/sa-skyddar-du-dig-mot-deepak-chopra-och-andra-skitsnackare</link>
-            <guid>https://www.svd.se/a/8qwQWA/sa-skyddar-du-dig-mot-deepak-chopra-och-andra-skitsnackare</guid>
-            <pubDate>Sat, 27 Apr 2024 09:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Anders Sundell: </strong>Struntpratet finns överallt – men det finns sätt att genomskåda det.]]></content:encoded>
+            <title><![CDATA[”Sista chansen innan Rafah-offensiv”]]></title>
+            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
+            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
+            <pubDate>Fri, 26 Apr 2024 16:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Israel vill att Hamas ”slutar förhala” förhandlingar om vapenvila • Senaste nytt.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Vi är nordiska mästare i penislängd]]></title>
@@ -134,39 +164,11 @@
             <content:encoded><![CDATA[<strong>Hugo Rehnberg: </strong>Det känns förstås extra bra att slå danskarna.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Massiva” angrepp mot Ukraina – flera skadade]]></title>
-            <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
-            <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
-            <pubDate>Sun, 17 Mar 2024 09:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Ryssland attackerade ukrainsk energiförsörjning och ett sjukhus • Senaste nytt.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[”Ministern kommer med tomma ord”]]></title>
-            <link>https://www.svd.se/a/W0LRWd/regeringens-satsning-mot-kvinnovald-ar-bara-tomma-ord-skriver-susanna-udvardi</link>
-            <guid>https://www.svd.se/a/W0LRWd/regeringens-satsning-mot-kvinnovald-ar-bara-tomma-ord-skriver-susanna-udvardi</guid>
-            <pubDate>Sat, 27 Apr 2024 09:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[Susanna Udvardi: Småpengar i regeringens satsning mot kvinnovåld.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Konkursen hotar: Oscar Engelbert ensam kvar]]></title>
-            <link>https://www.svd.se/a/W0Lq9k/konkursen-hotar-oscar-properties-peter-norman-hoppar-av</link>
-            <guid>https://www.svd.se/a/W0Lq9k/konkursen-hotar-oscar-properties-peter-norman-hoppar-av</guid>
-            <pubDate>Fri, 26 Apr 2024 09:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[Pengarna nästan slut för Oscar Properties – begäran om konkurs inlämnad.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Maria Maunsbach: Har slampan ens funnits?]]></title>
-            <link>https://www.svd.se/a/W0lVMK/maria-maunsbach-har-slampan-ens-funnits</link>
-            <guid>https://www.svd.se/a/W0lVMK/maria-maunsbach-har-slampan-ens-funnits</guid>
-            <pubDate>Fri, 26 Apr 2024 16:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[Jämfört med verkligheten är Samantha från ”Sex and the city” en glimrande fantasi.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Stor eller stark – större skillnad än många tror]]></title>
-            <link>https://www.svd.se/a/gEXPeA/hur-ofta-ska-man-trana-for-att-bygga-muskler-experten-svarar</link>
-            <guid>https://www.svd.se/a/gEXPeA/hur-ofta-ska-man-trana-for-att-bygga-muskler-experten-svarar</guid>
-            <pubDate>Sat, 27 Apr 2024 09:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[Träningsforskare: Smartare att vara ”businesslike” om du vill bygga muskler.]]></content:encoded>
+            <title><![CDATA[Franska spioner immuna mot ryska sexfällor]]></title>
+            <link>https://www.svd.se/a/0VjPr2/franska-spioner-immuna-mot-sexfallor-fruarna-vet-redan</link>
+            <guid>https://www.svd.se/a/0VjPr2/franska-spioner-immuna-mot-sexfallor-fruarna-vet-redan</guid>
+            <pubDate>Wed, 24 Apr 2024 16:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[Unik inblick – 20 agenter intervjuas • ”Fruarna vet redan”.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Trädgårdsupplevelser som vidgar vyerna]]></title>
@@ -190,18 +192,18 @@
             <content:encoded><![CDATA[Leif Andrées helg fylls av repetitioner, deckare – och något ovanligt.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Sista chansen innan Rafah-offensiv”]]></title>
-            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
-            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
-            <pubDate>Fri, 26 Apr 2024 16:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Israel vill att Hamas ”slutar förhala” förhandlingar om vapenvila • Senaste nytt.]]></content:encoded>
+            <title><![CDATA[Guvernör sköt ihjäl ”värdelös” hundvalp]]></title>
+            <link>https://www.svd.se/a/Gy1xnJ/potentiell-vicepresident-skot-ihjal-hundvalp</link>
+            <guid>https://www.svd.se/a/Gy1xnJ/potentiell-vicepresident-skot-ihjal-hundvalp</guid>
+            <pubDate>Sat, 27 Apr 2024 11:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[Trumps tänkbara vice­president skrev om dödandet i sin bok.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Vårvärme på gång – kan bli 20 grader]]></title>
-            <link>https://www.svd.se/a/W0Lv6G/varvarmen-pa-ingang-kan-bli-20-grader</link>
-            <guid>https://www.svd.se/a/W0Lv6G/varvarmen-pa-ingang-kan-bli-20-grader</guid>
-            <pubDate>Sat, 27 Apr 2024 09:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[Lagom till Valborg tycks våren äntligen anlända.]]></content:encoded>
+            <title><![CDATA[Konkursen hotar: Oscar Engelbert ensam kvar]]></title>
+            <link>https://www.svd.se/a/W0Lq9k/konkursen-hotar-oscar-properties-peter-norman-hoppar-av</link>
+            <guid>https://www.svd.se/a/W0Lq9k/konkursen-hotar-oscar-properties-peter-norman-hoppar-av</guid>
+            <pubDate>Fri, 26 Apr 2024 09:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[Pengarna nästan slut för Oscar Properties – begäran om konkurs inlämnad.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Framgången bröts – nu är de mer ogillade än SD]]></title>
@@ -211,18 +213,18 @@
             <content:encoded><![CDATA[Var jättepopulära – men efter kritiken av vita heterosexuella män vände det nedåt.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Ryska soldater har dödat över 100 efter hemkomst]]></title>
+            <link>https://www.svd.se/a/8qwpKE/ryska-soldater-har-dodat-over-100-efter-hemkomst</link>
+            <guid>https://www.svd.se/a/8qwpKE/ryska-soldater-har-dodat-over-100-efter-hemkomst</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[Kartläggning målar en grym bild av ryska veteraner – de flesta rekryterade från fängelser.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[”Här kommer inga dörrar att öppnas”]]></title>
             <link>https://www.svd.se/a/GMvmA9/leonard-taube-driver-noppe-bar-och-haller-klubben-fortsatt-exklusiv</link>
             <guid>https://www.svd.se/a/GMvmA9/leonard-taube-driver-noppe-bar-och-haller-klubben-fortsatt-exklusiv</guid>
             <pubDate>Fri, 26 Apr 2024 06:10:49 GMT</pubDate>
             <content:encoded><![CDATA[Leonard Taube om saknaden efter Noppe och den röda linjen för exklusiva klubben.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Öppna relationer laddat koncept på kryssning]]></title>
-            <link>https://www.svd.se/a/63n6le/recension-ledningen-laddar-kryssning-med-parterapi</link>
-            <guid>https://www.svd.se/a/63n6le/recension-ledningen-laddar-kryssning-med-parterapi</guid>
-            <pubDate>Sat, 27 Apr 2024 09:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[Frigruppen Ledningen testar parterapi på en kryssning.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Megafondens huvudvärk – har för mycket pengar]]></title>
@@ -232,18 +234,11 @@
             <content:encoded><![CDATA[Mirakelmedicinen gör Novo Nordisk stormrika – håller ägarfonden på att bli en stat i staten?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Jag ville vara som en robotdammsugare]]></title>
-            <link>https://www.svd.se/a/93ml7d/per-wastberg-jag-ville-vara-som-en-robotdammsugare</link>
-            <guid>https://www.svd.se/a/93ml7d/per-wastberg-jag-ville-vara-som-en-robotdammsugare</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Per Wästberg: </strong>Den lätthet som burit mig genom tillvaron har fått bly i vingarna.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Domare: ICJ bedömer ej folkmord som sannolikt]]></title>
-            <link>https://www.svd.se/a/VzR9qd/domare-icj-bedomer-inte-folkmord-som-sannolikt</link>
-            <guid>https://www.svd.se/a/VzR9qd/domare-icj-bedomer-inte-folkmord-som-sannolikt</guid>
-            <pubDate>Sat, 27 Apr 2024 06:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[Uttalandet om Gaza har feltolkats menar tidigare chefsdomaren Joan Donoghue.]]></content:encoded>
+            <title><![CDATA[”Vårt mål är bättre insyn i biståndet”]]></title>
+            <link>https://www.svd.se/a/zALGLq/m-kd-och-l-vi-okar-transparensen-i-bistandet</link>
+            <guid>https://www.svd.se/a/zALGLq/m-kd-och-l-vi-okar-transparensen-i-bistandet</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[M, KD och L: En förutsättning för att skattebetalarna ska vilja vara generösa.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Min fru är nöjd, lite lat och vill bli ’igångsatt’”]]></title>
@@ -260,18 +255,25 @@
             <content:encoded><![CDATA[Professor om hjältepsykologin: ”Ökad livsglädje, meningsfullhet och motståndskraft.”]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Domare: ICJ bedömer ej folkmord som sannolikt]]></title>
+            <link>https://www.svd.se/a/VzR9qd/domare-icj-bedomer-inte-folkmord-som-sannolikt</link>
+            <guid>https://www.svd.se/a/VzR9qd/domare-icj-bedomer-inte-folkmord-som-sannolikt</guid>
+            <pubDate>Sat, 27 Apr 2024 06:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[Uttalandet om Gaza har feltolkats menar tidigare chefsdomaren Joan Donoghue.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Maria Maunsbach: Har slampan ens funnits?]]></title>
+            <link>https://www.svd.se/a/W0lVMK/maria-maunsbach-har-slampan-ens-funnits</link>
+            <guid>https://www.svd.se/a/W0lVMK/maria-maunsbach-har-slampan-ens-funnits</guid>
+            <pubDate>Fri, 26 Apr 2024 16:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[Jämfört med verkligheten är Samantha från ”Sex and the city” en glimrande fantasi.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Källor: Tiktok stänger ner hellre än att sälja]]></title>
             <link>https://www.svd.se/a/5EVG6O/tiktok-kan-forbjudas-i-usa-vill-inte-salja</link>
             <guid>https://www.svd.se/a/5EVG6O/tiktok-kan-forbjudas-i-usa-vill-inte-salja</guid>
             <pubDate>Fri, 26 Apr 2024 16:10:51 GMT</pubDate>
             <content:encoded><![CDATA[Har nio månader på sig – men Tiktok vill inte släppa kontrollen över algoritmen.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bästa rödvinssåsen är ”fyllig och förförisk”]]></title>
-            <link>https://www.svd.se/a/Jb1WAR/test-basta-fardiga-rodvinssasen</link>
-            <guid>https://www.svd.se/a/Jb1WAR/test-basta-fardiga-rodvinssasen</guid>
-            <pubDate>Sat, 27 Apr 2024 11:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[SvD testar färdiga rödvinssåser – en får full pott och en tar tankarna till skolmatsalen.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Kanske finns den trots allt, skönheten]]></title>
