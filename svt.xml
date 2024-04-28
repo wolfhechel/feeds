@@ -4,7 +4,7 @@
         <title>SVT Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 06:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 09:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.svt.se/nyheter/inrikes/granskning-billigare-att-tanka-men-allt-dyrare-att-ta-bussen</link>
             <guid>https://www.svt.se/nyheter/inrikes/granskning-billigare-att-tanka-men-allt-dyrare-att-ta-bussen</guid>
             <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[Politikerna vill få fler åka kollektivtrafik – men biljettpriserna ökar • Här har det stigit mest]]></content:encoded>
+            <content:encoded><![CDATA[Politikerna vill få fler åka kollektivt – men biljettpriserna ökar • Här har det stigit mest]]></content:encoded>
             <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.29/0.33/e9238d47de844afd1629bed47dfac530dad9b45be26f10628435c1ede7809ad9" length="0" type="image/33/e9238d47de844afd1629bed47dfac530dad9b45be26f10628435c1ede7809ad9"/>
         </item>
         <item>
@@ -32,19 +32,35 @@
             <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.38/0.36/12f354339e439328ef0945e15dc59e3483704033d14b29953623615264395251" length="0" type="image/36/12f354339e439328ef0945e15dc59e3483704033d14b29953623615264395251"/>
         </item>
         <item>
-            <title><![CDATA[Högersväng väntas i Europa – så kan makten i EU förändras]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/hogersvang-vantas-i-europa-sa-kan-makten-i-eu-forandras</link>
-            <guid>https://www.svt.se/nyheter/utrikes/hogersvang-vantas-i-europa-sa-kan-makten-i-eu-forandras</guid>
-            <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[SVT:s Fouad Youcefi om grupperna som förväntas göra succé i EU-valet]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.25/0.4/a6095936f20433fe83ec2a3ef2662a92dc01e63136e7f716ab7f6f81bf3ac8f7" length="0" type="image/4/a6095936f20433fe83ec2a3ef2662a92dc01e63136e7f716ab7f6f81bf3ac8f7"/>
-        </item>
-        <item>
             <title><![CDATA[Så mycket påverkar EU dig i vardagen]]></title>
             <link>https://www.svt.se/nyheter/inrikes/sa-paverkar-eu-en-vanlig-dag</link>
             <guid>https://www.svt.se/nyheter/inrikes/sa-paverkar-eu-en-vanlig-dag</guid>
             <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
             <content:encoded><![CDATA[Följ med SVT:s reporter en vanlig dag på jobbet]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.32/0.42/e54e3ace3f21ad40516e6de13785d1c8820df9b29ae879e01bd0c9a7433cae06" length="0" type="image/42/e54e3ace3f21ad40516e6de13785d1c8820df9b29ae879e01bd0c9a7433cae06"/>
+        </item>
+        <item>
+            <title><![CDATA[Högersväng väntas i Europa – så kan makten i EU förändras]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/hogersvang-vantas-i-europa-sa-kan-makten-i-eu-forandras</link>
+            <guid>https://www.svt.se/nyheter/utrikes/hogersvang-vantas-i-europa-sa-kan-makten-i-eu-forandras</guid>
+            <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[SVT:s Fouad Youcefi om grupperna som förväntas göra succé i EU-valet]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.25/0.4/a6095936f20433fe83ec2a3ef2662a92dc01e63136e7f716ab7f6f81bf3ac8f7" length="0" type="image/4/a6095936f20433fe83ec2a3ef2662a92dc01e63136e7f716ab7f6f81bf3ac8f7"/>
+        </item>
+        <item>
+            <title><![CDATA[Allt du behöver veta inför valdagen]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/guide-till-eu-valet-2024</link>
+            <guid>https://www.svt.se/nyheter/inrikes/guide-till-eu-valet-2024</guid>
+            <pubDate>Sun, 28 Apr 2024 09:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[Så röstar du i EU-valet • Snabba svar på vanligaste frågorna]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Bläckfisken hjälper forskare att få fram smartare robotar]]></title>
+            <link>https://www.svt.se/nyheter/vetenskap/blackfisken-hjalper-forskare-att-fa-fram-smartare-robotar</link>
+            <guid>https://www.svt.se/nyheter/vetenskap/blackfisken-hjalper-forskare-att-fa-fram-smartare-robotar</guid>
+            <pubDate>Sun, 28 Apr 2024 09:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[Se fler exempel på hur biologi inspirerat forskare att utveckla ny teknik]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -80,6 +96,14 @@
             <enclosure url="https://www.svtstatic.se/image-news/200/square/0.51/0.31/4f05bd962c04ce807c41670ab6c95e187356d3a8dd08bf50fd3069660b7f8df4" length="0" type="image/31/4f05bd962c04ce807c41670ab6c95e187356d3a8dd08bf50fd3069660b7f8df4"/>
         </item>
         <item>
+            <title><![CDATA[Guillou om gripandet: ”Hamnar naken med armarna om halsen på polisen”]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/jan-guillou-om-gripandet-naken-med-armarna-om-halsen-pa-en-polis</link>
+            <guid>https://www.svt.se/nyheter/inrikes/jan-guillou-om-gripandet-naken-med-armarna-om-halsen-pa-en-polis</guid>
+            <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[51 år sedan IB-avslöjandet • Journalisterna greps för spioneri – överraskades av Säpo]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
             <title><![CDATA[Kritiken mot Ludmilas ex-man: ”Höll på att gå under”]]></title>
             <link>https://www.svt.se/sport/bob/bobakarnas-kritik-mot-johan-engquists-ledarskap-jag-holl-pa-att-ga-under</link>
             <guid>https://www.svt.se/sport/bob/bobakarnas-kritik-mot-johan-engquists-ledarskap-jag-holl-pa-att-ga-under</guid>
@@ -93,14 +117,6 @@
             <guid>https://www.svtplay.se/video/eXYgxoX/hall-of-fame-1/1-ludmila-drottning-av-sverige?info=visa</guid>
             <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
             <content:encoded><![CDATA[Dokumentär i två delar i Play]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Guillou om gripandet: ”Hamnar naken med armarna om halsen på polisen”]]></title>
-            <link>https://www.svt.se/nyheter/inrikes/jan-guillou-om-gripandet-naken-med-armarna-om-halsen-pa-en-polis</link>
-            <guid>https://www.svt.se/nyheter/inrikes/jan-guillou-om-gripandet-naken-med-armarna-om-halsen-pa-en-polis</guid>
-            <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[51 år sedan IB-avslöjandet • Journalisterna greps för spioneri – överraskades av Säpo]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -144,6 +160,22 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
+            <title><![CDATA[Trots Thompsons storspel – Vegas föll efter förlängning]]></title>
+            <link>https://www.svt.se/sport/ishockey/thompsons-storspel-rackte-inte-for-vegas-mot-dallas</link>
+            <guid>https://www.svt.se/sport/ishockey/thompsons-storspel-rackte-inte-for-vegas-mot-dallas</guid>
+            <pubDate>Sun, 28 Apr 2024 09:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[Johnston hjälte för Dallas • Se svettiga paraden]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Toronto föll igen – trots Marners läckra solomål]]></title>
+            <link>https://www.svt.se/sport/ishockey/william-nylander-tillbaka-men-toronto-foll-anda</link>
+            <guid>https://www.svt.se/sport/ishockey/william-nylander-tillbaka-men-toronto-foll-anda</guid>
+            <pubDate>Sun, 28 Apr 2024 09:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[Föll igen mot Boston – i Nylanders comeback • Se klipp]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
             <title><![CDATA[Irakisk influencer ihjälskjuten utanför sitt hem i Bagdad]]></title>
             <link>https://www.svt.se/kultur/irakisk-influencer-pa-tiktok-ihjalskjuten</link>
             <guid>https://www.svt.se/kultur/irakisk-influencer-pa-tiktok-ihjalskjuten</guid>
@@ -181,6 +213,30 @@
             <guid>https://www.svtplay.se/den-stora-algvandringen</guid>
             <pubDate>Sat, 27 Apr 2024 11:05:13 GMT</pubDate>
             <content:encoded><![CDATA[Följ älgarnas vandring till sommarens rika betesmarker]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[”Inget talar för att Skellefteå kommer förlora ännu en final”]]></title>
+            <link>https://www.svt.se/sport/ishockey/experten-inget-talar-for-att-skelleftea-kommer-forlora-annu-en-final</link>
+            <guid>https://www.svt.se/sport/ishockey/experten-inget-talar-for-att-skelleftea-kommer-forlora-annu-en-final</guid>
+            <pubDate>Sun, 28 Apr 2024 09:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[Experten inför guldchansen: ”Vågar spela hockey”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Skellefteå en vinst från guld – stjärnan avgjorde rysare]]></title>
+            <link>https://www.svt.se/sport/ishockey/skelleftea-vinner-mot-rogle-i-forlangning</link>
+            <guid>https://www.svt.se/sport/ishockey/skelleftea-vinner-mot-rogle-i-forlangning</guid>
+            <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[”Svårt inte passa när han skriker som han gör” • Rögle i brygga]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Kritiserar domarnivån i slutspelet: ”I stort sett omöjligt”]]></title>
+            <link>https://www.svt.se/sport/ishockey/jonas-andersson-om-domarnivan-det-finns-ett-problem</link>
+            <guid>https://www.svt.se/sport/ishockey/jonas-andersson-om-domarnivan-det-finns-ett-problem</guid>
+            <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[Se experternas exempel • ”Det finns ett problem”]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -224,19 +280,11 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Jan Johanssons hårdrockssöner tolkar ”Jazz på Svenska”]]></title>
+            <title><![CDATA[Jan Johanssons hårdrockssöner spelar ”Jazz på Svenska”]]></title>
             <link>https://www.svt.se/nyheter/lokalt/gavleborg/jan-johanssons-hardrockssoner-tolkar-jazz-pa-svenska-i-soderhamn</link>
             <guid>https://www.svt.se/nyheter/lokalt/gavleborg/jan-johanssons-hardrockssoner-tolkar-jazz-pa-svenska-i-soderhamn</guid>
             <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
             <content:encoded><![CDATA[Legendarens musik lever vidare i Söderhamn • Roligare än metal: ”... eftersom det är svårare”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Biljakt i Göteborg – polis avfyrade vapen]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/vast/biljakt-i-goteborg-polis-avfyrade-vapen</link>
-            <guid>https://www.svt.se/nyheter/lokalt/vast/biljakt-i-goteborg-polis-avfyrade-vapen</guid>
-            <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[Polis blev påkörd • Två män gripna]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -245,22 +293,6 @@
             <guid>https://www.svt.se/nyheter/utrikes/spanjorer-vadjar-till-pedro-sanchez-avga-inte</guid>
             <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
             <content:encoded><![CDATA[Tusentals demonstrerade till stöd för premiärministern]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Skellefteå en vinst från guld – stjärnan avgjorde rysare]]></title>
-            <link>https://www.svt.se/sport/ishockey/skelleftea-vinner-mot-rogle-i-forlangning</link>
-            <guid>https://www.svt.se/sport/ishockey/skelleftea-vinner-mot-rogle-i-forlangning</guid>
-            <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[”Svårt inte passa när han skriker som han gör” • Rögle i brygga]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Kritiserar domarnivån i slutspelet: ”I stort sett omöjligt”]]></title>
-            <link>https://www.svt.se/sport/ishockey/jonas-andersson-om-domarnivan-det-finns-ett-problem</link>
-            <guid>https://www.svt.se/sport/ishockey/jonas-andersson-om-domarnivan-det-finns-ett-problem</guid>
-            <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[Se experternas exempel • ”Det finns ett problem”]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -280,12 +312,12 @@
             <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.77/0.11/41cbf80ecc9c6c603395aa20089a0b7de699e6ffd027859bdb05904fa1747c65" length="0" type="image/11/41cbf80ecc9c6c603395aa20089a0b7de699e6ffd027859bdb05904fa1747c65"/>
         </item>
         <item>
-            <title><![CDATA[Fridolina Rolfö avgjorde för Barcelona – klart för Champions League-final]]></title>
-            <link>https://www.svt.se/sport/fotboll/fridolina-rolfo-avgjorde-for-barcelona-klart-for-champions-league-final</link>
-            <guid>https://www.svt.se/sport/fotboll/fridolina-rolfo-avgjorde-for-barcelona-klart-for-champions-league-final</guid>
+            <title><![CDATA[Jan Johanssons hårdrockssöner spelar ”Jazz på Svenska” i Söderhamn]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/gavleborg/jan-johanssons-hardrockssoner-tolkar-jazz-pa-svenska-i-soderhamn</link>
+            <guid>https://www.svt.se/nyheter/lokalt/gavleborg/jan-johanssons-hardrockssoner-tolkar-jazz-pa-svenska-i-soderhamn</guid>
             <pubDate>Sun, 28 Apr 2024 06:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/sport/fotboll/fridolina-rolfo-avgjorde-for-barcelona-klart-for-champions-league-final" title="Fridolina Rolfö avgjorde för Barcelona – klart för Champions League-final"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.52/0.38/f00d25f4a1eb8cde4677cebc950f2b0046ceda3cb7e57cceb68f011003e77b6a" alt="Fridolina Rolfö avjgorde Champions League-semifinalen mot Chelsea." title="Foto: Bildbyrån"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Fridolina Rolfö avgjorde för Barcelona – klart för Champions League-final</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.52/0.38/f00d25f4a1eb8cde4677cebc950f2b0046ceda3cb7e57cceb68f011003e77b6a" length="0" type="image/38/f00d25f4a1eb8cde4677cebc950f2b0046ceda3cb7e57cceb68f011003e77b6a"/>
+            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/lokalt/gavleborg/jan-johanssons-hardrockssoner-tolkar-jazz-pa-svenska-i-soderhamn" title="Jan Johanssons hårdrockssöner spelar ”Jazz på Svenska” i Söderhamn"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.49/0.34/2c6509956f7cfa2f53e88db92c0a9fd7a62f3143ef5a7aa04fa0a71f7d374579" alt="Bröderna Jens och Anders Johansson mellan flygel och kontrabas." title="Foto: Lari Honkanen/SVT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Jan Johanssons hårdrockssöner spelar ”Jazz på Svenska” i Söderhamn</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.49/0.34/2c6509956f7cfa2f53e88db92c0a9fd7a62f3143ef5a7aa04fa0a71f7d374579" length="0" type="image/34/2c6509956f7cfa2f53e88db92c0a9fd7a62f3143ef5a7aa04fa0a71f7d374579"/>
         </item>
     </channel>
 </rss>
