@@ -4,24 +4,24 @@
         <title>SVT Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 May 2024 06:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 09:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[USA-fängslade svenskens lyxhus i Dubai – har skulder för miljarder]]></title>
-            <link>https://www.svt.se/nyheter/granskning/ug/usa-fangslade-svenskens-lyxhus-i-dubai-har-skulder-pa-tre-miljarder</link>
-            <guid>https://www.svt.se/nyheter/granskning/ug/usa-fangslade-svenskens-lyxhus-i-dubai-har-skulder-pa-tre-miljarder</guid>
-            <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[Sebastian Greenwood dömdes till 20 års fängelse – lurade miljoner människor]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.99/0.44/04c03a7305afec7bbd13e8f8980fa375193f1b19e00f1f8bc4fcfdb72055b6d0" length="0" type="image/44/04c03a7305afec7bbd13e8f8980fa375193f1b19e00f1f8bc4fcfdb72055b6d0"/>
-        </item>
         <item>
             <title><![CDATA[Här erbjuds UG:s reporter köpa en lägenhet – cash : ”Väskor med kontanter”]]></title>
             <link>https://www.svt.se/nyheter/granskning/ug/har-erbjuds-svts-reporter-att-kopa-en-lagenhet-cash-vaskor-med-kontanter</link>
             <guid>https://www.svt.se/nyheter/granskning/ug/har-erbjuds-svts-reporter-att-kopa-en-lagenhet-cash-vaskor-med-kontanter</guid>
             <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
             <content:encoded><![CDATA[Erbjuds lägenhet i Dubai på samma våning som svenska gängledaren]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.5/0.5/461ca821c3d7d33fc2ea8fc8e66b1dbea50d6c984809943d3660274e5002d974" length="0" type="image/5/461ca821c3d7d33fc2ea8fc8e66b1dbea50d6c984809943d3660274e5002d974"/>
+            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.5/0.5/461ca821c3d7d33fc2ea8fc8e66b1dbea50d6c984809943d3660274e5002d974" length="0" type="image/5/461ca821c3d7d33fc2ea8fc8e66b1dbea50d6c984809943d3660274e5002d974"/>
+        </item>
+        <item>
+            <title><![CDATA[USA-fängslade svenskens lyxhus i Dubai – har skulder för miljarder]]></title>
+            <link>https://www.svt.se/nyheter/granskning/ug/usa-fangslade-svenskens-lyxhus-i-dubai-har-skulder-pa-tre-miljarder</link>
+            <guid>https://www.svt.se/nyheter/granskning/ug/usa-fangslade-svenskens-lyxhus-i-dubai-har-skulder-pa-tre-miljarder</guid>
+            <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[Sebastian Greenwood dömdes till 20 års fängelse – lurade miljoner människor]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.99/0.44/04c03a7305afec7bbd13e8f8980fa375193f1b19e00f1f8bc4fcfdb72055b6d0" length="0" type="image/44/04c03a7305afec7bbd13e8f8980fa375193f1b19e00f1f8bc4fcfdb72055b6d0"/>
         </item>
         <item>
             <title><![CDATA[Åklagaren: ”Förvånar mig något oerhört”]]></title>
@@ -40,12 +40,44 @@
             <enclosure url="https://www.svtstatic.se/image-news/200/square/0.5/0.5/c57886bd2e5db866916be03ac10c022461528d34f3765bf05ca1fedecac498bf" length="0" type="image/5/c57886bd2e5db866916be03ac10c022461528d34f3765bf05ca1fedecac498bf"/>
         </item>
         <item>
+            <title><![CDATA[Gasolycka på Dafgårds fabrik – sju till sjukhus]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/vast/larm-om-misstankt-arbetsplatsolycka-i-gotene</link>
+            <guid>https://www.svt.se/nyheter/lokalt/vast/larm-om-misstankt-arbetsplatsolycka-i-gotene</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Stort räddningspådrag i Götene]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.38/0.54/2fc93cf2bd8e3683a84c60833e3a65b70565defd95c4847dda32411b7e8cfb20" length="0" type="image/54/2fc93cf2bd8e3683a84c60833e3a65b70565defd95c4847dda32411b7e8cfb20"/>
+        </item>
+        <item>
+            <title><![CDATA[Inflationen stiger i april: ”Bra nyheter”]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/inflationen-stiger-i-april</link>
+            <guid>https://www.svt.se/nyheter/inrikes/inflationen-stiger-i-april</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Landar på 2,3 procent enligt KPIF • SVT:s ekonomikommentator: Så kan räntan påverkas]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Gör ditt eget taco-index]]></title>
+            <link>https://www.svt.se/datajournalistik/bygg-din-varukorg-hur-dyrblir-maten/</link>
+            <guid>https://www.svt.se/datajournalistik/bygg-din-varukorg-hur-dyrblir-maten/</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Bygg din egen varukorg – hur dyr blir den?]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Djupdykning i inflationen]]></title>
+            <link>https://www.svt.se/special/djupdykning-i-inflationen/</link>
+            <guid>https://www.svt.se/special/djupdykning-i-inflationen/</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Allt du behöver veta om inflationen]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
             <title><![CDATA[Forskare om SD:s anonyma konton: ”Balanserar på gränsen”]]></title>
             <link>https://www.svt.se/nyheter/inrikes/forskare-om-sd-avslojandet-balanserar-pa-gransen</link>
             <guid>https://www.svt.se/nyheter/inrikes/forskare-om-sd-avslojandet-balanserar-pa-gransen</guid>
             <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[Vad är en trollfabrik och hur fungerar den? SVT:s reporter reder ut]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.72/0.36/967706d06bbf0a6dd7caf805f7c4b3ca077a480e07ffc96f84fff24409ccae96" length="0" type="image/36/967706d06bbf0a6dd7caf805f7c4b3ca077a480e07ffc96f84fff24409ccae96"/>
+            <content:encoded><![CDATA[Vad är en trollfabrik och hur fungerar den? SVT:s reder ut]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[Åkesson: ”Oförargligt – handlar om satiriska humorklipp”]]></title>
@@ -72,6 +104,22 @@
             <enclosure url="https://www.svtstatic.se/image-news/200/square/0.5/0.5/90fcd4273fad4d9dd044d0a092fd5eb5aa17abb332aea0eebf7dd7c12140aded" length="0" type="image/5/90fcd4273fad4d9dd044d0a092fd5eb5aa17abb332aea0eebf7dd7c12140aded"/>
         </item>
         <item>
+            <title><![CDATA[”Budget-Italien” och Östersjöns riviera – här är billiga resmålen]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/expertens-tips-om-budgetresemal-infor-semestern</link>
+            <guid>https://www.svt.se/nyheter/inrikes/expertens-tips-om-budgetresemal-infor-semestern</guid>
+            <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[Experten tipsar om var semesterkassan räcker längst i sommar • ”Halva priset mot Sverige”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Så mycket solskydd ska du använda – egentligen]]></title>
+            <link>https://www.svt.se/vader/sa-mycket-solskydd-ska-du-anvanda-egentligen</link>
+            <guid>https://www.svt.se/vader/sa-mycket-solskydd-ska-du-anvanda-egentligen</guid>
+            <pubDate>Tue, 14 May 2024 16:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[Hudläkaren: Lika bra att satsa på de styrkorna]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
             <title><![CDATA[Kaitlyn fick fem missfall i 'Cancer Alley': ”Varför bor vi ens här?”]]></title>
             <link>https://www.svt.se/nyheter/utrikes/missfall-kopplas-till-kemikaliefabriker-i-cancer-alley</link>
             <guid>https://www.svt.se/nyheter/utrikes/missfall-kopplas-till-kemikaliefabriker-i-cancer-alley</guid>
@@ -88,11 +136,11 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Svensk sjukvårdsutrustning för 14 miljoner till Ukraina]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=2d0c4c35e31cd41d49ff2008faea1bff</link>
-            <guid>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=2d0c4c35e31cd41d49ff2008faea1bff</guid>
-            <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[Sjunde leveransen som Sverige skickar]]></content:encoded>
+            <title><![CDATA[Polischef: ”Extremt svårt” läge i Vovtjansk]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=17eaade1f7c4d8fe90dc541257487e85</link>
+            <guid>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=17eaade1f7c4d8fe90dc541257487e85</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Gatustrider pågår]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -104,31 +152,87 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Expertens tips: Bästa budgetresmålen i sommar]]></title>
-            <link>https://www.svt.se/nyheter/inrikes/expertens-tips-om-budgetresemal-infor-semestern</link>
-            <guid>https://www.svt.se/nyheter/inrikes/expertens-tips-om-budgetresemal-infor-semestern</guid>
-            <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[Här är länderna du får mest för semesterpengarna]]></content:encoded>
+            <title><![CDATA[Svensken får nytt toppjobb inom Fifa: ”Finns inga ord”]]></title>
+            <link>https://www.svt.se/sport/fotboll/svensk-ny-generalsekreterare-i-fifa</link>
+            <guid>https://www.svt.se/sport/fotboll/svensk-ny-generalsekreterare-i-fifa</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Blir en av fotbollens mäktigaste]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Solen är här för att stanna: ”Kan bli årets varmaste dag – hittills”]]></title>
-            <link>https://www.svt.se/vader/solen-har-for-att-stanna-kan-bli-arets-varmaste-dag-hittills</link>
-            <guid>https://www.svt.se/vader/solen-har-for-att-stanna-kan-bli-arets-varmaste-dag-hittills</guid>
-            <pubDate>Tue, 14 May 2024 16:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[UV-index: Kan vara farligt med en halvtimme i solen just nu]]></content:encoded>
+            <title><![CDATA[Här hoppar älgen in på en förskola i Uppsala]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/uppsala/se-nar-algen-hoppar-in-pa-en-forskola-i-uppsala</link>
+            <guid>https://www.svt.se/nyheter/lokalt/uppsala/se-nar-algen-hoppar-in-pa-en-forskola-i-uppsala</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[”Jag har aldrig varit så nära en älg”]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Så mycket solskydd ska du använda – egentligen]]></title>
-            <link>https://www.svt.se/vader/sa-mycket-solskydd-ska-du-anvanda-egentligen</link>
-            <guid>https://www.svt.se/vader/sa-mycket-solskydd-ska-du-anvanda-egentligen</guid>
-            <pubDate>Tue, 14 May 2024 16:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[Hudläkaren: Lika bra att satsa på de styrkorna]]></content:encoded>
+            <title><![CDATA[Stjärnan saknas på Tre Kronors träning]]></title>
+            <link>https://www.svt.se/sport/ishockey/hockey-vm-2024</link>
+            <guid>https://www.svt.se/sport/ishockey/hockey-vm-2024</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[”Medicinska skäl”]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Källor: USA skickar nytt vapenpaket värt miljarder till Israel]]></title>
+            <title><![CDATA[Tre Kronor-stjärnan om ovanliga beslutet: ”Känner mig rätt trygg”]]></title>
+            <link>https://www.svt.se/sport/ishockey/lucas-raymonds-ovanliga-beslut-akte-till-vm-utan-nhl-kontrakt</link>
+            <guid>https://www.svt.se/sport/ishockey/lucas-raymonds-ovanliga-beslut-akte-till-vm-utan-nhl-kontrakt</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Berättar om utvecklingen: ”Man lär sig ta hand om sin kropp”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Galna upphämtningen – fem mål i sista perioden mot Kanada]]></title>
+            <link>https://www.svt.se/sport/ishockey/osterrike-stod-for-sanslos-upphamtning-mot-kanada-fem-mal-i-tredje-perioden</link>
+            <guid>https://www.svt.se/sport/ishockey/osterrike-stod-for-sanslos-upphamtning-mot-kanada-fem-mal-i-tredje-perioden</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Första poängen mot stornationen på 20 år]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Hockey-VM herrar 2024]]></title>
+            <link>https://www.svt.se/sport/ishockey/ishockey-vm-herrar-2024-spelprogram-och-tider</link>
+            <guid>https://www.svt.se/sport/ishockey/ishockey-vm-herrar-2024-spelprogram-och-tider</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Spelprogram och tider]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.52/0.35/097a7cc039584f6f325011746f9b3944e09d88b7c957dbb7880020621115af96" length="0" type="image/35/097a7cc039584f6f325011746f9b3944e09d88b7c957dbb7880020621115af96"/>
+        </item>
+        <item>
+            <title><![CDATA[Sjöstedt (V) sågar M-förslag: Inget reseförbud för misstänkta]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/toppkandidaterna-tobe-m-och-sjostedt-v-i-debattduell-infor-eu-valet</link>
+            <guid>https://www.svt.se/nyheter/inrikes/toppkandidaterna-tobe-m-och-sjostedt-v-i-debattduell-infor-eu-valet</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[EU-toppkandidaterna i debattduell • ”Slirar i rättssäkerhetens tassemarker”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Fritzon (S) och Weimers (SD) i migrationsdebatt: Kaoset ökar]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/s-och-sd-i-eu-duell-om-migrationen-kaoset-okar</link>
+            <guid>https://www.svt.se/nyheter/inrikes/s-och-sd-i-eu-duell-om-migrationen-kaoset-okar</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Möttes i EU-duell i Morgonstudion • SD vill bygga mur – S starkt emot]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Gör SVT:s valkompass för EU-val 2024]]></title>
+            <link>https://valkompass.svt.se/eu-2024/</link>
+            <guid>https://valkompass.svt.se/eu-2024/</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Se vilka partier och kandidater som tycker mest som du]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Varnar för falska påståenden inför EU-valet – här är tre teman]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/paverkansforsoken-ar-mer-sofistikerade-har-ar-tre-teman-i-eu-desinformationen</link>
+            <guid>https://www.svt.se/nyheter/utrikes/paverkansforsoken-ar-mer-sofistikerade-har-ar-tre-teman-i-eu-desinformationen</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[EU-chefen: ”Inget medlemsland är helt säkert” • Desinformation om allt från jordbruk till Ukraina]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.32/0.28/a6a1cb588e73f5b628d8c540a0287dc2544e583b3d695a706dd1e1a0fb629c8e" length="0" type="image/28/a6a1cb588e73f5b628d8c540a0287dc2544e583b3d695a706dd1e1a0fb629c8e"/>
+        </item>
+        <item>
+            <title><![CDATA[Källor: USA skickar nytt vapenpaket  till Israel]]></title>
             <link>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=4d53123155af444a5d0afe67b57bbb8a</link>
             <guid>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=4d53123155af444a5d0afe67b57bbb8a</guid>
             <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
@@ -160,11 +264,19 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[41-åring sköts ihjäl i Södertälje – i dag faller hovrättsdomen]]></title>
+            <title><![CDATA[Dunst och Reeves i Ruben Östlunds nya film]]></title>
+            <link>https://www.svt.se/kultur/dunst-och-reeves-i-ruben-ostlunds-nya-film</link>
+            <guid>https://www.svt.se/kultur/dunst-och-reeves-i-ruben-ostlunds-nya-film</guid>
+            <pubDate>Wed, 15 May 2024 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Ska utspela sig på ett flygplan]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[41-åringen sköts till döds – hovrätten fastställer morddom]]></title>
             <link>https://www.svt.se/nyheter/lokalt/sodertalje/41-aring-skots-ihjal-i-ronna-mordarens-alder-central-for-hovrattsdomen</link>
             <guid>https://www.svt.se/nyheter/lokalt/sodertalje/41-aring-skots-ihjal-i-ronna-mordarens-alder-central-for-hovrattsdomen</guid>
             <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[Frågan: Var mannen under eller över 18 år vid tidpunkten för mordet?]]></content:encoded>
+            <content:encoded><![CDATA[Hovrättens avgörande • Frågan: Var mannen under eller över 18 år vid tidpunkten för mordet?]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -208,116 +320,28 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Kontroversiell ”agentlag” antagen i Georgien]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/kontroversiell-agentlag-rostas-igenom-i-georgien</link>
-            <guid>https://www.svt.se/nyheter/utrikes/kontroversiell-agentlag-rostas-igenom-i-georgien</guid>
-            <pubDate>Tue, 14 May 2024 16:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[Ledamöter i parlamentet rök ihop i samband med omröstningen]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Otäck krasch i mötet mellan Indianerna och Dackarna]]></title>
-            <link>https://www.svt.se/sport/speedway/otack-krasch-i-motet-mellan-indianerna-och-dackarna</link>
-            <guid>https://www.svt.se/sport/speedway/otack-krasch-i-motet-mellan-indianerna-och-dackarna</guid>
+            <title><![CDATA[USA-fängslade svenskens lyxhus i Dubai – har skulder på tre miljarder]]></title>
+            <link>https://www.svt.se/nyheter/granskning/ug/usa-fangslade-svenskens-lyxhus-i-dubai-har-skulder-pa-tre-miljarder</link>
+            <guid>https://www.svt.se/nyheter/granskning/ug/usa-fangslade-svenskens-lyxhus-i-dubai-har-skulder-pa-tre-miljarder</guid>
             <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[Två förare inblandade • Indianerna vann]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Barcelonabor lajvar svenskhet i ”This is not Sweden”]]></title>
-            <link>https://www.svt.se/kultur/recension-barcelonabor-lajvar-svenskhet-i-this-is-not-sweden</link>
-            <guid>https://www.svt.se/kultur/recension-barcelonabor-lajvar-svenskhet-i-this-is-not-sweden</guid>
-            <pubDate>Tue, 14 May 2024 16:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[”Lite för tandlös för att kallas satir”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Degerfors förlorade derbyt efter jättemissen: ”Känns piss”]]></title>
-            <link>https://www.svt.se/sport/fotboll/degerfors-forlorade-derbyt-mot-orebro-efter-mardromsminuter-och-jattemiss</link>
-            <guid>https://www.svt.se/sport/fotboll/degerfors-forlorade-derbyt-mot-orebro-efter-mardromsminuter-och-jattemiss</guid>
-            <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[Klipp: Se superblundern • Läckert mål av Örebro]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Så kan du få bukt med hungriga björnar vid huset]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/dalarna/lansstyrelsen-sa-far-man-bukt-med-hungriga-bjornar-i-bebyggelse</link>
-            <guid>https://www.svt.se/nyheter/lokalt/dalarna/lansstyrelsen-sa-far-man-bukt-med-hungriga-bjornar-i-bebyggelse</guid>
-            <pubDate>Tue, 14 May 2024 16:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[”Ju mer de vänjer sig vid människor, ju mindre rädda blir de” • Här är åtgärderna]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Här gräver ”Lill-Baloo” i myrstacken vid stugan]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/dalarna/har-graver-lill-baloo-i-myrstacken</link>
-            <guid>https://www.svt.se/nyheter/lokalt/dalarna/har-graver-lill-baloo-i-myrstacken</guid>
-            <pubDate>Tue, 14 May 2024 16:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[”Ser att det börjar röra sig i skogen” • Isabelle fångade hungrig björnfamilj på bild]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Almgren inför OS-kvaljakten: ”Jag är inte trygg”]]></title>
-            <link>https://www.svt.se/sport/friidrott/andreas-almgren-infor-kvaljakten-pa-5000-meter-jag-ar-inte-trygg</link>
-            <guid>https://www.svt.se/sport/friidrott/andreas-almgren-infor-kvaljakten-pa-5000-meter-jag-ar-inte-trygg</guid>
-            <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[Ska försöka ta dubbel OS-plats]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Larssons nya rekord: ”Riktigt glädjande”]]></title>
-            <link>https://www.svt.se/sport/friidrott/jacob-hard-efter-henrik-larssons-nya-svenska-rekord-riktigt-gladjande-for-svensk-friidrott</link>
-            <guid>https://www.svt.se/sport/friidrott/jacob-hard-efter-henrik-larssons-nya-svenska-rekord-riktigt-gladjande-for-svensk-friidrott</guid>
-            <pubDate>Tue, 14 May 2024 16:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[Jacob Hård om OS-chansen]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Succé för Henrik Larsson – slog nytt svenskt rekord]]></title>
-            <link>https://www.svt.se/sport/friidrott/nytt-svenskt-rekord-av-henrik-larsson-100-meter</link>
-            <guid>https://www.svt.se/sport/friidrott/nytt-svenskt-rekord-av-henrik-larsson-100-meter</guid>
-            <pubDate>Tue, 14 May 2024 16:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[”Lite oväntat”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Vännerna försökte få kvinnan att lämna Lessebo: ”Varnade henne”]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/smaland/vannerna-forsokte-fa-kvinnan-att-lamna-lessebo-varnade-henne</link>
-            <guid>https://www.svt.se/nyheter/lokalt/smaland/vannerna-forsokte-fa-kvinnan-att-lamna-lessebo-varnade-henne</guid>
-            <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[Hade planer på förlovning, flytt och nytt jobb]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Kvinna hittad död i vindskydd – detta vet vi]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/smaland/kvinna-hittad-dod-i-vindskydd-i-lessebo</link>
-            <guid>https://www.svt.se/nyheter/lokalt/smaland/kvinna-hittad-dod-i-vindskydd-i-lessebo</guid>
-            <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[Släktingar häktade misstänkta för mordet]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Åkesson: ”Oförargligt – handlar om satiriska humorklipp”]]></title>
-            <link>https://www.svt.se/nyheter/inrikes/jimmie-akesson-en-paverkansoperation</link>
-            <guid>https://www.svt.se/nyheter/inrikes/jimmie-akesson-en-paverkansoperation</guid>
-            <pubDate>Tue, 14 May 2024 11:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/inrikes/jimmie-akesson-en-paverkansoperation" title="Åkesson: ”Oförargligt – handlar om satiriska humorklipp”"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.49/0.42/2a6a07e88bfe615479e76c9e9e1fa61373abec470712dc7ae7a89ef6c812f0db" alt="Jimmie Åkesson mot blå vägg i intervju efter Kalla faktas granskning." title="Foto: Anders Öhlund / SVT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Åkesson: ”Oförargligt – handlar om satiriska humorklipp”</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.49/0.42/2a6a07e88bfe615479e76c9e9e1fa61373abec470712dc7ae7a89ef6c812f0db" length="0" type="image/42/2a6a07e88bfe615479e76c9e9e1fa61373abec470712dc7ae7a89ef6c812f0db"/>
+            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/granskning/ug/usa-fangslade-svenskens-lyxhus-i-dubai-har-skulder-pa-tre-miljarder" title="USA-fängslade svenskens lyxhus i Dubai – har skulder på tre miljarder"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.99/0.44/04c03a7305afec7bbd13e8f8980fa375193f1b19e00f1f8bc4fcfdb72055b6d0" alt="Sebastian Greenwood" title="Foto: Foto: Foto: Polisen/Onecoin"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">USA-fängslade svenskens lyxhus i Dubai – har skulder på tre miljarder</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.99/0.44/04c03a7305afec7bbd13e8f8980fa375193f1b19e00f1f8bc4fcfdb72055b6d0" length="0" type="image/44/04c03a7305afec7bbd13e8f8980fa375193f1b19e00f1f8bc4fcfdb72055b6d0"/>
         </item>
         <item>
             <title><![CDATA[Forskare om SD-avslöjandet: ”Balanserar på gränsen”]]></title>
             <link>https://www.svt.se/nyheter/inrikes/forskare-om-sd-avslojandet-balanserar-pa-gransen</link>
             <guid>https://www.svt.se/nyheter/inrikes/forskare-om-sd-avslojandet-balanserar-pa-gransen</guid>
             <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/inrikes/forskare-om-sd-avslojandet-balanserar-pa-gransen" title="Forskare om SD-avslöjandet: ”Balanserar på gränsen”"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.76/0.33/ff3a5e22780344f584ab33c40486dea3eaddcb6413cdf095e7b08c5447c4f924" alt="En dator i närbild och SVT:s reporter" title="Foto: SVT/TT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Forskare om SD-avslöjandet: ”Balanserar på gränsen”</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.76/0.33/ff3a5e22780344f584ab33c40486dea3eaddcb6413cdf095e7b08c5447c4f924" length="0" type="image/33/ff3a5e22780344f584ab33c40486dea3eaddcb6413cdf095e7b08c5447c4f924"/>
+            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/inrikes/forskare-om-sd-avslojandet-balanserar-pa-gransen" title="Forskare om SD-avslöjandet: ”Balanserar på gränsen”"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.71/0.44/967706d06bbf0a6dd7caf805f7c4b3ca077a480e07ffc96f84fff24409ccae96" alt="Forskare" title="Foto: SVT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Forskare om SD-avslöjandet: ”Balanserar på gränsen”</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.71/0.44/967706d06bbf0a6dd7caf805f7c4b3ca077a480e07ffc96f84fff24409ccae96" length="0" type="image/44/967706d06bbf0a6dd7caf805f7c4b3ca077a480e07ffc96f84fff24409ccae96"/>
         </item>
         <item>
-            <title><![CDATA[Hund dök plötsligt upp på vägen mitt under Giro d'Italia]]></title>
-            <link>https://www.svt.se/sport/cykel/hund-dok-plotsligt-upp-pa-vagen-mitt-under-giro-ditalia</link>
-            <guid>https://www.svt.se/sport/cykel/hund-dok-plotsligt-upp-pa-vagen-mitt-under-giro-ditalia</guid>
+            <title><![CDATA[Otäck krasch i mötet mellan Indianerna och Dackarna]]></title>
+            <link>https://www.svt.se/sport/speedway/otack-krasch-i-motet-mellan-indianerna-och-dackarna</link>
+            <guid>https://www.svt.se/sport/speedway/otack-krasch-i-motet-mellan-indianerna-och-dackarna</guid>
             <pubDate>Wed, 15 May 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/sport/cykel/hund-dok-plotsligt-upp-pa-vagen-mitt-under-giro-ditalia" title="Hund dök plötsligt upp på vägen mitt under Giro d'Italia"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.65/0.48/95fc2489f4d07258ca0fcb3aded3c5c37763dd125829f7d7f642d3a58166a3de" alt="Hund på cykelbana" title="Foto: Eurosport"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Hund dök plötsligt upp på vägen mitt under Giro d'Italia</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.65/0.48/95fc2489f4d07258ca0fcb3aded3c5c37763dd125829f7d7f642d3a58166a3de" length="0" type="image/48/95fc2489f4d07258ca0fcb3aded3c5c37763dd125829f7d7f642d3a58166a3de"/>
+            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/sport/speedway/otack-krasch-i-motet-mellan-indianerna-och-dackarna" title="Otäck krasch i mötet mellan Indianerna och Dackarna"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.39/0.47/cf0f15c652c18bc21cadf0d3e883afd30323aea6fee9964e9d0e181e8af563cd" alt="Det blev en otäck krasch i mötet mellan Indianerna och Dackarna." title="Foto: ESS-play"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Otäck krasch i mötet mellan Indianerna och Dackarna</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.39/0.47/cf0f15c652c18bc21cadf0d3e883afd30323aea6fee9964e9d0e181e8af563cd" length="0" type="image/47/cf0f15c652c18bc21cadf0d3e883afd30323aea6fee9964e9d0e181e8af563cd"/>
         </item>
     </channel>
 </rss>
