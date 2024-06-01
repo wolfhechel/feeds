@@ -4,16 +4,9 @@
         <title>SVT Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 09:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 11:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[SMHI varnar för regn och åska i södra Sverige]]></title>
-            <link>https://www.svt.se/vader/smhi-varnar-for-regn-och-aska-mh31vc</link>
-            <guid>https://www.svt.se/vader/smhi-varnar-for-regn-och-aska-mh31vc</guid>
-            <pubDate>Sat, 01 Jun 2024 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[Kan bli upp mot 40 millimeter regn på kort tid • Gul varning utfärdad]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Här stoppas anställd på Malmö stad – med falskt körkort]]></title>
             <link>https://www.svt.se/nyheter/lokalt/skane/har-stoppas-malmo-stads-anstallde-av-polis-visar-upp-falskt-korkort</link>
@@ -39,12 +32,20 @@
             <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.07/0.15/305bb4eaf97625c3c9b645923fbc3daab8265b410c653f81b54a443158505752" length="0" type="image/15/305bb4eaf97625c3c9b645923fbc3daab8265b410c653f81b54a443158505752"/>
         </item>
         <item>
+            <title><![CDATA[EU dras mot ytterkanterna – därför sker en högersväng nu]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/darfor-dras-eu-mot-ytterkanterna</link>
+            <guid>https://www.svt.se/nyheter/utrikes/darfor-dras-eu-mot-ytterkanterna</guid>
+            <pubDate>Sat, 01 Jun 2024 11:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[Från klimat till kulturkrig – polarisering spås öka • Statsvetaren: ”Partierna vill göra något annorlunda”]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.76/0.44/f0f69349cbc6e43a893ed23cef96630819f58bb4797a8fd7a6297cd571c987cd" length="0" type="image/44/f0f69349cbc6e43a893ed23cef96630819f58bb4797a8fd7a6297cd571c987cd"/>
+        </item>
+        <item>
             <title><![CDATA[Nattlås och hårdare tag – så vill partierna begränsa skärmtiden]]></title>
             <link>https://www.svt.se/nyheter/inrikes/eu-valet-sa-vill-svenska-partier-begransa-skarmtiden</link>
             <guid>https://www.svt.se/nyheter/inrikes/eu-valet-sa-vill-svenska-partier-begransa-skarmtiden</guid>
             <pubDate>Sat, 01 Jun 2024 06:10:14 GMT</pubDate>
             <content:encoded><![CDATA[Hör unga rösterna: ”Sociala medier klankas på väldigt mycket” • SD och M sticker ut]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/760/cinema/0.63/0.34/e697b47933ad52051e25d9d25d9e074389b816e0bee54e622d8d77f04aec4946" length="0" type="image/34/e697b47933ad52051e25d9d25d9e074389b816e0bee54e622d8d77f04aec4946"/>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[Nya grepp inom EU för att bekämpa brottsligheten]]></title>
@@ -55,19 +56,51 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Hans bror dog i drogkrig –  vill legalisera droganvändning i hela EU]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/han-kandiderar-till-eu-valet-forlorade-sin-bror-i-det-dodliga-valdet</link>
-            <guid>https://www.svt.se/nyheter/utrikes/han-kandiderar-till-eu-valet-forlorade-sin-bror-i-det-dodliga-valdet</guid>
-            <pubDate>Sat, 01 Jun 2024 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[”Kan vädja till köparnas moral med två sorters knark” • Amine Kessaci är en av valets yngsta kandidater]]></content:encoded>
+            <title><![CDATA[Här är de folkvalda i EU-parlamentet]]></title>
+            <link>https://www.svt.se/datajournalistik/det-har-ar-de-folkvalda-i-europaparlamentet/</link>
+            <guid>https://www.svt.se/datajournalistik/det-har-ar-de-folkvalda-i-europaparlamentet/</guid>
+            <pubDate>Sat, 01 Jun 2024 11:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[Utforska med hjälp av SVT:s grafik]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.5/0.5/3cfa3cd7ee87284da0b5333a39001527e8c09460bab9bdb045da5b74aff16f12" length="0" type="image/5/3cfa3cd7ee87284da0b5333a39001527e8c09460bab9bdb045da5b74aff16f12"/>
+        </item>
+        <item>
+            <title><![CDATA[Löparen Amanda: ”Gäller att respektera värmen”]]></title>
+            <link>https://www.svt.se/sport/friidrott/stockholm-marathon-2024-svt-liverapporterar</link>
+            <guid>https://www.svt.se/sport/friidrott/stockholm-marathon-2024-svt-liverapporterar</guid>
+            <pubDate>Sat, 01 Jun 2024 11:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[Nu har Stockholm Marathon startat • Följ loppet och folkfesten i SVT:s liverapport]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Antony Blinken trycker på för vapenvila]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=85251bc088d85a36ab3b7988ad63c2b5</link>
-            <guid>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=85251bc088d85a36ab3b7988ad63c2b5</guid>
-            <pubDate>Sat, 01 Jun 2024 06:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[USA:s utrikesminister: Fördelaktigt för både israeler och palestinier]]></content:encoded>
+            <title><![CDATA[Tidigare vinnaren tipsar: ”Klä dig ljust”]]></title>
+            <link>https://www.svt.se/sport/marathon/expertens-tips-infor-stockholm-maraton-2024</link>
+            <guid>https://www.svt.se/sport/marathon/expertens-tips-infor-stockholm-maraton-2024</guid>
+            <pubDate>Sat, 01 Jun 2024 09:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[”Risk för vätskebrist, värmeslag och kollaps”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Rekordmånga unga springer maraton – Hugo är en av dem]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/stockholm/rekordmanga-unga-springer-stockholm-marathon-hugo-ar-en-av-dem</link>
+            <guid>https://www.svt.se/nyheter/lokalt/stockholm/rekordmanga-unga-springer-stockholm-marathon-hugo-ar-en-av-dem</guid>
+            <pubDate>Sat, 01 Jun 2024 09:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[”Vi har vårt yngsta Stockholm Marathon genom tiderna”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[SMHI varnar för regn och åska på flera håll i södra Sverige]]></title>
+            <link>https://www.svt.se/vader/smhi-varnar-for-regn-och-aska-mh31vc</link>
+            <guid>https://www.svt.se/vader/smhi-varnar-for-regn-och-aska-mh31vc</guid>
+            <pubDate>Sat, 01 Jun 2024 09:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[Gul varning utfärdad • SVT:s meteorolog: Svalare luft på väg in efter helgen]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu: Inget slut innan Hamas är utplånat]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=96c25d2c1be1e0b7207fba81f2176c36</link>
+            <guid>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=96c25d2c1be1e0b7207fba81f2176c36</guid>
+            <pubDate>Sat, 01 Jun 2024 11:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[Israels premiärminister: Villkoren för permanent vapenvila har inte förändrats]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -92,22 +125,6 @@
             <guid>https://www.svt.se/kultur/molly-sanden-ger-sig-in-i-kampen-om-arets-sommarplaga</guid>
             <pubDate>Sat, 01 Jun 2024 06:10:14 GMT</pubDate>
             <content:encoded><![CDATA[Musikkritikern Tali da Silva om den nya klubbiga singeln”Slutet av sommaren”]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Dags för Stockholm maraton i supervärmen: ”Klä dig ljust”]]></title>
-            <link>https://www.svt.se/sport/marathon/expertens-tips-infor-stockholm-maraton-2024</link>
-            <guid>https://www.svt.se/sport/marathon/expertens-tips-infor-stockholm-maraton-2024</guid>
-            <pubDate>Sat, 01 Jun 2024 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[Tidigare vinnaren ger sina bästa tips]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Rekordmånga unga springer maraton – Hugo är en av dem]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/stockholm/rekordmanga-unga-springer-stockholm-marathon-hugo-ar-en-av-dem</link>
-            <guid>https://www.svt.se/nyheter/lokalt/stockholm/rekordmanga-unga-springer-stockholm-marathon-hugo-ar-en-av-dem</guid>
-            <pubDate>Sat, 01 Jun 2024 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[”Vi har vårt yngsta Stockholm Marathon genom tiderna”]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -255,20 +272,20 @@
             <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.71/0.23/3779499eb70c890d685ffe242ddde5c6d17a93dbd821f9ab0f5ea30a0ef18152" length="0" type="image/23/3779499eb70c890d685ffe242ddde5c6d17a93dbd821f9ab0f5ea30a0ef18152"/>
         </item>
         <item>
-            <title><![CDATA[Abba-medlemmarna har fått kunglig orden]]></title>
-            <link>https://www.svt.se/kultur/abba-medlemmarna-far-kunglig-orden</link>
-            <guid>https://www.svt.se/kultur/abba-medlemmarna-far-kunglig-orden</guid>
-            <pubDate>Fri, 31 May 2024 16:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/kultur/abba-medlemmarna-far-kunglig-orden" title="Abba-medlemmarna har fått kunglig orden"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.53/0.43/4a042aabddef97ffe32ce9acc54985d0d68b0f8c957ee578f04d2045adc2b368" alt="" title="Foto: Henrik Montgomery/TT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Abba-medlemmarna har fått kunglig orden</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.53/0.43/4a042aabddef97ffe32ce9acc54985d0d68b0f8c957ee578f04d2045adc2b368" length="0" type="image/43/4a042aabddef97ffe32ce9acc54985d0d68b0f8c957ee578f04d2045adc2b368"/>
+            <title><![CDATA[Molly Sandén ger sig in i kampen om årets sommarplåga]]></title>
+            <link>https://www.svt.se/kultur/molly-sanden-ger-sig-in-i-kampen-om-arets-sommarplaga</link>
+            <guid>https://www.svt.se/kultur/molly-sanden-ger-sig-in-i-kampen-om-arets-sommarplaga</guid>
+            <pubDate>Sat, 01 Jun 2024 06:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/kultur/molly-sanden-ger-sig-in-i-kampen-om-arets-sommarplaga" title="Molly Sandén ger sig in i kampen om årets sommarplåga"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.77/0.3/db474828c423ade8c8f703938dacc63d552892ee0c6f67fda0e17c0c688db027" alt="Kulturnyheternas musikkritiker Tali da Silva recenserar musikartisten Molly Sandéns nya singel" title="Foto: SVT/Pressfoto"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Molly Sandén ger sig in i kampen om årets sommarplåga</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.77/0.3/db474828c423ade8c8f703938dacc63d552892ee0c6f67fda0e17c0c688db027" length="0" type="image/3/db474828c423ade8c8f703938dacc63d552892ee0c6f67fda0e17c0c688db027"/>
         </item>
         <item>
-            <title><![CDATA[Bengt Norborg: ”Rysslands strategi verkar inte ha fungerat”]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/bengt-norborg-rysslands-strategi-verkar-inte-ha-fungerat</link>
-            <guid>https://www.svt.se/nyheter/utrikes/bengt-norborg-rysslands-strategi-verkar-inte-ha-fungerat</guid>
-            <pubDate>Fri, 31 May 2024 16:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/utrikes/bengt-norborg-rysslands-strategi-verkar-inte-ha-fungerat" title="Bengt Norborg: ”Rysslands strategi verkar inte ha fungerat”"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.25/0.31/7b1861acab5a8e0eb794dcf6931692d4dcc10d9ad2cc98510da3ced6eeac7c7b" alt="Ett raserat hus i Charkiv Ukraina" title="Foto: Sergey Bobok/TT/Fredrik Surell/SVT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Bengt Norborg: ”Rysslands strategi verkar inte ha fungerat”</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.25/0.31/7b1861acab5a8e0eb794dcf6931692d4dcc10d9ad2cc98510da3ced6eeac7c7b" length="0" type="image/31/7b1861acab5a8e0eb794dcf6931692d4dcc10d9ad2cc98510da3ced6eeac7c7b"/>
+            <title><![CDATA[Här stoppas Malmö stads anställde av polis – visar upp falskt körkort]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/skane/har-stoppas-malmo-stads-anstallde-av-polis-visar-upp-falskt-korkort</link>
+            <guid>https://www.svt.se/nyheter/lokalt/skane/har-stoppas-malmo-stads-anstallde-av-polis-visar-upp-falskt-korkort</guid>
+            <pubDate>Sat, 01 Jun 2024 09:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="nyh_teaser__link" href="/nyheter/lokalt/skane/har-stoppas-malmo-stads-anstallde-av-polis-visar-upp-falskt-korkort" title="Här stoppas Malmö stads anställde av polis – visar upp falskt körkort"><div class="nyh_teaser__inner"><div class="nyh_teaser__figure"><div class="pic pic--wide"><img class="pic__img pic__img--optimized pic__img--wide" src="https://www.svtstatic.se/image-news/224/wide/0.23/0.53/3f80c14f8746b835bed665ed08175df6b90e0feb8fdf5d46998b085fb5e1a455" alt="Poliskontroll i Malmö där kommunens skåpbil är stannad. På bilden syns också en polis som kontrollerar förarens falska körkort." title="Foto: SVT"><div class="PlayButton__root___zcl6z PlayButton__default-mini___0qXvw PlayButton__noLength___M99Ss" aria-hidden="true"><span class="PlayButton__icon___QJf2I"></span></div></div><div class="pic__ratio" style="position:absolute;visibility:hidden"></div></div><div class="nyh_teaser__textwrapper"><h1 class="nyh_teaser__heading"><span class="nyh_teaser__heading-title">Här stoppas Malmö stads anställde av polis – visar upp falskt körkort</span></h1><div class="nyh_teaser__textcontent"></div></div></div></a>]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/224/wide/0.23/0.53/3f80c14f8746b835bed665ed08175df6b90e0feb8fdf5d46998b085fb5e1a455" length="0" type="image/53/3f80c14f8746b835bed665ed08175df6b90e0feb8fdf5d46998b085fb5e1a455"/>
         </item>
     </channel>
 </rss>
