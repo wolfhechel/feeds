@@ -2,29 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.expressen.se</id>
     <title>Expressen</title>
-    <updated>2024-06-03T11:07:21.956Z</updated>
+    <updated>2024-06-03T16:11:25.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.bonniernews.se/bundles/expressen/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[JUST NU: Halkade vid Preikestolen och dog]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/person-dod-halkade-fran-preikestolen/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/person-dod-halkade-fran-preikestolen/"/>
-        <updated>2024-06-03T11:07:12.479Z</updated>
-        <content type="html"><![CDATA[Föll vid norska turistmålet, enligt VG]]></content>
+        <title type="html"><![CDATA[JUST NU: Föll från byggställning]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/man-till-sjukhus-foll-fran-byggstallning/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/man-till-sjukhus-foll-fran-byggstallning/"/>
+        <updated>2024-06-03T16:11:16.558Z</updated>
+        <content type="html"><![CDATA[Arbetsplatsolycka i Timrå – man till sjukhus]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fyra dömda för masskjutningen – två mördades]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/masskjutningen-i-farsta-i-dag-kommer-domen/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/masskjutningen-i-farsta-i-dag-kommer-domen/"/>
-        <updated>2024-06-03T09:09:12.400Z</updated>
-        <content type="html"><![CDATA[Milosz Olak och Ronnie Delen får livstid • Lucas Cebbar och Philip Cebbar döms för medhjälp]]></content>
+        <title type="html"><![CDATA[JUST NU: Man död – klämdes fast]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/person-fastklamd-under-akgrasklippare/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/person-fastklamd-under-akgrasklippare/"/>
+        <updated>2024-06-03T16:11:16.559Z</updated>
+        <content type="html"><![CDATA[Fastnade under gräsklippare, skriver SVT]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vad är smartast: Köpa eller privatleasa bilen?]]></title>
-        <id>https://teknikensvarld.expressen.se/nyheter/konsument/privatleasing-jamfort-med-bilkop/</id>
-        <link href="https://teknikensvarld.expressen.se/nyheter/konsument/privatleasing-jamfort-med-bilkop/"/>
-        <updated>2024-06-03T11:07:12.483Z</updated>
-        <content type="html"><![CDATA[<span class="bb--b">GUIDE:</span> Gör du rätt val kan du spara stora pengar]]></content>
+        <title type="html"><![CDATA[Kriminalvårdaren gifte sig med Bandidos-man – hamnade i konflikten]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/kriminalvardaren-gifte-sig-med-bandidos-man-hamnade-i-konflikten/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/kriminalvardaren-gifte-sig-med-bandidos-man-hamnade-i-konflikten/"/>
+        <updated>2024-06-03T16:11:16.560Z</updated>
+        <content type="html"><![CDATA[Polisen upptäckte relationen • Lokale Bandidos-ledaren Anton Frödeberg dömd]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misstänkte skyttens oro: ”Tar studenten i morgon”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/misstankte-skyttens-oro-tar-studenten-i-morgon/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/misstankte-skyttens-oro-tar-studenten-i-morgon/"/>
+        <updated>2024-06-03T16:11:16.561Z</updated>
+        <content type="html"><![CDATA[19-åringen greps efter dubbelmordet i Norrköping – två män sköts ihjäl]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grannens ilska efter mordet: Inte förvånad]]></title>
+        <id>https://www.expressen.se/tv/nyheter/sverige/grannens-oro-efter-mordet-inte-forvanad/</id>
+        <link href="https://www.expressen.se/tv/nyheter/sverige/grannens-oro-efter-mordet-inte-forvanad/"/>
+        <updated>2024-06-03T16:11:16.561Z</updated>
+        <content type="html"><![CDATA[Femte mordet på kort tid i Norrköping • Polisens svar: ”Allvarligt läge”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skarp rysk varning till USA: ”Får fatala följder”]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/kriget-i-ukraina-3-juni/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/kriget-i-ukraina-3-juni/"/>
+        <updated>2024-06-03T16:11:16.572Z</updated>
+        <content type="html"><![CDATA[Rysk ilska över Bidens beslut: ”Inget videospel”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.expressen.se/nyheter/fa-ett-nyhetsbrev-om-kriget-i-ukraina-varje-vecka/</id>
+        <link href="https://www.expressen.se/nyheter/fa-ett-nyhetsbrev-om-kriget-i-ukraina-varje-vecka/"/>
+        <updated>2024-06-03T16:11:16.392Z</updated>
+        <content type="html"><![CDATA[<picture class="lazy"><source style="margin-top:16.335%"><img data-srcset="https://static.bonniernews.se/images/81/8e/818ea71844da4ed7be079c539ddc1cc5/annan/640@60.jpg 640w,https://static.bonniernews.se/images/81/8e/818ea71844da4ed7be079c539ddc1cc5/annan/1280@40.jpg 1280w" sizes="(-webkit-min-device-pixel-ratio: 2) 1280px,(min-resolution: 192dpi) 1280px,640px" alt=""><noscript><img src="https://static.bonniernews.se/images/81/8e/818ea71844da4ed7be079c539ddc1cc5/annan/640@60.jpg" alt></noscript></picture>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Delade bild – då avbokades drömresan]]></title>
@@ -34,21 +62,35 @@
         <content type="html"><![CDATA[Förlorar över 150 000 kronor]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Håller om varandra – sedan försvinner de]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/haller-om-varandra-forsvinner-sedan-sparlost</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/haller-om-varandra-forsvinner-sedan-sparlost"/>
-        <updated>2024-06-02T11:07:18.593Z</updated>
-        <content type="html"><![CDATA[Intensiva jakten på vännerna Patrizia, Bianca och Cristian i Italien]]></content>
+        <title type="html"><![CDATA[Kängan till SD efter ordvalet: ”Inte i skick”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/kangan-till-sd-efter-ordvalet-inte-i-skick/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/kangan-till-sd-efter-ordvalet-inte-i-skick/"/>
+        <updated>2024-06-03T16:11:16.572Z</updated>
+        <content type="html"><![CDATA[Busch: ”Leder tanken helt fel” • Kristersson: ”Vill inte använda ordet”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avslöjar: Det finns i Caia-goodiebagen]]></title>
-        <id>https://www.expressen.se/tv/nyheter/sverige/det-har-inneholl-goodiebagen-fran-caia/</id>
-        <link href="https://www.expressen.se/tv/nyheter/sverige/det-har-inneholl-goodiebagen-fran-caia/"/>
-        <updated>2024-06-01T16:09:15.976Z</updated>
-        <content type="html"><![CDATA[200 första fick gåvan från Bianca Ingrosso]]></content>
+        <title type="html"><![CDATA[15-årige Elias pappa: ”Är borta för alltid”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/elias-15-skjuts-ihjal-pappan-om-livstidsdomen/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/elias-15-skjuts-ihjal-pappan-om-livstidsdomen/"/>
+        <updated>2024-06-03T16:11:16.574Z</updated>
+        <content type="html"><![CDATA[Mördade Elias pappa om livstidsdomen]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[Fyra dömda för masskjutningen]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/masskjutningen-i-farsta-i-dag-kommer-domen/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/masskjutningen-i-farsta-i-dag-kommer-domen/"/>
+        <updated>2024-06-03T09:09:12.400Z</updated>
+        <content type="html"><![CDATA[Milosz Olak och Ronnie Delen får livstid – kusiner döms för medhjälp]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testa valkompassen: Vem ska du rösta på?]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/"/>
+        <updated>2024-03-26T16:09:47.039Z</updated>
+        <content type="html"><![CDATA[9 juni är det EU-val – vilket parti företräder dina åsikter?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12]]></title>
         <id>https://www.expressen.se/tv/nyheter/varlden/kungavaktens-drastiska-drag-for-att-skydda-klassen</id>
         <link href="https://www.expressen.se/tv/nyheter/varlden/kungavaktens-drastiska-drag-for-att-skydda-klassen"/>
         <updated>2024-06-03T11:07:12.284Z</updated>
@@ -58,22 +100,8 @@
         <title type="html"><![CDATA[Kungavaktens blixtdrag – för att rädda klassen]]></title>
         <id>https://www.expressen.se/tv/nyheter/varlden/kungavaktens-drastiska-drag-for-att-skydda-klassen</id>
         <link href="https://www.expressen.se/tv/nyheter/varlden/kungavaktens-drastiska-drag-for-att-skydda-klassen"/>
-        <updated>2024-06-03T11:07:12.483Z</updated>
+        <updated>2024-06-03T11:07:12.284Z</updated>
         <content type="html"><![CDATA[Skriker flera gånger att backa när hästen stegrar • Läraren lyssnar inte • ”Kommer meja ner er”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liza, 20, sköts ihjäl – nu åtalas 17-åring]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/tre-skots-ihjal-i-tullinge-och-vastberga-atal-i-dag/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/tre-skots-ihjal-i-tullinge-och-vastberga-atal-i-dag/"/>
-        <updated>2024-06-03T09:09:12.406Z</updated>
-        <content type="html"><![CDATA[Tonårstrio misstänks efter tre dödsskjutningar på ett dygn]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liza höll tal om sin ljusa framtid – sköts ihjäl i villa]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/liza-holl-tal-om-sin-ljusa-framtid-skots-ihjal-i-villa/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/liza-holl-tal-om-sin-ljusa-framtid-skots-ihjal-i-villa/"/>
-        <updated>2024-06-03T09:09:12.406Z</updated>
-        <content type="html"><![CDATA[Tog studenten med toppbetyg mot alla odds –&nbsp;mördades]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Åkesson talade till nya medlemmarna]]></title>
@@ -81,6 +109,48 @@
         <link href="https://www.expressen.se/nyheter/sverige/misstron-mot-medierna-vaxer-i-sd-ute-efter-oss/"/>
         <updated>2024-06-03T06:11:37.142Z</updated>
         <content type="html"><![CDATA[Oskar, 23, och Eric, 20: ”Vet vad de står för” • Om trollkontona: "Ganska roligt"]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hemlöse Anders dog när han försökte värma sig]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/hemlose-anders-64-i-vastervik-dog-nar-han-forsokte-varma-sig/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/hemlose-anders-64-i-vastervik-dog-nar-han-forsokte-varma-sig/"/>
+        <updated>2024-06-02T16:09:17.497Z</updated>
+        <content type="html"><![CDATA[Hittades på offentlig toalett • Politikern: ”Hemlösa av en anledning”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gled utför kanten på Preikestolen – dog]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/person-dod-halkade-fran-preikestolen/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/person-dod-halkade-fran-preikestolen/"/>
+        <updated>2024-06-03T11:07:12.479Z</updated>
+        <content type="html"><![CDATA[Föll vid norska turistmålet, enligt VG]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[”Osannolikt att Majid och Abdo samarbetar”]]></title>
+        <id>https://www.expressen.se/nyheter/laget/osannolikt-att-majid-och-abdo-samarbetar/</id>
+        <link href="https://www.expressen.se/nyheter/laget/osannolikt-att-majid-och-abdo-samarbetar/"/>
+        <updated>2024-06-03T16:11:16.583Z</updated>
+        <content type="html"><![CDATA[PODD: Hör om gängledarnas kopplingar till Iran]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barnvaktade – då kom förälderns snuskförslag]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/molly-barnvaktade-da-kom-foraldrarnas-snuskforslag</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/molly-barnvaktade-da-kom-foraldrarnas-snuskforslag"/>
+        <updated>2024-06-03T09:09:12.416Z</updated>
+        <content type="html"><![CDATA[Molly, 25, i chock när hon hör Los Angeles-parets ord • ”Ta med mig till sovrummet”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leif-Ivan Karlsson åtalas – undvek miljonskuld]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/leif-ivan-karlsson-atalas/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/leif-ivan-karlsson-atalas/"/>
+        <updated>2024-06-03T16:11:16.587Z</updated>
+        <content type="html"><![CDATA[Ska ha flyttat båt mellan bolag – Åklagare: ”Stora belopp”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://www.expressen.se/skonahem/nyheter/shopping/brollopspresenter-2024-tips-personligt-till-brudparet/</id>
+        <link href="https://www.expressen.se/skonahem/nyheter/shopping/brollopspresenter-2024-tips-personligt-till-brudparet/"/>
+        <updated>2024-05-03T06:10:47.861Z</updated>
+        <content type="html"><![CDATA[Tips på bröllopspresenter – det här vill brudparet ha]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Busch pressas internt – efter SD-utspelen]]></title>
@@ -104,46 +174,53 @@
         <content type="html"><![CDATA[Ser EU-valet som en kraftmätning inför 2026]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[”L kommer inte samarbeta med SD efter nästa val”]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/l-kommer-inte-samarbeta-med-sd-efter-nasta-val/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/l-kommer-inte-samarbeta-med-sd-efter-nasta-val/"/>
-        <updated>2024-06-03T11:07:12.489Z</updated>
-        <content type="html"><![CDATA[Corazza Bildt hoppas bli en väljarmagnet]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15]]></title>
+        <title type="html"><![CDATA[24]]></title>
         <id>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</id>
         <link href="https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/"/>
         <updated>2024-03-26T16:09:47.039Z</updated>
         <content type="html"><![CDATA[<picture class="lazy"><source style="margin-top:16.519%"><img data-srcset="https://static.bonniernews.se/images/e0/b6/e0b635f04e0d4b4a8037c2b834adffe1/annan/640@60.jpg 640w,https://static.bonniernews.se/images/e0/b6/e0b635f04e0d4b4a8037c2b834adffe1/annan/1280@40.jpg 1280w" sizes="(-webkit-min-device-pixel-ratio: 2) 1280px,(min-resolution: 192dpi) 1280px,640px" alt=""><noscript><img src="https://static.bonniernews.se/images/e0/b6/e0b635f04e0d4b4a8037c2b834adffe1/annan/640@60.jpg" alt></noscript></picture>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hemlöse Anders dog när han försökte värma sig]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/hemlose-anders-64-i-vastervik-dog-nar-han-forsokte-varma-sig/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/hemlose-anders-64-i-vastervik-dog-nar-han-forsokte-varma-sig/"/>
-        <updated>2024-06-02T16:09:17.497Z</updated>
-        <content type="html"><![CDATA[Hittades på offentlig toalett • Politikern: ”Hemlösa av en anledning”]]></content>
+        <title type="html"><![CDATA[Vad är smartast: Köpa eller privatleasa bilen?]]></title>
+        <id>https://teknikensvarld.expressen.se/nyheter/konsument/privatleasing-jamfort-med-bilkop/</id>
+        <link href="https://teknikensvarld.expressen.se/nyheter/konsument/privatleasing-jamfort-med-bilkop/"/>
+        <updated>2024-06-03T11:07:12.483Z</updated>
+        <content type="html"><![CDATA[<span class="bb--b">GUIDE:</span> Gör du rätt val kan du spara stora pengar]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ung man misstänks för dubbelmordet]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/grovt-valdsbrott-i-norrkoping-en-gripen/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/grovt-valdsbrott-i-norrkoping-en-gripen/"/>
-        <updated>2024-06-03T06:11:37.138Z</updated>
-        <content type="html"><![CDATA[Två män sköts till döds i Norrköping • Polisens fynd av vapen]]></content>
+        <title type="html"><![CDATA[Liza, 20, sköts ihjäl – nu åtalas 17-åring]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/tre-skots-ihjal-i-tullinge-och-vastberga-atal-i-dag/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/tre-skots-ihjal-i-tullinge-och-vastberga-atal-i-dag/"/>
+        <updated>2024-06-03T09:09:12.406Z</updated>
+        <content type="html"><![CDATA[Tonårstrio misstänks efter tre dödsskjutningar på ett dygn]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
-        <id>https://www.expressen.se/skonahem/nyheter/shopping/brollopspresenter-2024-tips-personligt-till-brudparet/</id>
-        <link href="https://www.expressen.se/skonahem/nyheter/shopping/brollopspresenter-2024-tips-personligt-till-brudparet/"/>
-        <updated>2024-05-03T06:10:47.861Z</updated>
-        <content type="html"><![CDATA[Tips på bröllopspresenter – det här vill brudparet ha]]></content>
+        <title type="html"><![CDATA[Liza höll tal om sin ljusa framtid – sköts ihjäl i villa]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/liza-holl-tal-om-sin-ljusa-framtid-skots-ihjal-i-villa/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/liza-holl-tal-om-sin-ljusa-framtid-skots-ihjal-i-villa/"/>
+        <updated>2024-06-03T09:09:12.406Z</updated>
+        <content type="html"><![CDATA[Tog studenten med toppbetyg mot alla odds –&nbsp;mördades]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Barnvaktade – då kom förälderns snuskförslag]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/molly-barnvaktade-da-kom-foraldrarnas-snuskforslag</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/molly-barnvaktade-da-kom-foraldrarnas-snuskforslag"/>
-        <updated>2024-06-03T09:09:12.416Z</updated>
-        <content type="html"><![CDATA[Molly, 25, i chock när hon hör Los Angeles-parets ord • ”Ta med mig till sovrummet”]]></content>
+        <title type="html"><![CDATA[13 gripna – ockuperade examen: ”Förbannade”]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/13-gripna-ockuperade-skolavslutning-i-uppsala/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/13-gripna-ockuperade-skolavslutning-i-uppsala/"/>
+        <updated>2024-06-03T16:11:16.599Z</updated>
+        <content type="html"><![CDATA[Ceremoni i Uppsala avbröts – aktivisterna vägrade lämna]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SD:s motstridiga besked om trollkonton: Får se]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/sd-startar-inga-fler-anonyma-konton/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/sd-startar-inga-fler-anonyma-konton/"/>
+        <updated>2024-06-03T16:11:16.600Z</updated>
+        <content type="html"><![CDATA[Presschefen: Ska inte starta några fler]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Håller om varandra – sedan försvinner de]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/haller-om-varandra-forsvinner-sedan-sparlost</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/haller-om-varandra-forsvinner-sedan-sparlost"/>
+        <updated>2024-06-02T11:07:18.593Z</updated>
+        <content type="html"><![CDATA[Intensiva jakten på vännerna Patrizia, Bianca och Cristian i Italien]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kaos i friluftsidyllen – männen drunknade]]></title>
@@ -153,18 +230,25 @@
         <content type="html"><![CDATA[Var bara meter från land • Barnfamiljer i närheten • Kalas pågick]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Många husbilar har brister vid besiktning]]></title>
-        <id>https://teknikensvarld.expressen.se/nyheter/bil-och-trafik/var-tredje-husbil-har-brister/</id>
-        <link href="https://teknikensvarld.expressen.se/nyheter/bil-och-trafik/var-tredje-husbil-har-brister/"/>
-        <updated>2024-06-03T06:11:37.160Z</updated>
-        <content type="html"><![CDATA[Vanligast problemet är dåliga bromsar]]></content>
+        <title type="html"><![CDATA[Rymdsten skulle kunna göra alla till miljardärer]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/rymdsten-kan-gora-alla-pa-jorden-till-miljardarer</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/rymdsten-kan-gora-alla-pa-jorden-till-miljardarer"/>
+        <updated>2024-06-03T06:11:36.987Z</updated>
+        <content type="html"><![CDATA[Nasas kamp för att hinna till asteroiden • Farkosten uppe i 135 000 km/]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Testa valkompassen: Vem ska du rösta på?]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/"/>
-        <updated>2024-03-26T16:09:47.039Z</updated>
-        <content type="html"><![CDATA[9 juni är det EU-val – vilket parti företräder dina åsikter?]]></content>
+        <title type="html"><![CDATA[Bråkar med barnvagn – blir fel igen och igen]]></title>
+        <id>https://www.expressen.se/tv/nyheter/varlden/brakar-med-barnvagnen-blir-fel-igen-och-igen</id>
+        <link href="https://www.expressen.se/tv/nyheter/varlden/brakar-med-barnvagnen-blir-fel-igen-och-igen"/>
+        <updated>2024-06-03T09:09:12.420Z</updated>
+        <content type="html"><![CDATA[ALLA föräldrar kommer känna igen sig i männens stigande panik]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gripne mannen utpekad aktör i LVU-kampanjen]]></title>
+        <id>https://www.expressen.se/nyheter/sverige/gripne-mannen-i-grekland-utpekad-aktor-i-lvu-kampanjen/</id>
+        <link href="https://www.expressen.se/nyheter/sverige/gripne-mannen-i-grekland-utpekad-aktor-i-lvu-kampanjen/"/>
+        <updated>2024-06-03T06:11:37.164Z</updated>
+        <content type="html"><![CDATA[Gripandet i Grekland kopplas till Sverige • Berättar själv: ”Rädda för mig”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vaccin till pojkar kan utrota cancersjukdom]]></title>
@@ -195,32 +279,11 @@
         <content type="html"><![CDATA[Kremls Norge-hån – orden till Stoltenberg efter landets besked]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rymdsten skulle kunna göra alla till miljardärer]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/rymdsten-kan-gora-alla-pa-jorden-till-miljardarer</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/rymdsten-kan-gora-alla-pa-jorden-till-miljardarer"/>
-        <updated>2024-06-03T06:11:36.987Z</updated>
-        <content type="html"><![CDATA[Nasas kamp för att hinna till asteroiden • Farkosten uppe i 135 000 km/]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bråkar med barnvagn – blir fel igen och igen]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/brakar-med-barnvagnen-blir-fel-igen-och-igen</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/brakar-med-barnvagnen-blir-fel-igen-och-igen"/>
-        <updated>2024-06-03T09:09:12.420Z</updated>
-        <content type="html"><![CDATA[ALLA föräldrar kommer känna igen sig i männens stigande panik]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hon blir landets första kvinnliga president]]></title>
         <id>https://www.expressen.se/nyheter/varlden/hon-blir-mexikos-forsta-kvinnliga-president/</id>
         <link href="https://www.expressen.se/nyheter/varlden/hon-blir-mexikos-forsta-kvinnliga-president/"/>
         <updated>2024-06-03T09:09:12.428Z</updated>
         <content type="html"><![CDATA[Preliminära valresultatet i Mexiko]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gripne mannen utpekad aktör i LVU-kampanjen]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/gripne-mannen-i-grekland-utpekad-aktor-i-lvu-kampanjen/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/gripne-mannen-i-grekland-utpekad-aktor-i-lvu-kampanjen/"/>
-        <updated>2024-06-03T06:11:37.164Z</updated>
-        <content type="html"><![CDATA[Gripandet i Grekland kopplas till Sverige • Berättar själv: ”Rädda för mig”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kimberley, 1, fick nytt hjärta: ”Överlycklig”]]></title>
@@ -258,6 +321,13 @@
         <content type="html"><![CDATA[Igor Netjiporenko dog i ryska Belgorod, enligt guvernören]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Många husbilar har brister vid besiktning]]></title>
+        <id>https://teknikensvarld.expressen.se/nyheter/bil-och-trafik/var-tredje-husbil-har-brister/</id>
+        <link href="https://teknikensvarld.expressen.se/nyheter/bil-och-trafik/var-tredje-husbil-har-brister/"/>
+        <updated>2024-06-03T06:11:37.160Z</updated>
+        <content type="html"><![CDATA[Vanligast problemet är dåliga bromsar]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rupert Murdoch, 93, har gift sig för femte gången]]></title>
         <id>https://www.expressen.se/nyheter/varlden/rupert-murdoch-93-har-gift-sig-for-femte-gangen/</id>
         <link href="https://www.expressen.se/nyheter/varlden/rupert-murdoch-93-har-gift-sig-for-femte-gangen/"/>
@@ -272,13 +342,6 @@
         <content type="html"><![CDATA[Expresidenten: ”Värre för min familj än för mig”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[38]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/"/>
-        <updated>2024-03-26T16:09:47.039Z</updated>
-        <content type="html"><![CDATA[<picture class="lazy"><source style="margin-top:16.519%"><img data-srcset="https://static.bonniernews.se/images/e0/b6/e0b635f04e0d4b4a8037c2b834adffe1/annan/640@60.jpg 640w,https://static.bonniernews.se/images/e0/b6/e0b635f04e0d4b4a8037c2b834adffe1/annan/1280@40.jpg 1280w" sizes="(-webkit-min-device-pixel-ratio: 2) 1280px,(min-resolution: 192dpi) 1280px,640px" alt=""><noscript><img src="https://static.bonniernews.se/images/e0/b6/e0b635f04e0d4b4a8037c2b834adffe1/annan/640@60.jpg" alt></noscript></picture>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lärare avstängd – höll ”slavauktion” i skolan]]></title>
         <id>https://www.expressen.se/nyheter/varlden/larare-avstangd-holl-slavauktion-i-skolan/</id>
         <link href="https://www.expressen.se/nyheter/varlden/larare-avstangd-holl-slavauktion-i-skolan/"/>
@@ -286,59 +349,10 @@
         <content type="html"><![CDATA[Skolchefen i USA: ”Att hålla en slavauktion på låtsas är oacceptabelt”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vinghotellets drag mot solstolskaparna]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/hotellens-drag-i-solstolskriget/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/hotellens-drag-i-solstolskriget/"/>
-        <updated>2024-06-02T16:09:17.508Z</updated>
-        <content type="html"><![CDATA[Vädjar med lapp •&nbsp;”Vill stoppa kulturen”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plågar fienden med bajsballonger: ”Hot”]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/nordkorea-attackerar-med-bajsballonger-experten-om-strategin/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/nordkorea-attackerar-med-bajsballonger-experten-om-strategin/"/>
-        <updated>2024-06-02T16:09:17.511Z</updated>
-        <content type="html"><![CDATA[Skräpkriget mellan Nord- och Sydkorea • Risk för eskalering]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USA:s hånfulla svar till Kim Jong-Un]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/nordkoreas-drag-skickar-upp-bajsballonger/</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/nordkoreas-drag-skickar-upp-bajsballonger/"/>
-        <updated>2024-06-02T16:09:17.511Z</updated>
-        <content type="html"><![CDATA[”Planerar ni att skicka amerikanskt bajs?”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fyrametersfisk gör comeback i svensk älv]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/fyrametersfisk-gor-comeback-i-svensk-alv/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/fyrametersfisk-gor-comeback-i-svensk-alv/"/>
-        <updated>2024-06-03T06:11:37.177Z</updated>
-        <content type="html"><![CDATA[Atlantstören kan väga över 350 kilo – sätts ut i Göta älv]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skott mot lägenhet – tre var hemma]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/skott-mot-lagenhet-i-goteborg-tre-var-hemma/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/skott-mot-lagenhet-i-goteborg-tre-var-hemma/"/>
-        <updated>2024-06-03T06:11:37.178Z</updated>
-        <content type="html"><![CDATA[Polisen i Göteborg: ”Det har bland annat skjutits in genom fönstret”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skulle rädda familj – brandman drunknade]]></title>
-        <id>https://www.expressen.se/nyheter/varlden/bayern-under-vatten-oversvamningar-i-tyskland/</id>
-        <link href="https://www.expressen.se/nyheter/varlden/bayern-under-vatten-oversvamningar-i-tyskland/"/>
-        <updated>2024-06-02T16:09:17.513Z</updated>
-        <content type="html"><![CDATA[Enorma översvämningar i Tyskland: ”Måste i princip ge upp”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studenternas kaos – är fast på Cypern]]></title>
-        <id>https://www.expressen.se/nyheter/sverige/studenternas-kaos-ar-fast-pa-cypern/</id>
-        <link href="https://www.expressen.se/nyheter/sverige/studenternas-kaos-ar-fast-pa-cypern/"/>
-        <updated>2024-06-02T06:12:27.519Z</updated>
-        <content type="html"><![CDATA[Balen bara dagar bort • Victor: ”De andra tycker det är jobbigt”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Missbedömer vikterna – går snett på en sekund]]></title>
-        <id>https://www.expressen.se/tv/nyheter/varlden/rachel-missbedomer-vikterna-gar-snett-pa-en-sekund</id>
-        <link href="https://www.expressen.se/tv/nyheter/varlden/rachel-missbedomer-vikterna-gar-snett-pa-en-sekund"/>
-        <updated>2024-06-02T16:09:17.514Z</updated>
-        <content type="html"><![CDATA[Rachel faller handlöst framåt på gymmet på Irland •&nbsp;”Trodde huvudet ramlade av”]]></content>
+        <title type="html"><![CDATA[49]]></title>
+        <id>https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/</id>
+        <link href="https://www.expressen.se/nyheter/varlden/valkompass-eu-val-2024-testa-sjalv-vilket-parti-ska-du-rosta-pa-den-9-juni/"/>
+        <updated>2024-03-26T16:09:47.039Z</updated>
+        <content type="html"><![CDATA[<picture class="lazy"><source style="margin-top:16.519%"><img data-srcset="https://static.bonniernews.se/images/e0/b6/e0b635f04e0d4b4a8037c2b834adffe1/annan/640@60.jpg 640w,https://static.bonniernews.se/images/e0/b6/e0b635f04e0d4b4a8037c2b834adffe1/annan/1280@40.jpg 1280w" sizes="(-webkit-min-device-pixel-ratio: 2) 1280px,(min-resolution: 192dpi) 1280px,640px" alt=""><noscript><img src="https://static.bonniernews.se/images/e0/b6/e0b635f04e0d4b4a8037c2b834adffe1/annan/640@60.jpg" alt></noscript></picture>]]></content>
     </entry>
 </feed>
