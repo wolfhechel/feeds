@@ -4,20 +4,23 @@
         <title>Svenska Dagbladet</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 11:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 16:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Två begärs häktade efter C Gambinos död]]></title>
-            <link>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=38192</link>
-            <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=38192</guid>
-            <pubDate>Sun, 09 Jun 2024 11:07:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Alltid senaste nytt – följ SvD direkt]]></title>
             <link>https://www.svd.se/a/wA9Gmd/senaste-nytt</link>
             <guid>https://www.svd.se/a/wA9Gmd/senaste-nytt</guid>
             <pubDate>Wed, 05 Jun 2024 11:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Liverapport med de senaste nyheterna.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Småpartierna pressade: Kan slå mot partiledare]]></title>
+            <link>https://www.svd.se/a/OoQaLl/eu-valet-2024-svd-liverapporterar</link>
+            <guid>https://www.svd.se/a/OoQaLl/eu-valet-2024-svd-liverapporterar</guid>
+            <pubDate>Sun, 09 Jun 2024 06:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Statsvetare: Förlust kan innebära byte av partiledare • Senaste nytt om EU-valet.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/be854234-aa4f-4461-8ee8-7a124cb5e6a7?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=be3f7c3462dee13236bc0c9a3f4f29201d5c74b7" length="0" type="image//v2/images/be854234-aa4f-4461-8ee8-7a124cb5e6a7"/>
         </item>
         <item>
             <title><![CDATA[Toppkandidaternas sista ord till dig som röstar]]></title>
@@ -25,15 +28,7 @@
             <guid>https://www.svd.se/a/zAr7jK/partiernas-toppkandidaters-sista-ord-till-dig-som-rostar-i-eu-valet</guid>
             <pubDate>Sun, 09 Jun 2024 06:10:53 GMT</pubDate>
             <content:encoded><![CDATA[För dem som inte bestämt sig – vem ska du lägga i kuvertet? Här är politikernas svar.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/83cf9aaf-8caf-4191-b0fe-0d05567d6029?fit=crop&format=jpeg&h=375&q=80&upscale=true&w=666&s=757515a0deb136dfb813a5dfa2cff397633c9ff3" length="0" type="image//v2/images/83cf9aaf-8caf-4191-b0fe-0d05567d6029"/>
-        </item>
-        <item>
-            <title><![CDATA[Österrikiska vallokaler flyttade – dåligt väder]]></title>
-            <link>https://www.svd.se/a/OoQaLl/eu-valet-2024-svd-liverapporterar</link>
-            <guid>https://www.svd.se/a/OoQaLl/eu-valet-2024-svd-liverapporterar</guid>
-            <pubDate>Sun, 09 Jun 2024 06:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Vissa helt förstörda – ”reagerade snabbt” • Senaste nytt.]]></content:encoded>
-            <enclosure url="https://svd.vgc.no/v2/images/a655406d-15a6-4b9a-82a2-c1b9893fa83e?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=4940e7c6dde4d1866ed6512c076d8f129d77e480" length="0" type="image//v2/images/a655406d-15a6-4b9a-82a2-c1b9893fa83e"/>
+            <enclosure url="https://svd.vgc.no/v2/images/83cf9aaf-8caf-4191-b0fe-0d05567d6029?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=914bf89d517067906e7857e15b8bece3b53e4438" length="0" type="image//v2/images/83cf9aaf-8caf-4191-b0fe-0d05567d6029"/>
         </item>
         <item>
             <title><![CDATA[Det är en illusion att politikerna har makten]]></title>
@@ -44,25 +39,47 @@
             <enclosure url="https://svd.vgc.no/v2/images/author/126e3b96-81c7-49b5-bd1b-7ffa32f79e7a?h=100&q=80&upscale=true&s=168522591dcd2574fd08a4fd10836abdf255a436" length="0" type="image//v2/images/author/126e3b96-81c7-49b5-bd1b-7ffa32f79e7a"/>
         </item>
         <item>
+            <title><![CDATA[Osäker in i det sista? Gör valkompassen här]]></title>
+            <link>https://www.svd.se/a/zEdvlv/valkompass-eu-valet-2024-vilket-parti-ligger-dig-narmast</link>
+            <guid>https://www.svd.se/a/zEdvlv/valkompass-eu-valet-2024-vilket-parti-ligger-dig-narmast</guid>
+            <pubDate>Fri, 07 Jun 2024 16:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[SvD:s valkompass hjälper dig hitta rätt inför valet 9 juni.]]></content:encoded>
+            <enclosure url="https://svd.vgc.no/v2/images/000fe9cd-95bc-4a79-b115-8c763197c186?fit=crop&format=jpeg&h=90&q=80&tight=true&upscale=true&w=160&s=93f4508e8ccac21ffc3599041985a0f8a9279a55" length="0" type="image//v2/images/000fe9cd-95bc-4a79-b115-8c763197c186"/>
+        </item>
+        <item>
+            <title><![CDATA[Expert: Netanyahu kan gynnas – på kort sikt]]></title>
+            <link>https://www.svd.se/a/jQzpKw/protesterna-fortsatter-trots-fritagningen</link>
+            <guid>https://www.svd.se/a/jQzpKw/protesterna-fortsatter-trots-fritagningen</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[Att fyra gisslantagna israeler räddades i lördags möts med glädje – men Gantz varning kvarstår.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Antalet döda och skadade stiger]]></title>
+            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
+            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
+            <pubDate>Tue, 14 May 2024 11:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Över 270 palestinier uppges ha dödats när gisslan fritogs • Senaste nytt.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Grekiskt tv-team hittade Michael Mosley död]]></title>
             <link>https://www.svd.se/a/8qB7xQ/uppgifter-dod-person-i-sokandet-efter-mosley</link>
             <guid>https://www.svd.se/a/8qB7xQ/uppgifter-dod-person-i-sokandet-efter-mosley</guid>
             <pubDate>Sun, 09 Jun 2024 09:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Borgmästaren bekräftar • Teorin: Dog av värmeslag och uttorkning.]]></content:encoded>
+            <content:encoded><![CDATA[Borgmästaren bekräftar • Frun efter dödsbeskedet: ”Det är förkrossande.”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Ensam – en tredjedel av min pluton ihjälskjutna”]]></title>
-            <link>https://www.svd.se/a/Xjgyko/30-ar-senare-gar-det-att-stoppa-en-ny-mattias-flink</link>
-            <guid>https://www.svd.se/a/Xjgyko/30-ar-senare-gar-det-att-stoppa-en-ny-mattias-flink</guid>
-            <pubDate>Sun, 09 Jun 2024 09:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[30 år sedan traumat – lottorna mördades i Falun • Nu ska Dalregementet växa igen.]]></content:encoded>
+            <title><![CDATA[Expert: Så undviker du värmeslag]]></title>
+            <link>https://www.svd.se/a/5EnO1X/expert-om-hettan-dodlig-aven-for-valtranade</link>
+            <guid>https://www.svd.se/a/5EnO1X/expert-om-hettan-dodlig-aven-for-valtranade</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[Varnar svenskar för värmen – ”Kan ske på bara några timmar.”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ovanligt segdragna förkylningar i år]]></title>
-            <link>https://www.svd.se/a/GyQnjm/darfor-ar-forkylningarna-segdragna-just-i-ar</link>
-            <guid>https://www.svd.se/a/GyQnjm/darfor-ar-forkylningarna-segdragna-just-i-ar</guid>
-            <pubDate>Sun, 09 Jun 2024 09:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Därför tar vabbandet inte slut • Läkarens tips inför sommarlov.]]></content:encoded>
+            <title><![CDATA[Valet kan få Putin att gnugga sina händer]]></title>
+            <link>https://www.svd.se/a/zAgWRw/valresultatet-till-eu-parlamentet-kan-fa-putin-att-gnugga-sina-hander</link>
+            <guid>https://www.svd.se/a/zAgWRw/valresultatet-till-eu-parlamentet-kan-fa-putin-att-gnugga-sina-hander</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Therese Larsson Hultin: </strong>Ryssvänliga partier på frammarsch – kan lamslå EU.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hon kan bli Europas nya kungamakare]]></title>
@@ -72,32 +89,25 @@
             <content:encoded><![CDATA[SvD listar fyra saker att ha koll på inför söndagens valresultat.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["Varje land har sina snusdebatter och EPA-gräl"]]></title>
-            <link>https://www.svd.se/a/Mn1oaM/eu-valet-svd-svarar-pa-lasarnas-fragor</link>
-            <guid>https://www.svd.se/a/Mn1oaM/eu-valet-svd-svarar-pa-lasarnas-fragor</guid>
-            <pubDate>Sun, 09 Jun 2024 11:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[Teresa Küchler svarar på läsarnas nyckelfrågor i sista stund inför EU-valet.]]></content:encoded>
+            <title><![CDATA[Göteborgarna fick rätt om Stockholm]]></title>
+            <link>https://www.svd.se/a/1M7RXq/way-out-west-forvandlar-stockholm-till-sveriges-popkulturella-baksida</link>
+            <guid>https://www.svd.se/a/1M7RXq/way-out-west-forvandlar-stockholm-till-sveriges-popkulturella-baksida</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Andres Lokko: </strong>Då förvandlas Sveriges huvudstad till en popkulturell Finlandsfärja.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Vilket parti ligger dig närmast i EU-valet?]]></title>
-            <link>https://www.svd.se/a/zEdvlv/valkompass-eu-valet-2024-vilket-parti-ligger-dig-narmast</link>
-            <guid>https://www.svd.se/a/zEdvlv/valkompass-eu-valet-2024-vilket-parti-ligger-dig-narmast</guid>
-            <pubDate>Fri, 07 Jun 2024 16:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[SvD:s valkompass hjälper dig hitta rätt inför valet 9 juni.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Polisens kritik mot Vinted: ”Nätfiske”]]></title>
-            <link>https://www.svd.se/a/lwElly/polisens-kritik-mot-vinted-300-anmalningar-gallande-appen</link>
-            <guid>https://www.svd.se/a/lwElly/polisens-kritik-mot-vinted-300-anmalningar-gallande-appen</guid>
+            <title><![CDATA[”Ensam – en tredjedel av min pluton ihjälskjutna”]]></title>
+            <link>https://www.svd.se/a/Xjgyko/30-ar-senare-gar-det-att-stoppa-en-ny-mattias-flink</link>
+            <guid>https://www.svd.se/a/Xjgyko/30-ar-senare-gar-det-att-stoppa-en-ny-mattias-flink</guid>
             <pubDate>Sun, 09 Jun 2024 09:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[300 anmälningar mot populära plattformen • Vinted svarar.]]></content:encoded>
+            <content:encoded><![CDATA[30 år sedan traumat – lottorna mördades i Falun • Nu ska Dalregementet växa igen.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Visst finns ett svenskt arv att försvara]]></title>
-            <link>https://www.svd.se/a/B03kj0/ida-olmedal-svensk-litteraturkanon-slipas-ned-till-harmlosa-laslistor</link>
-            <guid>https://www.svd.se/a/B03kj0/ida-olmedal-svensk-litteraturkanon-slipas-ned-till-harmlosa-laslistor</guid>
-            <pubDate>Sun, 09 Jun 2024 06:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Ida Ölmedal: </strong>”Bröderna Lejonhjärta” sågs som farlig – nu blir den statlig rekommendation.]]></content:encoded>
+            <title><![CDATA[Grundare säljer Spotify-aktier för 863 miljoner]]></title>
+            <link>https://www.svd.se/a/alWyKM/spotify-grundaren-martin-lorentzon-saljer-innehav-for-miljoner</link>
+            <guid>https://www.svd.se/a/alWyKM/spotify-grundaren-martin-lorentzon-saljer-innehav-for-miljoner</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[Aktien har rusat – ännu ett tungt namn säljer • Nya dokumenten avslöjar.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Gick över gränsen med Hitlertyskland”]]></title>
@@ -107,46 +117,46 @@
             <content:encoded><![CDATA[Hårda tongångar mellan KD och V • Flera kritiska till SVT:s upplägg.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Vem vinner var? Din guide till Europas valkväll]]></title>
-            <link>https://www.svd.se/a/7354wo/vem-vinner-var-din-guide-till-europas-valkvall</link>
-            <guid>https://www.svd.se/a/7354wo/vem-vinner-var-din-guide-till-europas-valkvall</guid>
-            <pubDate>Sun, 09 Jun 2024 11:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Vem vinner var? Din guide till Europas valkväll</h2></div>]]></content:encoded>
+            <title><![CDATA[Ytterhögern i AFD näst störst i Tyskland]]></title>
+            <link>https://www.svd.se/a/Oo3qEO/ytterhogern-i-afd-nast-storst-i-tyskland</link>
+            <guid>https://www.svd.se/a/Oo3qEO/ytterhogern-i-afd-nast-storst-i-tyskland</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Ytterhögern i AFD näst störst i Tyskland</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Två begärs häktade efter C Gambinos död]]></title>
-            <link>https://www.svd.se/a/7354o9/tva-begars-haktade-efter-c-gambinos-dod</link>
-            <guid>https://www.svd.se/a/7354o9/tva-begars-haktade-efter-c-gambinos-dod</guid>
-            <pubDate>Sun, 09 Jun 2024 11:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Två begärs häktade efter C Gambinos död</h2></div>]]></content:encoded>
+            <title><![CDATA[Därför angår Ukrainas sak hela Europa]]></title>
+            <link>https://www.svd.se/a/lwzldM/darfor-angar-ukrainas-sak-hela-europa</link>
+            <guid>https://www.svd.se/a/lwzldM/darfor-angar-ukrainas-sak-hela-europa</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Därför angår Ukrainas sak hela Europa</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Man död efter lägenhetsbrand i Göteborg]]></title>
-            <link>https://www.svd.se/a/o368BB/man-dod-efter-lagenhetsbrand-i-goteborg</link>
-            <guid>https://www.svd.se/a/o368BB/man-dod-efter-lagenhetsbrand-i-goteborg</guid>
-            <pubDate>Sun, 09 Jun 2024 11:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Man död efter lägenhetsbrand i Göteborg</h2></div>]]></content:encoded>
+            <title><![CDATA[Göteborgarna fick rätt om Stockholm]]></title>
+            <link>https://www.svd.se/a/1M7RXq/way-out-west-forvandlar-stockholm-till-sveriges-popkulturella-baksida</link>
+            <guid>https://www.svd.se/a/1M7RXq/way-out-west-forvandlar-stockholm-till-sveriges-popkulturella-baksida</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Göteborgarna fick rätt om Stockholm</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Stopp i tågtrafiken mellan Stockholm och Göteborg]]></title>
-            <link>https://www.svd.se/a/mP1ya1/stopp-i-tagtrafiken-mellan-stockholm-och-goteborg</link>
-            <guid>https://www.svd.se/a/mP1ya1/stopp-i-tagtrafiken-mellan-stockholm-och-goteborg</guid>
-            <pubDate>Sun, 09 Jun 2024 09:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Stopp i tågtrafiken mellan Stockholm och Göteborg</h2></div>]]></content:encoded>
+            <title><![CDATA[Expert: Netanyahu kan gynnas – på kort sikt]]></title>
+            <link>https://www.svd.se/a/jQzpKw/protesterna-fortsatter-trots-fritagningen</link>
+            <guid>https://www.svd.se/a/jQzpKw/protesterna-fortsatter-trots-fritagningen</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Expert: Netanyahu kan gynnas – på kort sikt</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Uppdraget är att få Sydafrika på fötter]]></title>
-            <link>https://www.svd.se/a/3M6P7X/uppdraget-ar-att-fa-sydafrika-pa-fotter</link>
-            <guid>https://www.svd.se/a/3M6P7X/uppdraget-ar-att-fa-sydafrika-pa-fotter</guid>
-            <pubDate>Sun, 09 Jun 2024 09:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Uppdraget är att få Sydafrika på fötter</h2></div>]]></content:encoded>
+            <title><![CDATA[Småpartierna pressade: Kan slå mot partiledare]]></title>
+            <link>https://www.svd.se/a/LM1e8q/smapartierna-pressade-kan-sla-mot-partiledare</link>
+            <guid>https://www.svd.se/a/LM1e8q/smapartierna-pressade-kan-sla-mot-partiledare</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="BodyContent-www__sc-uz9q9i-1 hoMPxp"><h2 class="Heading-www__sc-uz9q9i-2 bIqExJ Teaser-heading">Småpartierna pressade: Kan slå mot partiledare</h2></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Uppdraget är att få Sydafrika på fötter]]></title>
-            <link>https://www.svd.se/a/3M6P7X/uppdraget-ar-att-fa-sydafrika-pa-fotter</link>
-            <guid>https://www.svd.se/a/3M6P7X/uppdraget-ar-att-fa-sydafrika-pa-fotter</guid>
-            <pubDate>Sun, 09 Jun 2024 09:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Anna Charlotta Johansson: </strong>Inte ens ANC kan leva på gamla meriter hur länge som helst.]]></content:encoded>
+            <title><![CDATA[Därför angår Ukrainas sak hela Europa]]></title>
+            <link>https://www.svd.se/a/lwzldM/darfor-angar-ukrainas-sak-hela-europa</link>
+            <guid>https://www.svd.se/a/lwzldM/darfor-angar-ukrainas-sak-hela-europa</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Mattias Svensson: </strong>På Sergels Torg den 9 juni talade Mattias Svensson till stöd för Ukrainas sak och mot det ryska invasionskriget.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Expert: Problemet med HIIT inte fysiska faran]]></title>
@@ -156,25 +166,18 @@
             <content:encoded><![CDATA[”Osannolikt att en otränad person plötsligt ska börja tänka som en elitidrottare.”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Netanyahus vädjan: Lämna inte regeringen]]></title>
-            <link>https://www.svd.se/a/Av3Xo3/netanyahu-vadjar-avga-inte</link>
-            <guid>https://www.svd.se/a/Av3Xo3/netanyahu-vadjar-avga-inte</guid>
-            <pubDate>Sun, 09 Jun 2024 06:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[Efter ultimatumet om Gaza • Skriver på X: ”Ge inte upp om enigheten.”]]></content:encoded>
+            <title><![CDATA[Två begärs häktade efter rappares död]]></title>
+            <link>https://www.svd.se/a/5EnOe1/tva-begars-haktade-efter-rappares-dod</link>
+            <guid>https://www.svd.se/a/5EnOe1/tva-begars-haktade-efter-rappares-dod</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[C Gambino sköts till döds i tisdags i ett parkeringsgarage.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Fyra gisslan räddade under blodig insats]]></title>
-            <link>https://www.svd.se/a/yE7VGg/israel-fyra-ur-gisslan-raddade</link>
-            <guid>https://www.svd.se/a/yE7VGg/israel-fyra-ur-gisslan-raddade</guid>
+            <title><![CDATA[Polisens kritik mot Vinted: ”Nätfiske”]]></title>
+            <link>https://www.svd.se/a/lwElly/polisens-kritik-mot-vinted-300-anmalningar-gallande-appen</link>
+            <guid>https://www.svd.se/a/lwElly/polisens-kritik-mot-vinted-300-anmalningar-gallande-appen</guid>
             <pubDate>Sun, 09 Jun 2024 09:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Efter intensiva anfall i Gaza • Jublar och tas emot av anhöriga.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Trots fritagningen: Intensiva protester]]></title>
-            <link>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</link>
-            <guid>https://www.svd.se/a/dwel81/senaste-nytt-om-israel-palestina-konflikten</guid>
-            <pubDate>Tue, 14 May 2024 11:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Kräver nyval – polis använder vattenkanoner • Senaste nytt.]]></content:encoded>
+            <content:encoded><![CDATA[300 anmälningar mot populära plattformen • Vinted svarar.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Turister varnas för köttätande maskar]]></title>
@@ -184,25 +187,18 @@
             <content:encoded><![CDATA[Värmeböljor bidrar till att eldmaskar invaderar Italien.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Ukraina: Lyckat angrepp mot ryskt superplan]]></title>
+            <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
+            <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
+            <pubDate>Thu, 16 May 2024 09:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Uppges vara första gången man lyckas med en liknande attack • Senaste nytt.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Elbilen på väg mot ny brytpunkt – detta avgör]]></title>
             <link>https://www.svd.se/a/kE44P9/naturskyddsforeningen-klimatomstallningen-drivs-av-lonsamhet</link>
             <guid>https://www.svd.se/a/kE44P9/naturskyddsforeningen-klimatomstallningen-drivs-av-lonsamhet</guid>
             <pubDate>Sat, 08 Jun 2024 09:09:58 GMT</pubDate>
             <content:encoded><![CDATA[Något håller på att hända – positiva kraften ger forskarna hopp • ”Batteriskam verkar fungera.”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nio av tio krigsfångar torteras av Ryssland]]></title>
-            <link>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</link>
-            <guid>https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt</guid>
-            <pubDate>Thu, 16 May 2024 09:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="LabelLive-www__sc-1prgiuu-0 cDNrGJ"><span class="LiveDot-www__sc-1prgiuu-1 gtvDUq"></span>Direkt</span>Uppger Ukraina efter samtal med krigsfångar som släppts • Senaste nytt.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Vändningen: Ny fart för förbränningsmotorn]]></title>
-            <link>https://www.svd.se/a/KMp3dG/forsaljning-av-elbilar-ovantat-lag-forbranningsmotorer-gor-comeback</link>
-            <guid>https://www.svd.se/a/KMp3dG/forsaljning-av-elbilar-ovantat-lag-forbranningsmotorer-gor-comeback</guid>
-            <pubDate>Fri, 07 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Försäljning av elbilar oväntat låg – världens biljättar satsar på ny generation motorer.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Köparen drar sig ur – så ska du agera]]></title>
@@ -219,13 +215,6 @@
             <content:encoded><![CDATA[I den diamantformade juvelen mixas persisk och skandinavisk design.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Låt gravt omyndiga barn bestämma åt dig]]></title>
-            <link>https://www.svd.se/a/eMPqL9/5-skal-darfor-ska-du-rosta-i-eu-valet</link>
-            <guid>https://www.svd.se/a/eMPqL9/5-skal-darfor-ska-du-rosta-i-eu-valet</guid>
-            <pubDate>Sat, 08 Jun 2024 16:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Henrik Torehammar: </strong>Det finns många fina skäl att gå och rösta – här är fem annorlunda.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[”Jag blir störd, men mest känns det sorgligt”]]></title>
             <link>https://www.svd.se/a/KMpMXo/carolina-neurath-jag-blir-forbannad-men-mest-kanns-det-sorgligt</link>
             <guid>https://www.svd.se/a/KMpMXo/carolina-neurath-jag-blir-forbannad-men-mest-kanns-det-sorgligt</guid>
@@ -240,18 +229,25 @@
             <content:encoded><![CDATA[En kommentar på en fest får SvD:s Alice Aveshagen att ifrågasätta tjejernas favoritregel.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Efter arrangörsmiss: EM-rekordet stryks]]></title>
-            <link>https://www.svd.se/a/QMx37R/efter-arrangorsmiss-em-skrallens-rekord-stryks</link>
-            <guid>https://www.svd.se/a/QMx37R/efter-arrangorsmiss-em-skrallens-rekord-stryks</guid>
-            <pubDate>Sun, 09 Jun 2024 06:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[Svenskan blir av med placering –&nbsp;och personliga rekordet.]]></content:encoded>
+            <title><![CDATA[”Då trodde folk att vi inte var kloka”]]></title>
+            <link>https://www.svd.se/a/XjgAkm/jamtland-pekades-ut-som-mest-eu-kritiskt-nu-har-nagot-hant</link>
+            <guid>https://www.svd.se/a/XjgAkm/jamtland-pekades-ut-som-mest-eu-kritiskt-nu-har-nagot-hant</guid>
+            <pubDate>Sat, 08 Jun 2024 06:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[De hatade EU på 90-talet – men nu har något hänt • SvD återvänder till Jämtland 30 år senare.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hot och trakasserier vid vallokaler: ”Stökigt”]]></title>
-            <link>https://www.svd.se/a/4BzmaV/hot-och-trakasserier-vid-eu-vallokaler-men-lugnt-vid-valstugor</link>
-            <guid>https://www.svd.se/a/4BzmaV/hot-och-trakasserier-vid-eu-vallokaler-men-lugnt-vid-valstugor</guid>
-            <pubDate>Sat, 08 Jun 2024 16:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[Lång rad incidenter – men lugnare vid valstugorna: ”Värre 2018.”]]></content:encoded>
+            <title><![CDATA[Ovanligt segdragna förkylningar i år]]></title>
+            <link>https://www.svd.se/a/GyQnjm/darfor-ar-forkylningarna-segdragna-just-i-ar</link>
+            <guid>https://www.svd.se/a/GyQnjm/darfor-ar-forkylningarna-segdragna-just-i-ar</guid>
+            <pubDate>Sun, 09 Jun 2024 09:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Därför tar vabbandet inte slut • Läkarens tips inför sommarlov.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Inte få ihop livspusslet – en dold sjukdom?]]></title>
+            <link>https://www.svd.se/a/KMBj8e/psykiatern-om-adhd-inte-fa-ihop-livspusslet-en-dold-sjukdom</link>
+            <guid>https://www.svd.se/a/KMBj8e/psykiatern-om-adhd-inte-fa-ihop-livspusslet-en-dold-sjukdom</guid>
+            <pubDate>Fri, 07 Jun 2024 16:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Peder Björling: </strong>Sorgligt när adhd-diagnos krävs för att man ska ”förlåta sig själv”.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Optimera semesterns återhämtande effekt]]></title>
@@ -261,6 +257,13 @@
             <content:encoded><![CDATA[<strong>Emma Frans: </strong>Sju råd som enligt vetenskapen maximerar välbefinnande.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[”Urusla friskolor bör återbetala skolpeng”]]></title>
+            <link>https://www.svd.se/a/Vz1dR4/malmopolitiker-urusla-friskolor-bor-aterbetala-skolpengen</link>
+            <guid>https://www.svd.se/a/Vz1dR4/malmopolitiker-urusla-friskolor-bor-aterbetala-skolpengen</guid>
+            <pubDate>Sun, 09 Jun 2024 16:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[Malmöpolitiker: Kommuner borde få rätt till återkrav vid stora kvalitets­brister.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Tyvärr finns inte längre Zlatan att tillgå]]></title>
             <link>https://www.svd.se/a/3M6owe/zlatan-ibrahimovic-tackades-av-efter-sveriges-forlust-mot-serbien</link>
             <guid>https://www.svd.se/a/3M6owe/zlatan-ibrahimovic-tackades-av-efter-sveriges-forlust-mot-serbien</guid>
@@ -268,18 +271,18 @@
             <content:encoded><![CDATA[<strong>Anders Lindblad: </strong>Med Ibrahimovic i publiken förlorade Sverige igen.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[”Då trodde folk att vi inte var kloka”]]></title>
-            <link>https://www.svd.se/a/XjgAkm/jamtland-pekades-ut-som-mest-eu-kritiskt-nu-har-nagot-hant</link>
-            <guid>https://www.svd.se/a/XjgAkm/jamtland-pekades-ut-som-mest-eu-kritiskt-nu-har-nagot-hant</guid>
-            <pubDate>Sat, 08 Jun 2024 06:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[De hatade EU på 90-talet – men nu har något hänt • SvD återvänder till Jämtland 30 år senare.]]></content:encoded>
+            <title><![CDATA[Visst finns ett svenskt arv att försvara]]></title>
+            <link>https://www.svd.se/a/B03kj0/ida-olmedal-svensk-litteraturkanon-slipas-ned-till-harmlosa-laslistor</link>
+            <guid>https://www.svd.se/a/B03kj0/ida-olmedal-svensk-litteraturkanon-slipas-ned-till-harmlosa-laslistor</guid>
+            <pubDate>Sun, 09 Jun 2024 06:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Ida Ölmedal: </strong>”Bröderna Lejonhjärta” sågs som farlig – nu blir den statlig rekommendation.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Inte få ihop livspusslet – en dold sjukdom?]]></title>
-            <link>https://www.svd.se/a/KMBj8e/psykiatern-om-adhd-inte-fa-ihop-livspusslet-en-dold-sjukdom</link>
-            <guid>https://www.svd.se/a/KMBj8e/psykiatern-om-adhd-inte-fa-ihop-livspusslet-en-dold-sjukdom</guid>
-            <pubDate>Fri, 07 Jun 2024 16:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>Peder Björling: </strong>Sorgligt när adhd-diagnos krävs för att man ska ”förlåta sig själv”.]]></content:encoded>
+            <title><![CDATA[Efter arrangörsmiss: EM-rekordet stryks]]></title>
+            <link>https://www.svd.se/a/QMx37R/efter-arrangorsmiss-em-skrallens-rekord-stryks</link>
+            <guid>https://www.svd.se/a/QMx37R/efter-arrangorsmiss-em-skrallens-rekord-stryks</guid>
+            <pubDate>Sun, 09 Jun 2024 06:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[Svenskan blir av med placering –&nbsp;och personliga rekordet.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[”Tusentals okända virus” förvånade tarmforskare]]></title>
@@ -296,13 +299,6 @@
             <content:encoded><![CDATA[<strong>Teresa Küchler: </strong>Protesterna kan forma framtiden.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Emmas ansikte kapades – används i fejkad porr]]></title>
-            <link>https://www.svd.se/a/Jb14kb/emma-bliss-utsatts-for-deepfake-porr-via-generativ-ai</link>
-            <guid>https://www.svd.se/a/Jb14kb/emma-bliss-utsatts-for-deepfake-porr-via-generativ-ai</guid>
-            <pubDate>Thu, 06 Jun 2024 06:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[I flera år har streamerns ansikte använts utan godkännande: ”Känner mig smutsig”.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Det är vi som är Europas extremister]]></title>
             <link>https://www.svd.se/a/3M6mQA/recension-europa-idag-av-fredrik-charpentier-ljungqvist</link>
             <guid>https://www.svd.se/a/3M6mQA/recension-europa-idag-av-fredrik-charpentier-ljungqvist</guid>
@@ -310,49 +306,49 @@
             <content:encoded><![CDATA[I en ny bok kartlägger Fredrik Charpentier Ljungqvist likheterna och skillnaderna mellan Europas länder.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[43]]></title>
+            <title><![CDATA[42]]></title>
             <link>https://kund.svd.se/kundinfo/dagens-tidning.html?utm_source=svdse&amp;utm_medium=b2c&amp;utm_content=dt&amp;utm_campaign=dt&amp;intcmp=svdse:b2c:dt:dt</link>
             <guid>https://kund.svd.se/kundinfo/dagens-tidning.html?utm_source=svdse&amp;utm_medium=b2c&amp;utm_content=dt&amp;utm_campaign=dt&amp;intcmp=svdse:b2c:dt:dt</guid>
             <pubDate>Tue, 30 Jan 2024 20:11:16 GMT</pubDate>
             <content:encoded><![CDATA[söndag 9 juni]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[44]]></title>
+            <title><![CDATA[43]]></title>
             <link>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=kontaktkontraktet#!/Kontaktkontraktet-Lek-med-din-hund/p/664642115/category=161931057</link>
             <guid>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=kontaktkontraktet#!/Kontaktkontraktet-Lek-med-din-hund/p/664642115/category=161931057</guid>
             <pubDate>Mon, 03 Jun 2024 09:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Bok</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">199 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Kontaktkontraktet - Lek med din hund</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/bea639f5816ec9206e6ba1a7620e97737ee0d1b9f727ada967d5c5ca15604f6c.jpeg" alt="Kontaktkontraktet - Lek med din hund"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[45]]></title>
+            <title><![CDATA[44]]></title>
             <link>https://accent.svd.se/kulturtaget-till-tyskland-2024.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=kulturtaget</link>
             <guid>https://accent.svd.se/kulturtaget-till-tyskland-2024.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=kulturtaget</guid>
             <pubDate>Mon, 03 Jun 2024 09:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">30 800 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Kulturtåget till Tyskland</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/e5e01f3eb39e6493f8141fbc1de64dc91564e6c3b171204e3bf64d62a7cc3158.jpeg" alt="Kulturtåget till Tyskland"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[46]]></title>
+            <title><![CDATA[45]]></title>
             <link>https://accent.svd.se/operaresa-till-verona.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=verona</link>
             <guid>https://accent.svd.se/operaresa-till-verona.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=verona</guid>
             <pubDate>Mon, 03 Jun 2024 09:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">34 500 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Operaresa till Verona</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/73c4ae16181b876e72fa1e309f23cd81cc1541d8dc2a1f6db5bc9b020d8c1b35.jpeg" alt="Operaresa till Verona"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[47]]></title>
+            <title><![CDATA[46]]></title>
             <link>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=flaskkylare#!/Orrefors-Jernverk-Flaskkylare/p/654048883/category=169398350</link>
             <guid>https://www.svd.se/butik?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=flaskkylare#!/Orrefors-Jernverk-Flaskkylare/p/654048883/category=169398350</guid>
             <pubDate>Mon, 03 Jun 2024 09:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Flaskkylare</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">899 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Orrefors Jernverk</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/0d65bbf2e381b64365b0f51e1326bdc21d368d2f25d316c0ef6db713a75b0413.jpeg" alt="Orrefors Jernverk"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[48]]></title>
+            <title><![CDATA[47]]></title>
             <link>https://accent.svd.se/konst-i-frankrike-fran-provence-till-paris.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=paris</link>
             <guid>https://accent.svd.se/konst-i-frankrike-fran-provence-till-paris.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=paris</guid>
             <pubDate>Mon, 03 Jun 2024 09:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="MetaWrapper-www__sc-1ploj3h-2 RaKfQ"><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserLabel-www__sc-1ploj3h-4 kYkGLL idvmnt">Resa</span><span class="MetaText-www__sc-1vxnsg5-0 AccentBoxTeaserPrice-www__sc-1ploj3h-3 kYkGLL gsNijh">44 500 kr</span></div><h2 class="AccentBoxTeaserHeading-www__sc-1ploj3h-1 hYnoFJ">Konst i Frankrike från Provence till Paris</h2><figure class="AccentBoxTeaserImage-www__sc-1ploj3h-5 bNgOTX"><div class="LazyWrapper" data-controller="lazyContent" data-lazycontent-fire-new-content-event="false" style="padding-bottom:56.27%" data-lazycontentinitialized="true"><noscript><picture class="Picture-www__sc-ah7kh1-0 kKnYiz"><img src="https://grafik.svd.se//accent/c89686a7e89d2e7a222b78e8abb2dedddbf1458104d502f047c9b2a87fadaa47.jpeg" alt="Konst i Frankrike från Provence till Paris"/></picture></noscript></div></figure>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[49]]></title>
+            <title><![CDATA[48]]></title>
             <link>https://prenumerera.svd.se/svdvinklubb?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vinklubb</link>
             <guid>https://prenumerera.svd.se/svdvinklubb?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=vinklubb</guid>
             <pubDate>Mon, 03 Jun 2024 09:09:15 GMT</pubDate>
