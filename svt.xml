@@ -4,7 +4,7 @@
         <title>SVT Nyheter</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 06:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 09:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://www.svt.se/nyheter/inrikes/sd-ledamot-sjong-hogerextrema-slagord-pa-valvaka</link>
             <guid>https://www.svt.se/nyheter/inrikes/sd-ledamot-sjong-hogerextrema-slagord-pa-valvaka</guid>
             <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Fångades på band av Expressen • ”Oj shit, spelar du in?”]]></content:encoded>
+            <content:encoded><![CDATA[Fångades på band av Expressen • Ska ha samtal med gruppledaren under måndagen]]></content:encoded>
             <enclosure url="https://www.svtstatic.se/image-news/200/square/0.73/0.46/0b9ab1b65a5188c656c0d8adb434c9c62b9051e56accbb133b69317d856d7cfa" length="0" type="image/46/0b9ab1b65a5188c656c0d8adb434c9c62b9051e56accbb133b69317d856d7cfa"/>
         </item>
         <item>
@@ -32,28 +32,20 @@
             <enclosure url="https://www.svtstatic.se/image-news/200/square/0.46/0.43/a29828c957fb4ed8d97e23a380b4ed8b1681be3b39daa6c2439806843de3dac6" length="0" type="image/43/a29828c957fb4ed8d97e23a380b4ed8b1681be3b39daa6c2439806843de3dac6"/>
         </item>
         <item>
-            <title><![CDATA[Ställ dina frågor om EU-valet]]></title>
-            <link>https://www.svt.se/nyheter/inrikes/stall-dina-fragor-om-eu-valet</link>
-            <guid>https://www.svt.se/nyheter/inrikes/stall-dina-fragor-om-eu-valet</guid>
-            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Statsvetare Jenny Madestam svarar med start vid åtta]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.5/0.63/32e09bdbe2a332ecb740f1183fbb8327a35f9c7ec773eadd092227cf0f5e3738" length="0" type="image/63/32e09bdbe2a332ecb740f1183fbb8327a35f9c7ec773eadd092227cf0f5e3738"/>
+            <title><![CDATA[Trendbrott – valdeltagandet sjönk]]></title>
+            <link>https://www.svt.se/nyheter/inrikes/eu-val-2024-senaste-nytt-liverapport?inlagg=0009e53d1710e14c534bae67a8f1398a</link>
+            <guid>https://www.svt.se/nyheter/inrikes/eu-val-2024-senaste-nytt-liverapport?inlagg=0009e53d1710e14c534bae67a8f1398a</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bara hälften av Sveriges befolkning röstade]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.5/0.29/46def512cbf4d8e415a39d7e54fd22c6e2bde4227aff54c04c3b36d250892fb7" length="0" type="image/29/46def512cbf4d8e415a39d7e54fd22c6e2bde4227aff54c04c3b36d250892fb7"/>
         </item>
         <item>
-            <title><![CDATA[Så röstade dina grannar – följ räkningen]]></title>
-            <link>https://valresultat.svt.se/2024/</link>
-            <guid>https://valresultat.svt.se/2024/</guid>
+            <title><![CDATA[Land för land: Så har högervindarna blåst i Europa]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/fouad-youcefi-sa-ser-parlamentet-ut-just-nu</link>
+            <guid>https://www.svt.se/nyheter/utrikes/fouad-youcefi-sa-ser-parlamentet-ut-just-nu</guid>
             <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Se första resultatet i din kommun]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.5/0.5/ae5153b51a2ad40f85178c5ac06115d261f8e575aa0dc9b28d47b0a861c8072e" length="0" type="image/5/ae5153b51a2ad40f85178c5ac06115d261f8e575aa0dc9b28d47b0a861c8072e"/>
-        </item>
-        <item>
-            <title><![CDATA[Youcefi: SD tappar mest i Skåne]]></title>
-            <link>https://www.svt.se/nyheter/inrikes/eu-val-2024-senaste-nytt-liverapport?inlagg=211c179e3e2d4674d37ae8e3f512e058</link>
-            <guid>https://www.svt.se/nyheter/inrikes/eu-val-2024-senaste-nytt-liverapport?inlagg=211c179e3e2d4674d37ae8e3f512e058</guid>
-            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[”Betydligt mer spritt än 2019”]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.39/0.51/29f515b717b93f977c45342f64ce2ec36e252405baa211588ca9b588a6c39aeb" length="0" type="image/51/29f515b717b93f977c45342f64ce2ec36e252405baa211588ca9b588a6c39aeb"/>
+            <content:encoded><![CDATA[Högern ökar • Bred nedgång för vänstern]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[Macron utlyser nyval i Frankrike – efter fiaskovalet i EU]]></title>
@@ -64,23 +56,15 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Land för land: Så har högervindarna blåst i Europa]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/fouad-youcefi-sa-ser-parlamentet-ut-just-nu</link>
-            <guid>https://www.svt.se/nyheter/utrikes/fouad-youcefi-sa-ser-parlamentet-ut-just-nu</guid>
-            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Högern ökar – bred nedgång för vänstern]]></content:encoded>
+            <title><![CDATA[Julia Henriksson vidare till semifinal]]></title>
+            <link>https://www.svt.se/sport/friidrott/liverapportering-friidrotts-em-2024</link>
+            <guid>https://www.svt.se/sport/friidrott/liverapportering-friidrotts-em-2024</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Senaste nytt från friidrotts-EM]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Se resultatet för partigrupperna i parlamentet]]></title>
-            <link>https://valresultat.svt.se/2024/eu.html</link>
-            <guid>https://valresultat.svt.se/2024/eu.html</guid>
-            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Uppdateras i takt med rösträkningen]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Ny diskning drogs tillbaka i natt – fick guldet till slut]]></title>
+            <title><![CDATA[Ny diskning drogs tillbaka i natt – fransyska fick guldet till slut]]></title>
             <link>https://www.svt.se/sport/friidrott/ny-kaosdiskning-vid-em-som-drogs-tillbaka-i-natt</link>
             <guid>https://www.svt.se/sport/friidrott/ny-kaosdiskning-vid-em-som-drogs-tillbaka-i-natt</guid>
             <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
@@ -88,36 +72,84 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Kaoset i natt – svensken får tillbaka finalplatsen igen]]></title>
-            <link>https://www.svt.se/sport/friidrott/erik-erlandsson-till-sensationell-200-m-final-pa-friidrotts-em</link>
-            <guid>https://www.svt.se/sport/friidrott/erik-erlandsson-till-sensationell-200-m-final-pa-friidrotts-em</guid>
-            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Nya uppgifter kring protesten • ”Riktigt arg”]]></content:encoded>
+            <title><![CDATA[Friidrotts-EM]]></title>
+            <link>https://www.svt.se/sport/friidrott/friidrotts-em-2024</link>
+            <guid>https://www.svt.se/sport/friidrott/friidrotts-em-2024</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Dag för dag-program]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Experten rasar efter juryröran: ”En fars är i underkant”]]></title>
-            <link>https://www.svt.se/sport/friidrott/svt-sports-expert-alhaji-jeng-rasar-efter-jurykaoset-i-friidrotts-em</link>
-            <guid>https://www.svt.se/sport/friidrott/svt-sports-expert-alhaji-jeng-rasar-efter-jurykaoset-i-friidrotts-em</guid>
+            <title><![CDATA[Se hur dina grannar röstade – följ rösträkningen]]></title>
+            <link>https://valresultat.svt.se/2024/</link>
+            <guid>https://valresultat.svt.se/2024/</guid>
             <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Alhaji Jeng kritisk till hanteringen]]></content:encoded>
+            <content:encoded><![CDATA[Preliminära resultatet finns nu i din kommun]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Kramer femma i finalen på 800 meter]]></title>
-            <link>https://www.svt.se/sport/friidrott/andreas-kramer-femma-i-800-meters-finalen-i-friidrotts-em</link>
-            <guid>https://www.svt.se/sport/friidrott/andreas-kramer-femma-i-800-meters-finalen-i-friidrotts-em</guid>
-            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Svensken missade pallen]]></content:encoded>
-            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.26/0.25/c5b68afa50859f99086891d23eaec3096a7d87a7c7efd7193e13f9356d265997" length="0" type="image/25/c5b68afa50859f99086891d23eaec3096a7d87a7c7efd7193e13f9356d265997"/>
+            <title><![CDATA[Det svenska partiet tappar flest manliga röster]]></title>
+            <link>https://www.svt.se/datajournalistik/euvalu2024/valjargrupper/</link>
+            <guid>https://www.svt.se/datajournalistik/euvalu2024/valjargrupper/</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Olika åldersgrupper och förstagångsväljare]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Kameramannen hittade Mosley: ”Ledsen för familjens skull”]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/en-dod-person-har-hittats-i-sokinsatsen-efter-michael-mosley</link>
-            <guid>https://www.svt.se/nyheter/utrikes/en-dod-person-har-hittats-i-sokinsatsen-efter-michael-mosley</guid>
-            <pubDate>Sun, 09 Jun 2024 11:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[Den brittiske läkaren hittades död på den grekiska ön Symi]]></content:encoded>
+            <title><![CDATA[S och MP:s partigrupper backar – SD:s får storskjuts]]></title>
+            <link>https://valresultat.svt.se/2024/eu.html</link>
+            <guid>https://valresultat.svt.se/2024/eu.html</guid>
+            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[Se hela EU-mandatfördelningen]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Boxningsklubbens drag: Här kan unga få hjälp med avgiften]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/norrbotten/utsatta-barn-kan-fa-idrottsligt-stod-boxningsklubben-i-lulea-jobbar-redan-sa</link>
+            <guid>https://www.svt.se/nyheter/lokalt/norrbotten/utsatta-barn-kan-fa-idrottsligt-stod-boxningsklubben-i-lulea-jobbar-redan-sa</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Fritidskort kan införas i Sverige – för att alla ska ha råd med idrott • Klubben går i bräschen]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Första slaget en chock: ”Allting försvann”]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/norrbotten/forsta-slaget-en-chock-men-emil-i-lulea-fortsatter-boxas</link>
+            <guid>https://www.svt.se/nyheter/lokalt/norrbotten/forsta-slaget-en-chock-men-emil-i-lulea-fortsatter-boxas</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Följ med nybörjaren Emil på träningen]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Uppgifter: Blinken i Israel – möte med Netanyahu]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=28a5c356e058f547106cbf677e94af30</link>
+            <guid>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=28a5c356e058f547106cbf677e94af30</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Kravet från Hamas: ”Pressa Israel till fred”]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Satte upp ultimatum – lämnar nu Israels regering i protest]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/benny-gantz-lamnar-israels-regering</link>
+            <guid>https://www.svt.se/nyheter/utrikes/benny-gantz-lamnar-israels-regering</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Oppositionsledaren Benny Gantz krävde efterkrigsplan redan i maj]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[EU-chefen om fritagningen av gisslan: ”Ännu en massaker”]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/sa-gick-fritagningen-av-gisslan-till-eu-chef-annu-en-massaker</link>
+            <guid>https://www.svt.se/nyheter/utrikes/sa-gick-fritagningen-av-gisslan-till-eu-chef-annu-en-massaker</guid>
+            <pubDate>Sun, 09 Jun 2024 16:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[Hamaskontrollerade myndigheter: Över 200 palestinier döda]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza inifrån]]></title>
+            <link>https://www.svtplay.se/video/eXYgzDb/gaza-inifran</link>
+            <guid>https://www.svtplay.se/video/eXYgzDb/gaza-inifran</guid>
+            <pubDate>Fri, 07 Jun 2024 16:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[Palestinska filmare har dokumenterat kriget under 200 dagar • Se det på SVT Play]]></content:encoded>
+            <enclosure url="https://www.svtstatic.se/image-news/200/square/0.5/0.5/512a534a5169f2869221325bdd9f86baf0ae498bb51125db993b27feb7012f2e" length="0" type="image/5/512a534a5169f2869221325bdd9f86baf0ae498bb51125db993b27feb7012f2e"/>
         </item>
         <item>
             <title><![CDATA[Här rivs den svenska kärnkraften – följ med in i reaktorhallen]]></title>
@@ -136,19 +168,43 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Harvey Weinstein överklagar Los Angeles-domen]]></title>
-            <link>https://www.svt.se/kultur/harvey-weinstein-overklagar-los-angeles-domen</link>
-            <guid>https://www.svt.se/kultur/harvey-weinstein-overklagar-los-angeles-domen</guid>
-            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[New York-dom revs upp i våras • Vill nu frias helt]]></content:encoded>
+            <title><![CDATA[Återupplev klassiska fullträffar i EM-målmaskinen]]></title>
+            <link>https://www.svt.se/special/malmaskinen-fotbolls-em-2024/</link>
+            <guid>https://www.svt.se/special/malmaskinen-fotbolls-em-2024/</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Återupplev de mest klassiska EM-målen]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Putin ska besöka Nordkorea]]></title>
+            <title><![CDATA[Polska skadesmällen – anfallaren missar fotbolls-EM]]></title>
+            <link>https://www.svt.se/sport/fotboll/fotbolls-em-2024</link>
+            <guid>https://www.svt.se/sport/fotboll/fotbolls-em-2024</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Följ senaste nytt inför EM i Tyskland]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Fotbolls-EM i Tyskland 2024]]></title>
+            <link>https://www.svt.se/sport/fotboll/fotbolls-em-2024-lagen-grupperna-och-spelorterna</link>
+            <guid>https://www.svt.se/sport/fotboll/fotbolls-em-2024-lagen-grupperna-och-spelorterna</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Här är alla TV-matcherna]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Kameramannen hittade Mosley: ”Ledsen för familjens skull”]]></title>
+            <link>https://www.svt.se/nyheter/utrikes/en-dod-person-har-hittats-i-sokinsatsen-efter-michael-mosley</link>
+            <guid>https://www.svt.se/nyheter/utrikes/en-dod-person-har-hittats-i-sokinsatsen-efter-michael-mosley</guid>
+            <pubDate>Sun, 09 Jun 2024 11:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[Den brittiske läkaren hittades död på den grekiska ön Symi]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Putin ska besöka Nordkorea och Vietnam]]></title>
             <link>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=f4d2c95d7fdbb2be3708d68b70836b21</link>
             <guid>https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=f4d2c95d7fdbb2be3708d68b70836b21</guid>
             <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Kommer också besöka Vietnam i samma veva]]></content:encoded>
+            <content:encoded><![CDATA[Anledningen till besöken fortfarande oklart]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -157,6 +213,22 @@
             <guid>https://www.svt.se/nyheter/utrikes/estlands-kaja-kallas-endast-svaghet-sporrar-ryssland</guid>
             <pubDate>Thu, 06 Jun 2024 16:09:58 GMT</pubDate>
             <content:encoded><![CDATA[Estlands premiärminister i SVT-intervju: Viktigt att inte vara rädd för Ryssland]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Harvey Weinstein överklagar Los Angeles-domen]]></title>
+            <link>https://www.svt.se/kultur/harvey-weinstein-overklagar-los-angeles-domen</link>
+            <guid>https://www.svt.se/kultur/harvey-weinstein-overklagar-los-angeles-domen</guid>
+            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[New York-dom revs upp i våras • Vill nu frias helt]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[Amfetamin för över 37 miljoner hittades i dieseltank]]></title>
+            <link>https://www.svt.se/nyheter/lokalt/helsingborg/amfetamin-for-over-37-miljoner-hittades-i-dieseltank-i-helsingborgs-hamn</link>
+            <guid>https://www.svt.se/nyheter/lokalt/helsingborg/amfetamin-for-over-37-miljoner-hittades-i-dieseltank-i-helsingborgs-hamn</guid>
+            <pubDate>Mon, 10 Jun 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Se bilderna på fyndet i Helsingborgs hamn • Lastbilschaufför åtalas]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -173,31 +245,7 @@
             <link>https://www.svtplay.se/video/KnDgAWM/ett-polisliv?kfx=YIU4V8ssL&amp;utm_source=videodesken%20gbg&amp;utm_campaign=Ett%20polisliv</link>
             <guid>https://www.svtplay.se/video/KnDgAWM/ett-polisliv?kfx=YIU4V8ssL&amp;utm_source=videodesken%20gbg&amp;utm_campaign=Ett%20polisliv</guid>
             <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[SVT har följt Andreas Danmans familj och kollegor i två års tid]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Israelisk brigadgerenal avgår]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=cc79a789319f778772b21ae46108241b</link>
-            <guid>https://www.svt.se/nyheter/utrikes/hamas-attack-mot-israel?inlagg=cc79a789319f778772b21ae46108241b</guid>
-            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Anses ha misslyckats skydda de israeliska gränssamhällena under Hamas attack i oktober]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[EU-chefen om fritagningen av gisslan: ”Ännu en massaker”]]></title>
-            <link>https://www.svt.se/nyheter/utrikes/sa-gick-fritagningen-av-gisslan-till-eu-chef-annu-en-massaker</link>
-            <guid>https://www.svt.se/nyheter/utrikes/sa-gick-fritagningen-av-gisslan-till-eu-chef-annu-en-massaker</guid>
-            <pubDate>Sun, 09 Jun 2024 16:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[Hamaskontrollerade myndigheter: Över 200 palestinier döda]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Gaza inifrån]]></title>
-            <link>https://www.svtplay.se/video/eXYgzDb/gaza-inifran</link>
-            <guid>https://www.svtplay.se/video/eXYgzDb/gaza-inifran</guid>
-            <pubDate>Fri, 07 Jun 2024 16:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[Palestinska filmare har dokumenterat kriget under 200 dagar • Se det på SVT Play]]></content:encoded>
+            <content:encoded><![CDATA[SVT har följt Andreas Danmans familj och kollegor i två år]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -209,27 +257,11 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[Stjärnan tror inte sina ögon – missar öppet mål i 92:a]]></title>
-            <link>https://www.svt.se/sport/fotboll/tabby-tindells-supermiss-i-toppmotet-brande-oppet-mal</link>
-            <guid>https://www.svt.se/sport/fotboll/tabby-tindells-supermiss-i-toppmotet-brande-oppet-mal</guid>
-            <pubDate>Sun, 09 Jun 2024 16:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[Kunde avgjort i sista minuten • Se missen]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Bröt mardrömssviten – efter olyckliga självmålet]]></title>
-            <link>https://www.svt.se/sport/fotboll/pitea-brot-mardromssviten-efter-vittsjos-olyckliga-sjalvmal</link>
-            <guid>https://www.svt.se/sport/fotboll/pitea-brot-mardromssviten-efter-vittsjos-olyckliga-sjalvmal</guid>
-            <pubDate>Sun, 09 Jun 2024 16:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[Efterlängtad seger för Piteå • Se klipp]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Ny serie om sömlöshetsepidemi – följ med bakom kulisserna]]></title>
+            <title><![CDATA[Serie om sömnlöshetsepidemi – följ med bakom kulisserna]]></title>
             <link>https://www.svt.se/kultur/hang-med-bakom-kulisserna-pa-ny-epidemiserie-med-jonas-karlsson</link>
             <guid>https://www.svt.se/kultur/hang-med-bakom-kulisserna-pa-ny-epidemiserie-med-jonas-karlsson</guid>
             <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Fiktiv svensk serie på gång • Häng med Jonas Karlsson]]></content:encoded>
+            <content:encoded><![CDATA[Svensk dramaserie på gång • Häng med Jonas Karlsson]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
@@ -238,38 +270,6 @@
             <guid>https://www.svt.se/nyheter/lokalt/halland/sd-topp-i-halland-stangs-av-efter-uthangning-pa-dumpen</guid>
             <pubDate>Sun, 09 Jun 2024 16:08:54 GMT</pubDate>
             <content:encoded><![CDATA[Halländsk politiker ska ha sökt sexuellt umgänge med barn]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Humoristisk duo får Karamelodiktstipendiet]]></title>
-            <link>https://www.svt.se/kultur/humoristisk-duo-far-karamelodiktstipendiet</link>
-            <guid>https://www.svt.se/kultur/humoristisk-duo-far-karamelodiktstipendiet</guid>
-            <pubDate>Sun, 09 Jun 2024 16:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[Efter 25 år i musikens tjänst prisas Lise &amp; Gertrud]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Alcaraz vinner Franska öppna – fick pokalen av Björn Borg]]></title>
-            <link>https://www.svt.se/sport/tennis/carlos-alcaraz-tog-forsta-franska-oppna-titeln-efter-jattedrama-mot-alexander-zverev</link>
-            <guid>https://www.svt.se/sport/tennis/carlos-alcaraz-tog-forsta-franska-oppna-titeln-efter-jattedrama-mot-alexander-zverev</guid>
-            <pubDate>Mon, 10 Jun 2024 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Dramatisk final mot Zverev • Se klipp]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Två begärs häktade efter mordet på C.Gambino]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/vast/tva-begars-haktade-efter-mordet-pa-c-gambino</link>
-            <guid>https://www.svt.se/nyheter/lokalt/vast/tva-begars-haktade-efter-mordet-pa-c-gambino</guid>
-            <pubDate>Sun, 09 Jun 2024 11:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[Misstänks för inblandning i mordet på rapparen]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[Mordet kan ha fångats på film – garaget fullt med kameror]]></title>
-            <link>https://www.svt.se/nyheter/lokalt/vast/mordet-pa-cgambino-kan-ha-fangats-pa-film-garaget-fullt-med-kameror</link>
-            <guid>https://www.svt.se/nyheter/lokalt/vast/mordet-pa-cgambino-kan-ha-fangats-pa-film-garaget-fullt-med-kameror</guid>
-            <pubDate>Sun, 09 Jun 2024 11:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[Finns 17 kameror på samma våningsplan]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
         </item>
         <item>
