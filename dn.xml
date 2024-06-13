@@ -1,8 +1,1856 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.dn.se</id>
-    <title>Dagens Nyheter</title>
-    <updated>2024-06-13T11:08:21.250Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.dn.se/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Dagens Nyheter</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 13 Jun 2024 16:11:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Svenska UD kallar upp irakisk toppdiplomat]]></title>
+            <link>https://www.dn.se/sverige/tva-svenskar-doms-till-doden-for-mord-pa-gangman/</link>
+            <guid>https://www.dn.se/sverige/tva-svenskar-doms-till-doden-for-mord-pa-gangman/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Protest mot att två svenskar dömt till döden • Gängmedlem sköts ihjäl i Bagdad.]]></content:encoded>
+            <enclosure url="https://static.bonniernews.se/gcs/bilder/dn-mly/9f63c19b-6599-4a3b-85c6-99b8c596905a.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Erik de la Reguera:
+          Andra världskriget utgör fond till det franska kaoset]]></title>
+            <link>https://www.dn.se/varlden/erik-de-la-reguera-andra-varldskriget-utgor-fond-till-det-franska-kaoset/</link>
+            <guid>https://www.dn.se/varlden/erik-de-la-reguera-andra-varldskriget-utgor-fond-till-det-franska-kaoset/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Både högern och vänstern använder referenser till facismens framväxt och tyska ockupationen.]]></content:encoded>
+            <enclosure url="https://static.bonniernews.se/gcs/bilder/dn-mly/aa332e69-61d4-4aad-a733-1df581bb3229.jpeg?interpolation=lanczos-none&fit=around%7C685:386&crop=685:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Avsatt högerledare gick till jobbet som vanligt]]></title>
+            <link>https://www.dn.se/varlden/avsatt-hogerledare-gar-till-jobbet-som-vanligt/</link>
+            <guid>https://www.dn.se/varlden/avsatt-hogerledare-gar-till-jobbet-som-vanligt/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Sparkade Éric Ciotti vägrar avgå som partiledare för Republikanerna.]]></content:encoded>
+            <enclosure url="https://static.bonniernews.se/gcs/bilder/dn-mly/fd7bc934-4154-4f48-8dd2-7d432e1e09ca.jpeg?interpolation=lanczos-none&fit=around%7C196:111&crop=196:h;center,top&output-quality=80" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU kräver svar från porrjättar]]></title>
+            <link>https://www.dn.se</link>
+            <guid>https://www.dn.se</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">17:14</span>
+      <h3 class="ds-teaser__title">
+        EU kräver svar från porrjättar
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EU kräver svar från porrjättar]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/eu-kraver-svar-fran-porrjattar/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/eu-kraver-svar-fran-porrjattar/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">17:14</span>
+      <h3 class="ds-teaser__title">
+        EU kräver svar från porrjättar
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Högsta domstolen skyddar tillgången till abortpiller]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/hogsta-domstolen-skyddar-tillgangen-till-abortpiller/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/hogsta-domstolen-skyddar-tillgangen-till-abortpiller/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">16:45</span>
+      <h3 class="ds-teaser__title">
+        Högsta domstolen skyddar tillgången till abortpiller
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Swifties orsakade seismisk aktivitet i Skottland]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/swifties-orsakade-seismisk-aktivitet-i-skottland/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/swifties-orsakade-seismisk-aktivitet-i-skottland/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">16:16</span>
+      <h3 class="ds-teaser__title">
+        Swifties orsakade seismisk aktivitet i Skottland
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Macron stoppar kontroversiell lag i Nya Kaledonien]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/macron-stoppar-kontroversiell-lag-i-nya-kaledonien/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/macron-stoppar-kontroversiell-lag-i-nya-kaledonien/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">15:27</span>
+      <h3 class="ds-teaser__title">
+        Macron stoppar kontroversiell lag i Nya Kaledonien
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Demonstranter måste lämna KTH i morgon]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/demonstranter-maste-lamna-kth-i-morgon/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/demonstranter-maste-lamna-kth-i-morgon/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">15:24</span>
+      <h3 class="ds-teaser__title">
+        Demonstranter måste lämna KTH i morgon
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Två döms för brott mot vistelseförbud]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/tva-doms-for-brott-mot-vistelseforbud/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/tva-doms-for-brott-mot-vistelseforbud/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">14:44</span>
+      <h3 class="ds-teaser__title">
+        Två döms för brott mot vistelseförbud
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Stor sökinsats i utredning om mord på 14-åringar]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/stor-sokinsats-i-utredning-om-mord-pa-14-aringar/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/stor-sokinsats-i-utredning-om-mord-pa-14-aringar/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">14:41</span>
+      <h3 class="ds-teaser__title">
+        Stor sökinsats i utredning om mord på 14-åringar
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sjöstedt slår kryssrekord i EU-valet]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/sjostedt-slar-kryssrekord-i-eu-valet/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/sjostedt-slar-kryssrekord-i-eu-valet/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">14:32</span>
+      <h3 class="ds-teaser__title">
+        Sjöstedt slår kryssrekord i EU-valet
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Turkiet och USA skriver avtal om F16-plan]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/turkiet-och-usa-skriver-avtal-om-f16-plan/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/turkiet-och-usa-skriver-avtal-om-f16-plan/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">14:28</span>
+      <h3 class="ds-teaser__title">
+        Turkiet och USA skriver avtal om F16-plan
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Två gripna efter biljakt på E6]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/tva-gripna-efter-biljakt-pa-e6/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/tva-gripna-efter-biljakt-pa-e6/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-swipe-card__time">14:26</span>
+      <h3 class="ds-teaser__title">
+        Två gripna efter biljakt på E6
+      </h3>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Niklas Wahllöf:
+          Blir det vinst i helgen gör jag slag i saken och köper en butik]]></title>
+            <link>https://www.dn.se/kultur/niklas-wahllof-blir-det-vinst-i-helgen-gor-jag-slag-i-saken-och-koper-en-butik/</link>
+            <guid>https://www.dn.se/kultur/niklas-wahllof-blir-det-vinst-i-helgen-gor-jag-slag-i-saken-och-koper-en-butik/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            KULTUR | KRÖNIKA
+          </div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Niklas Wahllöf:</span>
+          Blir det vinst i helgen gör jag slag i saken och köper en butik
+        </h2>
+
+      </div>
+
+        <div class="ds-teaser__byline">
+          
+      
+
+      
+
+      <div class="picture" style="padding-bottom:224.4493%">
+            <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-author/wp4g3bdcf7togd2i7tvia5zh5nqxwkx2jwqdbu4cqa75gah3ixsa-454x1019.png?interpolation=lanczos-none&amp;downsize=96:*&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-author/wp4g3bdcf7togd2i7tvia5zh5nqxwkx2jwqdbu4cqa75gah3ixsa-454x1019.png?interpolation=lanczos-none&amp;downsize=96:*&amp;output-quality=80 96w, https://static.bonniernews.se/gcs/bilder/dn-author/wp4g3bdcf7togd2i7tvia5zh5nqxwkx2jwqdbu4cqa75gah3ixsa-454x1019.png?interpolation=lanczos-none&amp;downsize=192:*&amp;output-quality=60 192w" sizes="96px" alt="" aria-hidden="true">
+
+      </div>
+
+        </div>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sömnforskarens tips för bättre nattsömn]]></title>
+            <link>https://www.dn.se/sverige/chatta-med-somnforskaren-christian-benedict/</link>
+            <guid>https://www.dn.se/sverige/chatta-med-somnforskaren-christian-benedict/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Christian Benedict svarade på DN-läsarnas frågor.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Så maxar du din sömn i sommar]]></title>
+            <link>https://www.dn.se/sverige/forskare-sa-maxar-du-din-somn-i-sommar/</link>
+            <guid>https://www.dn.se/sverige/forskare-sa-maxar-du-din-somn-i-sommar/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Semestern ett bra tillfälle att ladda batterierna • Men det se upp med fällor.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Stockholm säger nej till nya skolor och förskolor]]></title>
+            <link>https://www.dn.se/sverige/stockholm-sager-nej-till-nya-skolor-och-forskolor/</link>
+            <guid>https://www.dn.se/sverige/stockholm-sager-nej-till-nya-skolor-och-forskolor/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Förskoleborgarrådet Alexandra Mattsson (V): ”En överetablering går ut över barnen.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Jag sa till Kristersson: det är ett hopplöst uppdrag”]]></title>
+            <link>https://www.dn.se/kultur/lars-tragardh-battre-att-det-ar-jag-an-nagon-javla-vettvilling/</link>
+            <guid>https://www.dn.se/kultur/lars-tragardh-battre-att-det-ar-jag-an-nagon-javla-vettvilling/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Han ska skapa regeringens kulturkanon – utan listor • Därför vill Trägårdh ha med S.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Erik Helmerson:
+          Kultur är inget ”verktyg” – håll politiken borta från er kanon]]></title>
+            <link>https://www.dn.se/ledare/erik-helmerson-kultur-ar-inget-verktyg-hall-politiken-borta-fran-er-kanon/</link>
+            <guid>https://www.dn.se/ledare/erik-helmerson-kultur-ar-inget-verktyg-hall-politiken-borta-fran-er-kanon/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            LEDARE | SIGNERAT
+          </div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Erik Helmerson:</span>
+          Kultur är inget ”verktyg” – håll politiken borta från er kanon
+        </h2>
+
+      </div>
+
+        <div class="ds-teaser__byline">
+          
+      
+
+      
+
+      <div class="picture   lazy-image" style="padding-bottom:235.1852%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-author/gqvw57aq3pxyhw5d2mpci4oh65hxckxbe4v7ti6yboemnosydoka-432x1016.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-author/gqvw57aq3pxyhw5d2mpci4oh65hxckxbe4v7ti6yboemnosydoka-432x1016.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://static.bonniernews.se/gcs/bilder/dn-author/gqvw57aq3pxyhw5d2mpci4oh65hxckxbe4v7ti6yboemnosydoka-432x1016.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+        </div>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Hjälp forskningen – vinn en av mina tavlor”]]></title>
+            <link>https://kampanj.dn.se/hjart-lungfonden/hjalp-forskningen-sa-kan-du-vinna-en-av-mina-tavlor/</link>
+            <guid>https://kampanj.dn.se/hjart-lungfonden/hjalp-forskningen-sa-kan-du-vinna-en-av-mina-tavlor/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+Konstnären Caroline af Ugglas startar ett initiativ för att stoppa vår tids dödligaste sjukdomar.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Guide: Spelschemat i fotbolls-EM 2024]]></title>
+            <link>https://www.dn.se/sport/grafik-spelschema-och-skytteligatoppen-i-fotbolls-em-2024/</link>
+            <guid>https://www.dn.se/sport/grafik-spelschema-och-skytteligatoppen-i-fotbolls-em-2024/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+              <span class="ds-teaser__sticker">
+                GRAFIK
+              </span>
+            Sommarens stora fotbollsmästerskap • Grupperna • Matcherna • Arenorna.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Har du koll på fotbolls-EM?]]></title>
+            <link>https://www.dn.se/quiz/sport-och-spel/koll-pa-fotbolls-em/</link>
+            <guid>https://www.dn.se/quiz/sport-och-spel/koll-pa-fotbolls-em/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+        <div class="ds-teaser__media">
+          
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/da52f7cb-46e7-4011-b8b8-afd0627340d2.jpeg?interpolation=lanczos-none&amp;fit=around%7C196:111&amp;crop=196:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/da52f7cb-46e7-4011-b8b8-afd0627340d2.jpeg?interpolation=lanczos-none&amp;fit=around%7C196:111&amp;crop=196:h;center,top&amp;output-quality=80 196w, https://static.bonniernews.se/gcs/bilder/dn-mly/da52f7cb-46e7-4011-b8b8-afd0627340d2.jpeg?interpolation=lanczos-none&amp;fit=around%7C392:221&amp;crop=392:h;center,top&amp;output-quality=60 392w" sizes="196px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: Silas Schueller/Defodi Images</figcaption>
+  </figure>
+
+              <div class="ds-vip-badge" aria-hidden="true">
+      <i class="ds-icon ds-icon--sprite ds-icon--vip">
+    <svg><use xlink:href="#ds-vip"></use></svg>
+  </i>
+
+    
+  </div>
+
+        </div>
+
+        <div class="ds-teaser__vignette">
+          QUIZ
+        </div>
+
+      <h2 class="ds-teaser__title">
+        Har du koll på fotbolls-EM?
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DN:s Josefin Sköld får Advokatsamfundets pris]]></title>
+            <link>https://www.dn.se/sverige/dns-josefin-skold-far-advokatsamfundets-journalistpris/</link>
+            <guid>https://www.dn.se/sverige/dns-josefin-skold-far-advokatsamfundets-journalistpris/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          ”Josefin Skölds journalistik gör skillnad”, skriver samfundet i sin motivering.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Refused ställer in – Lyxzén fick hjärtinfarkt]]></title>
+            <link>https://www.dn.se/kultur/refused-staller-in-konsert-dennis-lyxzen-har-fatt-hjartinfarkt/</link>
+            <guid>https://www.dn.se/kultur/refused-staller-in-konsert-dennis-lyxzen-har-fatt-hjartinfarkt/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Det svenska hardcorebandet ställer in sin spelning på Stockholmsfestivalen Rosendal.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Prestigefullt pris till Volvo EX30: ”Perfekt för dagens marknad”]]></title>
+            <link>https://www.dn.se/brandstudio/volvo-cars/prestigefullt-pris-till-volvo-ex30-perfekt-for-dagens-marknad/</link>
+            <guid>https://www.dn.se/brandstudio/volvo-cars/prestigefullt-pris-till-volvo-ex30-perfekt-for-dagens-marknad/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+Nu har modellen återigen prisats för sin design och användarvänlighet.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Bordlägg förslag om amerikansk militär på svensk mark]]></title>
+            <link>https://www.dn.se</link>
+            <guid>https://www.dn.se</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Bordlägg förslag om amerikansk militär på svensk mark
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">16:46</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Bordlägg förslag om amerikansk militär på svensk mark]]></title>
+            <link>https://www.dn.se/insandare/bordlagg-forslag-om-amerikansk-militar-pa-svensk-mark/</link>
+            <guid>https://www.dn.se/insandare/bordlagg-forslag-om-amerikansk-militar-pa-svensk-mark/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Bordlägg förslag om amerikansk militär på svensk mark
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">16:46</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Noterat av DN:s läsare den 13 juni]]></title>
+            <link>https://www.dn.se/insandare/noterat-av-dns-lasare-den-13-juni-2/</link>
+            <guid>https://www.dn.se/insandare/noterat-av-dns-lasare-den-13-juni-2/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Noterat av DN:s läsare den 13 juni
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">16:31</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Sortera avfall i industriell skala i stället för i hemmen]]></title>
+            <link>https://www.dn.se/insandare/sortera-avfall-i-industriell-skala-i-stallet-for-i-hemmen/</link>
+            <guid>https://www.dn.se/insandare/sortera-avfall-i-industriell-skala-i-stallet-for-i-hemmen/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Sortera avfall i industriell skala i stället för i hemmen
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">16:19</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Svar: Vänsterpartiet bär skuld till de höga elpriserna]]></title>
+            <link>https://www.dn.se/insandare/svar-vansterpartiet-bar-skuld-till-de-hoga-elpriserna/</link>
+            <guid>https://www.dn.se/insandare/svar-vansterpartiet-bar-skuld-till-de-hoga-elpriserna/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Svar: Vänsterpartiet bär skuld till de höga elpriserna
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">16:12</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Låt 18-åringar handla på Systembolaget]]></title>
+            <link>https://www.dn.se/insandare/lat-18-aringar-handla-pa-systembolaget/</link>
+            <guid>https://www.dn.se/insandare/lat-18-aringar-handla-pa-systembolaget/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Låt 18-åringar handla på Systembolaget
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">15:15</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Var finns kvinnoförbunden som av tradition värnat fred?]]></title>
+            <link>https://www.dn.se/insandare/var-finns-kvinnoforbunden-som-av-tradition-varnat-fred/</link>
+            <guid>https://www.dn.se/insandare/var-finns-kvinnoforbunden-som-av-tradition-varnat-fred/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Var finns kvinnoförbunden som av tradition värnat fred?
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">08:48</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Svar: Hyggen förändrar skogen – vilket kan vara positivt]]></title>
+            <link>https://www.dn.se/insandare/svar-hyggen-forandrar-skogen-vilket-kan-vara-positivt/</link>
+            <guid>https://www.dn.se/insandare/svar-hyggen-forandrar-skogen-vilket-kan-vara-positivt/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Svar: Hyggen förändrar skogen – vilket kan vara positivt
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">I går 18:05</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Noterat av DN:s läsare den 12 juni]]></title>
+            <link>https://www.dn.se/insandare/noterat-av-dns-lasare-den-12-juni-2/</link>
+            <guid>https://www.dn.se/insandare/noterat-av-dns-lasare-den-12-juni-2/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Noterat av DN:s läsare den 12 juni
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">I går 17:51</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Gårdsförsäljning kan tills vidare rädda Systembolaget]]></title>
+            <link>https://www.dn.se/insandare/gardsforsaljning-kan-tills-vidare-radda-systembolaget/</link>
+            <guid>https://www.dn.se/insandare/gardsforsaljning-kan-tills-vidare-radda-systembolaget/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Gårdsförsäljning kan tills vidare rädda Systembolaget
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">I går 17:07</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Insändare.
+          
+        Stoppa gårdsförsäljning för att rädda monopolet]]></title>
+            <link>https://www.dn.se/insandare/stoppa-gardsforsaljning-for-att-radda-monopolet/</link>
+            <guid>https://www.dn.se/insandare/stoppa-gardsforsaljning-for-att-radda-monopolet/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">
+            Insändare.
+          </span>
+        Stoppa gårdsförsäljning för att rädda monopolet
+      </h3>
+
+        <span class="ds-teaser-swipe-card__time">I går 16:56</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zelenskyj kan resa hem med nya miljarder från G7]]></title>
+            <link>https://www.dn.se/varlden/zelenskyj-kan-resa-hem-med-nytt-miljardpaket-fran-g7-motet/</link>
+            <guid>https://www.dn.se/varlden/zelenskyj-kan-resa-hem-med-nytt-miljardpaket-fran-g7-motet/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Väntas få med sig lån på 50 miljarder dollar från Italien – säkrat mot frysta ryska tillgångar.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nato ”Trumpsäkrar” stödet till Ukraina utan Ungern]]></title>
+            <link>https://www.dn.se/varlden/nato-trumpsakrar-stodet-till-ukraina-utan-ungern/</link>
+            <guid>https://www.dn.se/varlden/nato-trumpsakrar-stodet-till-ukraina-utan-ungern/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Orbán lovar att inte blockera – i utbyte mot vissa garantier.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainska barn på rysk adoptionssajt]]></title>
+            <link>https://www.dn.se/varlden/bortforda-ukrainska-barn-hittade-pa-rysk-adoptionssajt/</link>
+            <guid>https://www.dn.se/varlden/bortforda-ukrainska-barn-hittade-pa-rysk-adoptionssajt/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          Bortförda av ryska styrkor.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ryska krigsfartyg till Kuba]]></title>
+            <link>https://www.dn.se/varlden/ryskt-krigsfartyg-vid-kuba-signal-till-vast/</link>
+            <guid>https://www.dn.se/varlden/ryskt-krigsfartyg-vid-kuba-signal-till-vast/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          Expert: En slags påminnelse om den ryska förmågan.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Direkt.
+        Fyra holländska miljarder till stridsfordon]]></title>
+            <link>https://www.dn.se/varlden/folj-det-sakerhetspolitiska-laget-i-europa/</link>
+            <guid>https://www.dn.se/varlden/folj-det-sakerhetspolitiska-laget-i-europa/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+
+
+      <h2 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">Direkt.</span>
+        Fyra holländska miljarder till stridsfordon
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Norska Säpo sökte upp barn som hyllat terrorister]]></title>
+            <link>https://www.dn.se/varlden/norska-sapo-sokte-upp-barn-som-hyllat-terrorister/</link>
+            <guid>https://www.dn.se/varlden/norska-sapo-sokte-upp-barn-som-hyllat-terrorister/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Ska ha uppmanat till terror och mord på homosexuella på nätet.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Busch avfärdar mätning: Gjordes före mitt utspel]]></title>
+            <link>https://www.dn.se/sverige/ebba-busch-kd-om-opinionstappet-vi-ar-inte-nojda/</link>
+            <guid>https://www.dn.se/sverige/ebba-busch-kd-om-opinionstappet-vi-ar-inte-nojda/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            KD-ledaren menar att uttalandet om islam har förändrat stödet för partiet • ”Gick väldigt tydligt framåt.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[L och KD långt under spärren]]></title>
+            <link>https://www.dn.se/sverige/l-och-kd-under-sparren-i-scb-undersokning/</link>
+            <guid>https://www.dn.se/sverige/l-och-kd-under-sparren-i-scb-undersokning/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            <span class="ds-teaser__sticker">
+              GRAFIK
+            </span>
+          Baudin: ”Visar att regeringen inte klarar av att leda vårt land.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Lätt att hamna i skuggan i regeringen”]]></title>
+            <link>https://www.dn.se/sverige/statsvetare-kds-nedgang-var-vantad/</link>
+            <guid>https://www.dn.se/sverige/statsvetare-kds-nedgang-var-vantad/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          Trots stora tappet räknar inte statsvetaren ut småpartierna.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Susanne Nyström:
+          Förr var det arbetarnas röster som inte skulle räknas – nu är det invandrarnas]]></title>
+            <link>https://www.dn.se/ledare/susanne-nystrom-forr-var-det-arbetarnas-roster-som-inte-skulle-raknas-nu-ar-det-invandrarnas/</link>
+            <guid>https://www.dn.se/ledare/susanne-nystrom-forr-var-det-arbetarnas-roster-som-inte-skulle-raknas-nu-ar-det-invandrarnas/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            LEDARE | SIGNERAT
+          </div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Susanne Nyström:</span>
+          Förr var det arbetarnas röster som inte skulle räknas – nu är det invandrarnas
+        </h2>
+
+      </div>
+
+        <div class="ds-teaser__byline">
+          
+      
+
+      
+
+      <div class="picture   lazy-image" style="padding-bottom:268.457%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-author/a2trrkplwt5jo7ayhpesvquinmh3u6tx2fcsfes7ebak55oredva-1024x2749.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-author/a2trrkplwt5jo7ayhpesvquinmh3u6tx2fcsfes7ebak55oredva-1024x2749.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://static.bonniernews.se/gcs/bilder/dn-author/a2trrkplwt5jo7ayhpesvquinmh3u6tx2fcsfes7ebak55oredva-1024x2749.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+        </div>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ilskan mot massturismen växer i allt fler städer]]></title>
+            <link>https://www.dn.se/varlden/vaxande-ilska-mot-turister-allt-fler-stader-infor-restriktioner/</link>
+            <guid>https://www.dn.se/varlden/vaxande-ilska-mot-turister-allt-fler-stader-infor-restriktioner/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Forskare: ”Problemen så ohållbara att det har kokat över.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Svensk koreograf gör nummer för OS-ceremoni]]></title>
+            <link>https://www.dn.se/kultur/svensk-stjarnkoreograf-gor-nummer-for-os-oppningsceremoni/</link>
+            <guid>https://www.dn.se/kultur/svensk-stjarnkoreograf-gor-nummer-for-os-oppningsceremoni/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Ett av de storslagna dansnumren i Paris skapas av svenske Alexander Ekman.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Duplantis plan: Sätta svenskt rekord i stafett]]></title>
+            <link>https://www.dn.se/sport/duplantis-framtidsplan-sla-svenskt-rekord-i-stafett/</link>
+            <guid>https://www.dn.se/sport/duplantis-framtidsplan-sla-svenskt-rekord-i-stafett/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Förbundskaptenen: ”Hade varit otroligt häftigt – kanske ha honom på en sistasträcka.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Stökigaste mästerskapet för vår del”]]></title>
+            <link>https://www.dn.se/sport/bergqvist-om-arrangorsmissarna-i-em-stokigaste-masterskapet/</link>
+            <guid>https://www.dn.se/sport/bergqvist-om-arrangorsmissarna-i-em-stokigaste-masterskapet/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          Förbundskapten Bergqvist om arrangörsmissarna.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sverige långt efter Norge i medaljligan]]></title>
+            <link>https://www.dn.se/sport/sverige-utan-chans-mot-norge-langt-efter-i-medaljligan/</link>
+            <guid>https://www.dn.se/sport/sverige-utan-chans-mot-norge-langt-efter-i-medaljligan/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+          Mästerskapsmålet – att bli bäst i Norden – sprack.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• Duplantis tar tredje raka EM-guldet]]></title>
+            <link>https://www.dn.se/sport/duplantis-vinner-sitt-tredje-raka-em-guld-i-stavhopp/</link>
+            <guid>https://www.dn.se/sport/duplantis-vinner-sitt-tredje-raka-em-guld-i-stavhopp/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • Duplantis tar tredje raka EM-guldet
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PÅ PLATS | Rom]]></title>
+            <link>https://www.dn.se/om/friidrott/</link>
+            <guid>https://www.dn.se/om/friidrott/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[Pelle Strandman]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tesla flaggar för prishöjning]]></title>
+            <link>https://www.dn.se/ekonomi/tesla-flaggar-for-prishojning-efter-eu-besked/</link>
+            <guid>https://www.dn.se/ekonomi/tesla-flaggar-for-prishojning-efter-eu-besked/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Effekt av höjda tullar, enligt elbilsjätten.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Så kunde föreningen sänka sin elnota med 200 000 kronor]]></title>
+            <link>https://www.dn.se/brandstudio/riksbyggen/solcellerna-sankte-foreningens-elnota-med-200-000-kronor/</link>
+            <guid>https://www.dn.se/brandstudio/riksbyggen/solcellerna-sankte-foreningens-elnota-med-200-000-kronor/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+”Tack vare den långsiktiga planeringen har vi kunnat göra alla dessa investeringar utan att chockhöja avgifterna”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nicholas Wennö:
+          Här är 50 nya tv-serier att hålla koll på i sommar]]></title>
+            <link>https://www.dn.se/kultur/har-ar-50-nya-tv-serier-att-halla-koll-pa-i-sommar/</link>
+            <guid>https://www.dn.se/kultur/har-ar-50-nya-tv-serier-att-halla-koll-pa-i-sommar/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Från ”Presumed innocent” till nya ”Sagan om Ringen”-serien.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mamman: ”Domen ger helt fel signaler”]]></title>
+            <link>https://www.dn.se/sverige/17-ariga-lucas-slogs-ihjal-inget-uppsat-anser-domstol/</link>
+            <guid>https://www.dn.se/sverige/17-ariga-lucas-slogs-ihjal-inget-uppsat-anser-domstol/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          17-åriga Lucas slogs ihjäl • Hovrätten slår fast: Inget uppsåt.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Ledarna blev som tokiga – det gav mig mer energi”]]></title>
+            <link>https://www.dn.se/podd/spotlight/vinnarskallarna-charlotte-kallas-mentala-kamp-fore-bragdloppet/</link>
+            <guid>https://www.dn.se/podd/spotlight/vinnarskallarna-charlotte-kallas-mentala-kamp-fore-bragdloppet/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Då insåg Charlotte Kalla att hon kunde ta guld i OS-stafetten • Berättar om bragden.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Villig offra svensk medalj för guldet]]></title>
+            <link>https://www.dn.se/sport/charlotte-kalla-var-beredd-att-offra-svensk-medalj-for-guldchansen/</link>
+            <guid>https://www.dn.se/sport/charlotte-kalla-var-beredd-att-offra-svensk-medalj-for-guldchansen/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Charlotte Kalla: Jag sket i om jag skulle stumna totalt.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Sjöström chockade eliten i sitt första VM]]></title>
+            <link>https://www.dn.se/podd/spotlight/vinnarskallarna-tonariga-sarah-sjostrom-chockar-varldseliten-i-sitt-forsta-vm/</link>
+            <guid>https://www.dn.se/podd/spotlight/vinnarskallarna-tonariga-sarah-sjostrom-chockar-varldseliten-i-sitt-forsta-vm/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/f25225bb-f4ab-4404-8659-c644c6d9a318.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/f25225bb-f4ab-4404-8659-c644c6d9a318.png?interpolation=lanczos-none&amp;fit=around%7C319:180&amp;crop=319:h;center,top&amp;output-quality=80 319w, https://static.bonniernews.se/gcs/bilder/dn-mly/f25225bb-f4ab-4404-8659-c644c6d9a318.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80 400w, https://static.bonniernews.se/gcs/bilder/dn-mly/f25225bb-f4ab-4404-8659-c644c6d9a318.png?interpolation=lanczos-none&amp;fit=around%7C638:359&amp;crop=638:h;center,top&amp;output-quality=60 638w, https://static.bonniernews.se/gcs/bilder/dn-mly/f25225bb-f4ab-4404-8659-c644c6d9a318.png?interpolation=lanczos-none&amp;fit=around%7C800:450&amp;crop=800:h;center,top&amp;output-quality=60 800w" sizes="(min-width: 1340px) 319px, 25vw" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+  </figure>
+
+
+      </div>
+
+    <div class="ds-teaser__content">
+        <div class="ds-teaser__vignette">
+              <i class="ds-icon ds-icon--sprite ds-icon--headphones">
+    <svg><use xlink:href="#ds-headphones"></use></svg>
+  </i>
+
+          SPOTLIGHT
+        </div>
+
+      <h2 class="ds-teaser__title">
+        Sarah Sjöström chockade eliten i sitt första VM
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Anja Pärson om svåra kraschen innan OS-bronset]]></title>
+            <link>https://www.dn.se/podd/spotlight/vinnarskallarna-anja-parsons-triumf-efter-livsfarliga-kraschen/</link>
+            <guid>https://www.dn.se/podd/spotlight/vinnarskallarna-anja-parsons-triumf-efter-livsfarliga-kraschen/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/f5b94b18-3c11-4796-82b8-b3f0d13b00de.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/f5b94b18-3c11-4796-82b8-b3f0d13b00de.png?interpolation=lanczos-none&amp;fit=around%7C319:180&amp;crop=319:h;center,top&amp;output-quality=80 319w, https://static.bonniernews.se/gcs/bilder/dn-mly/f5b94b18-3c11-4796-82b8-b3f0d13b00de.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80 400w, https://static.bonniernews.se/gcs/bilder/dn-mly/f5b94b18-3c11-4796-82b8-b3f0d13b00de.png?interpolation=lanczos-none&amp;fit=around%7C638:359&amp;crop=638:h;center,top&amp;output-quality=60 638w, https://static.bonniernews.se/gcs/bilder/dn-mly/f5b94b18-3c11-4796-82b8-b3f0d13b00de.png?interpolation=lanczos-none&amp;fit=around%7C800:450&amp;crop=800:h;center,top&amp;output-quality=60 800w" sizes="(min-width: 1340px) 319px, 25vw" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: Daniel Nilsson/Bildbyrån</figcaption>
+  </figure>
+
+
+      </div>
+
+    <div class="ds-teaser__content">
+        <div class="ds-teaser__vignette">
+              <i class="ds-icon ds-icon--sprite ds-icon--headphones">
+    <svg><use xlink:href="#ds-headphones"></use></svg>
+  </i>
+
+          SPOTLIGHT
+        </div>
+
+      <h2 class="ds-teaser__title">
+        Anja Pärson om svåra kraschen innan OS-bronset
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• von Eckermann om guldtriumfen i VM]]></title>
+            <link>https://www.dn.se/podd/spotlight/vinnarskallarna-ryttaren-henrik-von-eckermann-om-detaljen-som-kunde-kostat-honom-guldet/</link>
+            <guid>https://www.dn.se/podd/spotlight/vinnarskallarna-ryttaren-henrik-von-eckermann-om-detaljen-som-kunde-kostat-honom-guldet/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • von Eckermann om guldtriumfen i VM
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fick inte påbörja straff – fängelset fullt]]></title>
+            <link>https://www.dn.se/sverige/domd-fick-inte-paborja-straff-fangelset-var-fullt/</link>
+            <guid>https://www.dn.se/sverige/domd-fick-inte-paborja-straff-fangelset-var-fullt/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Den dömde fick nej när han skulle inställa sig •&nbsp;JO kritiserar anstalten.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Så mycket bättre”-artisterna utmattade]]></title>
+            <link>https://www.dn.se/kultur/sa-mycket-battre-artisterna-lyckligt-utmattade/</link>
+            <guid>https://www.dn.se/kultur/sa-mycket-battre-artisterna-lyckligt-utmattade/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Omtumlade, trötta och glada • ”Nästan religiöst.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nadal klar för Båstad: ”Största som hänt”]]></title>
+            <link>https://www.dn.se/sport/skrallen-nadal-klar-for-bastad/</link>
+            <guid>https://www.dn.se/sport/skrallen-nadal-klar-for-bastad/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Den spanska tennisstjärnan kommer till Sverige i sommar.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Erik Esbjörnsson:
+          Sydafrika kan bilda regering i rekordfart]]></title>
+            <link>https://www.dn.se/varlden/erik-esbjornsson-sydafrika-kan-bilda-regering-i-rekordfart/</link>
+            <guid>https://www.dn.se/varlden/erik-esbjornsson-sydafrika-kan-bilda-regering-i-rekordfart/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            VÄRLDEN | KOMMENTAR
+          </div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Erik Esbjörnsson:</span>
+          Sydafrika kan bilda regering i rekordfart
+        </h2>
+
+      </div>
+
+        <div class="ds-teaser__byline">
+          
+      
+
+      
+
+      <div class="picture   lazy-image" style="padding-bottom:226.0486%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-author/vqmmrffzhtb6mextlvdecflsgl7m4wtg4uji3phv5siufcdq222q-453x1024.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-author/vqmmrffzhtb6mextlvdecflsgl7m4wtg4uji3phv5siufcdq222q-453x1024.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://static.bonniernews.se/gcs/bilder/dn-author/vqmmrffzhtb6mextlvdecflsgl7m4wtg4uji3phv5siufcdq222q-453x1024.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+        </div>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Snygg häxbrygd av nostalgi och ondskans krafter]]></title>
+            <link>https://www.dn.se/kultur/snygg-haxbrygd-av-pratshowsnostalgi-och-ondskans-krafter-i-late-night-with-the-devil/</link>
+            <guid>https://www.dn.se/kultur/snygg-haxbrygd-av-pratshowsnostalgi-och-ondskans-krafter-i-late-night-with-the-devil/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            En plågad pratshowsvärd plågas av sorg och dalande siffror i ”Late night with the devil”.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DN:s kritiker: Här är veckans bästa filmer]]></title>
+            <link>https://www.dn.se/kultur/filmlistan-vecka-24-skrackfilmen-last-night-with-the-devil-ar-ny-pa-bio/</link>
+            <guid>https://www.dn.se/kultur/filmlistan-vecka-24-skrackfilmen-last-night-with-the-devil-ar-ny-pa-bio/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+        <div class="ds-teaser__media">
+          
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/f08620b9-8655-4298-a263-438ded716647.jpeg?interpolation=lanczos-none&amp;fit=around%7C196:111&amp;crop=196:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/f08620b9-8655-4298-a263-438ded716647.jpeg?interpolation=lanczos-none&amp;fit=around%7C196:111&amp;crop=196:h;center,top&amp;output-quality=80 196w, https://static.bonniernews.se/gcs/bilder/dn-mly/f08620b9-8655-4298-a263-438ded716647.jpeg?interpolation=lanczos-none&amp;fit=around%7C392:221&amp;crop=392:h;center,top&amp;output-quality=60 392w" sizes="196px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: SF Studios, Metro Goldwyn Mayer, Stephanie Branchu</figcaption>
+  </figure>
+
+        </div>
+
+
+      <h2 class="ds-teaser__title">
+        DN:s kritiker: Här är veckans bästa filmer
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• ”Presumed innocent” mixar otrohet och ond bråd död]]></title>
+            <link>https://www.dn.se/kultur/rafflande-rattegangsdramat-presumed-innocent-mixar-otrohet-och-ond-brad-dod/</link>
+            <guid>https://www.dn.se/kultur/rafflande-rattegangsdramat-presumed-innocent-mixar-otrohet-och-ond-brad-dod/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • ”Presumed innocent” mixar otrohet och ond bråd död
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Annika Ström Melin:
+          Om Macron misslyckas kommer hela Europa få betala priset]]></title>
+            <link>https://www.dn.se/ledare/annika-strom-melin-om-macron-misslyckas-kommer-hela-europa-fa-betala-priset/</link>
+            <guid>https://www.dn.se/ledare/annika-strom-melin-om-macron-misslyckas-kommer-hela-europa-fa-betala-priset/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            LEDARE | KOLUMNEN
+          </div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Annika Ström Melin:</span>
+          Om Macron misslyckas kommer hela Europa få betala priset
+        </h2>
+
+      </div>
+
+        <div class="ds-teaser__byline">
+          
+      
+
+      
+
+      <div class="picture   lazy-image" style="padding-bottom:230.474%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-author/oyblrd4hggitpoynmykzutfotyaupv7kuxxcxahvyzct5zovkfxa-443x1021.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-author/oyblrd4hggitpoynmykzutfotyaupv7kuxxcxahvyzct5zovkfxa-443x1021.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://static.bonniernews.se/gcs/bilder/dn-author/oyblrd4hggitpoynmykzutfotyaupv7kuxxcxahvyzct5zovkfxa-443x1021.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+        </div>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[”Regionerna bluffar om notan för hyrläkarna”]]></title>
+            <link>https://www.dn.se/debatt/regionerna-bluffar-om-notan-for-hyrlakarna/</link>
+            <guid>https://www.dn.se/debatt/regionerna-bluffar-om-notan-for-hyrlakarna/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Bemanningsföretagen tillbakavisar påståenden om skyhöga kostnader.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jesper Högström:
+          Undret i Bern 1954 fick Tyskland att jubla igen]]></title>
+            <link>https://www.dn.se/kultur/jesper-hogstrom-undret-i-bern-1954-fick-tyskland-att-jubla-igen/</link>
+            <guid>https://www.dn.se/kultur/jesper-hogstrom-undret-i-bern-1954-fick-tyskland-att-jubla-igen/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Svårt att föreställa sig i dag vilken sensation det var.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Medlarna lägger fram bud i vårdkonflikten]]></title>
+            <link>https://www.dn.se/ekonomi/medlarna-lamnar-bud-i-vardkonflikten/</link>
+            <guid>https://www.dn.se/ekonomi/medlarna-lamnar-bud-i-vardkonflikten/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Kommer efter två månader lång konflikt • Parterna måste svara under fredagen.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[De gästar ”Allsång på Skansen” i sommar]]></title>
+            <link>https://www.dn.se/kultur/de-gastar-allsang-pa-skansen-i-sommar-2/</link>
+            <guid>https://www.dn.se/kultur/de-gastar-allsang-pa-skansen-i-sommar-2/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Adaam, Tina Ahlin, Malena Ernman, Albin Lee Meldau och många fler.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Konkurserna duggar tätt – skattenotan pressar]]></title>
+            <link>https://www.dn.se/ekonomi/skatter-och-inflation-slar-hart-mot-krogbranschen/</link>
+            <guid>https://www.dn.se/ekonomi/skatter-och-inflation-slar-hart-mot-krogbranschen/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Krögaren: ”Gästerna kommer inte lika ofta” • 80 krogar tvingas stänga varje månad.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Elin Peters:
+          Populära krogar kan ha fullt medan ställen vägg i vägg ekar tomma]]></title>
+            <link>https://www.dn.se/ekonomi/elin-peters-fullt-hos-populara-krogar-medan-stallen-vagg-i-vagg-ekar-tomma/</link>
+            <guid>https://www.dn.se/ekonomi/elin-peters-fullt-hos-populara-krogar-medan-stallen-vagg-i-vagg-ekar-tomma/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            EKONOMI | KOMMENTAR
+          </div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Elin Peters:</span>
+          Populära krogar kan ha fullt medan ställen vägg i vägg ekar tomma
+        </h2>
+
+      </div>
+
+        <div class="ds-teaser__byline">
+          
+      
+
+      
+
+      <div class="picture   lazy-image" style="padding-bottom:343.4426%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-author/wpe7yblmd6ieyzt66zxuz2xvv665h5ueb6depgcweotar2v26gsq-1098x3771.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-author/wpe7yblmd6ieyzt66zxuz2xvv665h5ueb6depgcweotar2v26gsq-1098x3771.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://static.bonniernews.se/gcs/bilder/dn-author/wpe7yblmd6ieyzt66zxuz2xvv665h5ueb6depgcweotar2v26gsq-1098x3771.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+        </div>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Krysskampen för EU-plats en nagelbitare]]></title>
+            <link>https://www.dn.se/sverige/krysskampen-for-eu-plats-en-nagelbitare/</link>
+            <guid>https://www.dn.se/sverige/krysskampen-for-eu-plats-en-nagelbitare/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Jämnt om Liberalernas enda mandat • Även i SD är det tajt i toppstriden.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• Sjöstedt slår kryssrekord]]></title>
+            <link>https://www.dn.se/direkt/2024-06-13/sjostedt-slar-kryssrekord-i-eu-valet/</link>
+            <guid>https://www.dn.se/direkt/2024-06-13/sjostedt-slar-kryssrekord-i-eu-valet/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • Sjöstedt slår kryssrekord
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Grafik:
+        Så röstade dina grannar]]></title>
+            <link>https://www.dn.se/sverige/eu-valet-2024-sa-rostade-dina-grannar/</link>
+            <guid>https://www.dn.se/sverige/eu-valet-2024-sa-rostade-dina-grannar/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Sök på valresultatet där du bor • Interaktiv karta.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Susanne Nyström:
+          SVT borde göra sprakande EU-fajter till en årlig tradition]]></title>
+            <link>https://www.dn.se/ledare/susanne-nystrom-svt-borde-gora-sprakande-eu-fajter-till-en-arlig-tradition/</link>
+            <guid>https://www.dn.se/ledare/susanne-nystrom-svt-borde-gora-sprakande-eu-fajter-till-en-arlig-tradition/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            LEDARE | SIGNERAT
+          </div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Susanne Nyström:</span>
+          SVT borde göra sprakande EU-fajter till en årlig tradition
+        </h2>
+
+      </div>
+
+        <div class="ds-teaser__byline">
+          
+      
+
+      
+
+      <div class="picture   lazy-image" style="padding-bottom:268.457%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-author/a2trrkplwt5jo7ayhpesvquinmh3u6tx2fcsfes7ebak55oredva-1024x2749.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-author/a2trrkplwt5jo7ayhpesvquinmh3u6tx2fcsfes7ebak55oredva-1024x2749.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://static.bonniernews.se/gcs/bilder/dn-author/a2trrkplwt5jo7ayhpesvquinmh3u6tx2fcsfes7ebak55oredva-1024x2749.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+        </div>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Olivia Cooke om nya ”House of the dragon”]]></title>
+            <link>https://www.dn.se/kultur/olivia-cooke-om-house-of-the-dragon-2-vi-kvinnor-agnar-oss-at-konstant-skademinimering/</link>
+            <guid>https://www.dn.se/kultur/olivia-cooke-om-house-of-the-dragon-2-vi-kvinnor-agnar-oss-at-konstant-skademinimering/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          ”Vi kvinnor ägnar oss åt konstant skademinimering.”]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Här är höstens filmer på Cinemateket]]></title>
+            <link>https://www.dn.se/kultur/cinemateket-gar-pa-spaning-efter-den-tid-som-flyr/</link>
+            <guid>https://www.dn.se/kultur/cinemateket-gar-pa-spaning-efter-den-tid-som-flyr/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          ”Tid – 24 ögonblick per sekund” är höstens stora temasatsning.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trots larm om byggkris – rekordmånga nya bostäder]]></title>
+            <link>https://www.dn.se/ekonomi/fler-nya-bostader-i-stockholm-an-pa-50-ar/</link>
+            <guid>https://www.dn.se/ekonomi/fler-nya-bostader-i-stockholm-an-pa-50-ar/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Ny toppnotering i Stockholms län • Billiga hyresrätter fortsatt bristvara.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Susanne Ljung:
+          När Louis Vuitton lanserar en tiara har lyxen gått överstyr]]></title>
+            <link>https://www.dn.se/kultur/susanne-ljung-nar-louis-vuitton-lanserar-en-tiara-har-lyxen-gatt-overstyr/</link>
+            <guid>https://www.dn.se/kultur/susanne-ljung-nar-louis-vuitton-lanserar-en-tiara-har-lyxen-gatt-overstyr/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            KRÖNIKA
+          </div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">Susanne Ljung:</span>
+          När Louis Vuitton lanserar en tiara har lyxen gått överstyr
+        </h2>
+
+      </div>
+
+        <div class="ds-teaser__byline">
+          
+      
+
+      
+
+      <div class="picture   lazy-image" style="padding-bottom:250.5335%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-author/2yik6xlz22l77nedoyuilpoghebacl2wjubmsvrreqv72hjdcfaq-1312x3287.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-author/2yik6xlz22l77nedoyuilpoghebacl2wjubmsvrreqv72hjdcfaq-1312x3287.png?interpolation=lanczos-none&amp;downsize=144:*&amp;output-quality=80 144w, https://static.bonniernews.se/gcs/bilder/dn-author/2yik6xlz22l77nedoyuilpoghebacl2wjubmsvrreqv72hjdcfaq-1312x3287.png?interpolation=lanczos-none&amp;downsize=288:*&amp;output-quality=60 288w" sizes="144px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+        </div>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Widings overkliga golfvår – nu väntar spel i US Open]]></title>
+            <link>https://www.dn.se/sport/hockeytokige-widings-overkliga-golfvar/</link>
+            <guid>https://www.dn.se/sport/hockeytokige-widings-overkliga-golfvar/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Ishockeyfantasten valde en annan klubba för att tävla med • Svensken gör succé i USA.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Åberg kan få sällskap av tre nya svenskar]]></title>
+            <link>https://www.dn.se/sport/aberg-kan-fa-sallskap-av-tre-nya-svenskar-pa-pga-touren/</link>
+            <guid>https://www.dn.se/sport/aberg-kan-fa-sallskap-av-tre-nya-svenskar-pa-pga-touren/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Flera spelare har chansen att komma till spel på PGA-touren nästa år.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dietguruns genombrott – och tragiska bortgång]]></title>
+            <link>https://www.dn.se/podd/spotlight/michael-mosley-hittades-dod-pa-grekisk-o-gjorde-52-dieten-popular/</link>
+            <guid>https://www.dn.se/podd/spotlight/michael-mosley-hittades-dod-pa-grekisk-o-gjorde-52-dieten-popular/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Gjorde 5:2-dieten populär – Mosleys försvinnande engagerade en hel värld.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swifts besök kan ha påverkat inflationen]]></title>
+            <link>https://www.dn.se/ekonomi/inflationen-spas-sjunka-men-taylor-swift-kan-ha-bromsat-fallet/</link>
+            <guid>https://www.dn.se/ekonomi/inflationen-spas-sjunka-men-taylor-swift-kan-ha-bromsat-fallet/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+
+          Hotellbokningar kan öka tjänstepriserna • SCB presenterar siffra på fredag.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nicki Minaj är briljant som rappare men brister i energi]]></title>
+            <link>https://www.dn.se/kultur/nicki-minaj-ar-briljant-som-rappare-men-showen-pa-tele2-brister-i-energi/</link>
+            <guid>https://www.dn.se/kultur/nicki-minaj-ar-briljant-som-rappare-men-showen-pa-tele2-brister-i-energi/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Showen i Stockholm stannar upp för ofta och för länge, skriver Sara Martinsson.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hamas kräver ändringar i förslaget om vapenvila]]></title>
+            <link>https://www.dn.se/varlden/hamas-kraver-andringar-i-forslaget-om-vapenvila/</link>
+            <guid>https://www.dn.se/varlden/hamas-kraver-andringar-i-forslaget-om-vapenvila/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Blinken: Vissa kan vi jobba med, andra inte • Vita huset hävdar att Israel godkänt förslaget.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Direkt.
+        Ny attack i Röda havet]]></title>
+            <link>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</link>
+            <guid>https://www.dn.se/varlden/direktrapportering-kriget-mellan-israel-och-hamas/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+
+
+      <h2 class="ds-teaser__title">
+          <span class="ds-teaser__highlight">Direkt.</span>
+        Ny attack i Röda havet
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[• Hämndanfall mot Israel efter Hizbollabefälets död]]></title>
+            <link>https://www.dn.se/varlden/hamndanfall-mot-israel-efter-hizbollahbefalets-dod/</link>
+            <guid>https://www.dn.se/varlden/hamndanfall-mot-israel-efter-hizbollahbefalets-dod/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__content">
+      <h2 class="ds-teaser__title">
+        • Hämndanfall mot Israel efter Hizbollabefälets död
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Här görs rosévinerna som alla vill kopiera]]></title>
+            <link>https://www.dn.se/mat-dryck/vin-med-adress-i-provence-gors-rosevinerna-som-alla-vill-kopiera/</link>
+            <guid>https://www.dn.se/mat-dryck/vin-med-adress-i-provence-gors-rosevinerna-som-alla-vill-kopiera/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ds-teaser-dot"></span>
+
+            Vinmakare över hela jordklotet försöker härma den populära ljusrosa stilen.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Quiz]]></title>
+            <link>https://www.dn.se/quiz/</link>
+            <guid>https://www.dn.se/quiz/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/e7a3c8d3-9a88-4a4d-9b46-be5e6dca38d0.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/e7a3c8d3-9a88-4a4d-9b46-be5e6dca38d0.png?interpolation=lanczos-none&amp;fit=around%7C319:180&amp;crop=319:h;center,top&amp;output-quality=80 319w, https://static.bonniernews.se/gcs/bilder/dn-mly/e7a3c8d3-9a88-4a4d-9b46-be5e6dca38d0.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80 400w, https://static.bonniernews.se/gcs/bilder/dn-mly/e7a3c8d3-9a88-4a4d-9b46-be5e6dca38d0.png?interpolation=lanczos-none&amp;fit=around%7C638:359&amp;crop=638:h;center,top&amp;output-quality=60 638w, https://static.bonniernews.se/gcs/bilder/dn-mly/e7a3c8d3-9a88-4a4d-9b46-be5e6dca38d0.png?interpolation=lanczos-none&amp;fit=around%7C800:450&amp;crop=800:h;center,top&amp;output-quality=60 800w" sizes="(min-width: 1340px) 319px, 25vw" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+  </figure>
+
+
+      </div>
+
+    <div class="ds-teaser__content">
+
+      <h2 class="ds-teaser__title">
+        Quiz
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Korsord]]></title>
+            <link>https://www.dn.se/korsord/</link>
+            <guid>https://www.dn.se/korsord/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/3fd17c5a-e479-4b14-8e52-d75e025ff63b.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/3fd17c5a-e479-4b14-8e52-d75e025ff63b.png?interpolation=lanczos-none&amp;fit=around%7C319:180&amp;crop=319:h;center,top&amp;output-quality=80 319w, https://static.bonniernews.se/gcs/bilder/dn-mly/3fd17c5a-e479-4b14-8e52-d75e025ff63b.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80 400w, https://static.bonniernews.se/gcs/bilder/dn-mly/3fd17c5a-e479-4b14-8e52-d75e025ff63b.png?interpolation=lanczos-none&amp;fit=around%7C638:359&amp;crop=638:h;center,top&amp;output-quality=60 638w, https://static.bonniernews.se/gcs/bilder/dn-mly/3fd17c5a-e479-4b14-8e52-d75e025ff63b.png?interpolation=lanczos-none&amp;fit=around%7C800:450&amp;crop=800:h;center,top&amp;output-quality=60 800w" sizes="(min-width: 1340px) 319px, 25vw" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+  </figure>
+
+
+      </div>
+
+    <div class="ds-teaser__content">
+
+      <h2 class="ds-teaser__title">
+        Korsord
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sudoku]]></title>
+            <link>https://www.dn.se/webbspel/sudoku/</link>
+            <guid>https://www.dn.se/webbspel/sudoku/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/e81ae0d5-e912-4412-81aa-f7ce34e96d73.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/e81ae0d5-e912-4412-81aa-f7ce34e96d73.png?interpolation=lanczos-none&amp;fit=around%7C319:180&amp;crop=319:h;center,top&amp;output-quality=80 319w, https://static.bonniernews.se/gcs/bilder/dn-mly/e81ae0d5-e912-4412-81aa-f7ce34e96d73.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80 400w, https://static.bonniernews.se/gcs/bilder/dn-mly/e81ae0d5-e912-4412-81aa-f7ce34e96d73.png?interpolation=lanczos-none&amp;fit=around%7C638:359&amp;crop=638:h;center,top&amp;output-quality=60 638w, https://static.bonniernews.se/gcs/bilder/dn-mly/e81ae0d5-e912-4412-81aa-f7ce34e96d73.png?interpolation=lanczos-none&amp;fit=around%7C800:450&amp;crop=800:h;center,top&amp;output-quality=60 800w" sizes="(min-width: 1340px) 319px, 25vw" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+  </figure>
+
+
+      </div>
+
+    <div class="ds-teaser__content">
+
+      <h2 class="ds-teaser__title">
+        Sudoku
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hitta ord]]></title>
+            <link>https://www.dn.se/korsord/hitta-ord/</link>
+            <guid>https://www.dn.se/korsord/hitta-ord/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/814c19ae-9fde-434c-a43d-80f6eb6d19fa.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/814c19ae-9fde-434c-a43d-80f6eb6d19fa.png?interpolation=lanczos-none&amp;fit=around%7C319:180&amp;crop=319:h;center,top&amp;output-quality=80 319w, https://static.bonniernews.se/gcs/bilder/dn-mly/814c19ae-9fde-434c-a43d-80f6eb6d19fa.png?interpolation=lanczos-none&amp;fit=around%7C400:225&amp;crop=400:h;center,top&amp;output-quality=80 400w, https://static.bonniernews.se/gcs/bilder/dn-mly/814c19ae-9fde-434c-a43d-80f6eb6d19fa.png?interpolation=lanczos-none&amp;fit=around%7C638:359&amp;crop=638:h;center,top&amp;output-quality=60 638w, https://static.bonniernews.se/gcs/bilder/dn-mly/814c19ae-9fde-434c-a43d-80f6eb6d19fa.png?interpolation=lanczos-none&amp;fit=around%7C800:450&amp;crop=800:h;center,top&amp;output-quality=60 800w" sizes="(min-width: 1340px) 319px, 25vw" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+  </figure>
+
+
+      </div>
+
+    <div class="ds-teaser__content">
+
+      <h2 class="ds-teaser__title">
+        Hitta ord
+      </h2>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fästingsäsongen är här – så skyddar du dig]]></title>
+            <link>https://www.dn.se/brandstudio/pfizer/fastingsasongen-ar-har-sa-skyddar-du-dig/</link>
+            <guid>https://www.dn.se/brandstudio/pfizer/fastingsasongen-ar-har-sa-skyddar-du-dig/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__ad-bar">
+    <span>ANNONS</span>
+  </div>
+
+    <div class="ds-teaser__media">
+      
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/f468df22-e7ae-43d1-a2f1-cbd04e23f4e9.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/f468df22-e7ae-43d1-a2f1-cbd04e23f4e9.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://static.bonniernews.se/gcs/bilder/dn-mly/f468df22-e7ae-43d1-a2f1-cbd04e23f4e9.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+    </div>
+
+  <div class="ds-teaser__content">
+
+      <div class="ds-teaser__vignette">Innehåll från Pfizer</div>
+
+    <h2 class="ds-teaser__title">Fästingsäsongen är här – så skyddar du dig</h2>
+
+  </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sugen på brunch? Hitta bästa stället]]></title>
+            <link>https://www.dn.se/kultur/dns-brunchvaljare-hjalper-dig-att-hitta-ratt/</link>
+            <guid>https://www.dn.se/kultur/dns-brunchvaljare-hjalper-dig-att-hitta-ratt/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/5837678f-dc75-451a-90e7-539c80d2901d.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/5837678f-dc75-451a-90e7-539c80d2901d.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://static.bonniernews.se/gcs/bilder/dn-mly/5837678f-dc75-451a-90e7-539c80d2901d.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: Leif R Jansson/TT</figcaption>
+  </figure>
+
+            <div class="ds-vip-badge ds-vip-badge--text" aria-hidden="true">
+      <i class="ds-icon ds-icon--sprite ds-icon--vip">
+    <svg><use xlink:href="#ds-vip"></use></svg>
+  </i>
+
+    För dig som prenumererar
+  </div>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            BRUNCHVÄLJAREN
+          </div>
+        <h2 class="ds-teaser__title">
+          Sugen på brunch? Hitta bästa stället
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tipsa DN:s granskande reportrar]]></title>
+            <link>https://dngranskar.dn.se/</link>
+            <guid>https://dngranskar.dn.se/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/7b100c27-015c-4c26-b8f8-ac99f005ff01.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/7b100c27-015c-4c26-b8f8-ac99f005ff01.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://static.bonniernews.se/gcs/bilder/dn-mly/7b100c27-015c-4c26-b8f8-ac99f005ff01.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+  </figure>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+        <h2 class="ds-teaser__title">
+          Tipsa DN:s granskande reportrar
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EU:
+          Ibland är det växterna som utnyttjar människor]]></title>
+            <link>https://www.dn.se/kultur/eu-ibland-ar-det-vaxterna-som-utnyttjar-manniskor/</link>
+            <guid>https://www.dn.se/kultur/eu-ibland-ar-det-vaxterna-som-utnyttjar-manniskor/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/c4d8bd2c-d9ce-4d96-aba9-ef58b3e5efec.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/c4d8bd2c-d9ce-4d96-aba9-ef58b3e5efec.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://static.bonniernews.se/gcs/bilder/dn-mly/c4d8bd2c-d9ce-4d96-aba9-ef58b3e5efec.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="Ett blommande påsköträd med omogna frukter.">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: Jose Maria Barres Manuel/Alamy</figcaption>
+  </figure>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            KÅSERI
+          </div>
+        <h2 class="ds-teaser__title">
+            <span class="ds-teaser__highlight">EU:</span>
+          Ibland är det växterna som utnyttjar människor
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Deckarväljaren – bästa tipsen för just dig]]></title>
+            <link>https://www.dn.se/deckarvaljaren/</link>
+            <guid>https://www.dn.se/deckarvaljaren/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/f786c45e-328c-47af-8093-b2dcebfdb04f.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/f786c45e-328c-47af-8093-b2dcebfdb04f.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://static.bonniernews.se/gcs/bilder/dn-mly/f786c45e-328c-47af-8093-b2dcebfdb04f.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Illustration: Helena Shutrick</figcaption>
+  </figure>
+
+            <div class="ds-vip-badge ds-vip-badge--text" aria-hidden="true">
+      <i class="ds-icon ds-icon--sprite ds-icon--vip">
+    <svg><use xlink:href="#ds-vip"></use></svg>
+  </i>
+
+    För dig som prenumererar
+  </div>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            PERSONLIG BOKGUIDE
+          </div>
+        <h2 class="ds-teaser__title">
+          Deckarväljaren – bästa tipsen för just dig
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Här är 50 nya tv-serier att hålla koll på i sommar]]></title>
+            <link>https://www.dn.se/kultur/har-ar-50-nya-tv-serier-att-halla-koll-pa-i-sommar/</link>
+            <guid>https://www.dn.se/kultur/har-ar-50-nya-tv-serier-att-halla-koll-pa-i-sommar/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/6c50d5fa-bfb4-4192-9eff-e5041c454482.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/6c50d5fa-bfb4-4192-9eff-e5041c454482.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://static.bonniernews.se/gcs/bilder/dn-mly/6c50d5fa-bfb4-4192-9eff-e5041c454482.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="”Blue lights”, ”The bear 3”, ”House of the dragon 2”.">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: BBC/Gallagher Films/Two Cities Television/Theo Whiteman/TT</figcaption>
+  </figure>
+
+            <div class="ds-vip-badge ds-vip-badge--text" aria-hidden="true">
+      <i class="ds-icon ds-icon--sprite ds-icon--vip">
+    <svg><use xlink:href="#ds-vip"></use></svg>
+  </i>
+
+    För dig som prenumererar
+  </div>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            STRÖMMAT MED WENNÖ
+          </div>
+        <h2 class="ds-teaser__title">
+          Här är 50 nya tv-serier att hålla koll på i sommar
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Pendla prisvärt!]]></title>
+            <link>https://erbjudanden.dn.se/2024/05/20/mot-sommaren-med-dn-elcykeln/</link>
+            <guid>https://erbjudanden.dn.se/2024/05/20/mot-sommaren-med-dn-elcykeln/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/25481ce6-1a02-48c5-a52d-9a9bbf5dc031.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/25481ce6-1a02-48c5-a52d-9a9bbf5dc031.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://static.bonniernews.se/gcs/bilder/dn-mly/25481ce6-1a02-48c5-a52d-9a9bbf5dc031.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+  </figure>
+
+
+    <div class="ds-teaser__content">
+        <div class="ds-teaser__vignette">BESTÄLL DN-CYKELN</div>
+      <h2 class="ds-teaser__title">
+        Pendla prisvärt!
+      </h2>
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fakta: Hur går kampen mot klimathotet?]]></title>
+            <link>https://www.dn.se/klimatet-just-nu/</link>
+            <guid>https://www.dn.se/klimatet-just-nu/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/b873f0d4-506f-4dda-9b20-23c602df96ee.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/b873f0d4-506f-4dda-9b20-23c602df96ee.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://static.bonniernews.se/gcs/bilder/dn-mly/b873f0d4-506f-4dda-9b20-23c602df96ee.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+      <figcaption class="ds-teaser-image__byline">Foto: TT. Grafik: DN</figcaption>
+  </figure>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+          <div class="ds-teaser__vignette">
+            KLIMATET JUST NU
+          </div>
+        <h2 class="ds-teaser__title">
+          Fakta: Hur går kampen mot klimathotet?
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Läs DN:s serier]]></title>
+            <link>https://www.dn.se/serier/</link>
+            <guid>https://www.dn.se/serier/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/147270b9-ab5c-4fbc-8ef7-db5b8fdacd61.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/147270b9-ab5c-4fbc-8ef7-db5b8fdacd61.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://static.bonniernews.se/gcs/bilder/dn-mly/147270b9-ab5c-4fbc-8ef7-db5b8fdacd61.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+  </figure>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+        <h2 class="ds-teaser__title">
+          Läs DN:s serier
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sök i DN:s arkiv – från 1864 till i dag]]></title>
+            <link>https://arkivet.dn.se/</link>
+            <guid>https://arkivet.dn.se/</guid>
+            <pubDate>Thu, 13 Jun 2024 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ds-teaser__media">
+        
+  <figure class="ds-teaser-image">
+    
+      
+
+      
+
+      <div class="picture picture--placeholder  lazy-image" style="padding-bottom:56.25%">
+          <noscript>
+              <img class="picture__img" src="https://static.bonniernews.se/gcs/bilder/dn-mly/daab7af7-0d67-4d0a-ad0f-35e7dd1c2277.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80" srcset="https://static.bonniernews.se/gcs/bilder/dn-mly/daab7af7-0d67-4d0a-ad0f-35e7dd1c2277.jpeg?interpolation=lanczos-none&amp;fit=around%7C300:169&amp;crop=300:h;center,top&amp;output-quality=80 300w, https://static.bonniernews.se/gcs/bilder/dn-mly/daab7af7-0d67-4d0a-ad0f-35e7dd1c2277.jpeg?interpolation=lanczos-none&amp;fit=around%7C600:338&amp;crop=600:h;center,top&amp;output-quality=60 600w" sizes="300px" alt="" aria-hidden="true">
+
+          </noscript>
+      </div>
+
+
+  </figure>
+
+      </div>
+
+    <div class="ds-teaser__content">
+      <div class="ds-teaser__content-inner">
+        <h2 class="ds-teaser__title">
+          Sök i DN:s arkiv – från 1864 till i&nbsp;dag
+        </h2>
+
+      </div>
+
+    </div>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
